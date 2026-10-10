@@ -1,0 +1,360 @@
+/* Stationen Gruppe A: spuren, picknick, kita, wiegross, memory, werbinich */
+
+/* =====================================================================
+   GAME 01 · Spurensuche (.sp-)
+   ===================================================================== */
+.sp{padding:6px 10px 10px}
+.sp-stage{position:relative;width:100%;height:100%;overflow:hidden;border-radius:var(--r-blob);touch-action:none;--u:7px;
+  background:radial-gradient(ellipse at 50% 70%,rgba(255,244,214,.55),transparent 60%),linear-gradient(#cfe3c4 0,#dcd8a8 26%,#dcc38e 34%,#d2b47c 100%);
+  box-shadow:inset 0 0 0 5px rgba(120,95,60,.22),var(--shadow)}
+.sp-stage::after{content:"";position:absolute;inset:0;pointer-events:none;background-image:radial-gradient(circle at 20% 60%,rgba(120,90,50,.12) 0 2px,transparent 3px),radial-gradient(circle at 70% 80%,rgba(120,90,50,.1) 0 2px,transparent 3px);background-size:38px 41px,53px 47px;opacity:.9;mix-blend-mode:multiply}
+.sp-bg{position:absolute;inset:0;width:100%;height:100%}
+.sp-deco{position:absolute;inset:0;pointer-events:none}
+.sp-plant{position:absolute;transform-origin:50% 100%;animation:spSway 4.6s ease-in-out infinite;opacity:.95}
+.sp-plant.b{animation-duration:5.8s;animation-delay:-2s}
+@keyframes spSway{0%,100%{transform:rotate(-2.5deg)}50%{transform:rotate(2.5deg)}}
+.sp-top{position:absolute;left:0;right:0;top:4px;display:flex;justify-content:center;z-index:6;pointer-events:none}
+.sp-top .gk-prog{background:rgba(255,251,243,.75);border-radius:20px;padding:6px 10px}
+.sp-bush{position:absolute;width:calc(var(--u)*19);height:calc(var(--u)*17);transform:translate(-50%,-62%);z-index:3;pointer-events:none}
+.sp-bimg{position:absolute;inset:0;width:100%;height:100%;transform-origin:50% 90%}
+.sp-hid{position:absolute;left:50%;bottom:30%;width:130%;max-width:none;transform:translate(-50%,20%) scale(.2);opacity:0;transition:transform .7s cubic-bezier(.3,1.6,.5,1),opacity .3s}
+.sp-bush.rustle .sp-bimg{animation:spRustle .35s ease-in-out infinite}
+@keyframes spRustle{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg) scale(1.03)}}
+.sp-bush.open{z-index:4}
+.sp-bush.open .sp-hid{opacity:1;transform:translate(-50%,8%) scale(1)}
+.sp-bush.open .sp-bimg{transform:translateY(18%) scale(.9);transition:transform .6s}
+.sp-print{position:absolute;transform:translate(-50%,-50%) rotate(var(--r)) scaleX(var(--m)) scale(.2);opacity:0;transition:transform .25s cubic-bezier(.3,1.5,.5,1),opacity .2s,filter .3s;z-index:2;pointer-events:none}
+.sp-print img{width:100%;height:100%}
+.sp-print.in{opacity:.92;transform:translate(-50%,-50%) rotate(var(--r)) scaleX(var(--m)) scale(1)}
+.sp-print.hid>img:first-child{opacity:.45}
+.sp-leaf{position:absolute;left:8%;top:12%;width:95%!important;height:95%!important;transform:rotate(var(--lr));opacity:.95}
+.sp-print.next{animation:spNext 1.3s ease-in-out infinite}
+@keyframes spNext{0%,100%{filter:drop-shadow(0 0 0 rgba(240,195,90,0))}50%{filter:drop-shadow(0 0 10px rgba(255,214,110,1)) drop-shadow(0 0 4px rgba(255,214,110,1))}}
+.sp-print.on{filter:drop-shadow(0 0 6px rgba(255,220,120,.95))}
+.sp-print.on .sp-leaf{opacity:.35;transition:opacity .4s}
+.sp-print.solved{filter:sepia(.3) drop-shadow(0 0 3px rgba(143,191,122,.9));opacity:.7}
+.sp-lupe{position:absolute;width:calc(var(--u)*9);min-width:44px;transform:translate(-20%,-85%) rotate(-10deg);z-index:5;pointer-events:none;transition:left .25s,top .25s;filter:drop-shadow(0 4px 6px rgba(60,40,20,.25))}
+.sp-ask{position:absolute;left:50%;bottom:10px;transform:translateX(-50%);z-index:8;display:flex;align-items:center;gap:10px;padding:10px 14px;width:max-content;max-width:calc(100% - 16px)}
+.sp-ask{animation:spAsk .45s cubic-bezier(.3,1.4,.5,1) both}
+@keyframes spAsk{from{transform:translateX(-50%) translateY(40px) scale(.6);opacity:0}to{transform:translateX(-50%);opacity:1}}
+.sp-askl{display:flex;flex-direction:column;align-items:center;gap:0}
+.sp-askl h3{font-size:28px;margin:0}
+.sp-close{width:120px;height:120px;border-radius:50%;background:radial-gradient(#ecd9aa,#d8bd84);box-shadow:inset 0 0 0 4px rgba(120,95,60,.25);padding:12px}
+.sp-close img{width:100%;height:100%}
+.sp-ch{flex-wrap:nowrap;padding:4px;gap:10px}
+.sp-ch .gk-choice{min-width:0;width:150px;min-height:120px}
+.sp-ch .gk-choice img{max-width:100%;max-height:90px}
+.sp-ch .gk-choice b{font-size:20px;line-height:1.05;text-align:center}
+@media (max-width:700px){
+  .sp-ask{flex-direction:column;width:calc(100% - 16px);padding:8px}
+  .sp-ask{animation:spAsk .45s cubic-bezier(.3,1.4,.5,1) both}
+@keyframes spAsk{from{transform:translateX(-50%) translateY(40px) scale(.6);opacity:0}to{transform:translateX(-50%);opacity:1}}
+.sp-askl{flex-direction:row;gap:12px}
+  .sp-close{width:92px;height:92px}
+  .sp-ch{flex-wrap:wrap;gap:8px}
+  .sp-ch .gk-choice{width:calc(50% - 8px);min-height:104px}
+  .sp-ch .gk-choice img{max-height:72px}
+}
+
+/* =====================================================================
+   GAME 05 · Dino-Picknick (.pk-)
+   ===================================================================== */
+.pk{display:flex;flex-direction:column;padding:4px 10px 10px;gap:6px;overflow:hidden}
+.pk::before{content:"";position:absolute;inset:0;z-index:0;background:linear-gradient(#d7ead0,#c5dcae 40%,#b7d19b);opacity:.9}
+.pk.pk-strand::before{background:linear-gradient(#cfe6ee,#efe0b8 38%,#e8d2a0)}
+.pk.pk-wald::before{background:linear-gradient(#c3dab4,#a9c893 45%,#9cbd86)}
+.pk>*{position:relative;z-index:1}
+.pk-deco{position:absolute!important;inset:0;pointer-events:none;z-index:0!important}
+.pk-deco img{position:absolute;width:min(12vw,110px);opacity:.8}
+.pk-d0{left:1%;top:4%} .pk-d1{right:2%;top:10%;transform:scaleX(-1)} .pk-d2{left:3%;bottom:22%;width:min(9vw,80px)!important}
+.pk-top{display:flex;justify-content:center}
+.pk-top .gk-prog{background:rgba(255,251,243,.75);border-radius:20px;padding:5px 10px}
+.pk-blanket{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:10px 12px;border-radius:40px 30px 46px 34px/34px 46px 30px 40px;
+  background-color:#fbf3e3;background-image:repeating-linear-gradient(0deg,rgba(200,85,61,.28) 0 34px,transparent 34px 68px),repeating-linear-gradient(90deg,rgba(200,85,61,.28) 0 34px,transparent 34px 68px);
+  box-shadow:inset 0 0 0 6px rgba(255,255,255,.6),inset 0 0 30px rgba(160,70,50,.18),0 10px 26px rgba(80,60,30,.2);width:min(100%,1180px);margin:0 auto}
+.pk-guests{display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-end;gap:10px 14px;width:100%}
+.pk-guest{position:relative;flex:0 0 calc(25% - 14px);display:flex;flex-direction:column;align-items:center;cursor:pointer;padding:4px;border-radius:var(--r-blob);transition:background .3s}
+.pk-guests.n1 .pk-guest{flex-basis:min(60%,440px)} .pk-guests.n2 .pk-guest{flex-basis:calc(46% - 14px)} .pk-guests.n3 .pk-guest{flex-basis:calc(32% - 14px)}
+.pk-ani{height:min(26vh,230px);width:100%;display:flex;align-items:flex-end;justify-content:center;transform-origin:50% 100%}
+.pk-guests.n1 .pk-ani{height:min(36vh,320px)}
+.pk-ani img{max-width:100%;max-height:100%;object-fit:contain}
+.pk-bubble{display:flex;align-items:center;gap:4px;background:#fffdf7;border-radius:22px;padding:4px 14px 4px 10px;box-shadow:0 3px 10px rgba(80,60,30,.18);position:relative;min-height:58px}
+.pk-bubble::after{content:"";position:absolute;left:50%;bottom:-10px;border:10px solid transparent;border-top-color:#fffdf7;border-bottom:0;transform:translateX(-50%)}
+.pk-bubble img{width:48px;height:48px}
+.pk-wnum{font:700 26px var(--text);color:var(--ink)}
+.pk-q{font:700 34px var(--hand);color:var(--terra);width:40px;text-align:center}
+.pk-plate{margin-top:-14px;width:min(92%,240px);min-height:64px;border-radius:50%;background:radial-gradient(ellipse at 50% 45%,#fff 0 52%,#e8e1d2 53% 58%,#fbf8f1 60%);box-shadow:0 4px 10px rgba(80,60,30,.22);display:flex;align-items:center;justify-content:center;padding:6px 14px}
+.pk-slots{display:flex;flex-wrap:wrap;gap:2px;justify-content:center}
+.pk-slot{width:44px;height:44px;border-radius:50%;border:3px dashed rgba(160,130,90,.45);display:flex;align-items:center;justify-content:center}
+.pk-slot img{width:40px;height:40px}
+.pk-slot img.ghost{opacity:.28;filter:grayscale(.6)}
+.pk-slot.on{border-color:transparent}
+.pk-name{font:400 20px var(--hand);color:var(--ink2);line-height:1}
+.pk-guest.full .pk-bubble{background:#eaf5de}
+.pk-guest.full .pk-bubble::before{content:"";position:absolute;inset:0;border-radius:inherit;box-shadow:0 0 0 3px var(--moss)}
+.pk-guest.pk-wait .pk-ani{animation:pkWait .7s ease-in-out}
+@keyframes pkWait{0%,100%{transform:none}30%{transform:translateY(-6px) rotate(-2deg)}60%{transform:translateY(0) rotate(2deg)}}
+.pk-guest.pk-cheer .pk-ani{animation:pkCheer .5s ease-in-out 3}
+@keyframes pkCheer{0%,100%{transform:none}50%{transform:translateY(-16px) scale(1.04)}}
+.pk-baskets{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;padding:10px 14px;margin:0 auto;border-radius:30px 24px 34px 22px/24px 34px 22px 30px;
+  background-color:#d9b36c;background-image:repeating-linear-gradient(45deg,rgba(120,80,30,.18) 0 6px,transparent 6px 12px),repeating-linear-gradient(-45deg,rgba(255,240,200,.25) 0 6px,transparent 6px 12px);
+  box-shadow:inset 0 0 0 4px rgba(120,80,30,.3),0 6px 16px rgba(80,60,30,.2)}
+.pk-food{width:84px;height:84px;border-radius:50%;background:rgba(255,251,243,.92);box-shadow:0 3px 8px rgba(80,60,30,.25);padding:8px;transition:transform .15s}
+.pk-food img{width:100%;height:100%}
+.pk-food:active{transform:scale(.92)}
+@media (max-width:760px){
+  .pk-guests.n3 .pk-guest,.pk-guests.n4 .pk-guest{flex-basis:calc(50% - 14px)}
+  .pk-guests.n2 .pk-guest{flex-basis:calc(50% - 10px)}
+  .pk-guests.n3 .pk-ani,.pk-guests.n4 .pk-ani{height:min(13vh,140px)}
+  .pk-ani{height:min(22vh,200px)}
+  .pk-bubble{min-height:46px;padding:2px 10px 2px 8px} .pk-bubble img{width:38px;height:38px} .pk-wnum{font-size:22px}
+  .pk-slot{width:34px;height:34px;border-width:2px} .pk-slot img{width:30px;height:30px}
+  .pk-plate{min-height:50px;padding:4px 8px}
+  .pk-food{width:66px;height:66px;padding:6px}
+  .pk-baskets{gap:8px;padding:8px}
+  .pk-name{font-size:17px}
+  .pk-blanket{padding:8px 4px}
+}
+@media (min-width:761px) and (max-aspect-ratio:4/5){
+  .pk-guests.n3 .pk-guest,.pk-guests.n4 .pk-guest{flex-basis:calc(46% - 14px)}
+  .pk-ani{height:min(20vh,260px)}
+}
+
+/* =====================================================================
+   GAME 07 · Dino-Kindergarten (.kt-)
+   ===================================================================== */
+.kt{display:flex;flex-direction:column;padding:4px 10px 10px;gap:8px}
+.kt-room{flex:1;min-height:0;position:relative;container-type:size;border-radius:var(--r-blob);overflow:hidden;box-shadow:inset 0 0 0 5px rgba(160,120,90,.2),var(--shadow);display:flex;flex-direction:column;justify-content:flex-end}
+.kt-wall{position:absolute;inset:0 0 30% 0;background-color:#f6e2de;background-image:repeating-linear-gradient(90deg,rgba(240,195,207,.55) 0 26px,transparent 26px 52px)}
+.kt-wall::before{content:"";position:absolute;left:0;right:0;top:9%;height:46px;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='46'><path d='M0 4 Q100 22 200 4' stroke='%237a5a3a' stroke-width='2' fill='none'/><path d='M14 8l14 30 14-27z' fill='%23f0c35a'/><path d='M62 13l14 30 14-29z' fill='%238fbccb'/><path d='M110 13l14 30 14-30z' fill='%23c8553d' opacity='.8'/><path d='M158 8l14 30 14-27z' fill='%237fa66a'/></svg>") repeat-x;background-size:200px 46px;opacity:.9}
+.kt-wall::after{content:"";position:absolute;left:0;right:0;bottom:0;height:14px;background:#d9b99a;box-shadow:0 -2px 0 rgba(0,0,0,.06)}
+.kt-floor{position:absolute;inset:70% 0 0 0;background-color:#d9b67c;background-image:repeating-linear-gradient(90deg,rgba(120,80,40,.16) 0 2px,transparent 2px 90px),linear-gradient(#e0c089,#cfa96c)}
+.kt-win{position:absolute;right:6%;top:8%;width:min(18vw,150px);aspect-ratio:1;border-radius:50% 50% 10px 10px;background:linear-gradient(#bfe0ea,#e7f2f0);box-shadow:inset 0 0 0 7px #fbf6ec,0 3px 8px rgba(80,60,30,.2)}
+.kt-win::before{content:"";position:absolute;left:18%;top:26%;width:34%;height:22%;border-radius:20px;background:#fff;opacity:.9}
+.kt-top{position:absolute;top:6px;left:0;right:0;display:flex;justify-content:center;z-index:4}
+.kt-top .gk-prog{background:rgba(255,251,243,.8);border-radius:20px;padding:5px 10px}
+.kt-babies{position:relative;display:flex;justify-content:center;align-items:flex-end;gap:2%;padding:0 2% 4%;z-index:2}
+.kt-spot{flex:0 1 32%;display:flex;flex-direction:column;align-items:center;cursor:pointer;position:relative;max-width:380px}
+.kt-babies.n1 .kt-spot{flex-basis:56%;max-width:460px}
+.kt-bubble{--bs:clamp(76px,11vw,112px);width:var(--bs);height:var(--bs);flex:0 0 auto;border-radius:50%;background:#fffdf7;box-shadow:0 4px 12px rgba(80,60,30,.2);padding:12px;position:relative;margin-bottom:10px}
+.kt-bubble::after{content:"";position:absolute;left:44%;bottom:-12px;width:18px;height:18px;border-radius:50%;background:#fffdf7;box-shadow:0 3px 6px rgba(80,60,30,.15)}
+.kt-bubble img{width:100%;height:100%;display:block}
+.kt-bubble.ok{background:#eaf5de}
+.kt-baby{position:relative;width:74%;display:flex;justify-content:center;transform-origin:50% 100%;z-index:1}
+.kt-img{width:100%;max-height:min(30cqh,260px);object-fit:contain;transition:filter .5s}
+.kt-bed{width:96%;height:clamp(26px,5vh,46px);margin-top:-18px;border-radius:50%;background:radial-gradient(ellipse at 50% 30%,#f7efe0 0 40%,#c9a36d 42% 100%);box-shadow:0 5px 10px rgba(80,60,30,.25)}
+.kt-mud{position:absolute;inset:20% 10% 20% 10%;opacity:0;transition:opacity .8s;pointer-events:none}
+.kt-mud.on{opacity:1}
+.kt-mud svg{width:100%;height:100%}
+.kt-spot.sleepy .kt-img{animation:ktYawn 2.4s ease-in-out infinite}
+@keyframes ktYawn{0%,100%{transform:none}50%{transform:translateY(4px) rotate(3deg) scaleY(.96)}}
+.kt-spot.asleep .kt-img{filter:brightness(.8) saturate(.8)}
+.kt-fx{position:absolute;inset:0;pointer-events:none}
+.kt-fx.eat img{position:absolute;right:-6%;top:20%;width:30%;animation:ktEat 1.1s ease-in forwards}
+@keyframes ktEat{0%{transform:scale(1)}100%{transform:translate(-30%,10%) scale(.2);opacity:0}}
+.kt-fx.sleep .kt-blank{position:absolute;left:6%;right:6%;bottom:-10%;width:88%;height:70%;object-fit:fill;animation:fade .5s}
+.kt-z{position:absolute;right:10%;top:10%;font:700 30px var(--hand);color:#6b5a8a;animation:ktZ 2s ease-out infinite;opacity:0}
+.kt-z:nth-child(3){animation-delay:.6s} .kt-z:nth-child(4){animation-delay:1.2s;font-size:40px}
+@keyframes ktZ{0%{transform:translate(0,0);opacity:0}30%{opacity:1}100%{transform:translate(30px,-60px);opacity:0}}
+.kt-fx.wash i{position:absolute;width:26px;height:26px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#fff,#dff0f4 60%,#a9d2de);opacity:.9;animation:ktBub 1.5s ease-out forwards}
+.kt-fx.wash i:nth-child(1){left:20%;top:40%} .kt-fx.wash i:nth-child(2){left:40%;top:30%;animation-delay:.15s;width:34px;height:34px} .kt-fx.wash i:nth-child(3){left:60%;top:45%;animation-delay:.3s}
+.kt-fx.wash i:nth-child(4){left:30%;top:60%;animation-delay:.45s;width:20px;height:20px} .kt-fx.wash i:nth-child(5){left:70%;top:25%;animation-delay:.6s}
+@keyframes ktBub{0%{transform:scale(.2)}50%{transform:scale(1.1)}100%{transform:translateY(-50px) scale(1.2);opacity:0}}
+.kt-fx.play .kt-balli{position:absolute;right:-8%;bottom:10%;width:28%;animation:ktBall .6s ease-in-out 3}
+@keyframes ktBall{0%,100%{transform:translateY(0)}50%{transform:translateY(-70px) rotate(180deg)}}
+.kt-spot.kt-play .kt-baby{animation:pkCheer .6s ease-in-out 3}
+.kt-spot.kt-hop .kt-baby{animation:pkCheer .45s ease-in-out}
+.kt-tray{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;padding:8px 14px;margin:0 auto;border-radius:var(--r-blob);background:rgba(255,251,243,.85);box-shadow:var(--shadow)}
+.kt-tool{width:86px;height:86px;border-radius:24px;background:#fff8ea;box-shadow:0 3px 8px rgba(80,60,30,.2),inset 0 0 0 3px rgba(240,195,207,.6);padding:8px;transition:transform .15s}
+.kt-tool img{width:100%;height:100%}
+.kt-tool.sel{box-shadow:0 0 0 5px var(--sun),0 3px 8px rgba(80,60,30,.2);transform:scale(1.08)}
+.kt-parents{position:relative;z-index:2;display:flex;justify-content:center;align-items:flex-end;gap:2%;padding:0 2%;margin-bottom:2%}
+.kt-parent{flex:0 1 25%;max-width:300px;position:relative;display:flex;justify-content:center;border-radius:var(--r-blob);padding:6px;cursor:pointer;transition:background .3s}
+.kt-parent>img{width:100%;max-height:min(34cqh,300px);object-fit:contain}
+.kt-parents.n2 .kt-parent{flex-basis:40%;max-width:420px}
+.kt-parent.happy{background:rgba(234,245,222,.7)}
+.kt-pslot{position:absolute;right:-4%;bottom:0;width:48%}
+.kt-pslot img{width:100%;animation:pop .5s}
+.kt-kids{position:relative;z-index:2;display:flex;justify-content:center;gap:16px;padding:6px 10px 14px;min-height:110px}
+.kt-kid{width:clamp(110px,16vw,170px);height:clamp(90px,12vw,130px);border-radius:var(--r-blob);background:rgba(255,251,243,.9);box-shadow:var(--shadow);padding:8px}
+.kt-kid img{width:100%;height:100%;object-fit:contain}
+.kt-kid.sel{box-shadow:0 0 0 5px var(--sun),var(--shadow)}
+.kt-kid.gone{visibility:hidden}
+@media (max-width:760px){
+  .kt-babies{flex-wrap:wrap;row-gap:4px}
+  .kt-spot{flex-basis:48%}
+  .kt-baby{width:92%}
+  .kt-img{max-height:22cqh}
+  .kt-babies.n1 .kt-img{max-height:34cqh}
+  .kt-babies.n3 .kt-img{max-height:17cqh}
+  .kt-tool{width:62px;height:62px;padding:6px;border-radius:18px}
+  .kt-tray{gap:8px;padding:6px 8px}
+  .kt-parents{flex-wrap:wrap;row-gap:8px}
+  .kt-parent{flex-basis:46%}
+  .kt-parent>img{max-height:20cqh}
+  .kt-parents.n2 .kt-parent{flex-basis:46%}
+  .kt-kid{width:30vw;height:24vw}
+  .kt-bubble{--bs:70px}
+}
+@media (max-aspect-ratio:4/5){
+  .kt-wall{bottom:44%} .kt-floor{top:56%}
+  .kt-room{justify-content:center;padding-top:14cqh}
+  .kt-babies{flex-wrap:wrap;row-gap:10px}
+}
+
+/* =====================================================================
+   GAME 11 · Wie groß war der Dino? (.wi-)
+   ===================================================================== */
+.wi{display:flex;flex-direction:column;padding:4px 10px 10px;gap:6px}
+.wi-top{display:flex;flex-direction:column;align-items:center;gap:0}
+.wi-q{margin:0;font-size:clamp(24px,3.4vw,34px);text-align:center;line-height:1.1}
+.wi-cards{flex:1;min-height:0;display:flex;flex-wrap:wrap;align-content:center;justify-content:center;gap:16px;padding:8px}
+.wi-card{position:relative;width:min(380px,44vw);min-height:min(260px,30vh)}
+.wi-cards.n3 .wi-card,.wi-cards.n4 .wi-card{width:min(280px,42vw)}
+.wi-card img{max-width:100%!important;max-height:min(230px,22vh)!important}
+.wi-card.done{box-shadow:0 0 0 5px var(--moss),var(--shadow)}
+.wi-badge{position:absolute;left:10px;top:8px;width:44px;height:44px;border-radius:50%;background:var(--sun);font:700 26px var(--text);display:none;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(80,60,30,.25)}
+.wi-card.done .wi-badge:not(:empty){display:flex}
+.wi-side{position:absolute;left:5%;right:3%;bottom:34%;display:flex;align-items:flex-end;gap:1.2%}
+.wi-side .wi-kid{flex:0 0 auto;width:auto;margin-right:1%}
+.wi-lane{position:relative;display:flex;flex-direction:column;align-items:flex-start}
+.wi-lane .wi-dino{max-width:none;transform:scale(.2);transform-origin:50% 100%;opacity:0;transition:transform .8s cubic-bezier(.3,1.3,.5,1),opacity .3s}
+.wi-lane.grow .wi-dino{transform:none;opacity:1}
+.wi-lane .wi-bar{position:absolute;top:calc(100% + 10px);left:0;margin:0}
+.wi-bar{height:22px;display:flex;align-items:center}
+.wi-bar span{display:block;height:8px;width:0;border-radius:4px;background:var(--terra);transition:width 1s ease-out .3s;position:relative}
+.wi-bar span::before,.wi-bar span::after{content:"";position:absolute;top:-6px;width:3px;height:20px;background:var(--terra);border-radius:2px}
+.wi-bar span::before{left:0} .wi-bar span::after{right:0}
+.wi-lane.grow .wi-bar span{width:var(--w)}
+.wi-bar b{position:absolute;left:0;top:16px;font:700 20px var(--text);opacity:0;transition:opacity .4s 1.2s;white-space:nowrap}
+.wi-lane.grow .wi-bar b{opacity:1}
+.wi-foot{display:flex;justify-content:center;align-items:center;gap:16px;min-height:86px;flex-wrap:wrap}
+.wi-meadow{flex:1;min-height:0;position:relative;border-radius:var(--r-blob);overflow:hidden;box-shadow:inset 0 0 0 4px rgba(120,95,60,.15),var(--shadow);--x0:40px}
+.wi-sky{position:absolute;inset:0 0 34% 0;background:linear-gradient(#bfe0ea,#f3eed6)}
+.wi-ground{position:absolute;inset:66% 0 0 0;background:linear-gradient(#9fc28a,#8fb77a 30%,#b8cf96)}
+.wi-show{position:absolute;left:var(--x0);bottom:34%;display:flex;align-items:flex-end}
+.wi-show .wi-kid{position:absolute;right:100%;bottom:0;margin-right:6px;min-height:14px}
+.wi-show .wi-dino{max-width:none;transform:scale(.25);transform-origin:50% 100%;opacity:0;transition:transform 1s cubic-bezier(.3,1.3,.5,1),opacity .4s}
+.wi-meadow.in .wi-dino{transform:none;opacity:1}
+.wi-row{position:absolute;left:var(--x0);top:70%;display:flex;align-items:center}
+.wi-unit{height:auto;max-width:none;animation:wiIn .45s cubic-bezier(.3,1.4,.5,1);filter:drop-shadow(0 3px 3px rgba(60,40,20,.2))}
+@keyframes wiIn{from{transform:translateX(60px);opacity:0}to{transform:none;opacity:1}}
+.wi-tape{position:absolute;left:var(--x0);top:calc(66% - 4px);height:8px}
+.wi-tape span{display:block;height:8px;width:0;background:var(--terra);border-radius:4px;transition:width 1s ease-out}
+.wi-meadow.measured .wi-tape span{width:var(--w)}
+.wi-src{position:relative;width:150px;height:84px;border-radius:var(--r-blob);background:var(--card);box-shadow:var(--shadow);padding:10px 16px}
+.wi-src img{width:100%;height:100%;object-fit:contain}
+.wi-src b{position:absolute;right:-8px;top:-8px;width:36px;height:36px;border-radius:50%;background:var(--moss);color:#fff;font:700 28px/36px var(--text)}
+.wi-count{display:flex;gap:6px;flex-wrap:wrap}
+.wi-count span{width:40px;height:40px;border-radius:50%;background:var(--sun);font:700 22px/40px var(--text);text-align:center;animation:pop .35s}
+@media (max-width:700px){ .wi-foot{min-height:74px} .wi-src{width:120px;height:70px} .wi-count span{width:32px;height:32px;font-size:18px;line-height:32px} .wi-card{min-height:24vh} }
+.wi-cards.n4{max-width:720px;margin:0 auto}
+.wi-cards.n4 .wi-card{width:min(300px,42vw)}
+
+/* =====================================================================
+   GAME 14 · Dino-Memory (.me-)
+   ===================================================================== */
+.me-iart{display:flex;gap:10px;height:100%;align-items:center}
+.me-mini{width:92px;height:118px;border-radius:14px;background:#fffdf7;box-shadow:var(--shadow);display:flex;align-items:center;justify-content:center;padding:6px}
+.me-mini img{height:auto!important;width:100%!important}
+.me-mini.back{background:linear-gradient(135deg,#8fbccb,#6f9fb3)}
+.me{display:flex;flex-direction:column;padding:4px 12px 12px;gap:6px}
+.me-top{display:flex;justify-content:center}
+.me-board{flex:1;min-height:0;display:grid;grid-template-columns:repeat(var(--cols,4),var(--cw,120px));grid-auto-rows:calc(var(--cw,120px)/.78);gap:10px;justify-content:center;align-content:center}
+.me-card{perspective:900px;width:100%;height:100%;padding:0;border-radius:18px}
+.me-in{position:relative;display:block;width:100%;height:100%;transition:transform .45s cubic-bezier(.3,1.2,.5,1);transform-style:preserve-3d}
+.me-card.open .me-in,.me-card.done .me-in{transform:rotateY(180deg)}
+.me-back,.me-front{position:absolute;inset:0;border-radius:16px 13px 18px 12px/13px 18px 12px 16px;backface-visibility:hidden;-webkit-backface-visibility:hidden;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 12px rgba(80,60,30,.2)}
+.me-back{background:radial-gradient(circle at 30% 25%,rgba(255,255,255,.35),transparent 50%),linear-gradient(135deg,#8fbccb,#6f9fb3);box-shadow:inset 0 0 0 5px rgba(255,251,243,.7),0 4px 12px rgba(80,60,30,.2)}
+.me-back img{width:52%;opacity:.55;filter:brightness(1.6) saturate(.4)}
+.me-front{transform:rotateY(180deg);background:#fffdf7;padding:8%;box-shadow:inset 0 0 0 3px rgba(217,179,108,.5),0 4px 12px rgba(80,60,30,.2)}
+.me-front img{max-width:100%;max-height:100%;object-fit:contain}
+.me-front.photo{padding:0;overflow:hidden}
+.me-front.photo img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;max-width:none;max-height:none}
+.me-card.done .me-front{box-shadow:inset 0 0 0 4px var(--moss),0 0 14px rgba(143,191,122,.7)}
+.me-card.gk-hint .me-back{filter:brightness(1.15)}
+/* gemeinsame Bildreihe für Start-/Endkarten (Gruppe A) */
+.ga-art{display:flex;align-items:flex-end;justify-content:center;gap:6px;height:100%;width:min(480px,82vw)}
+.gk-iart .ga-art img{flex:1 1 0;min-width:0;width:0;height:100%;object-fit:contain}
+
+/* =====================================================================
+   GAME 15 · Welcher Dino bin ich? (.wb-)
+   ===================================================================== */
+.wb-sil0{filter:brightness(0) opacity(.7) blur(2px)}
+.wb{display:flex;flex-direction:column;padding:4px 10px 10px;gap:6px}
+.wb-top{display:flex;justify-content:center;align-items:center;gap:12px}
+.wb-pts .starrow span{width:30px!important}
+.wb-stage{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;gap:18px;padding:6px;border-radius:var(--r-blob);
+  background:radial-gradient(ellipse at 40% 50%,rgba(181,140,189,.28),transparent 60%),linear-gradient(#efe6f0,#f3ead9);box-shadow:inset 0 0 0 4px rgba(181,140,189,.25),var(--shadow)}
+.wb-mys{position:relative;flex:1 1 50%;max-width:520px;height:100%;display:flex;align-items:center;justify-content:center}
+.wb-spot{position:absolute;left:10%;right:10%;bottom:14%;height:14%;border-radius:50%;background:radial-gradient(rgba(61,50,38,.18),transparent 70%)}
+.wb-sil{position:relative;max-width:100%;max-height:78%;transition:filter 1s,opacity .6s,transform .6s}
+.wb-sil.show{animation:wbJump .7s cubic-bezier(.3,1.5,.5,1)}
+@keyframes wbJump{0%{transform:scale(.9)}50%{transform:translateY(-24px) scale(1.06)}100%{transform:none}}
+.wb-cover{position:absolute;inset:14% 20%;display:flex;align-items:center;justify-content:center;transition:opacity .6s,transform .6s}
+.wb-cover img{width:min(180px,60%);animation:bob 2.4s ease-in-out infinite}
+.wb-cover.gone{opacity:0;transform:scale(.6);pointer-events:none}
+.wb-mys.win .wb-spot{background:radial-gradient(rgba(240,195,90,.55),transparent 70%)}
+.wb-clues{flex:0 1 auto;display:grid;grid-template-columns:repeat(2,auto);gap:12px;align-content:center}
+.wb-clue{position:relative;width:88px;height:88px;border-radius:50%;background:rgba(255,251,243,.5);border:3px dashed rgba(181,140,189,.6);padding:14px;transition:transform .3s,background .3s}
+.wb-clue img{width:100%;height:100%;opacity:0;transform:scale(.3);transition:opacity .4s,transform .5s cubic-bezier(.3,1.5,.5,1)}
+.wb-clue.on{background:#fffdf7;border:3px solid rgba(181,140,189,.8);box-shadow:0 4px 10px rgba(80,60,30,.18)}
+.wb-clue.on img{opacity:1;transform:none}
+.wb-n{position:absolute;left:-4px;top:-4px;width:28px;height:28px;border-radius:50%;background:var(--plum);color:#fff;font:700 16px/28px var(--text);text-align:center}
+.wb-more{position:relative;width:88px;height:88px;border-radius:50%;background:rgba(240,195,90,.85);box-shadow:0 4px 10px rgba(80,60,30,.2);padding:14px}
+.wb-more img{width:100%;height:100%}
+.wb-more b{position:absolute;right:-4px;top:-4px;width:30px;height:30px;border-radius:50%;background:var(--moss);color:#fff;font:700 24px/30px var(--text)}
+.wb-more.out{opacity:.3;pointer-events:none}
+.wb-next{align-self:center}
+.wb-ch{flex-wrap:nowrap;padding:4px}
+.wb-ch .gk-choice{flex:1 1 0;min-width:0;max-width:240px;min-height:118px}
+.wb-ch .gk-choice img{max-width:100%;max-height:min(140px,12vh)}
+.wb-ch .gk-choice b{font-size:20px;line-height:1.05;text-align:center;overflow-wrap:anywhere}
+@media (max-width:700px){
+  .wb-stage{flex-direction:column;gap:8px}
+  .wb-mys{flex:1 1 auto;width:100%;min-height:0}
+  .wb-clues{grid-template-columns:repeat(6,auto);gap:4px}
+  .wb-clue,.wb-more{width:56px;height:56px;padding:8px}   /* Trefferfläche mind. 56 px */
+  .wb-n{width:22px;height:22px;font-size:13px;line-height:22px}
+  .wb-ch{flex-wrap:wrap;gap:8px}
+  .wb-ch .gk-choice{flex:0 0 calc(50% - 8px);min-height:96px;padding:6px}
+  .wb-ch .gk-choice img{max-height:64px}
+  .wb-ch .gk-choice b{font-size:17px}
+}
+@media (max-width:379px){ .wb-clues{gap:3px} .wb-clue,.wb-more{width:52px;height:52px} }   /* sehr schmale Handys: sonst läuft die Reihe über */
+/* Messlinie im Hochformat: Tiere untereinander */
+.wi-line.stack{background:linear-gradient(#cde5ea,#eef0da 55%,#dfe8c6)}
+.wi-line.stack .wi-sky,.wi-line.stack .wi-ground{display:none}
+.wi-line.stack .wi-side{top:4%;bottom:4%;left:4%;right:4%;flex-direction:column;align-items:flex-start;justify-content:space-evenly;gap:0}
+.wi-line.stack .wi-side .wi-kid{margin:0}
+.wi-line.stack .wi-lane{width:100%;border-bottom:3px solid rgba(127,166,106,.55);padding-bottom:4px}
+.wi-line.stack .wi-lane .wi-bar{position:relative;top:auto;margin-top:6px}
+.wi-line.stack .wi-bar b{position:static;margin-left:10px;font-size:18px}
+
+/* ---------- Handy quer (wenig Höhe, z. B. 844×390): nichts darf unten abgeschnitten sein ---------- */
+@media (max-height:500px){
+  /* Wie groß war er? – Karten in EINER Reihe (2 Reihen passten nicht, die Frage wurde überdeckt) */
+  .wi{gap:2px;padding-bottom:4px}
+  .wi-top{flex-direction:row;justify-content:center;align-items:center;gap:14px}
+  .wi-q{font-size:22px}
+  .wi-cards,.wi-cards.n4{flex-wrap:nowrap;gap:10px;padding:4px;max-width:none;width:100%;margin:0}
+  .wi-card,.wi-cards.n3 .wi-card,.wi-cards.n4 .wi-card{flex:1 1 0;width:auto;min-width:0;max-width:300px;min-height:0;padding:6px}
+  .wi-card img{max-height:min(150px,32vh)!important}
+  .wi-card b{font-size:18px;line-height:1.05;overflow-wrap:anywhere}
+  .wi-foot{min-height:62px} .wi-src{width:110px;height:60px;padding:6px 12px}
+  /* Dino-Picknick – Gäste flacher (Teller und Namen lagen unter der Futterleiste) */
+  .pk{gap:3px;padding-bottom:4px}
+  .pk-blanket{padding:2px 12px}
+  .pk-bubble{min-height:44px;padding:2px 10px 2px 8px} .pk-bubble img{width:38px;height:38px}
+  .pk-ani{height:16vh} .pk-guests.n1 .pk-ani{height:24vh}
+  .pk-plate{min-height:48px} .pk-slot{width:36px;height:36px} .pk-slot img{width:32px;height:32px}
+  .pk-name{font-size:16px}
+  /* Welcher Dino bin ich? – Hinweise 3×2 statt 2×3 (ragten über Kopfzeile und Antworten), flache Antwortkarten */
+  .wb{gap:4px;padding-bottom:4px}
+  .wb-clues{grid-template-columns:repeat(3,auto);gap:6px}
+  .wb-clue,.wb-more{width:56px;height:56px;padding:8px}
+  .wb-n{width:22px;height:22px;font-size:13px;line-height:22px}
+  .wb-ch .gk-choice{min-height:64px;flex-direction:row;padding:4px 8px;gap:6px}
+  .wb-ch .gk-choice img{max-height:50px;max-width:42%}
+  .wb-ch .gk-choice b{font-size:17px}
+}

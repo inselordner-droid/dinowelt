@@ -1,0 +1,373 @@
+/* Stationen Gruppe B: eier, nest, schatten, kamera, tracker, lufwas */
+
+/* =============================== Dino-Eier (ei-) =============================== */
+.ei{display:flex;flex-direction:column;background:
+  radial-gradient(120% 60% at 50% 110%,rgba(170,190,120,.55),transparent 70%),
+  linear-gradient(180deg,rgba(191,224,234,.55) 0%,rgba(247,240,225,.2) 45%,rgba(214,196,140,.35) 100%)}
+.ei-top{display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0}
+.ei-ask{display:flex;align-items:center;gap:10px;padding:6px 18px 6px 8px;font:26px/1.1 var(--hand);color:var(--ink);max-width:min(720px,94vw);text-align:left}
+.ei-askic{width:44px;height:44px;flex:0 0 auto;border-radius:50%;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center}
+.ei-askic svg{width:34px;height:34px}
+.ei-stage{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:space-evenly;padding:6px 10px 12px;gap:8px}
+.ei-parents{display:flex;gap:clamp(8px,2vw,22px);justify-content:center;width:100%;max-width:980px}
+/* Mama-Karten liegen auf eigenen Ebenen: Hervorheben beim Ziehen = nur transform/opacity (kein Neuzeichnen der Tierbilder → kein Ruckeln) */
+.ei-par{position:relative;flex:1 1 0;max-width:260px;min-width:0;padding:8px 6px 6px;border-radius:var(--r-blob);background:var(--card);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;transition:transform .2s;will-change:transform}
+.ei-par::after{content:'';position:absolute;inset:-5px;border-radius:inherit;border:5px solid var(--sun);opacity:0;transition:opacity .15s;pointer-events:none;will-change:opacity}
+.ei-par b{font:400 clamp(17px,2.6vw,24px)/1 var(--hand);text-align:center;margin-top:2px}
+.ei-parimg{height:clamp(70px,17vh,220px);width:100%;display:flex;align-items:flex-end;justify-content:center}
+.ei-parimg img{height:100%;width:auto;max-width:100%;object-fit:contain}
+.ei-par.ei-over{transform:scale(1.06)}
+.ei-par.ei-over::after{opacity:1}
+.ei-kids{display:flex;flex-wrap:wrap;justify-content:center;min-height:34px;gap:2px}
+.ei-kid{width:40px;height:32px;display:inline-flex;align-items:flex-end}
+.ei-kid img{width:100%;max-height:100%}
+.ei-hop{animation:eihop .6s}
+@keyframes eihop{0%,100%{transform:none}40%{transform:translateY(-14px) rotate(-3deg)}}
+.ei-nest{position:relative;width:min(900px,98%);display:flex;justify-content:center;padding-bottom:clamp(30px,4.5vw,52px)}
+.ei-nestsvg{position:absolute;left:0;right:0;bottom:0;width:100%;height:clamp(80px,13vw,150px);will-change:transform}
+.ei-nestfront{position:absolute;left:0;right:0;bottom:0;width:100%;height:clamp(44px,6vw,70px);z-index:3;pointer-events:none;will-change:transform}
+.ei-stage{position:relative;z-index:1}
+.ei-deco{position:absolute;bottom:0;width:clamp(70px,14vw,170px);opacity:.75;pointer-events:none}
+.ei-eggs{position:relative;display:flex;align-items:flex-end;justify-content:center;gap:clamp(4px,2vw,20px);padding:0 16px}
+.ei-eggs.ei-wrap{flex-wrap:wrap;max-width:560px;row-gap:0}
+.ei-egg{position:relative;width:var(--w);height:calc(var(--w)*1.3);flex:0 0 auto;touch-action:none;cursor:pointer;border-radius:50%;will-change:transform;-webkit-tap-highlight-color:transparent}
+.ei-egg{margin:0 var(--pad,0px)}
+.ei-egg::before{content:'';position:absolute;inset:calc(var(--pad,0px)*-1);border-radius:50%}
+.ei-egg .ei-svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible;z-index:2;pointer-events:none}
+.ei-egg:active{transform:scale(.96)}
+.ei-roll{animation:eiroll .8s cubic-bezier(.3,1.3,.5,1) both}
+@keyframes eiroll{0%{transform:translateX(-60vw) rotate(-360deg);opacity:0}100%{transform:none;opacity:1}}
+.ei-wob{animation:eiwob .5s!important}
+@keyframes eiwob{0%,100%{transform:rotate(0)}20%{transform:rotate(-9deg)}45%{transform:rotate(8deg)}70%{transform:rotate(-5deg)}}
+.ei-crack{stroke-dasharray:100;stroke-dashoffset:100;transition:stroke-dashoffset .4s}
+.ei-cracked .ei-crack{stroke-dashoffset:0}
+.ei-tp,.ei-bot{transform-box:fill-box;transform-origin:50% 100%;transition:transform .6s cubic-bezier(.3,1.4,.5,1),opacity .6s}
+.ei-hatched .ei-tp{transform:translate(-18%,-55%) rotate(-38deg);opacity:0}
+.ei-hatched .ei-crack{opacity:0}
+.ei-baby{position:absolute;left:50%;bottom:34%;width:125%;height:62%;z-index:1;transform:translate(-50%,40%) scale(.2);opacity:0;transition:transform .6s cubic-bezier(.3,1.5,.5,1) .1s,opacity .3s .1s;display:flex;align-items:flex-end;justify-content:center;pointer-events:none}
+.ei-baby img{max-width:100%;max-height:100%}
+.ei-hatched .ei-baby{transform:translate(-50%,0) scale(1);opacity:1}
+.ei-hatched{cursor:grab}
+.ei-hatched::before{inset:-6% -14%;border-radius:30%}   /* das Baby schaut seitlich aus der Schale: auch dort greifbar */
+/* Baby wird gezogen / ist bei der Mama: nur die leere Schale bleibt (kein doppeltes Bild) */
+.ei-egg.ei-away .ei-baby,.ei-egg.ei-gone .ei-baby{opacity:0;transition:none}
+.ei-egg.ei-gone{pointer-events:none;cursor:default}
+.ei-egg.ei-gone .ei-bot{opacity:.6}
+.ei-ghost{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+.ei-ghost img{width:150%;max-width:none}
+.ei-dim{opacity:.35;filter:grayscale(.6)}
+.ei-right{filter:drop-shadow(0 0 14px rgba(240,195,90,.95))}
+.ei-tag{position:absolute;right:-6px;top:-4px;z-index:3;min-width:34px;height:34px;border-radius:50%;background:var(--sun);font:700 20px/34px var(--text);font-style:normal;text-align:center;box-shadow:0 2px 6px rgba(80,60,30,.3)}
+.ei-nums{display:flex;gap:clamp(10px,3vw,26px);justify-content:center;flex-wrap:wrap}
+.ei-num{min-width:110px;min-height:96px;padding:8px 12px;border-radius:var(--r-blob);background:var(--card);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;transition:transform .15s}
+.ei-num b{font:400 44px/1 var(--hand)}
+.ei-num span{display:flex;flex-wrap:wrap;justify-content:center;max-width:120px}
+.ei-num .gk-num{width:20px;height:20px}
+.ei-mine{display:flex;justify-content:center}
+.ei-mom{position:relative;padding:10px 18px 8px;display:flex;flex-direction:column;align-items:center;width:min(300px,70vw)}
+.ei-mom b{font:400 26px/1 var(--hand)}
+.ei-momimg{height:clamp(90px,20vh,190px);display:flex;align-items:flex-end;justify-content:center}
+.ei-momimg img{height:100%;width:auto;max-width:100%;object-fit:contain}
+.ei-bubble{position:absolute;right:-26px;top:-12px;width:66px;height:66px;border-radius:50%;background:#fffaf0;box-shadow:var(--shadow);display:flex;align-items:center;justify-content:center}
+.ei-bubble svg{width:44px;height:44px}
+.ei-bubble i{position:absolute;right:6px;top:2px;font:700 22px var(--hand);color:var(--terra);font-style:normal}
+.ei-introegg{display:inline-block;height:62%;flex:0 0 auto;aspect-ratio:100/130}
+.ei-introegg svg{width:100%;height:100%;overflow:visible}
+.ei-ruler{height:0}
+@media (max-width:600px){
+  .ei-ask{font-size:21px}
+  .ei-par{padding:6px 2px 4px}
+  .ei-kid{width:30px;height:24px}
+  .ei-num{min-width:92px;min-height:86px}
+  .ei-nestsvg{height:80px}
+}
+
+/* =============================== Nestbau (ne-) ===============================
+   Feste Spielfläche: Kopf (.ne-top) und Materialleiste (.ne-tray) ändern ihre Höhe während des Spiels nie,
+   das Nest (.ne-nestwrap) bekommt seine Maße in ganzen Pixeln von nest.js (fit) – ohne transform.
+   Effekte (Leuchten, Erde, Tipp-Hand) sind Kind-Elemente im SVG, nie der Nest-Container. */
+.ne{display:flex;flex-direction:column;background:linear-gradient(180deg,rgba(191,224,234,.6) 0%,rgba(236,240,214,.5) 38%,rgba(196,204,140,.55) 39%,rgba(170,184,118,.5) 100%)}
+.ne-top{flex:0 0 100px;height:100px;box-sizing:border-box;display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0;position:relative;z-index:2}
+.ne-top #neProg{flex:0 0 26px;height:26px}
+.ne-ask{display:flex;align-items:center;gap:10px;padding:0 18px 0 8px;height:58px;box-sizing:border-box;flex:0 0 58px;font:26px/1.05 var(--hand);color:var(--ink);max-width:min(720px,94vw);text-align:left;overflow:hidden}
+.ne-askic{width:44px;height:44px;flex:0 0 auto;border-radius:50%;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center}
+.ne-askic svg{width:34px;height:34px}
+.ne-scene{flex:1 1 0;min-height:0;position:relative;overflow:hidden;touch-action:none}
+.ne-sun{position:absolute;right:8%;top:2%;width:80px;height:80px;border-radius:50%;background:radial-gradient(circle,#f7d98a 40%,rgba(240,195,90,0) 70%);opacity:.8}
+.ne-nestwrap{position:absolute;left:3%;top:2%;width:94%;height:96%;border-radius:40%;touch-action:none;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.ne-svg{position:absolute;left:0;top:0;width:100%;height:100%;overflow:visible;display:block;pointer-events:none}
+.ne-glow{opacity:0;transition:opacity .18s;pointer-events:none}
+.ne-glow.ne-over{opacity:.85}
+.ne-glow.ne-flash{animation:neflash .7s ease-out}
+.ne-glow.ne-flash2{animation:neflash 1.2s ease-in-out 2}
+@keyframes neflash{0%,100%{opacity:0}35%{opacity:.95}}
+.ne-tip{opacity:0;pointer-events:none;transform-box:fill-box;transform-origin:50% 50%}
+.ne-tip.ne-show{animation:netip 1.2s ease-in-out 3}
+@keyframes netip{0%,100%{opacity:0;transform:scale(1.15)}30%,70%{opacity:1;transform:scale(1)}50%{opacity:1;transform:scale(.88)}}
+.ne-mama{position:absolute;left:1%;bottom:4%;width:clamp(130px,24vw,300px);z-index:2;transition:transform .2s}
+.ne-mama img{width:100%;display:block}
+.ne-hop{animation:eihop .6s}
+.ne-in{animation:nein .45s cubic-bezier(.3,1.4,.5,1) both;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes nein{from{opacity:0;scale:.2}to{opacity:1;scale:1}}
+.ne-dirt{animation:nedirt .65s ease-out forwards}
+@keyframes nedirt{to{transform:translate(var(--dx),var(--dy));opacity:0}}
+.ne-egg .ne-eggin{animation:neegg .5s cubic-bezier(.3,1.4,.5,1) both}
+@keyframes neegg{from{transform:translateY(-60px);opacity:0}to{transform:none;opacity:1}}
+#neCover{transition:opacity 1s,transform 1s}
+#neCover.ne-open{opacity:0;transform:translateY(-30px)}
+.ne-baby{animation:nein .5s cubic-bezier(.3,1.6,.5,1) both;transform-box:fill-box}
+.ne-tray{flex:0 0 auto;position:relative;z-index:2;padding:8px 10px 12px}
+.ne-mats{display:flex;gap:clamp(6px,1.6vw,16px);justify-content:center;flex-wrap:wrap;min-height:86px}
+.ne-mats.ne-off{visibility:hidden}
+.ne-eggtray{position:absolute;inset:0;display:none;align-items:center;justify-content:center}
+.ne-eggtray.ne-on{display:flex}
+.ne-mat{width:clamp(78px,11vw,112px);padding:6px 4px 4px;border-radius:18px;background:var(--card);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;cursor:grab;position:relative;transition:transform .15s}
+.ne-mat svg{width:clamp(48px,7vw,64px);height:clamp(48px,7vw,64px);pointer-events:none}
+.ne-mat span{font:400 19px/1 var(--hand)}
+.ne-mat.ne-need{box-shadow:0 0 0 3px rgba(143,191,122,.7),var(--shadow)}
+.ne-badge{position:absolute;right:-6px;top:-6px;min-width:30px;height:30px;border-radius:15px;background:var(--terra);color:#fff;font:700 17px/30px var(--text);font-style:normal}
+/* Räuber: Bewegung über die eigene translate-Eigenschaft (verträgt sich mit wiggle/gk-hint, die transform animieren) */
+.ne-thief{position:absolute;bottom:8%;left:4%;width:clamp(110px,18vw,200px);z-index:3;min-height:60px;translate:-60vw 0;transition:translate 3.2s ease-out}
+.ne-thief img{width:100%;display:block}
+.ne-thief.ne-r{left:auto;right:4%;translate:60vw 0}
+.ne-thief.ne-in2{translate:0 0}
+.ne-thief.ne-run{translate:-70vw 0;transition:translate .9s ease-in}
+.ne-thief.ne-r.ne-run{translate:70vw 0}
+@media (max-width:600px){
+  .ne-ask{font-size:21px}
+  .ne-mama{left:2%;bottom:1%;width:150px}
+  .ne-sun{display:none}
+  .ne-mat{width:78px}
+}
+@media (max-width:359px){ .ne-mat{width:68px} .ne-mat span{font-size:17px} }
+
+/* =============================== Schatten-Dino (sh-) =============================== */
+.sh{display:flex;flex-direction:column;gap:6px;padding-bottom:10px}
+.sh-top{display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0}
+.sh-ask{display:flex;align-items:center;gap:10px;padding:6px 18px 6px 8px;font:26px/1.1 var(--hand);color:var(--ink);max-width:min(720px,94vw);text-align:left}
+.sh-askic{width:44px;height:44px;flex:0 0 auto;border-radius:50%;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center}
+.sh-askic svg{width:34px;height:34px}
+.sh-scene{position:relative;flex:1;min-height:150px;margin:0 max(12px,3vw);border-radius:var(--r-blob);overflow:hidden;box-shadow:var(--shadow),inset 0 0 0 3px rgba(120,90,60,.2);
+  background:linear-gradient(180deg,var(--s3) 0%,var(--s2) 45%,var(--s1) 75%,#e9cf9a 100%)}
+.sh-sun{position:absolute;left:50%;top:58%;width:34vmin;height:34vmin;transform:translate(-50%,-50%);border-radius:50%;background:radial-gradient(circle,#fff3c8 0%,#fbd98c 45%,rgba(251,217,140,0) 70%);opacity:.9}
+.sh-hills{position:absolute;left:-5%;right:-5%;bottom:10%;height:26%;background:rgba(110,80,100,.28);border-radius:50% 50% 0 0/100% 100% 0 0}
+.sh-grass{position:absolute;left:0;right:0;bottom:0;height:16%;background:linear-gradient(#6d5a5c,#4c3d44);border-radius:40% 60% 0 0/30% 30% 0 0}
+.sh-light{position:absolute;left:50%;top:-10%;width:70%;height:120%;transform:translateX(-50%);background:radial-gradient(ellipse at 50% 70%,rgba(255,244,200,.85),rgba(255,244,200,0) 60%);opacity:0;transition:opacity 1s}
+.sh-light.on{opacity:1}
+.sh-walk{position:absolute;bottom:9%;left:50%;height:62%;width:min(62%,560px);transform:translateX(-160%);transition:transform 2.2s ease-out;display:flex;align-items:flex-end;justify-content:center}
+.sh-walk.sh-fromr{transform:translateX(60%)}
+.sh-walk.sh-go{transform:translateX(-50%)}
+.sh-walk.sh-stop .sh-sil{animation:shbreath 2.4s ease-in-out infinite}
+@keyframes shbreath{0%,100%{transform:none}50%{transform:scaleY(1.015) translateY(-2px)}}
+.sh-sil{max-width:100%;max-height:100%;filter:brightness(0) opacity(.86);transition:filter 1.4s ease;transform-origin:50% 100%}
+.sh-walk.sh-clear .sh-sil{filter:brightness(.35) opacity(.9)}
+.sh-walk.sh-lit .sh-sil{filter:none}
+.sh-cover{position:absolute;bottom:4%;width:var(--c);height:62%;display:flex;align-items:flex-end;transition:transform 1s ease-in,opacity 1s;z-index:2}
+.sh-cover svg{width:50%;height:auto;max-height:100%;flex:0 0 50%;filter:brightness(.45) saturate(.6)}   /* Farne stehen am Boden (schwebten im Hochformat in der Luft) */
+.sh-cover.sh-l{left:calc(50% - min(31%,280px) - 2%)}
+.sh-cover.sh-r{right:calc(50% - min(31%,280px) - 2%);flex-direction:row-reverse}
+.sh-cover.away{transform:translateY(110%);opacity:0}
+.sh-choices{display:flex;gap:clamp(8px,2vw,18px);justify-content:center;flex-wrap:wrap;padding:0 8px}
+.sh-card{min-width:0;width:clamp(150px,21vw,240px);min-height:0;padding:8px 8px 6px}
+.sh-card img{height:clamp(62px,11vh,110px);max-width:100%;object-fit:contain}
+.sh-card b{font-size:21px;line-height:1.05}
+.sh-right{box-shadow:0 0 0 5px var(--sun),var(--shadow)}
+/* Meerestiere: Wasser ist durchscheinend und das Tier taucht nur wenig ein – vorher verschwand der Schatten (v. a. am Handy) fast ganz unter Wasser */
+.sh-sea .sh-grass{height:22%;background:linear-gradient(rgba(111,143,166,.55),rgba(70,92,120,.72));border-radius:0}
+.sh-sea .sh-walk{bottom:15%;height:50%}
+.sh-sea .sh-hills{bottom:18%}
+.sh-air .sh-walk{bottom:30%;height:50%}
+.sh-introsil img{filter:brightness(0) opacity(.8)}
+.sh-introsil{height:70%;display:flex}
+@media (max-width:600px){
+  .sh-ask{font-size:21px}
+  /* Hochformat: Schatten größer (fast volle Breite) und nur wenig im Gras/Wasser versunken */
+  .sh-walk{width:88%;bottom:7%}
+  .sh-grass{height:10%}
+  .sh-sea .sh-grass{height:15%}
+  .sh-sea .sh-walk{bottom:10%}
+  .sh-cover{width:calc(var(--c)*1.9)}
+  .sh-cover.sh-l{left:4%}
+  .sh-cover.sh-r{right:4%}
+  .sh-choices{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 12px}
+  .sh-card{width:auto}
+  .sh-choices.n3{grid-template-columns:1fr 1fr 1fr;gap:6px;padding:0 8px}
+  .sh-choices.n3 .sh-card b{font-size:15px;overflow-wrap:anywhere}
+  .sh-choices.n3 .sh-card{padding:6px 4px}
+  .sh-walk{width:86%;height:56%}
+  .sh-cover.sh-l{left:4%}.sh-cover.sh-r{right:4%}
+}
+
+/* =============================== Forscherkamera (ka-) =============================== */
+.ka{display:flex;flex-direction:column;gap:6px;padding-bottom:8px}
+.ka-top{display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0}
+.ka-ask{display:flex;align-items:center;gap:12px;min-height:56px;padding:4px 20px 4px 6px;font:26px/1.1 var(--hand);color:var(--ink);max-width:min(720px,94vw)}
+.ka-want{width:96px;height:62px;flex:0 0 auto;border-radius:16px;background:rgba(143,188,203,.3);display:flex;align-items:center;justify-content:center;padding:2px}
+.ka-want img{max-width:100%;max-height:100%}
+.ka-want .ka-silh{filter:brightness(0) opacity(.7)}
+.ka-scene{position:relative;flex:1;min-height:0;margin:0 max(10px,2vw);border-radius:var(--r-blob);overflow:hidden;touch-action:none;cursor:crosshair;box-shadow:var(--shadow),inset 0 0 0 3px rgba(120,90,60,.2);background:#cfe6ee}
+.ka-sky{position:absolute;inset:0;background:linear-gradient(180deg,#bfe0ea 0%,#e8f1e6 55%,#f3ecd2 70%)}
+.ka-far{position:absolute;left:-5%;right:-5%;bottom:calc(var(--gh,26%) + 4%);height:30%;background:rgba(143,171,160,.55);border-radius:45% 55% 0 0/80% 90% 0 0;filter:url(#wcEdge)}
+.ka-mid{position:absolute;left:-10%;right:-10%;bottom:calc(var(--gh,26%) - 8%);height:24%;background:rgba(150,180,110,.6);border-radius:60% 40% 0 0/90% 70% 0 0;filter:url(#wcEdge)}
+.ka-ground{position:absolute;left:0;right:0;bottom:0;height:var(--gh,26%);background:linear-gradient(#b9c48a,#a1ad72)}
+.ka-plants img{position:absolute;opacity:.8;pointer-events:none}
+.ka-actors{position:absolute;inset:0;pointer-events:none}
+.ka-actor{position:absolute;left:0;top:0;transition:opacity .6s;will-change:transform}
+.ka-actor.ka-hint{animation:kahint 1.2s ease-in-out 2}
+@keyframes kahint{0%,100%{filter:drop-shadow(0 0 0 rgba(240,195,90,0))}50%{filter:drop-shadow(0 0 12px rgba(255,214,110,1)) drop-shadow(0 0 5px rgba(255,214,110,1))}}
+.ka-front{position:absolute;inset:0;pointer-events:none;z-index:120}
+.ka-front img{position:absolute;bottom:-4%;filter:saturate(.9) brightness(.9)}
+.ka-finder{position:absolute;left:0;top:0;z-index:130;pointer-events:none;border-radius:14px;background:rgba(255,255,255,.08);box-shadow:0 0 0 2000px rgba(40,30,20,.14);transition:background .2s}
+.ka-finder i{position:absolute;width:30%;height:30%;border:6px solid #fffaf0;filter:drop-shadow(0 1px 2px rgba(0,0,0,.4));transition:border-color .2s}
+.ka-finder i:nth-child(1){left:0;top:0;border-right:0;border-bottom:0;border-radius:14px 0 0 0}
+.ka-finder i:nth-child(2){right:0;top:0;border-left:0;border-bottom:0;border-radius:0 14px 0 0}
+.ka-finder i:nth-child(3){left:0;bottom:0;border-right:0;border-top:0;border-radius:0 0 0 14px}
+.ka-finder i:nth-child(4){right:0;bottom:0;border-left:0;border-top:0;border-radius:0 0 14px 0}
+.ka-dot{position:absolute;left:50%;top:50%;width:14px;height:14px;margin:-7px;border-radius:50%;border:3px solid #fffaf0}
+.ka-finder.ka-ok i,.ka-finder.ka-ok .ka-dot{border-color:#8fe07a}
+.ka-finder.ka-ok{background:rgba(143,224,122,.12)}
+.ka-flash{position:absolute;inset:0;background:#fff;opacity:0;pointer-events:none;z-index:140}
+.ka-flash.on{animation:kaflash .5s ease-out}
+@keyframes kaflash{0%{opacity:.85}100%{opacity:0}}
+.ka-photo{position:absolute;left:0;right:0;top:14%;margin:0 auto;z-index:150;width:min(300px,64%);padding:12px 12px 6px;background:#fffdf6;box-shadow:0 10px 30px rgba(60,40,20,.35);transform:rotate(-3deg);text-align:center;animation:pop .45s backwards;transition:transform .8s ease-in,opacity .8s}
+.ka-photo img{width:100%;background:linear-gradient(#cfe6ee,#eef3dc 65%,#b9c48a 65%);border-radius:4px}
+.ka-photo b{font:400 24px var(--hand)}
+.ka-photo.fly{transform:translate(-35vw,70vh) rotate(-12deg) scale(.2);opacity:.2}
+.ka-albic{width:44px;height:44px;flex:0 0 auto;opacity:.6}
+.ka-bar{display:flex;align-items:center;gap:12px;padding:0 max(10px,2vw)}
+.ka-album{flex:1;display:flex;gap:6px;min-height:64px;align-items:center;overflow:hidden;padding:4px 8px;border-radius:var(--r-blob);background:rgba(200,170,110,.18)}
+.ka-thumb{width:76px;height:58px;flex:0 0 auto;background:#fffdf6;padding:4px;box-shadow:0 3px 8px rgba(60,40,20,.2);transform:rotate(-2deg);display:flex;align-items:center;justify-content:center}
+.ka-thumb:nth-child(2n){transform:rotate(3deg)}
+.ka-thumb img{max-width:100%;max-height:100%}
+.ka-shoot{width:92px;height:92px;flex:0 0 auto;border-radius:50%;background:radial-gradient(circle at 40% 35%,#f7a08a,#c8553d);box-shadow:0 6px 0 #8a3a2a,0 10px 18px rgba(80,40,20,.3);display:flex;align-items:center;justify-content:center;transition:transform .1s}
+.ka-shoot svg{width:58px;height:58px}
+/* Schatten-Dino, Handy quer (wenig Höhe): Frage neben die Punkte, flache Karten – sonst waren die Antworten unten abgeschnitten */
+@media (max-height:500px){
+  .sh{gap:4px;padding-bottom:4px}
+  .sh-top{flex-direction:row;justify-content:center;gap:12px;padding-top:0}
+  .sh-ask{font-size:20px}
+  .sh-scene{min-height:90px}
+  .sh-choices{flex-wrap:nowrap;gap:8px}
+  .sh-card{flex:1 1 0;width:auto;max-width:220px;flex-direction:row;min-height:60px;padding:4px 8px;gap:6px}
+  .sh-card img{height:48px;max-width:42%}
+  .sh-card b{font-size:17px;overflow-wrap:anywhere}
+}
+.ka-shoot:active{transform:translateY(4px);box-shadow:0 2px 0 #8a3a2a}
+.ka-endalbum{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+@media (max-width:600px){
+  .ka-ask{font-size:21px}
+  .ka-want{width:76px;height:50px}
+  .ka-shoot{width:80px;height:80px}
+  .ka-thumb{width:58px;height:46px}
+}
+
+/* =============================== Dino-Tracker (tr-) =============================== */
+.tr{display:flex;flex-direction:column;gap:6px;padding-bottom:8px}
+.tr-top{display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0}
+.tr-ask{display:flex;align-items:center;gap:10px;padding:6px 18px 6px 8px;font:26px/1.1 var(--hand);color:var(--ink);max-width:min(720px,94vw)}
+.tr-askic{width:44px;height:44px;flex:0 0 auto;border-radius:50%;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center}
+.tr-askic svg{width:34px;height:34px}
+.tr-field{position:relative;flex:1;min-height:0;margin:0 max(10px,2vw);border-radius:var(--r-blob);overflow:hidden;touch-action:none;box-shadow:var(--shadow),inset 0 0 0 3px rgba(120,90,60,.2);
+  background:radial-gradient(60% 40% at 30% 70%,rgba(143,183,122,.45),transparent 70%),radial-gradient(50% 35% at 75% 45%,rgba(200,180,120,.4),transparent 70%),linear-gradient(180deg,#cfe3d8 0%,#dfe6c0 16%,#c9c98f 17%,#b8bf82 60%,#a9b276 100%)}
+.tr-hill{position:absolute;left:-5%;right:-5%;top:6%;height:14%;background:rgba(143,171,160,.6);border-radius:50% 50% 0 0/100% 100% 0 0;filter:url(#wcEdge)}
+.tr-clues,.tr-spots{position:absolute;inset:0;pointer-events:none}
+.tr-clue{position:absolute;pointer-events:auto;transform:translate(-50%,-50%);min-width:44px;min-height:44px;padding:0;display:flex;align-items:center;justify-content:center}
+.tr-clue svg{width:100%;height:100%}
+.tr-clue::before{content:"";position:absolute;left:50%;top:50%;width:max(100%,56px);height:max(100%,56px);transform:translate(-50%,-50%);border-radius:50%}   /* Trefferfläche mind. 56 px */
+.tr-clue.tr-hint{animation:trhint 1.2s ease-in-out 2}
+@keyframes trhint{0%,100%{filter:drop-shadow(0 0 0 rgba(240,195,90,0))}50%{filter:drop-shadow(0 0 10px rgba(255,214,110,1)) drop-shadow(0 0 4px rgba(255,214,110,1))}}
+.tr-spot>svg.tr-wig{animation:wiggle .45s 2}
+.tr-print svg{opacity:.85}
+.tr-spot{position:absolute;pointer-events:auto;transform:translate(-50%,-78%);padding:0;display:flex;align-items:flex-end;justify-content:center;cursor:pointer}
+.tr-spot>svg{width:100%;height:100%;position:relative;z-index:2;filter:drop-shadow(0 6px 4px rgba(60,50,30,.25));transition:transform .5s}
+.tr-spot.rustle>svg{animation:trrustle .35s infinite}
+@keyframes trrustle{0%,100%{transform:rotate(0)}30%{transform:rotate(-4deg) translateX(-2px)}70%{transform:rotate(4deg) translateX(2px)}}
+.tr-dino{position:absolute;left:50%;bottom:10%;width:190%;height:120%;z-index:1;transform:translate(-50%,30%) scale(.5);opacity:0;transition:transform .8s cubic-bezier(.3,1.5,.5,1),opacity .4s;display:flex;align-items:flex-end;justify-content:center;pointer-events:none}
+.tr-dino img{max-width:100%;max-height:100%}
+.tr-spot.open .tr-dino{transform:translate(-8%,-2%) scale(1);opacity:1;z-index:3}
+.tr-spot.open>svg{transform:translateX(-30%) rotate(-10deg) scale(.85)}
+.tr-dev{position:absolute;left:0;top:0;width:0;height:0;z-index:900;touch-action:none;cursor:grab}
+.tr-devin{position:absolute;left:-38px;top:-50px;width:76px;height:96px;filter:drop-shadow(0 8px 8px rgba(60,40,20,.35));transition:transform .15s}
+.tr-dev.grab .tr-devin{transform:scale(1.1)}
+.tr-devsvg{width:100%;height:100%;overflow:visible}
+.tr-ring{position:absolute;left:-60px;top:-60px;width:120px;height:120px;border-radius:50%;border:5px solid rgba(143,188,203,.9);opacity:calc(.15 + var(--sig,0)*.85);animation:trring var(--p,1.6s) ease-out infinite;pointer-events:none}
+.tr-ring.r2{animation-delay:calc(var(--p,1.6s)/3)}.tr-ring.r3{animation-delay:calc(var(--p,1.6s)*2/3)}
+.tr-dev.hot .tr-ring{border-color:rgba(240,195,90,.95);box-shadow:0 0 18px rgba(240,195,90,.8)}
+@keyframes trring{0%{transform:scale(.35)}100%{transform:scale(calc(1.2 + var(--sig,0)*.8));opacity:0}}
+.tr-found{display:flex;gap:10px;justify-content:center;min-height:62px}
+.tr-slot{width:96px;height:60px;border-radius:16px;background:rgba(200,170,110,.2);display:flex;align-items:center;justify-content:center;font:400 34px var(--hand);color:var(--ink2)}
+.tr-slot.ok{background:var(--card);box-shadow:var(--shadow);animation:pop .45s}
+.tr-slot img{max-width:92%;max-height:92%}
+.gk-iart .tr-devsvg{width:auto;height:80%}
+@media (max-width:600px){.tr-ask{font-size:21px}.tr-devin{left:-32px;top:-44px;width:64px;height:82px}}
+.tr-gras{position:absolute;width:6%;min-width:34px;opacity:.55;transform:translate(-50%,-50%);pointer-events:none}
+.tr-spot.open.toL .tr-dino{transform:translate(-92%,-2%) scale(1)}
+.tr-spot.open.toL>svg{transform:translateX(30%) rotate(10deg) scale(.85)}
+
+/* =============================== Land, Luft, Wasser (lw-) =============================== */
+.lw{display:flex;flex-direction:column;gap:6px;padding-bottom:8px}
+.lw-top{display:flex;flex-direction:column;align-items:center;gap:6px;padding:4px 12px 0}
+.lw-ask{display:flex;align-items:center;gap:10px;padding:6px 18px 6px 8px;font:26px/1.1 var(--hand);color:var(--ink)}
+.lw-askic{width:44px;height:44px;flex:0 0 auto;border-radius:50%;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center}
+.lw-askic svg{width:34px;height:34px}
+.lw-scene{flex:1;min-height:0;margin:0 max(10px,2vw);display:grid;grid-template:"luft luft" 42% "land wasser" 1fr/1fr 1fr;border-radius:var(--r-blob);overflow:hidden;box-shadow:var(--shadow),inset 0 0 0 3px rgba(120,90,60,.2)}
+/* Hervorheben beim Ziehen: eigene Ebene, nur opacity (kein filter/box-shadow-Übergang auf der großen Fläche → kein Ruckeln) */
+.lw-zone{position:relative;overflow:hidden}
+.lw-zone::after{content:"";position:absolute;inset:0;z-index:4;pointer-events:none;background:rgba(255,255,255,.14);box-shadow:inset 0 0 0 6px rgba(240,195,90,.9);opacity:0;transition:opacity .15s;will-change:opacity}
+.lw-zone.over::after{opacity:1}
+.lw-luft{grid-area:luft;background:linear-gradient(180deg,#a9d3e6,#d8ecf2)}
+.lw-land{grid-area:land;background:linear-gradient(180deg,#d8ecf2 0%,#cfe0c0 30%,#b7c98a 31%,#a4b877 100%)}
+.lw-wasser{grid-area:wasser;background:linear-gradient(180deg,#d8ecf2 0%,#bfe0ea 30%,#8fbccb 31%,#5f98ae 100%)}
+.lw-zic{position:absolute;left:10px;top:8px;width:58px;height:58px;border-radius:50%;background:rgba(255,251,243,.75);display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(60,40,20,.15);z-index:3}
+.lw-zic svg{width:46px;height:46px}
+.lw-wasser .lw-zic{left:auto;right:10px}
+.lw-cloud{position:absolute;width:22%;height:26%;background:#fffaf0;border-radius:50%;opacity:.8;box-shadow:30px 10px 0 -6px #fffaf0,-26px 12px 0 -10px #fffaf0;animation:lwcloud 30s linear infinite}
+.lw-cloud.c1{left:18%;top:22%}.lw-cloud.c2{left:62%;top:48%;width:16%;height:20%;animation-duration:40s}
+@keyframes lwcloud{0%,100%{transform:translateX(0)}50%{transform:translateX(40px)}}
+.lw-sun{position:absolute;right:8%;top:12%;width:70px;height:70px;border-radius:50%;background:radial-gradient(circle,#f7d98a 45%,rgba(240,195,90,0) 72%)}
+.lw-hill{position:absolute;left:-20%;right:10%;top:24%;height:30%;background:rgba(143,171,120,.6);border-radius:50% 50% 0 0/100% 100% 0 0}
+.lw-palm{position:absolute;right:4%;top:6%;width:26%;max-width:120px;opacity:.85}
+.lw-wave{position:absolute;left:-10%;right:-10%;top:30%;height:16px;background:repeating-radial-gradient(circle at 20px -6px,transparent 0 16px,rgba(255,255,255,.55) 17px 20px,transparent 21px) 0 0/40px 16px;animation:lwwave 4s ease-in-out infinite}
+.lw-wave.w2{top:58%;opacity:.6;animation-delay:-2s}
+@keyframes lwwave{0%,100%{transform:translateX(0)}50%{transform:translateX(24px)}}
+.lw-pl{position:absolute;inset:0}
+.lw-put{position:absolute;transform:translate(-50%,-50%);pointer-events:none}
+/* Aufploppen MIT der Zentrierung (die allgemeine pop-Animation überschrieb translate → Tier erschien versetzt und sprang dann) */
+.lw-put.pop{animation:lwput .45s both}
+@keyframes lwput{0%{transform:translate(-50%,-50%) scale(.3);opacity:0}70%{transform:translate(-50%,-50%) scale(1.08)}100%{transform:translate(-50%,-50%) scale(1);opacity:1}}
+.lw-put img{width:100%}
+.lw-put.land img{animation:lwwalk 1.2s ease-in-out infinite;animation-delay:var(--d)}
+.lw-put.luft img{animation:lwfly 3s ease-in-out infinite;animation-delay:var(--d)}
+.lw-put.wasser img{animation:lwswim 3.4s ease-in-out infinite;animation-delay:var(--d)}
+@keyframes lwwalk{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes lwfly{0%,100%{transform:translate(0,0) rotate(-2deg)}50%{transform:translate(14px,-12px) rotate(3deg)}}
+@keyframes lwswim{0%,100%{transform:translate(0,0) rotate(2deg)}50%{transform:translate(-14px,6px) rotate(-2deg)}}
+.lw-tray{min-height:128px;display:flex;align-items:center;justify-content:center;gap:16px}
+.lw-animal{width:clamp(170px,24vw,250px);padding:8px 10px 6px;border-radius:var(--r-blob);background:var(--card);box-shadow:var(--shadow),0 0 0 4px rgba(240,195,90,.45);display:flex;flex-direction:column;align-items:center;cursor:grab}
+.lw-animal img{height:clamp(70px,11vh,110px);max-width:100%;object-fit:contain}
+.lw-animal b{font:400 22px/1 var(--hand)}
+.lw-left{display:flex;gap:2px;opacity:.5}
+.lw-left .gk-num{width:24px;height:24px}
+.lw-note{margin:0;font:21px/1.2 var(--hand);color:var(--ink2);max-width:420px}
+@media (max-width:600px){.lw-ask{font-size:21px}.lw-zic{width:46px;height:46px}.lw-zic svg{width:36px;height:36px}.lw-left{display:none}}
+.gk-iart .lw-iart{display:flex;gap:8px;height:100%;align-items:center;justify-content:center;max-width:100%}.gk-iart .lw-iart img{height:auto;width:min(120px,26vw)}
+/* Handy quer (wenig Höhe): Auslöser über die Szene legen, damit der Sucher Platz hat */
+@media (max-height:500px){
+  .ka-top{flex-direction:row;justify-content:center;padding-top:0}
+  .ka-ask{font-size:20px}.ka-want{width:66px;height:44px}
+  .ka-bar{position:absolute;right:10px;bottom:10px;z-index:6;padding:0}
+  .ka-album{display:none}
+  .ka-shoot{width:78px;height:78px}
+}
+
+/* ---------- Dino-Eier, Handy quer (wenig Höhe): Eier lagen halb unter dem Bildrand ---------- */
+@media (max-height:500px){
+  .ei-top{flex-direction:row;justify-content:center;gap:12px;padding-top:0}
+  .ei-ask{font-size:20px}
+  .ei-stage{padding:2px 10px 4px;gap:4px}
+  .ei-par{padding:4px 6px 2px}
+  .ei-parimg{height:54px}
+  .ei-kids{min-height:28px}
+  .ei-kid{width:34px;height:26px}
+  .ei-nest{padding-bottom:22px}
+}

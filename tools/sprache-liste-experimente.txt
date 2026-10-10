@@ -1,0 +1,1472 @@
+# Dino-Inselwelt · Experimentebuch (Forscherhütte) – alle Sätze, die dort gesprochen werden
+#
+# So vertonst du einen Satz:
+#   1. Satz aufnehmen und als mp3 speichern (m4a, wav, ogg gehen auch).
+#   2. Die Datei genau so nennen wie links steht und in den Ordner  sounds-neu/sprache/  legen.
+#   3. Doppelklick auf  tools/Grafiken-einbinden.command  (Windows: .bat), dann die App neu laden.
+# Du musst NICHT alle Sätze aufnehmen. Jede vorhandene Aufnahme wird gespielt, den Rest liest die Gerätestimme.
+# Kommt derselbe Satz in mehreren Experimenten vor, steht er hier nur einmal – eine Aufnahme gilt überall.
+# Zeilen mit # sind nur Erklärungen. Diese Datei wird nicht von der App gelesen; du kannst darin Häkchen machen.
+#
+# Format:  dateiname.mp3 = Genauer Satz
+
+# ------------------------------------------------------------------
+# Feste Sätze (Anleitungen und Rückmeldungen) – 48 Sätze
+# ------------------------------------------------------------------
+# Bücherregal (Start)
+fb_willkommen_1.mp3 = Willkommen in der Forscherhütte!
+fb_willkommen_2.mp3 = Hier ist dein Forscherbuch mit vielen Experimenten.
+fb_willkommen_3.mp3 = Such dir ein Kapitel aus.
+# Namen eintragen
+fb_name_1.mp3 = Wie heißt du?
+fb_name_2.mp3 = Ein Erwachsener kann dir beim Schreiben helfen.
+# Namen eintragen (nach „Hallo …!“)
+fb_name_fertig.mp3 = Das ist jetzt dein Forscherbuch.
+# Kapitel (nach dem Kapitelnamen)
+fb_tippen.mp3 = Tippe ein Experiment an!
+# Reiter „Ergebnis“ ohne Vermutung
+fb_zuerst_1.mp3 = Zuerst die Vermutung!
+fb_zuerst_2.mp3 = Was glaubst du, kommt heraus?
+# Reiter „Vermutung“
+fb_was_glaubst_du.mp3 = Was glaubst du?
+# Reiter „Vermutung“ (zwischen den Antworten)
+fb_oder.mp3 = oder
+# Vermutung gewählt (davor)
+fb_deine_vermutung.mp3 = Deine Vermutung:
+# Vermutung gewählt (danach)
+fb_ausprobieren.mp3 = Jetzt probieren wir es aus!
+# Reiter „Plan“ (vor dem Material)
+fb_du_brauchst.mp3 = Du brauchst:
+# Reiter „Ergebnis“
+fb_ergebnis_1.mp3 = Was ist herausgekommen?
+fb_ergebnis_2.mp3 = Hat deine Vermutung gestimmt?
+# Ergebnis: Hat gestimmt
+fb_gestimmt_1.mp3 = Super!
+fb_gestimmt_2.mp3 = Deine Vermutung hat gestimmt!
+# Ergebnis: Es war anders
+fb_anders_1.mp3 = Spannend!
+fb_anders_2.mp3 = Forscher lernen gerade dann etwas, wenn es anders kommt.
+# Ergebnis (letzter Satz)
+fb_dino_wissen.mp3 = Hier ist noch Dino-Wissen für dich.
+# Reiter „Wissen“ (vor dem Rekord)
+fb_dino_rekord.mp3 = Dino-Rekord:
+# Reiter „Wissen“ (vor der nächsten Frage)
+fb_naechste_frage.mp3 = Nächste Forscherfrage:
+# Reiter „Wissen“ bei eigenen Experimenten
+fb_eigenes_wissen_1.mp3 = Das war dein eigenes Experiment.
+fb_eigenes_wissen_2.mp3 = Toll, dass du selbst eine Forscherfrage hattest!
+# Foto aufgenommen
+fb_foto_1.mp3 = Tolles Foto!
+fb_foto_2.mp3 = Es klebt jetzt in deinem Forscherbuch.
+# Aufkleber aufgeklebt
+fb_sticker_1.mp3 = Aufgeklebt!
+fb_sticker_2.mp3 = Du kannst ihn verschieben.
+# Notizzettel
+fb_notiz.mp3 = Schreib oder sprich, was du beobachtet hast.
+# Kapitel „Meine Experimente“
+fb_eigene_1.mp3 = Hier sind deine eigenen Experimente.
+fb_eigene_2.mp3 = Hast du eine Forscherfrage?
+fb_eigene_3.mp3 = Dann leg ein neues Experiment an!
+# Eigenes Experiment anlegen
+fb_anlegen_1.mp3 = Leg dein eigenes Experiment an.
+fb_anlegen_2.mp3 = Du kannst schreiben oder ins Mikrofon sprechen.
+# Radierer gewählt (einmal pro Besuch)
+fb_radierer_1.mp3 = Das ist der Radierer.
+fb_radierer_2.mp3 = Wisch über deine Farbe, dann ist sie wieder weg.
+# Alles weggewischt
+fb_leeren_1.mp3 = Alles weggewischt!
+fb_leeren_2.mp3 = Mit dem Pfeil holst du dein Bild zurück.
+# Reiter „Plan“ (vor jedem Schritt)
+fb_schritt_1.mp3 = Schritt 1:
+fb_schritt_2.mp3 = Schritt 2:
+fb_schritt_3.mp3 = Schritt 3:
+fb_schritt_4.mp3 = Schritt 4:
+fb_schritt_5.mp3 = Schritt 5:
+fb_schritt_6.mp3 = Schritt 6:
+fb_schritt_7.mp3 = Schritt 7:
+fb_schritt_8.mp3 = Schritt 8:
+fb_schritt_9.mp3 = Schritt 9:
+
+# ------------------------------------------------------------------
+# Kapitelnamen – 10 Sätze (danach folgt: „Tippe ein Experiment an!“)
+# ------------------------------------------------------------------
+kapitel_01.mp3 = Kapitel 1: Spuren & Fossilien.
+kapitel_02.mp3 = Kapitel 2: Riesig & Winzig.
+kapitel_03.mp3 = Kapitel 3: Schnell & Stark.
+kapitel_04.mp3 = Kapitel 4: Zähne & Futter.
+kapitel_05.mp3 = Kapitel 5: Eier & Nester.
+kapitel_06.mp3 = Kapitel 6: Dino-Sinne.
+kapitel_07.mp3 = Kapitel 7: Tarnung & Farben.
+kapitel_08.mp3 = Kapitel 8: Wasser, Luft & Fliegen.
+kapitel_09.mp3 = Kapitel 9: Urzeit-Welt.
+kapitel_10.mp3 = Kapitel 10: Dinos heute.
+
+# ------------------------------------------------------------------
+# Material („Du brauchst: …“) – 111 Wörter, alphabetisch
+# ------------------------------------------------------------------
+material_2_becher.mp3 = 2 Becher
+material_2_eier.mp3 = 2 Eier
+material_3_becher.mp3 = 3 Becher
+material_5_gegenstaende.mp3 = 5 Gegenstände
+material_5_steine.mp3 = 5 Steine
+material_alles_was_du_brauchst.mp3 = Alles, was du brauchst
+material_apfelstueck.mp3 = Apfelstück
+material_baelle_oder_steine.mp3 = Bälle oder Steine
+material_ball.mp3 = Ball
+material_banane.mp3 = Banane
+material_becher.mp3 = Becher
+material_besenstiel_oder_stab.mp3 = Besenstiel oder Stab
+material_beutel.mp3 = Beutel
+material_bild_oder_knochen.mp3 = Bild oder Knochen
+material_bilder.mp3 = Bilder
+material_blaetter.mp3 = Blätter
+material_blaetter_oder_salat.mp3 = Blätter oder Salat
+material_buecher.mp3 = Bücher
+material_buegel_oder_lineal.mp3 = Bügel oder Lineal
+material_bunte_gegenstaende.mp3 = Bunte Gegenstände
+material_buntes_papier.mp3 = Buntes Papier
+material_deine_stimme.mp3 = Deine Stimme
+material_draussen_platz.mp3 = Draußen-Platz
+material_dunkler_raum.mp3 = Dunkler Raum
+material_ei.mp3 = Ei
+material_ei_aus_plastik.mp3 = Ei aus Plastik
+material_ei_oder_ball.mp3 = Ei oder Ball
+material_eierschalenhaelften.mp3 = Eierschalenhälften
+material_ein_gespraechspartner.mp3 = Ein Gesprächspartner
+material_ein_helfer.mp3 = Ein Helfer
+material_erde.mp3 = Erde
+material_essig.mp3 = Essig
+material_fernglas.mp3 = Fernglas
+material_flasche.mp3 = Flasche
+material_freie_flaeche.mp3 = Freie Fläche
+material_freie_strecke.mp3 = Freie Strecke
+material_geduld.mp3 = Geduld
+material_gelatine_oder_honig.mp3 = Gelatine oder Honig
+material_giesskanne.mp3 = Gießkanne
+material_glas.mp3 = Glas
+material_glas_mit_deckel.mp3 = Glas mit Deckel
+material_glas_wasser.mp3 = Glas Wasser
+material_gummiband.mp3 = Gummiband
+material_handy_zum_aufnehmen.mp3 = Handy zum Aufnehmen
+material_kakao.mp3 = Kakao
+material_kamera.mp3 = Kamera
+material_kies.mp3 = Kies
+material_kieselsteine.mp3 = Kieselsteine
+material_klebeband.mp3 = Klebeband
+material_kleiner_gegenstand.mp3 = Kleiner Gegenstand
+material_kleiner_zettel.mp3 = Kleiner Zettel
+material_kleines_gewicht.mp3 = Kleines Gewicht
+material_kleines_glas.mp3 = Kleines Glas
+material_knete.mp3 = Knete
+material_kreide.mp3 = Kreide
+material_lampe.mp3 = Lampe
+material_lineal.mp3 = Lineal
+material_linie_am_boden.mp3 = Linie am Boden
+material_loeffel.mp3 = Löffel
+material_lupe.mp3 = Lupe
+material_massband.mp3 = Maßband
+material_massband_oder_schnur.mp3 = Maßband oder Schnur
+material_mehl.mp3 = Mehl
+material_moehre.mp3 = Möhre
+material_moos.mp3 = Moos
+material_murmel.mp3 = Murmel
+material_muschel_oder_blatt.mp3 = Muschel oder Blatt
+material_natron.mp3 = Natron
+material_naturmaterial.mp3 = Naturmaterial
+material_nest.mp3 = Nest
+material_papier.mp3 = Papier
+material_papierstreifen.mp3 = Papierstreifen
+material_papprollen.mp3 = Papprollen
+material_pinsel.mp3 = Pinsel
+material_reis.mp3 = Reis
+material_roehre.mp3 = Röhre
+material_rucksack.mp3 = Rucksack
+material_salat.mp3 = Salat
+material_salatblatt.mp3 = Salatblatt
+material_salz.mp3 = Salz
+material_sand.mp3 = Sand
+material_sand_oder_knete.mp3 = Sand oder Knete
+material_sand_oder_kreide.mp3 = Sand oder Kreide
+material_sand_oder_schnee.mp3 = Sand oder Schnee
+material_sandhaufen.mp3 = Sandhaufen
+material_sandkiste.mp3 = Sandkiste
+material_schale.mp3 = Schale
+material_schere.mp3 = Schere
+material_schnur.mp3 = Schnur
+material_schnur_oder_schritte.mp3 = Schnur oder Schritte
+material_schuessel.mp3 = Schüssel
+material_schuessel_mehl.mp3 = Schüssel Mehl
+material_schuessel_wasser.mp3 = Schüssel Wasser
+material_sonniger_platz.mp3 = Sonniger Platz
+material_spiegel.mp3 = Spiegel
+material_stift.mp3 = Stift
+material_stifte.mp3 = Stifte
+material_stock.mp3 = Stock
+material_stoppuhr.mp3 = Stoppuhr
+material_strohhalm.mp3 = Strohhalm
+material_taschenlampe.mp3 = Taschenlampe
+material_tisch.mp3 = Tisch
+material_tuch_oder_tuete.mp3 = Tuch oder Tüte
+material_wachsmalstift.mp3 = Wachsmalstift
+material_wanne_oder_schuessel.mp3 = Wanne oder Schüssel
+material_wasser.mp3 = Wasser
+material_wasserschuessel.mp3 = Wasserschüssel
+material_weiches_seil_oder_tuch.mp3 = Weiches Seil oder Tuch
+material_weltkarte.mp3 = Weltkarte
+material_zimmer_oder_weg.mp3 = Zimmer oder Weg
+material_zwei_steine.mp3 = Zwei Steine
+
+# ------------------------------------------------------------------
+# Kapitel 1 · Spuren & Fossilien
+# ------------------------------------------------------------------
+
+# Experiment 1: Spuren lesen
+exp001_titel.mp3 = Spuren lesen.
+exp001_frage.mp3 = Wer ist hier gelaufen?
+exp001_vermutung1.mp3 = Ein Vogel
+exp001_vermutung2.mp3 = Ein Hund
+exp001_vermutung3.mp3 = Ein Mensch
+exp001_vermutung4.mp3 = Ein Rätsel
+exp001_schritt1.mp3 = Suche draußen einen Abdruck im Sand, Schlamm oder Schnee.
+exp001_schritt2.mp3 = Fotografiere ihn von oben.
+exp001_schritt3.mp3 = Male einen Pfeil in die Laufrichtung.
+exp001_wissen.mp3 = Forscher nennen versteinerte Fußspuren Ichnofossilien. Sie verraten, wie schnell ein Dino lief.
+exp001_rekord.mp3 = Ein T-Rex-Abdruck war etwa 80 Zentimeter lang.
+exp001_naechste_frage.mp3 = Findest du eine zweite Spur vom selben Tier?
+
+# Experiment 2: Mein eigener Abdruck
+exp002_titel.mp3 = Mein eigener Abdruck.
+exp002_frage.mp3 = Wie sieht dein Fußabdruck aus?
+exp002_vermutung1.mp3 = 3 Zehen
+exp002_vermutung2.mp3 = 5 Zehen
+exp002_vermutung3.mp3 = Ballen
+exp002_schritt1.mp3 = Drücke deinen Fuß fest in feuchten Sand.
+exp002_schritt2.mp3 = Fotografiere den Abdruck.
+exp002_schritt3.mp3 = Zähle die Zehen und male sie nach.
+exp002_wissen.mp3 = Viele Dinos liefen auf drei kräftigen Zehen – so wie Hühner heute.
+exp002_naechste_frage.mp3 = Wie verändert sich dein Abdruck, wenn du rennst?
+
+# Experiment 3: Fossil aus Salzteig
+exp003_titel.mp3 = Fossil aus Salzteig.
+exp003_frage.mp3 = Wie kommt ein Abdruck in den Stein?
+exp003_vermutung1.mp3 = Muschel
+exp003_vermutung2.mp3 = Blatt
+exp003_vermutung3.mp3 = Zweig
+exp003_schritt1.mp3 = Knete einen flachen Teigfladen.
+exp003_schritt2.mp3 = Drücke eine Muschel oder ein Blatt hinein.
+exp003_schritt3.mp3 = Nimm sie vorsichtig heraus und lass alles trocknen.
+exp003_wissen.mp3 = Echte Fossilien brauchen Millionen Jahre. Dein Teig-Fossil ist morgen fertig.
+exp003_naechste_frage.mp3 = Welches Material gibt den schärfsten Abdruck?
+
+# Experiment 4: Schichten der Erde
+exp004_titel.mp3 = Schichten der Erde.
+exp004_frage.mp3 = Warum liegen alte Dinge ganz unten?
+exp004_vermutung1.mp3 = Oben
+exp004_vermutung2.mp3 = Unten
+exp004_vermutung3.mp3 = Egal
+exp004_schritt1.mp3 = Fülle das Glas schichtweise: erst Kies, dann Erde, dann Sand.
+exp004_schritt2.mp3 = Lege in jede Schicht ein winziges Fundstück.
+exp004_schritt3.mp3 = Zeichne die Schichten ab und beschrifte die älteste.
+exp004_wissen.mp3 = Je tiefer eine Gesteinsschicht liegt, desto älter ist sie meistens.
+exp004_naechste_frage.mp3 = Was passiert mit den Schichten, wenn oben Wasser dazukommt?
+
+# Experiment 5: Blattdruck
+exp005_titel.mp3 = Blattdruck.
+exp005_frage.mp3 = Kann ein Blatt eine Spur hinterlassen?
+exp005_vermutung1.mp3 = Eiche
+exp005_vermutung2.mp3 = Ahorn
+exp005_vermutung3.mp3 = Farn
+exp005_schritt1.mp3 = Lege ein Blatt unter das Papier.
+exp005_schritt2.mp3 = Male mit der flachen Seite des Stifts darüber.
+exp005_schritt3.mp3 = Vergleiche zwei verschiedene Blätter.
+exp005_wissen.mp3 = Auch Pflanzen werden zu Fossilien. So wissen wir, was Dinos gefressen haben.
+exp005_naechste_frage.mp3 = Erkennst du den Baum allein am Abdruck?
+
+# Experiment 6: Wie groß war der Läufer?
+exp006_titel.mp3 = Wie groß war der Läufer?.
+exp006_frage.mp3 = Verrät die Spur die Größe des Tieres?
+exp006_vermutung1.mp3 = Winzig
+exp006_vermutung2.mp3 = Mittel
+exp006_vermutung3.mp3 = Riesig
+exp006_schritt1.mp3 = Miss die Länge eines Fußabdrucks.
+exp006_schritt2.mp3 = Rechne: Abdruck mal vier ist ungefähr die Beinlänge.
+exp006_schritt3.mp3 = Schreibe dein Ergebnis auf.
+exp006_wissen.mp3 = Paläontologen schätzen die Höhe eines Dinos aus der Länge seines Fußabdrucks.
+exp006_rekord.mp3 = Aus der Abdrucklänge mal vier schätzen Forscher die Beinlänge.
+exp006_naechste_frage.mp3 = Stimmt die Rechnung auch bei einem Hund?
+
+# Experiment 7: Ausgrabung
+exp007_titel.mp3 = Ausgrabung.
+exp007_frage.mp3 = Was liegt unter dem Sand versteckt?
+exp007_vermutung1.mp3 = Knochen
+exp007_vermutung2.mp3 = Stein
+exp007_schritt1.mp3 = Lass jemanden kleine Gegenstände vergraben.
+exp007_schritt2.mp3 = Grabe vorsichtig mit dem Pinsel, nicht mit den Händen.
+exp007_schritt3.mp3 = Fotografiere jeden Fund, bevor du ihn hochhebst.
+exp007_wissen.mp3 = Echte Forscher fotografieren jeden Knochen, bevor sie ihn bewegen. Sonst geht die Information verloren.
+exp007_naechste_frage.mp3 = Findest du auch mit geschlossenen Augen etwas?
+
+# Experiment 8: Steine untersuchen
+exp008_titel.mp3 = Steine untersuchen.
+exp008_frage.mp3 = Sind alle Steine gleich?
+exp008_vermutung1.mp3 = Rau
+exp008_vermutung2.mp3 = Glatt
+exp008_vermutung3.mp3 = Glitzernd
+exp008_schritt1.mp3 = Sammle fünf verschiedene Steine.
+exp008_schritt2.mp3 = Schau jeden mit der Lupe an.
+exp008_schritt3.mp3 = Sortiere sie von rau nach glatt.
+exp008_wissen.mp3 = Glatte Steine sind oft lange im Wasser gerollt. Raue Steine sind frisch abgebrochen.
+exp008_naechste_frage.mp3 = Woher kommt der glatteste Stein, den du hast?
+
+# Experiment 9: Wer lief schneller?
+exp009_titel.mp3 = Wer lief schneller?.
+exp009_frage.mp3 = Verraten Schritte die Geschwindigkeit?
+exp009_vermutung1.mp3 = Langsam
+exp009_vermutung2.mp3 = Normal
+exp009_vermutung3.mp3 = Schnell
+exp009_schritt1.mp3 = Gehe langsam zehn Schritte und markiere sie.
+exp009_schritt2.mp3 = Renne dieselbe Strecke und markiere wieder.
+exp009_schritt3.mp3 = Vergleiche die Abstände.
+exp009_wissen.mp3 = Große Abstände zwischen Spuren bedeuten: Das Tier rannte.
+exp009_rekord.mp3 = Ein rennender Raubdino ließ über vier Meter Lücke zwischen den Spuren.
+exp009_naechste_frage.mp3 = Wie sehen deine Spuren aus, wenn du hüpfst?
+
+# Experiment 10: Meine Fundkarte
+exp010_titel.mp3 = Meine Fundkarte.
+exp010_frage.mp3 = Wo hast du etwas entdeckt?
+exp010_vermutung1.mp3 = Zuhause
+exp010_vermutung2.mp3 = Park
+exp010_schritt1.mp3 = Zeichne eine Karte von deinem Forschungsort.
+exp010_schritt2.mp3 = Male ein Kreuz an jede Fundstelle.
+exp010_schritt3.mp3 = Schreibe dazu, was du dort gefunden hast.
+exp010_wissen.mp3 = Ohne Fundkarte weiß niemand mehr, wo ein Fossil gelegen hat.
+exp010_naechste_frage.mp3 = Findest du deine Stelle mit der Karte wieder?
+
+# ------------------------------------------------------------------
+# Kapitel 2 · Riesig & Winzig
+# ------------------------------------------------------------------
+
+# Experiment 11: So lang wie ein Brachiosaurus
+exp011_titel.mp3 = So lang wie ein Brachiosaurus.
+exp011_frage.mp3 = Wie lang sind 23 Meter?
+exp011_vermutung1.mp3 = Wie ein Auto
+exp011_vermutung2.mp3 = Wie ein Bus
+exp011_vermutung3.mp3 = Wie ein Haus
+exp011_schritt1.mp3 = Gehe 30 große Schritte geradeaus.
+exp011_schritt2.mp3 = Schau zurück – so lang war ein Brachiosaurus.
+exp011_schritt3.mp3 = Fotografiere die Strecke.
+exp011_wissen.mp3 = Brachiosaurus war etwa so lang wie zwei Busse hintereinander.
+exp011_rekord.mp3 = Brachiosaurus: etwa 23 Meter lang.
+exp011_naechste_frage.mp3 = Wie lange brauchst du für diese Strecke?
+
+# Experiment 12: Größenvergleich
+exp012_titel.mp3 = Größenvergleich.
+exp012_frage.mp3 = Wie klein bist du neben einem Dino?
+exp012_vermutung1.mp3 = 2 mal
+exp012_vermutung2.mp3 = 5 mal
+exp012_vermutung3.mp3 = 10 mal
+exp012_schritt1.mp3 = Male dich selbst an den Rand der Seite.
+exp012_schritt2.mp3 = Male daneben einen Dino, der zehnmal größer ist.
+exp012_schritt3.mp3 = Zähle, wie oft du hineinpasst.
+exp012_wissen.mp3 = Ein T-Rex war etwa so hoch wie ein Doppeldeckerbus.
+exp012_rekord.mp3 = T-Rex: etwa 4 Meter Hüfthöhe, 12 Meter Länge.
+exp012_naechste_frage.mp3 = Welches Tier von heute kommt einem Dino am nächsten?
+
+# Experiment 13: Wie groß war ein Dino-Ei?
+exp013_titel.mp3 = Wie groß war ein Dino-Ei?.
+exp013_frage.mp3 = Passt ein Dino-Ei in deine Hand?
+exp013_vermutung1.mp3 = Hühnerei
+exp013_vermutung2.mp3 = Apfel
+exp013_vermutung3.mp3 = Fußball
+exp013_schritt1.mp3 = Lege einen Ball, einen Apfel und ein Ei nebeneinander.
+exp013_schritt2.mp3 = Fotografiere sie mit deiner Hand daneben.
+exp013_schritt3.mp3 = Kreise das ein, was du für ein Dino-Ei hältst.
+exp013_wissen.mp3 = Selbst die größten Dino-Eier waren kaum größer als ein Fußball.
+exp013_rekord.mp3 = Das größte bekannte Dino-Ei misst rund 30 Zentimeter.
+exp013_naechste_frage.mp3 = Wie viele Hühnereier ergeben zusammen ein Dino-Ei?
+
+# Experiment 14: Fußabdruck in Lebensgröße
+exp014_titel.mp3 = Fußabdruck in Lebensgröße.
+exp014_frage.mp3 = Wie groß war ein Dino-Fuß wirklich?
+exp014_vermutung1.mp3 = Kleiner
+exp014_vermutung2.mp3 = Genau
+exp014_vermutung3.mp3 = Größer
+exp014_schritt1.mp3 = Male mit Kreide einen Fuß von einem Meter Länge.
+exp014_schritt2.mp3 = Stelle dich hinein.
+exp014_schritt3.mp3 = Fotografiere dich im Abdruck.
+exp014_wissen.mp3 = In den Fußabdruck eines Sauropoden passt ein ganzes Kind zum Sitzen.
+exp014_rekord.mp3 = Ein Sauropoden-Abdruck war bis zu 1 Meter lang.
+exp014_naechste_frage.mp3 = Wie viele deiner Abdrücke passen in den großen hinein?
+
+# Experiment 15: Waage bauen
+exp015_titel.mp3 = Waage bauen.
+exp015_frage.mp3 = Was ist schwerer?
+exp015_vermutung3.mp3 = Feder
+exp015_schritt1.mp3 = Hänge zwei Becher an ein Lineal und balanciere es aus.
+exp015_schritt2.mp3 = Lege links und rechts verschiedene Dinge hinein.
+exp015_schritt3.mp3 = Notiere, was schwerer war.
+exp015_wissen.mp3 = Argentinosaurus wog so viel wie zehn Elefanten.
+exp015_rekord.mp3 = Argentinosaurus: etwa 70 Tonnen.
+exp015_naechste_frage.mp3 = Wie viele Steine wiegen so viel wie ein Apfel?
+
+# Experiment 16: Der kleinste Dino
+exp016_titel.mp3 = Der kleinste Dino.
+exp016_frage.mp3 = Waren alle Dinos riesig?
+exp016_vermutung1.mp3 = Wie eine Maus
+exp016_vermutung2.mp3 = Wie ein Vogel
+exp016_vermutung3.mp3 = Wie eine Katze
+exp016_schritt1.mp3 = Miss 30 Zentimeter ab – so groß war ein kleiner Raubdino.
+exp016_schritt2.mp3 = Suche etwas in deinem Zimmer, das genauso groß ist.
+exp016_schritt3.mp3 = Fotografiere es.
+exp016_wissen.mp3 = Der kleinste bekannte Dino war ungefähr so groß wie eine Taube.
+exp016_rekord.mp3 = Der kleinste bekannte Dino war rund 35 Zentimeter lang.
+exp016_naechste_frage.mp3 = Welches Tier in deiner Nähe ist genauso groß?
+
+# Experiment 17: Der lange Hals
+exp017_titel.mp3 = Der lange Hals.
+exp017_frage.mp3 = Wozu braucht man einen langen Hals?
+exp017_vermutung1.mp3 = Hohe Blätter
+exp017_vermutung3.mp3 = Weit sehen
+exp017_schritt1.mp3 = Klebe Rollen zu einem langen Hals zusammen.
+exp017_schritt2.mp3 = Halte ihn hoch – was kannst du damit erreichen?
+exp017_schritt3.mp3 = Male, was oben zu fressen wäre.
+exp017_wissen.mp3 = Mamenchisaurus hatte einen Hals von zwölf Metern – halb so lang wie sein ganzer Körper.
+exp017_rekord.mp3 = Mamenchisaurus: 12 Meter Hals.
+exp017_naechste_frage.mp3 = Wie lang darf dein Papierhals werden, bevor er umkippt?
+
+# Experiment 18: Wie viele Kinder?
+exp018_titel.mp3 = Wie viele Kinder?.
+exp018_frage.mp3 = Wie schwer ist ein T-Rex?
+exp018_vermutung1.mp3 = Etwa 10
+exp018_vermutung2.mp3 = Etwa 100
+exp018_vermutung3.mp3 = Über 200
+exp018_schritt1.mp3 = Ein T-Rex wog etwa 7000 Kilo.
+exp018_schritt2.mp3 = Ein Kind wiegt etwa 25 Kilo. Schätze, wie viele Kinder das sind.
+exp018_schritt3.mp3 = Male eine Reihe Strichmännchen als Antwort.
+exp018_wissen.mp3 = Es wären ungefähr 280 Kinder nötig, um einen T-Rex aufzuwiegen.
+exp018_rekord.mp3 = T-Rex: rund 7000 Kilo.
+exp018_naechste_frage.mp3 = Wie viele Kinder wiegen zusammen so viel wie du?
+
+# Experiment 19: Ein Zahn so groß wie...
+exp019_titel.mp3 = Ein Zahn so groß wie....
+exp019_frage.mp3 = Wie groß war ein T-Rex-Zahn?
+exp019_vermutung1.mp3 = Wie eine Nuss
+exp019_vermutung2.mp3 = Wie eine Banane
+exp019_vermutung3.mp3 = Wie eine Möhre
+exp019_schritt1.mp3 = Ein großer T-Rex-Zahn war 20 Zentimeter lang.
+exp019_schritt2.mp3 = Lege eine Banane daneben und miss sie.
+exp019_schritt3.mp3 = Zeichne den Zahn in Originalgröße.
+exp019_wissen.mp3 = Ein T-Rex verlor ständig Zähne – und es wuchsen sofort neue nach.
+exp019_rekord.mp3 = Ein T-Rex-Zahn wurde bis zu 20 Zentimeter lang.
+exp019_naechste_frage.mp3 = Wie lang wäre ein Zahn, der zu deiner Größe passt?
+
+# Experiment 20: Mein Dino-Maßband
+exp020_titel.mp3 = Mein Dino-Maßband.
+exp020_frage.mp3 = Wie misst man ohne Lineal?
+exp020_vermutung1.mp3 = 1 Arm
+exp020_vermutung2.mp3 = 3 Arme
+exp020_vermutung3.mp3 = 10 Arme
+exp020_schritt1.mp3 = Schneide eine Schnur so lang wie dein Arm ab.
+exp020_schritt2.mp3 = Miss damit drei Dinge im Raum.
+exp020_schritt3.mp3 = Schreibe auf: Wie viele Armlängen?
+exp020_wissen.mp3 = Früher maßen Menschen mit Füßen, Ellen und Schritten – jeder hatte andere Maße.
+exp020_naechste_frage.mp3 = Ist dein Arm ein zuverlässiges Maß? Miss zweimal.
+
+# ------------------------------------------------------------------
+# Kapitel 3 · Schnell & Stark
+# ------------------------------------------------------------------
+
+# Experiment 21: Wie schnell bist du?
+exp021_titel.mp3 = Wie schnell bist du?.
+exp021_frage.mp3 = Wärst du schneller als ein Raubdino?
+exp021_vermutung4.mp3 = Superschnell
+exp021_schritt1.mp3 = Miss zehn Meter ab.
+exp021_schritt2.mp3 = Laufe los und lass jemanden stoppen.
+exp021_schritt3.mp3 = Notiere deine Zeit.
+exp021_wissen.mp3 = Ein Velociraptor lief etwa 40 km/h – ungefähr so schnell wie ein Fahrrad bergab.
+exp021_rekord.mp3 = Velociraptor: etwa 40 km/h. T-Rex: etwa 20 km/h. Mensch: etwa 15 km/h.
+exp021_naechste_frage.mp3 = Bist du mit Anlauf schneller?
+
+# Experiment 22: Zwei Beine oder vier?
+exp022_titel.mp3 = Zwei Beine oder vier?.
+exp022_frage.mp3 = Womit kommst du schneller voran?
+exp022_vermutung1.mp3 = Zwei Beine
+exp022_vermutung2.mp3 = Vier Beine
+exp022_vermutung3.mp3 = Gleich
+exp022_schritt1.mp3 = Laufe eine kurze Strecke auf zwei Beinen.
+exp022_schritt2.mp3 = Krabbele dieselbe Strecke auf allen vieren.
+exp022_schritt3.mp3 = Vergleiche und schreibe auf, was leichter war.
+exp022_wissen.mp3 = Viele Dinos wechselten: Sie grasten auf vier Beinen und rannten auf zwei.
+exp022_naechste_frage.mp3 = Ist es auf Gras anders als auf Stein?
+
+# Experiment 23: Der Schwanz als Balance
+exp023_titel.mp3 = Der Schwanz als Balance.
+exp023_frage.mp3 = Hilft ein Schwanz beim Balancieren?
+exp023_vermutung1.mp3 = Mit Stab
+exp023_vermutung2.mp3 = Ohne Stab
+exp023_schritt1.mp3 = Balanciere auf einer Linie mit hängenden Armen.
+exp023_schritt2.mp3 = Balanciere noch einmal mit ausgestrecktem Stab.
+exp023_schritt3.mp3 = Was war leichter?
+exp023_wissen.mp3 = Der schwere Schwanz eines T-Rex war das Gegengewicht zu seinem Kopf.
+exp023_naechste_frage.mp3 = Hilft ein schwererer Stab noch mehr?
+
+# Experiment 24: Schritte zählen
+exp024_titel.mp3 = Schritte zählen.
+exp024_frage.mp3 = Wie viele Schritte brauchst du?
+exp024_vermutung1.mp3 = Unter 10
+exp024_vermutung2.mp3 = 10 bis 20
+exp024_vermutung3.mp3 = Über 20
+exp024_schritt1.mp3 = Zähle deine Schritte durch den Raum.
+exp024_schritt2.mp3 = Mache jetzt Riesenschritte und zähle noch einmal.
+exp024_schritt3.mp3 = Male beide Zahlen auf.
+exp024_wissen.mp3 = Ein Sauropode brauchte für dieselbe Strecke nur wenige Schritte – seine Beine waren so lang wie ein Auto.
+exp024_rekord.mp3 = Ein großer Sauropode kam mit einem Schritt vier Meter weit.
+exp024_naechste_frage.mp3 = Wie viele Schritte braucht ein Erwachsener für dieselbe Strecke?
+
+# Experiment 25: Wer zieht stärker?
+exp025_titel.mp3 = Wer zieht stärker?.
+exp025_frage.mp3 = Wie stark bist du?
+exp025_vermutung1.mp3 = Eine Hand
+exp025_vermutung2.mp3 = Zwei Hände
+exp025_vermutung3.mp3 = Ganzer Körper
+exp025_schritt1.mp3 = Zieht zu zweit vorsichtig an einem Tuch.
+exp025_schritt2.mp3 = Probiert es mit einer Hand und mit beiden.
+exp025_schritt3.mp3 = Notiert, was den Unterschied macht.
+exp025_wissen.mp3 = Triceratops schob mit seinem Nackenschild Gegner zur Seite – wie ein Bulldozer.
+exp025_naechste_frage.mp3 = Ändert sich das Ergebnis mit rutschigen Schuhen?
+
+# Experiment 26: Weitsprung
+exp026_titel.mp3 = Weitsprung.
+exp026_frage.mp3 = Wie weit springst du?
+exp026_vermutung1.mp3 = Unter 1 m
+exp026_vermutung2.mp3 = Etwa 1 m
+exp026_vermutung3.mp3 = Über 1 m
+exp026_schritt1.mp3 = Springe aus dem Stand so weit du kannst.
+exp026_schritt2.mp3 = Markiere die Landung mit Kreide.
+exp026_schritt3.mp3 = Miss die Strecke und schreibe sie auf.
+exp026_wissen.mp3 = Kleine Raubdinos sprangen wahrscheinlich weiter als jeder Mensch.
+exp026_rekord.mp3 = Kleine Raubdinos sprangen mehrere Meter weit.
+exp026_naechste_frage.mp3 = Springst du mit Anlauf wirklich weiter?
+
+# Experiment 27: Panzer-Test
+exp027_titel.mp3 = Panzer-Test.
+exp027_frage.mp3 = Welcher Schutz hält am besten?
+exp027_vermutung2.mp3 = Tuch
+exp027_vermutung3.mp3 = Karton
+exp027_schritt1.mp3 = Wickle einen Ball einmal in Papier, einmal in ein Tuch.
+exp027_schritt2.mp3 = Lass ihn aus kleiner Höhe fallen.
+exp027_schritt3.mp3 = Male, welcher Schutz gewonnen hat.
+exp027_wissen.mp3 = Ankylosaurus trug Knochenplatten auf dem Rücken – wie ein lebender Panzer.
+exp027_naechste_frage.mp3 = Welche Polsterung ist leicht und schützt trotzdem?
+
+# Experiment 28: Stampf-Erschütterung
+exp028_titel.mp3 = Stampf-Erschütterung.
+exp028_frage.mp3 = Kann man Schritte im Wasser sehen?
+exp028_vermutung1.mp3 = Kleine Wellen
+exp028_vermutung2.mp3 = Große Wellen
+exp028_vermutung3.mp3 = Nichts
+exp028_schritt1.mp3 = Stelle ein halbvolles Glas auf den Tisch.
+exp028_schritt2.mp3 = Stampfe daneben auf den Boden.
+exp028_schritt3.mp3 = Beobachte die Wellen und male sie.
+exp028_wissen.mp3 = Schwere Dinos ließen den Boden vibrieren. Andere Tiere spürten sie, bevor sie sie sahen.
+exp028_naechste_frage.mp3 = Spürst du das Stampfen auch durch eine Wand?
+
+# Experiment 29: Schwere Last tragen
+exp029_titel.mp3 = Schwere Last tragen.
+exp029_frage.mp3 = Wie viel kannst du tragen?
+exp029_vermutung1.mp3 = Leicht
+exp029_vermutung2.mp3 = Geht so
+exp029_vermutung3.mp3 = Ganz schön schwer
+exp029_schritt1.mp3 = Packe erst ein Buch in den Rucksack und gehe zehn Schritte.
+exp029_schritt2.mp3 = Packe drei Bücher dazu und gehe wieder.
+exp029_schritt3.mp3 = Beschreibe den Unterschied.
+exp029_wissen.mp3 = Die Beine der Sauropoden waren Säulen aus dickem Knochen – nur so trugen sie ihr Gewicht.
+exp029_rekord.mp3 = Die Beinknochen der Sauropoden waren dicker als ein Kinderkörper.
+exp029_naechste_frage.mp3 = Wie weit kommst du mit doppeltem Gewicht?
+
+# Experiment 30: Ausdauer-Test
+exp030_titel.mp3 = Ausdauer-Test.
+exp030_frage.mp3 = Wie lange hältst du durch?
+exp030_vermutung1.mp3 = Unter 10 s
+exp030_vermutung2.mp3 = 10 bis 30 s
+exp030_vermutung3.mp3 = Über 30 s
+exp030_schritt1.mp3 = Stehe auf einem Bein und lass die Zeit laufen.
+exp030_schritt2.mp3 = Probiere es mit geschlossenen Augen noch einmal.
+exp030_schritt3.mp3 = Notiere beide Zeiten.
+exp030_wissen.mp3 = Flamingos stehen stundenlang auf einem Bein – auch sie sind Dino-Verwandte.
+exp030_rekord.mp3 = Flamingos stehen stundenlang auf einem Bein.
+exp030_naechste_frage.mp3 = Hilft es, einen festen Punkt anzuschauen?
+
+# ------------------------------------------------------------------
+# Kapitel 4 · Zähne & Futter
+# ------------------------------------------------------------------
+
+# Experiment 31: Spitz oder flach?
+exp031_titel.mp3 = Spitz oder flach?.
+exp031_frage.mp3 = Was verraten Zähne über das Futter?
+exp031_vermutung1.mp3 = Spitz
+exp031_vermutung2.mp3 = Flach
+exp031_vermutung3.mp3 = Beides
+exp031_schritt1.mp3 = Schau dir deine Zähne im Spiegel an.
+exp031_schritt2.mp3 = Finde die spitzen vorne und die flachen hinten.
+exp031_schritt3.mp3 = Male beide Formen auf.
+exp031_wissen.mp3 = Spitze Zähne reißen Fleisch. Flache Zähne mahlen Pflanzen. Du hast beides.
+exp031_naechste_frage.mp3 = Welche Zähne hat ein Haustier, das du kennst?
+
+# Experiment 32: Blätter rupfen
+exp032_titel.mp3 = Blätter rupfen.
+exp032_frage.mp3 = Wie frisst man Blätter ohne Hände?
+exp032_vermutung1.mp3 = Kamm
+exp032_vermutung2.mp3 = Lippen
+exp032_vermutung3.mp3 = Hände
+exp032_schritt1.mp3 = Ziehe einen Kamm durch die Blätter, ohne die Hände zu benutzen.
+exp032_schritt2.mp3 = Probiere es dann nur mit den Lippen.
+exp032_schritt3.mp3 = Was hat besser funktioniert?
+exp032_wissen.mp3 = Diplodocus hatte Zähne wie einen Rechen: Er streifte Blätter von Zweigen ab.
+exp032_naechste_frage.mp3 = Welches Blatt reißt am leichtesten ab?
+
+# Experiment 33: Reißen oder mahlen
+exp033_titel.mp3 = Reißen oder mahlen.
+exp033_frage.mp3 = Wie zerkleinerst du dein Essen?
+exp033_vermutung1.mp3 = Vorne
+exp033_vermutung2.mp3 = Hinten
+exp033_schritt1.mp3 = Beiße vorsichtig ein Stück Möhre ab.
+exp033_schritt2.mp3 = Achte darauf, welche Zähne du benutzt.
+exp033_schritt3.mp3 = Male die Zähne, die am meisten arbeiten.
+exp033_wissen.mp3 = Hadrosaurier hatten über 1000 Zähne, die wie eine Mühle zusammenarbeiteten.
+exp033_rekord.mp3 = Hadrosaurier hatten über 1000 Zähne im Maul.
+exp033_naechste_frage.mp3 = Was ändert sich bei hartem Brot?
+
+# Experiment 34: Magensteine
+exp034_titel.mp3 = Magensteine.
+exp034_frage.mp3 = Warum schlucken Tiere Steine?
+exp034_vermutung1.mp3 = Bleibt ganz
+exp034_vermutung2.mp3 = Zerfällt
+exp034_vermutung3.mp3 = Weiß nicht
+exp034_schritt1.mp3 = Fülle Wasser und ein Blatt in eine Flasche und schüttle.
+exp034_schritt2.mp3 = Gib Kieselsteine dazu und schüttle wieder.
+exp034_schritt3.mp3 = Vergleiche, was mit dem Blatt passiert.
+exp034_wissen.mp3 = Sauropoden schluckten Steine, die im Magen das Futter zerrieben. Sie hießen Gastrolithen.
+exp034_naechste_frage.mp3 = Wie viele Steine braucht es, bis es schneller geht?
+
+# Experiment 35: Fressende Tiere beobachten
+exp035_titel.mp3 = Fressende Tiere beobachten.
+exp035_frage.mp3 = Wie frisst ein Tier heute?
+exp035_vermutung1.mp3 = Vogel
+exp035_vermutung2.mp3 = Eichhörnchen
+exp035_vermutung3.mp3 = Haustier
+exp035_schritt1.mp3 = Beobachte einen Vogel, ein Eichhörnchen oder ein Haustier beim Fressen.
+exp035_schritt2.mp3 = Fotografiere oder male, wie es das Futter hält.
+exp035_schritt3.mp3 = Beschreibe, was der Schnabel oder das Maul tut.
+exp035_wissen.mp3 = Vögel haben keine Zähne. Sie zerkleinern Futter in einem Muskelmagen.
+exp035_naechste_frage.mp3 = Wie lange braucht ein Vogel für ein einzelnes Korn?
+
+# Experiment 36: Zahnabdruck in Knete
+exp036_titel.mp3 = Zahnabdruck in Knete.
+exp036_frage.mp3 = Hinterlässt jeder Biss dieselbe Spur?
+exp036_vermutung2.mp3 = Gabel
+exp036_vermutung3.mp3 = Ähnlich
+exp036_schritt1.mp3 = Beiße vorsichtig in einen Apfel und schau dir die Spur an.
+exp036_schritt2.mp3 = Drücke eine Gabel in Knete.
+exp036_schritt3.mp3 = Vergleiche beide Muster.
+exp036_wissen.mp3 = An Bissspuren in Fossilien erkennen Forscher, welcher Dino wen gefressen hat.
+exp036_naechste_frage.mp3 = Erkennst du an der Bissspur, wer gebissen hat?
+
+# Experiment 37: Ein Berg Futter
+exp037_titel.mp3 = Ein Berg Futter.
+exp037_frage.mp3 = Wie viel frisst ein Riese am Tag?
+exp037_vermutung1.mp3 = Eine Schüssel
+exp037_vermutung2.mp3 = Ein Wagen
+exp037_vermutung3.mp3 = Ein Lastwagen
+exp037_schritt1.mp3 = Fülle eine Schüssel mit Salat.
+exp037_schritt2.mp3 = Ein Sauropode fraß etwa 500 Kilo am Tag.
+exp037_schritt3.mp3 = Male, wie hoch dieser Berg wäre.
+exp037_wissen.mp3 = Ein großer Pflanzenfresser fraß fast den ganzen Tag – zum Kauen blieb kaum Zeit.
+exp037_rekord.mp3 = Ein großer Pflanzenfresser fraß etwa 500 Kilo am Tag.
+exp037_naechste_frage.mp3 = Wie viel isst du selbst an einem Tag?
+
+# Experiment 38: Schnabel-Werkzeuge
+exp038_titel.mp3 = Schnabel-Werkzeuge.
+exp038_frage.mp3 = Welcher Schnabel passt zu welchem Futter?
+exp038_vermutung1.mp3 = Pinzette
+exp038_schritt1.mp3 = Hole Reiskörner mit der Pinzette heraus.
+exp038_schritt2.mp3 = Schöpfe Wasser mit dem Löffel.
+exp038_schritt3.mp3 = Notiere, welches Werkzeug wozu passt.
+exp038_wissen.mp3 = Jeder Vogelschnabel ist ein Spezialwerkzeug – vom Nussknacker bis zum Sieb.
+exp038_naechste_frage.mp3 = Welches Werkzeug holt Wasser aus einer engen Flasche?
+
+# Experiment 39: Kauen zählen
+exp039_titel.mp3 = Kauen zählen.
+exp039_frage.mp3 = Wie oft kaust du?
+exp039_schritt1.mp3 = Nimm einen Bissen und zähle deine Kaubewegungen.
+exp039_schritt2.mp3 = Probiere es mit Brot noch einmal.
+exp039_schritt3.mp3 = Vergleiche die Zahlen.
+exp039_wissen.mp3 = Der T-Rex kaute überhaupt nicht. Er schluckte große Stücke im Ganzen.
+exp039_rekord.mp3 = Der T-Rex kaute gar nicht, er schluckte im Ganzen.
+exp039_naechste_frage.mp3 = Kaust du bei deinem Lieblingsessen anders?
+
+# Experiment 40: Mein Dino-Menü
+exp040_titel.mp3 = Mein Dino-Menü.
+exp040_frage.mp3 = Was würde dein Dino fressen?
+exp040_vermutung1.mp3 = Pflanzen
+exp040_vermutung2.mp3 = Fleisch
+exp040_vermutung3.mp3 = Alles
+exp040_schritt1.mp3 = Erfinde einen Dino und gib ihm einen Namen.
+exp040_schritt2.mp3 = Male drei Dinge auf seinen Speiseplan.
+exp040_schritt3.mp3 = Male seine passenden Zähne dazu.
+exp040_wissen.mp3 = Manche Dinos fraßen beides: Pflanzen und Fleisch. Sie heißen Allesfresser.
+exp040_naechste_frage.mp3 = Welche Zähne bräuchte dein Dino für harte Nüsse?
+
+# ------------------------------------------------------------------
+# Kapitel 5 · Eier & Nester
+# ------------------------------------------------------------------
+
+# Experiment 41: Nest bauen
+exp041_titel.mp3 = Nest bauen.
+exp041_frage.mp3 = Woraus baut man ein gutes Nest?
+exp041_vermutung1.mp3 = Gras
+exp041_vermutung2.mp3 = Zweige
+exp041_schritt1.mp3 = Sammle draußen weiche und feste Materialien.
+exp041_schritt2.mp3 = Baue eine runde Mulde.
+exp041_schritt3.mp3 = Fotografiere dein Nest von oben.
+exp041_wissen.mp3 = Manche Dinos bauten Nester dicht nebeneinander – wie eine Möwenkolonie.
+exp041_naechste_frage.mp3 = Hält dein Nest auch im Wind?
+
+# Experiment 42: Ei-Fall-Test
+exp042_titel.mp3 = Ei-Fall-Test.
+exp042_frage.mp3 = Welche Polsterung schützt am besten?
+exp042_vermutung1.mp3 = Watte
+exp042_schritt1.mp3 = Polstere dein Ei auf drei verschiedene Arten.
+exp042_schritt2.mp3 = Lass es aus Tischhöhe auf eine weiche Unterlage fallen.
+exp042_schritt3.mp3 = Male ein Häkchen bei der besten Polsterung.
+exp042_wissen.mp3 = Dino-Eier lagen weich in Pflanzen gebettet – das hielt sie warm und heil.
+exp042_rekord.mp3 = Dino-Eier lagen in weichem Pflanzenmaterial gebettet.
+exp042_naechste_frage.mp3 = Aus welcher Höhe hält die Polsterung nicht mehr?
+
+# Experiment 43: Warum rollt ein Ei im Kreis?
+exp043_titel.mp3 = Warum rollt ein Ei im Kreis?.
+exp043_frage.mp3 = Rollt ein Ei geradeaus?
+exp043_vermutung1.mp3 = Geradeaus
+exp043_vermutung2.mp3 = Im Kreis
+exp043_schritt1.mp3 = Rolle ein Ei über den Tisch.
+exp043_schritt2.mp3 = Rolle danach einen Ball.
+exp043_schritt3.mp3 = Male beide Wege auf.
+exp043_wissen.mp3 = Weil Eier spitz zulaufen, rollen sie im Kreis zurück – und nicht aus dem Nest.
+exp043_naechste_frage.mp3 = Rollt eine Kugel anders als ein Ei?
+
+# Experiment 44: Die Kraft der Kuppel
+exp044_titel.mp3 = Die Kraft der Kuppel.
+exp044_frage.mp3 = Wie stark ist eine Eierschale?
+exp044_vermutung1.mp3 = 1 Buch
+exp044_vermutung2.mp3 = 3 Bücher
+exp044_vermutung3.mp3 = Mehr
+exp044_schritt1.mp3 = Stelle vier Schalenhälften mit der Wölbung nach oben auf.
+exp044_schritt2.mp3 = Lege vorsichtig ein Buch darauf.
+exp044_schritt3.mp3 = Zähle, wie viele Bücher sie tragen.
+exp044_wissen.mp3 = Die Kuppelform verteilt das Gewicht – deshalb sind auch Brücken gewölbt.
+exp044_naechste_frage.mp3 = Trägt eine umgedrehte Schale genauso viel?
+
+# Experiment 45: Warm bleiben
+exp045_titel.mp3 = Warm bleiben.
+exp045_frage.mp3 = Was hält ein Ei warm?
+exp045_vermutung1.mp3 = Eingepackt
+exp045_vermutung2.mp3 = Frei
+exp045_schritt1.mp3 = Wickle ein Ei in ein Tuch, lass das andere frei liegen.
+exp045_schritt2.mp3 = Warte zehn Minuten.
+exp045_schritt3.mp3 = Fühle beide und beschreibe den Unterschied.
+exp045_wissen.mp3 = Oviraptor saß auf seinem Nest wie ein Vogel und wärmte die Eier mit dem Körper.
+exp045_naechste_frage.mp3 = Welcher Stoff hält die Wärme am längsten?
+
+# Experiment 46: Nest verstecken
+exp046_titel.mp3 = Nest verstecken.
+exp046_frage.mp3 = Wie versteckt man ein Nest?
+exp046_vermutung1.mp3 = Sofort gefunden
+exp046_vermutung2.mp3 = Gedauert
+exp046_vermutung3.mp3 = Nicht gefunden
+exp046_schritt1.mp3 = Lege dein Nest an eine Stelle draußen.
+exp046_schritt2.mp3 = Tarne es mit Blättern und Gras.
+exp046_schritt3.mp3 = Fotografiere es und lass jemanden suchen.
+exp046_wissen.mp3 = Gut getarnte Nester werden von Räubern seltener gefunden.
+exp046_naechste_frage.mp3 = Findet jemand dein Nest aus zehn Schritten Entfernung?
+
+# Experiment 47: Wie viele passen hinein?
+exp047_titel.mp3 = Wie viele passen hinein?.
+exp047_frage.mp3 = Wie viele Eier fasst dein Nest?
+exp047_vermutung1.mp3 = Bis 5
+exp047_vermutung2.mp3 = Bis 10
+exp047_schritt1.mp3 = Lege so viele runde Dinge ins Nest, wie hineinpassen.
+exp047_schritt2.mp3 = Zähle sie.
+exp047_schritt3.mp3 = Male sie in dein Buch.
+exp047_wissen.mp3 = Manche Dino-Nester enthielten über 30 Eier – kreisförmig angeordnet.
+exp047_rekord.mp3 = Manche Dino-Nester enthielten über 30 Eier.
+exp047_naechste_frage.mp3 = Passen mehr Eier hinein, wenn du sie anders legst?
+
+# Experiment 48: Schwimmt ein Ei?
+exp048_titel.mp3 = Schwimmt ein Ei?.
+exp048_frage.mp3 = Geht ein Ei unter?
+exp048_vermutung1.mp3 = Sinkt
+exp048_vermutung2.mp3 = Schwimmt
+exp048_vermutung3.mp3 = Schwebt
+exp048_schritt1.mp3 = Lege ein Ei in klares Wasser und beobachte.
+exp048_schritt2.mp3 = Rühre viel Salz ins Wasser.
+exp048_schritt3.mp3 = Male, was jetzt passiert.
+exp048_wissen.mp3 = In Salzwasser schwimmt ein Ei, weil salziges Wasser schwerer ist.
+exp048_naechste_frage.mp3 = Wie viel Salz braucht es genau, bis das Ei schwimmt?
+
+# Experiment 49: Vogelnest suchen
+exp049_titel.mp3 = Vogelnest suchen.
+exp049_frage.mp3 = Wo bauen Vögel heute ihre Nester?
+exp049_vermutung1.mp3 = Im Baum
+exp049_vermutung2.mp3 = Am Haus
+exp049_vermutung3.mp3 = Am Boden
+exp049_schritt1.mp3 = Suche draußen nach einem Nest – schau nach oben.
+exp049_schritt2.mp3 = Fotografiere aus der Ferne, ohne zu stören.
+exp049_schritt3.mp3 = Male, wo es gebaut wurde.
+exp049_wissen.mp3 = Vögel sind die einzigen Dinosaurier, die heute noch leben.
+exp049_naechste_frage.mp3 = Aus welchem Material ist das Vogelnest gebaut?
+
+# Experiment 50: Mein Dino schlüpft
+exp050_titel.mp3 = Mein Dino schlüpft.
+exp050_frage.mp3 = Wie sieht ein Dino-Baby aus?
+exp050_vermutung1.mp3 = Noch drin
+exp050_vermutung2.mp3 = Halb raus
+exp050_vermutung3.mp3 = Ganz draußen
+exp050_schritt1.mp3 = Male ein Ei mit einem Riss.
+exp050_schritt2.mp3 = Male das Baby, das herausschaut.
+exp050_schritt3.mp3 = Gib ihm einen Namen.
+exp050_wissen.mp3 = Frisch geschlüpfte Dinos waren winzig – manche passten in eine Hand.
+exp050_naechste_frage.mp3 = Wie sieht dein Dino als Erwachsener aus?
+
+# ------------------------------------------------------------------
+# Kapitel 6 · Dino-Sinne
+# ------------------------------------------------------------------
+
+# Experiment 51: Eine Minute lauschen
+exp051_titel.mp3 = Eine Minute lauschen.
+exp051_frage.mp3 = Wie viele Geräusche hörst du?
+exp051_vermutung1.mp3 = 1 bis 3
+exp051_vermutung2.mp3 = 4 bis 8
+exp051_vermutung3.mp3 = Mehr als 8
+exp051_schritt1.mp3 = Setz dich still hin und schließe die Augen.
+exp051_schritt2.mp3 = Zähle eine Minute lang alle Geräusche.
+exp051_schritt3.mp3 = Male für jedes Geräusch ein Symbol.
+exp051_wissen.mp3 = Dinosaurier hörten tiefe Töne besonders gut – die tragen weit durch den Wald.
+exp051_rekord.mp3 = Dinosaurier hörten besonders gut tiefe Töne.
+exp051_naechste_frage.mp3 = Hörst du drinnen andere Geräusche als draußen?
+
+# Experiment 52: Große Ohren bauen
+exp052_titel.mp3 = Große Ohren bauen.
+exp052_frage.mp3 = Hört man mit größeren Ohren mehr?
+exp052_vermutung2.mp3 = Trichter
+exp052_schritt1.mp3 = Halte die Hände hinter deine Ohren und lausche.
+exp052_schritt2.mp3 = Forme einen Papiertrichter und lausche noch einmal.
+exp052_wissen.mp3 = Parasaurolophus hatte einen hohlen Kamm auf dem Kopf – vermutlich ein Tröte und ein Verstärker.
+exp052_naechste_frage.mp3 = Hilft der Trichter auch beim Rufen?
+
+# Experiment 53: Riech-Dosen
+exp053_titel.mp3 = Riech-Dosen.
+exp053_frage.mp3 = Erkennst du Dinge mit der Nase?
+exp053_vermutung1.mp3 = Zitrone
+exp053_vermutung2.mp3 = Zimt
+exp053_vermutung3.mp3 = Seife
+exp053_schritt1.mp3 = Lass jemanden drei Becher mit Duftproben füllen.
+exp053_schritt2.mp3 = Rieche mit geschlossenen Augen.
+exp053_schritt3.mp3 = Male, was du erkannt hast.
+exp053_wissen.mp3 = Der T-Rex hatte riesige Riechzentren im Gehirn. Er roch Beute vermutlich kilometerweit.
+exp053_naechste_frage.mp3 = Erkennst du Gerüche noch mit zugehaltener Nase?
+
+# Experiment 54: Jäger oder Gejagter?
+exp054_titel.mp3 = Jäger oder Gejagter?.
+exp054_frage.mp3 = Wozu sitzen Augen vorn oder seitlich?
+exp054_vermutung1.mp3 = Vorn: Jäger
+exp054_vermutung2.mp3 = Seitlich: Beute
+exp054_schritt1.mp3 = Schau in den Spiegel: Wo sitzen deine Augen?
+exp054_schritt2.mp3 = Halte die Hände seitlich ans Gesicht – was siehst du noch?
+exp054_schritt3.mp3 = Male beide Augenstellungen.
+exp054_wissen.mp3 = Jäger haben Augen vorn, um Entfernungen zu schätzen. Beutetiere haben sie seitlich, um alles zu sehen.
+exp054_naechste_frage.mp3 = Wo sitzen die Augen bei einem Vogel?
+
+# Experiment 55: Wie weit siehst du zur Seite?
+exp055_titel.mp3 = Wie weit siehst du zur Seite?.
+exp055_frage.mp3 = Wie groß ist dein Blickfeld?
+exp055_vermutung1.mp3 = Sehr weit
+exp055_vermutung3.mp3 = Nur vorn
+exp055_schritt1.mp3 = Schau geradeaus und bewege nichts.
+exp055_schritt2.mp3 = Lass jemanden langsam von hinten nach vorn winken.
+exp055_schritt3.mp3 = Ruf Stopp, sobald du die Hand siehst.
+exp055_wissen.mp3 = Triceratops sah fast rundum – nur direkt hinter sich war ein blinder Fleck.
+exp055_rekord.mp3 = Triceratops sah fast rundum.
+exp055_naechste_frage.mp3 = Ändert eine Mütze dein Blickfeld?
+
+# Experiment 56: Fühl-Beutel
+exp056_titel.mp3 = Fühl-Beutel.
+exp056_frage.mp3 = Erkennst du Dinge nur mit den Händen?
+exp056_vermutung1.mp3 = 1 bis 2
+exp056_vermutung2.mp3 = 3 bis 4
+exp056_vermutung3.mp3 = Alle 5
+exp056_schritt1.mp3 = Lass jemanden fünf Dinge in einen Beutel legen.
+exp056_schritt2.mp3 = Ertaste sie ohne zu schauen.
+exp056_schritt3.mp3 = Male auf, was du erkannt hast.
+exp056_wissen.mp3 = Die Schnauze mancher Dinos war voller Nerven – wie die Fingerspitzen eines Menschen.
+exp056_naechste_frage.mp3 = Erkennst du die Dinge auch mit Handschuhen?
+
+# Experiment 57: Sehen im Dunkeln
+exp057_titel.mp3 = Sehen im Dunkeln.
+exp057_frage.mp3 = Was siehst du bei wenig Licht?
+exp057_vermutung1.mp3 = Alle Farben
+exp057_vermutung2.mp3 = Nur grau
+exp057_vermutung3.mp3 = Fast nichts
+exp057_schritt1.mp3 = Verdunkle einen Raum und warte zwei Minuten.
+exp057_schritt2.mp3 = Schau dich um: Welche Farben erkennst du noch?
+exp057_schritt3.mp3 = Male, was du siehst.
+exp057_wissen.mp3 = Manche kleinen Dinos hatten sehr große Augenringe – ein Hinweis auf Nachtaktivität.
+exp057_naechste_frage.mp3 = Nach wie vielen Minuten siehst du am meisten?
+
+# Experiment 58: Vibration spüren
+exp058_titel.mp3 = Vibration spüren.
+exp058_frage.mp3 = Kann man mit dem Körper hören?
+exp058_vermutung1.mp3 = Durch Luft
+exp058_vermutung2.mp3 = Durch Tisch
+exp058_schritt1.mp3 = Lege dein Ohr flach auf den Tisch.
+exp058_schritt2.mp3 = Lass jemanden am anderen Ende leise klopfen.
+exp058_schritt3.mp3 = Vergleiche mit dem Hören durch die Luft.
+exp058_wissen.mp3 = Elefanten hören Erschütterungen mit den Füßen. Große Dinos konnten das wahrscheinlich auch.
+exp058_naechste_frage.mp3 = Durch welches Material kommt das Klopfen am besten?
+
+# Experiment 59: Dino-Rufe erfinden
+exp059_titel.mp3 = Dino-Rufe erfinden.
+exp059_frage.mp3 = Wie klang ein Dinosaurier?
+exp059_vermutung1.mp3 = Tief
+exp059_vermutung2.mp3 = Laut
+exp059_vermutung3.mp3 = Hoch
+exp059_schritt1.mp3 = Rufe durch eine Papprolle.
+exp059_schritt2.mp3 = Probiere hohe und tiefe Töne.
+exp059_schritt3.mp3 = Male, welcher Ton zu welchem Dino passt.
+exp059_wissen.mp3 = Niemand weiß, wie Dinos klangen. Im Film sind es Geräusche von Elefanten und Krokodilen.
+exp059_naechste_frage.mp3 = Welcher Ton trägt am weitesten nach draußen?
+
+# Experiment 60: Was fällt sofort auf?
+exp060_titel.mp3 = Was fällt sofort auf?.
+exp060_frage.mp3 = Welche Farbe siehst du zuerst?
+exp060_vermutung1.mp3 = Rot
+exp060_vermutung2.mp3 = Gelb
+exp060_vermutung3.mp3 = Grün
+exp060_vermutung4.mp3 = Blau
+exp060_schritt1.mp3 = Lege fünf verschiedenfarbige Dinge nebeneinander.
+exp060_schritt2.mp3 = Tritt zurück und schau kurz hin.
+exp060_schritt3.mp3 = Male die Farbe, die dir zuerst auffiel.
+exp060_wissen.mp3 = Auffällige Farben warnen oder locken an – beides gab es schon in der Urzeit.
+exp060_naechste_frage.mp3 = Ist es im Halbdunkeln dieselbe Farbe?
+
+# ------------------------------------------------------------------
+# Kapitel 7 · Tarnung & Farben
+# ------------------------------------------------------------------
+
+# Experiment 61: Verstecken üben
+exp061_titel.mp3 = Verstecken üben.
+exp061_frage.mp3 = Wo verschwindet ein Gegenstand?
+exp061_vermutung1.mp3 = Im Grün
+exp061_vermutung2.mp3 = Auf Stein
+exp061_vermutung3.mp3 = Im Sand
+exp061_schritt1.mp3 = Suche einen Untergrund, auf dem dein Gegenstand kaum auffällt.
+exp061_schritt2.mp3 = Fotografiere ihn dort.
+exp061_schritt3.mp3 = Lass jemanden auf dem Foto suchen.
+exp061_wissen.mp3 = Tarnung funktioniert nur am passenden Ort. Auf falschem Untergrund fällt sie sofort auf.
+exp061_naechste_frage.mp3 = Welcher Ort tarnt am schlechtesten?
+
+# Experiment 62: Streifen oder Flecken?
+exp062_titel.mp3 = Streifen oder Flecken?.
+exp062_frage.mp3 = Welches Muster tarnt besser?
+exp062_vermutung1.mp3 = Streifen
+exp062_vermutung2.mp3 = Flecken
+exp062_vermutung3.mp3 = Einfarbig
+exp062_schritt1.mp3 = Male einen Dino mit Streifen und einen mit Flecken.
+exp062_schritt2.mp3 = Lege beide auf gemustertes Papier.
+exp062_schritt3.mp3 = Male ein Häkchen beim besseren Versteck.
+exp062_wissen.mp3 = Streifen lösen die Körperform auf. Flecken imitieren Lichtflecken im Blätterdach.
+exp062_naechste_frage.mp3 = Welches Muster würde im Schnee tarnen?
+
+# Experiment 63: Blätter-Tarnung
+exp063_titel.mp3 = Blätter-Tarnung.
+exp063_frage.mp3 = Kannst du dich selbst tarnen?
+exp063_vermutung1.mp3 = Gut sichtbar
+exp063_vermutung2.mp3 = Kaum
+exp063_vermutung3.mp3 = Unsichtbar
+exp063_schritt1.mp3 = Sammle Blätter, Gras und Zweige.
+exp063_schritt2.mp3 = Verstecke deine Hand darunter.
+exp063_schritt3.mp3 = Fotografiere und schau, ob man sie noch sieht.
+exp063_wissen.mp3 = Manche Insekten sehen aus wie Blätter – Tarnung ist uralt.
+exp063_naechste_frage.mp3 = Funktioniert die Tarnung auch aus großer Entfernung?
+
+# Experiment 64: Farbe wechseln
+exp064_titel.mp3 = Farbe wechseln.
+exp064_frage.mp3 = Wie wirkt dieselbe Farbe auf verschiedenem Grund?
+exp064_vermutung1.mp3 = Fällt auf
+exp064_vermutung2.mp3 = Verschwindet
+exp064_vermutung3.mp3 = Kein Unterschied
+exp064_schritt1.mp3 = Lege einen grünen Zettel auf grünen Grund.
+exp064_schritt2.mp3 = Lege ihn auf braunen Grund.
+exp064_schritt3.mp3 = Male beide Wirkungen.
+exp064_wissen.mp3 = Ein Chamäleon wechselt die Farbe nicht nur zur Tarnung, sondern auch aus Stimmung.
+exp064_naechste_frage.mp3 = Welcher Untergrund passt zu deiner Kleidung?
+
+# Experiment 65: Welche Farbe hatte ein Dino?
+exp065_titel.mp3 = Welche Farbe hatte ein Dino?.
+exp065_frage.mp3 = Weiß man, wie Dinos aussahen?
+exp065_vermutung1.mp3 = Braun
+exp065_vermutung3.mp3 = Bunt
+exp065_schritt1.mp3 = Male denselben Dino dreimal in verschiedenen Farben.
+exp065_schritt2.mp3 = Überlege, welche Farbe zu seinem Lebensraum passt.
+exp065_schritt3.mp3 = Kreise deine Wahl ein.
+exp065_wissen.mp3 = Aus winzigen Farbkörnern in Fossilfedern kennen Forscher die Farbe einiger Dinos wirklich.
+exp065_naechste_frage.mp3 = Welche Farben hat ein Vogel in deiner Nähe?
+
+# Experiment 66: Hell oben, dunkel unten
+exp066_titel.mp3 = Hell oben, dunkel unten.
+exp066_frage.mp3 = Warum sind viele Tiere unten heller?
+exp066_vermutung1.mp3 = Oben hell
+exp066_vermutung2.mp3 = Unten hell
+exp066_vermutung3.mp3 = Ganz gleich
+exp066_schritt1.mp3 = Leuchte von oben auf einen Ball.
+exp066_schritt2.mp3 = Schau, wo der Schatten liegt.
+exp066_schritt3.mp3 = Male den Ball so an, dass er flach aussieht.
+exp066_wissen.mp3 = Helle Bäuche gleichen den Schatten aus. Dadurch wirken Tiere flach und fallen weniger auf.
+exp066_naechste_frage.mp3 = Sieht der Ball von unten anders aus?
+
+# Experiment 67: Warnfarben suchen
+exp067_titel.mp3 = Warnfarben suchen.
+exp067_frage.mp3 = Welche Farben sagen: Achtung!
+exp067_vermutung3.mp3 = Schwarz-gelb
+exp067_schritt1.mp3 = Suche draußen etwas Auffälliges: Beere, Blüte, Käfer.
+exp067_schritt2.mp3 = Fotografiere es aus sicherem Abstand.
+exp067_schritt3.mp3 = Male die Farbe daneben.
+exp067_wissen.mp3 = Rot und Gelb heißen im Tierreich oft: Ich bin giftig oder wehrhaft.
+exp067_naechste_frage.mp3 = Welche Farben tragen Warnschilder auf der Straße?
+
+# Experiment 68: Kopfschmuck bauen
+exp068_titel.mp3 = Kopfschmuck bauen.
+exp068_frage.mp3 = Wozu trägt ein Dino einen Kamm?
+exp068_vermutung1.mp3 = Zum Schutz
+exp068_vermutung2.mp3 = Zum Angeben
+exp068_vermutung3.mp3 = Zum Rufen
+exp068_schritt1.mp3 = Schneide einen Kamm oder ein Nackenschild aus.
+exp068_schritt2.mp3 = Setze es auf.
+exp068_schritt3.mp3 = Fotografiere dich als Dino.
+exp068_wissen.mp3 = Kämme und Hörner dienten oft nicht dem Kampf, sondern dem Beeindrucken.
+exp068_naechste_frage.mp3 = Wie klingt es, wenn du in deinen Kamm hineinrufst?
+
+# Experiment 69: Wer sieht mich zuerst?
+exp069_titel.mp3 = Wer sieht mich zuerst?.
+exp069_frage.mp3 = Wie gut versteckst du dich?
+exp069_vermutung2.mp3 = Bis 1 min
+exp069_vermutung3.mp3 = Länger
+exp069_schritt1.mp3 = Verstecke dich draußen oder im Zimmer.
+exp069_schritt2.mp3 = Lass jemanden suchen und stoppe die Zeit.
+exp069_schritt3.mp3 = Notiere, welches Versteck am längsten hielt.
+exp069_wissen.mp3 = Stillhalten hilft mehr als jede Farbe. Bewegung verrät Tiere sofort.
+exp069_naechste_frage.mp3 = Hilft Stillhalten wirklich mehr als Wegducken?
+
+# Experiment 70: Mein Dino-Steckbrief
+exp070_titel.mp3 = Mein Dino-Steckbrief.
+exp070_frage.mp3 = Wie sieht dein Forscher-Dino aus?
+exp070_vermutung1.mp3 = Pflanzenfresser
+exp070_vermutung2.mp3 = Räuber
+exp070_vermutung3.mp3 = Wasserdino
+exp070_schritt1.mp3 = Male deinen erfundenen Dino.
+exp070_schritt2.mp3 = Schreibe Name, Größe und Lieblingsfutter dazu.
+exp070_schritt3.mp3 = Male seinen Lebensraum in den Hintergrund.
+exp070_wissen.mp3 = Neue Dino-Arten werden bis heute entdeckt – etwa alle zwei Wochen eine.
+exp070_naechste_frage.mp3 = Wie würde dein Dino auf Latein heißen?
+
+# ------------------------------------------------------------------
+# Kapitel 8 · Wasser, Luft & Fliegen
+# ------------------------------------------------------------------
+
+# Experiment 71: Schwimmt oder sinkt?
+exp071_titel.mp3 = Schwimmt oder sinkt?.
+exp071_frage.mp3 = Was bleibt oben?
+exp071_vermutung3.mp3 = Kommt drauf an
+exp071_schritt1.mp3 = Vermute zuerst bei jedem Gegenstand.
+exp071_schritt2.mp3 = Lege sie nacheinander ins Wasser.
+exp071_schritt3.mp3 = Male zwei Spalten: schwimmt und sinkt.
+exp071_wissen.mp3 = Manche Meeressaurier hatten leichte, luftgefüllte Knochen – andere schwere, um zu tauchen.
+exp071_naechste_frage.mp3 = Ändert sich das Ergebnis mit Salzwasser?
+
+# Experiment 72: Flossen testen
+exp072_titel.mp3 = Flossen testen.
+exp072_frage.mp3 = Was schiebt mehr Wasser?
+exp072_vermutung1.mp3 = Gespreizt
+exp072_vermutung2.mp3 = Geschlossen
+exp072_schritt1.mp3 = Ziehe die Hand mit gespreizten Fingern durchs Wasser.
+exp072_schritt2.mp3 = Ziehe sie mit geschlossenen Fingern durch.
+exp072_schritt3.mp3 = Beschreibe, was mehr Kraft brauchte.
+exp072_wissen.mp3 = Plesiosaurier ruderten mit vier großen Paddeln – wie ein Meeresschildkröte, nur größer.
+exp072_naechste_frage.mp3 = Was schiebt mehr Wasser: Hand oder Löffel?
+
+# Experiment 73: Papier-Flugsaurier
+exp073_titel.mp3 = Papier-Flugsaurier.
+exp073_frage.mp3 = Welche Form fliegt am weitesten?
+exp073_vermutung1.mp3 = Schmal
+exp073_vermutung2.mp3 = Breit
+exp073_vermutung3.mp3 = Gleich weit
+exp073_schritt1.mp3 = Falte zwei verschiedene Flieger.
+exp073_schritt2.mp3 = Wirf beide von derselben Stelle.
+exp073_schritt3.mp3 = Miss die Weiten und male den Sieger.
+exp073_wissen.mp3 = Quetzalcoatlus hatte zwölf Meter Spannweite – so breit wie ein kleines Flugzeug.
+exp073_rekord.mp3 = Quetzalcoatlus: 12 Meter Spannweite.
+exp073_naechste_frage.mp3 = Was ändert eine Büroklammer an der Nase des Fliegers?
+
+# Experiment 74: Feder und Stein
+exp074_titel.mp3 = Feder und Stein.
+exp074_frage.mp3 = Was fällt schneller?
+exp074_vermutung3.mp3 = Gleichzeitig
+exp074_schritt1.mp3 = Lass beide gleichzeitig aus Schulterhöhe fallen.
+exp074_schritt2.mp3 = Beobachte genau.
+exp074_schritt3.mp3 = Male, was zuerst unten war.
+exp074_wissen.mp3 = Ohne Luft würden Feder und Stein gleich schnell fallen. Die Luft bremst die Feder.
+exp074_rekord.mp3 = Microraptor hatte Federn an Armen und Beinen.
+exp074_naechste_frage.mp3 = Was passiert mit zusammengeknülltem Papier?
+
+# Experiment 75: Der Zauber der Tragfläche
+exp075_titel.mp3 = Der Zauber der Tragfläche.
+exp075_frage.mp3 = Warum hebt ein Flügel ab?
+exp075_vermutung1.mp3 = Nach oben
+exp075_vermutung2.mp3 = Nach unten
+exp075_vermutung3.mp3 = Bleibt liegen
+exp075_schritt1.mp3 = Halte einen Papierstreifen an die Unterlippe.
+exp075_schritt2.mp3 = Puste kräftig darüber hinweg.
+exp075_schritt3.mp3 = Male, wohin sich das Papier bewegt.
+exp075_wissen.mp3 = Schnelle Luft über einem Flügel zieht ihn nach oben. So fliegen Vögel und Flugzeuge.
+exp075_naechste_frage.mp3 = Wie stark musst du pusten, damit es reicht?
+
+# Experiment 76: Wasserabdruck
+exp076_titel.mp3 = Wasserabdruck.
+exp076_frage.mp3 = Kann man im Wasser Spuren hinterlassen?
+exp076_vermutung1.mp3 = Sofort weg
+exp076_vermutung2.mp3 = Nach einer Weile
+exp076_vermutung3.mp3 = Bleibt
+exp076_schritt1.mp3 = Tauche deine Hand kurz ins Wasser.
+exp076_schritt2.mp3 = Drücke sie auf trockenes Papier.
+exp076_schritt3.mp3 = Beobachte, wie schnell die Spur verschwindet.
+exp076_wissen.mp3 = Es gibt Fossilspuren von Dinos, die nur mit den Zehenspitzen den Grund berührten – sie schwammen.
+exp076_naechste_frage.mp3 = Wie lange hält die nasse Spur auf einem Stein?
+
+# Experiment 77: Fallschirm bauen
+exp077_titel.mp3 = Fallschirm bauen.
+exp077_frage.mp3 = Was macht den Fall langsam?
+exp077_vermutung1.mp3 = Groß
+exp077_vermutung2.mp3 = Klein
+exp077_schritt1.mp3 = Binde vier Schnüre an die Ecken und ein Gewicht daran.
+exp077_schritt2.mp3 = Lass den Fallschirm fallen.
+exp077_schritt3.mp3 = Probiere eine kleinere Fläche und vergleiche.
+exp077_wissen.mp3 = Große Flächen fangen mehr Luft. Deshalb gleiten Flugsaurier mit riesigen Flügeln.
+exp077_naechste_frage.mp3 = Was ändert ein Loch in der Mitte des Fallschirms?
+
+# Experiment 78: Segel im Wind
+exp078_titel.mp3 = Segel im Wind.
+exp078_frage.mp3 = Was macht der Wind mit einem Kamm?
+exp078_vermutung1.mp3 = Quer stärker
+exp078_vermutung2.mp3 = Längs stärker
+exp078_schritt1.mp3 = Schneide eine Rückensegelform aus.
+exp078_schritt2.mp3 = Halte sie in den Wind, längs und quer.
+exp078_wissen.mp3 = Spinosaurus trug ein riesiges Segel auf dem Rücken – vielleicht zum Kühlen, vielleicht zum Imponieren.
+exp078_naechste_frage.mp3 = Wie groß darf das Segel werden, bevor es umfällt?
+
+# Experiment 79: Blubbern
+exp079_titel.mp3 = Blubbern.
+exp079_frage.mp3 = Wie sieht Atmen unter Wasser aus?
+exp079_vermutung1.mp3 = Kleine Blasen
+exp079_vermutung2.mp3 = Große Blasen
+exp079_vermutung3.mp3 = Sprudel
+exp079_schritt1.mp3 = Puste vorsichtig durch den Halm ins Wasser.
+exp079_schritt2.mp3 = Puste einmal sanft, einmal kräftig.
+exp079_schritt3.mp3 = Male die Blasen in beiden Größen.
+exp079_wissen.mp3 = Meeressaurier atmeten Luft. Sie mussten regelmäßig auftauchen wie Wale.
+exp079_naechste_frage.mp3 = Wie tief kannst du den Halm halten?
+
+# Experiment 80: Wellen machen
+exp080_titel.mp3 = Wellen machen.
+exp080_frage.mp3 = Wie entstehen Wellen?
+exp080_vermutung1.mp3 = Ringe
+exp080_vermutung2.mp3 = Lange Wellen
+exp080_vermutung3.mp3 = Chaos
+exp080_schritt1.mp3 = Tippe mit einem Finger ins Wasser und beobachte die Ringe.
+exp080_schritt2.mp3 = Wische mit der ganzen Hand.
+exp080_schritt3.mp3 = Male beide Wellenbilder.
+exp080_wissen.mp3 = Ein schwimmender Riesendino machte Wellen, die andere Tiere schon von weitem spürten.
+exp080_naechste_frage.mp3 = Was passiert mit zwei Fingern gleichzeitig?
+
+# ------------------------------------------------------------------
+# Kapitel 9 · Urzeit-Welt
+# ------------------------------------------------------------------
+
+# Experiment 81: Vulkanausbruch
+exp081_titel.mp3 = Vulkanausbruch.
+exp081_frage.mp3 = Was passiert, wenn ein Vulkan ausbricht?
+exp081_vermutung1.mp3 = Schaum
+exp081_vermutung2.mp3 = Fontäne
+exp081_schritt1.mp3 = Stelle einen Becher in eine Schale und fülle Natron hinein.
+exp081_schritt2.mp3 = Gieße Essig dazu und tritt zurück.
+exp081_schritt3.mp3 = Fotografiere den Ausbruch.
+exp081_wissen.mp3 = Vulkanasche hat viele Fossilien schlagartig eingeschlossen und für uns aufbewahrt.
+exp081_naechste_frage.mp3 = Wird der Ausbruch mit warmem Essig größer?
+
+# Experiment 82: Erdschichten im Glas
+exp082_titel.mp3 = Erdschichten im Glas.
+exp082_frage.mp3 = Wie sortiert sich Erde im Wasser?
+exp082_vermutung1.mp3 = Kies unten
+exp082_vermutung2.mp3 = Sand unten
+exp082_vermutung3.mp3 = Erde unten
+exp082_schritt1.mp3 = Fülle Erde, Sand und Wasser ins Glas und schüttle.
+exp082_schritt2.mp3 = Stelle es hin und warte eine Stunde.
+exp082_schritt3.mp3 = Male die Schichten ab.
+exp082_wissen.mp3 = Schwere Körner sinken zuerst. So entstehen über Jahrtausende Gesteinsschichten.
+exp082_naechste_frage.mp3 = Wie lange dauert es, bis das Wasser klar ist?
+
+# Experiment 83: Pangäa puzzeln
+exp083_titel.mp3 = Pangäa puzzeln.
+exp083_frage.mp3 = Passen die Kontinente zusammen?
+exp083_vermutung1.mp3 = Passt genau
+exp083_vermutung2.mp3 = Fast
+exp083_vermutung3.mp3 = Gar nicht
+exp083_schritt1.mp3 = Male Afrika und Südamerika ab und schneide sie aus.
+exp083_schritt2.mp3 = Schiebe sie aneinander.
+exp083_schritt3.mp3 = Male, wie gut sie passen.
+exp083_wissen.mp3 = Zur Dino-Zeit lagen alle Kontinente in einem einzigen Superkontinent: Pangäa.
+exp083_naechste_frage.mp3 = Welche anderen Küsten passen zusammen?
+
+# Experiment 84: Einschlagkrater
+exp084_titel.mp3 = Einschlagkrater.
+exp084_frage.mp3 = Was macht ein Meteorit mit dem Boden?
+exp084_vermutung1.mp3 = Niedrig: klein
+exp084_vermutung2.mp3 = Hoch: groß
+exp084_vermutung3.mp3 = Immer gleich
+exp084_schritt1.mp3 = Streue Kakao über eine Schüssel Mehl.
+exp084_schritt2.mp3 = Lass eine Murmel aus verschiedenen Höhen fallen.
+exp084_schritt3.mp3 = Fotografiere die Krater.
+exp084_wissen.mp3 = Vor 66 Millionen Jahren schlug ein Asteroid ein. Das war das Ende der großen Dinos.
+exp084_rekord.mp3 = Der Chicxulub-Krater ist rund 180 Kilometer breit.
+exp084_naechste_frage.mp3 = Was ändert eine schwerere Kugel am Krater?
+
+# Experiment 85: Regen und Erosion
+exp085_titel.mp3 = Regen und Erosion.
+exp085_frage.mp3 = Kann Wasser Land verändern?
+exp085_vermutung1.mp3 = Bleibt gleich
+exp085_vermutung2.mp3 = Rillen
+exp085_vermutung3.mp3 = Fällt zusammen
+exp085_schritt1.mp3 = Baue einen kleinen Sandberg.
+exp085_schritt2.mp3 = Gieße vorsichtig Wasser darüber.
+exp085_schritt3.mp3 = Fotografiere vorher und nachher.
+exp085_wissen.mp3 = Erosion legt Fossilien frei. Viele Funde entdeckt man nach starkem Regen.
+exp085_naechste_frage.mp3 = Schützen Pflanzen deinen Sandberg?
+
+# Experiment 86: Urzeitpflanzen finden
+exp086_titel.mp3 = Urzeitpflanzen finden.
+exp086_frage.mp3 = Welche Pflanzen gab es schon damals?
+exp086_vermutung3.mp3 = Schachtelhalm
+exp086_schritt1.mp3 = Suche Farne, Moose oder Schachtelhalme.
+exp086_schritt2.mp3 = Fotografiere eine Pflanze aus der Nähe.
+exp086_schritt3.mp3 = Male die Blattform nach.
+exp086_wissen.mp3 = Farne und Schachtelhalme wuchsen schon, bevor es Dinos gab – und wachsen heute noch.
+exp086_naechste_frage.mp3 = Wo in deiner Umgebung wachsen die meisten Farne?
+
+# Experiment 87: Schatten wandert
+exp087_titel.mp3 = Schatten wandert.
+exp087_frage.mp3 = Bewegt sich ein Schatten?
+exp087_vermutung1.mp3 = Wandert
+exp087_vermutung2.mp3 = Wird länger
+exp087_schritt1.mp3 = Stelle einen Stock in die Sonne und male den Schatten nach.
+exp087_schritt2.mp3 = Komme eine Stunde später wieder und male erneut.
+exp087_schritt3.mp3 = Vergleiche beide Linien.
+exp087_wissen.mp3 = Auch die Dinos lebten nach Sonne und Schatten – Uhren gab es nicht.
+exp087_naechste_frage.mp3 = Wann am Tag ist der Schatten am kürzesten?
+
+# Experiment 88: Insekt im Bernstein
+exp088_titel.mp3 = Insekt im Bernstein.
+exp088_frage.mp3 = Wie bleibt etwas Millionen Jahre erhalten?
+exp088_vermutung2.mp3 = Insekt
+exp088_schritt1.mp3 = Lege ein kleines Blatt in ein Glas.
+exp088_schritt2.mp3 = Gieße Gelatine oder Honig darüber.
+exp088_schritt3.mp3 = Warte, bis es fest ist, und schau von der Seite hinein.
+exp088_wissen.mp3 = Bernstein ist versteinertes Baumharz. Darin stecken manchmal Insekten und sogar Federn.
+exp088_naechste_frage.mp3 = Sieht man das Blatt nach einer Woche noch?
+
+# Experiment 89: Sonnenplatz
+exp089_titel.mp3 = Sonnenplatz.
+exp089_frage.mp3 = Wo wird es am schnellsten warm?
+exp089_vermutung1.mp3 = Sonne
+exp089_vermutung2.mp3 = Schatten
+exp089_schritt1.mp3 = Lege einen Stein in die Sonne, einen in den Schatten.
+exp089_schritt2.mp3 = Warte 20 Minuten.
+exp089_schritt3.mp3 = Fühle beide und schreibe auf, welcher wärmer war.
+exp089_wissen.mp3 = Reptilien wärmen sich in der Sonne. Viele Dinos konnten ihre Wärme dagegen selbst erzeugen.
+exp089_naechste_frage.mp3 = Welche Farbe wird in der Sonne am schnellsten warm?
+
+# Experiment 90: Urzeit-Sumpf
+exp090_titel.mp3 = Urzeit-Sumpf.
+exp090_frage.mp3 = Was passiert mit Schlamm im Glas?
+exp090_vermutung1.mp3 = Zweige oben
+exp090_vermutung2.mp3 = Zweige unten
+exp090_vermutung3.mp3 = Alles trüb
+exp090_schritt1.mp3 = Rühre Erde in Wasser und gib Zweige dazu.
+exp090_schritt2.mp3 = Stelle das Glas an einen ruhigen Ort.
+exp090_schritt3.mp3 = Male nach einem Tag, was du siehst.
+exp090_wissen.mp3 = In Sümpfen sinken tote Tiere schnell ein. Deshalb wurden dort besonders viele Fossilien.
+exp090_naechste_frage.mp3 = Was schwimmt nach zwei Tagen oben?
+
+# ------------------------------------------------------------------
+# Kapitel 10 · Dinos heute
+# ------------------------------------------------------------------
+
+# Experiment 91: Vögel beobachten
+exp091_titel.mp3 = Vögel beobachten.
+exp091_frage.mp3 = Bewegen sich Vögel wie Dinos?
+exp091_vermutung1.mp3 = Läuft
+exp091_vermutung2.mp3 = Hüpft
+exp091_vermutung3.mp3 = Fliegt
+exp091_schritt1.mp3 = Beobachte einen Vogel fünf Minuten lang.
+exp091_schritt2.mp3 = Achte auf Kopf, Beine und Schwanz.
+exp091_schritt3.mp3 = Male oder fotografiere seine Haltung.
+exp091_wissen.mp3 = Vögel sind Dinosaurier. Sie stammen von kleinen, gefiederten Raubdinos ab.
+exp091_rekord.mp3 = Vögel sind die einzige heute lebende Dinosauriergruppe.
+exp091_naechste_frage.mp3 = Wie oft schaut ein Vogel sich in einer Minute um?
+
+# Experiment 92: Der Gabelknochen
+exp092_titel.mp3 = Der Gabelknochen.
+exp092_frage.mp3 = Welchen Knochen teilen Huhn und T-Rex?
+exp092_vermutung1.mp3 = V-Form
+exp092_vermutung2.mp3 = Rund
+exp092_vermutung3.mp3 = Gerade
+exp092_schritt1.mp3 = Suche ein Bild vom Gabelbein eines Huhns.
+exp092_schritt2.mp3 = Male die V-Form nach.
+exp092_schritt3.mp3 = Male denselben Knochen in einen Dino hinein.
+exp092_wissen.mp3 = Das Gabelbein gab es schon beim T-Rex. Es hält die Schultern beim Flügelschlag zusammen.
+exp092_naechste_frage.mp3 = Welche Knochenformen findest du bei einem Hähnchen?
+
+# Experiment 93: Federn untersuchen
+exp093_titel.mp3 = Federn untersuchen.
+exp093_frage.mp3 = Wie ist eine Feder gebaut?
+exp093_vermutung1.mp3 = Weich
+exp093_vermutung2.mp3 = Steif
+exp093_schritt1.mp3 = Schau eine gefundene Feder durch die Lupe an.
+exp093_schritt2.mp3 = Streiche einmal gegen die Richtung und wieder zurück.
+exp093_schritt3.mp3 = Male die feinen Härchen auf.
+exp093_wissen.mp3 = Die Häkchen an den Federästen greifen ineinander wie ein Reißverschluss.
+exp093_naechste_frage.mp3 = Schwimmt eine Feder auf Wasser?
+
+# Experiment 94: Reptil beobachten
+exp094_titel.mp3 = Reptil beobachten.
+exp094_frage.mp3 = Was macht eine Eidechse den ganzen Tag?
+exp094_vermutung1.mp3 = Sonnen
+exp094_vermutung2.mp3 = Flitzen
+exp094_vermutung3.mp3 = Jagen
+exp094_schritt1.mp3 = Suche eine Eidechse an einer warmen Mauer.
+exp094_schritt2.mp3 = Beobachte still aus der Ferne.
+exp094_schritt3.mp3 = Male, was sie tat.
+exp094_wissen.mp3 = Eidechsen sind keine Dinos, aber nahe Verwandte aus derselben großen Reptilienfamilie.
+exp094_naechste_frage.mp3 = Bei welchem Wetter siehst du Eidechsen am häufigsten?
+
+# Experiment 95: Vogelstimmen sammeln
+exp095_titel.mp3 = Vogelstimmen sammeln.
+exp095_frage.mp3 = Wie viele verschiedene Rufe hörst du?
+exp095_vermutung1.mp3 = Einen
+exp095_vermutung2.mp3 = Zwei bis drei
+exp095_vermutung3.mp3 = Viele
+exp095_schritt1.mp3 = Nimm draußen eine Minute Vogelgesang auf.
+exp095_schritt2.mp3 = Höre die Aufnahme noch einmal an.
+exp095_schritt3.mp3 = Male für jeden Ruf ein Symbol.
+exp095_wissen.mp3 = Vogelgesang funktioniert über einen eigenen Stimmkopf tief im Brustkorb, die Syrinx.
+exp095_naechste_frage.mp3 = Antwortet ein Vogel, wenn du zurückpfeifst?
+
+# Experiment 96: Krokodil-Vergleich
+exp096_titel.mp3 = Krokodil-Vergleich.
+exp096_frage.mp3 = Was hat ein Krokodil mit Dinos gemeinsam?
+exp096_vermutung1.mp3 = Zähne
+exp096_vermutung2.mp3 = Eier
+exp096_vermutung3.mp3 = Beine seitlich
+exp096_schritt1.mp3 = Schau dir ein Krokodil-Bild genau an.
+exp096_schritt2.mp3 = Male Zähne, Haut und Beine ab.
+exp096_schritt3.mp3 = Schreibe drei Gemeinsamkeiten mit einem Dino auf.
+exp096_wissen.mp3 = Krokodile und Vögel sind die nächsten lebenden Verwandten der Dinosaurier.
+exp096_naechste_frage.mp3 = Was hat ein Krokodil, was kein Vogel hat?
+
+# Experiment 97: Vogelspuren
+exp097_titel.mp3 = Vogelspuren.
+exp097_frage.mp3 = Wie sieht ein Vogelabdruck aus?
+exp097_vermutung2.mp3 = 4 Zehen
+exp097_vermutung3.mp3 = Unklar
+exp097_schritt1.mp3 = Suche Vogelspuren am Boden oder streue Sand aus.
+exp097_schritt2.mp3 = Fotografiere einen Abdruck.
+exp097_schritt3.mp3 = Zähle die Zehen und vergleiche mit Dino-Spuren.
+exp097_wissen.mp3 = Vogel- und Dinospuren sehen sich so ähnlich, dass Forscher sie manchmal verwechseln.
+exp097_naechste_frage.mp3 = Laufen alle Vögel gleich?
+
+# Experiment 98: Museumsbesuch
+exp098_titel.mp3 = Museumsbesuch.
+exp098_frage.mp3 = Wie groß ist ein echtes Skelett?
+exp098_vermutung1.mp3 = Beinknochen
+exp098_vermutung2.mp3 = Schädel
+exp098_schritt1.mp3 = Besuche ein Naturkundemuseum.
+exp098_schritt2.mp3 = Stelle dich neben ein Skelett und lass dich fotografieren.
+exp098_schritt3.mp3 = Male auf, welcher Knochen dich am meisten beeindruckt hat.
+exp098_wissen.mp3 = Das Skelett im Berliner Naturkundemuseum ist der höchste montierte Dino der Welt.
+exp098_rekord.mp3 = Das Berliner Brachiosaurus-Skelett ist 13,27 Meter hoch.
+exp098_naechste_frage.mp3 = Welcher Knochen fehlt in dem Skelett?
+
+# Experiment 99: Forscher-Interview
+exp099_titel.mp3 = Forscher-Interview.
+exp099_frage.mp3 = Was wissen andere über Dinos?
+exp099_vermutung1.mp3 = T-Rex
+exp099_vermutung2.mp3 = Langhals
+exp099_vermutung3.mp3 = Ein anderer
+exp099_schritt1.mp3 = Frage jemanden: Welcher Dino gefällt dir am besten?
+exp099_schritt2.mp3 = Frage: Was möchtest du über Dinos wissen?
+exp099_schritt3.mp3 = Schreibe oder male die Antworten auf.
+exp099_wissen.mp3 = Auch Forscher wissen nicht alles. Gute Fragen sind wichtiger als fertige Antworten.
+exp099_naechste_frage.mp3 = Was weiß jemand, der viel älter ist als du?
+
+# Experiment 100: Mein eigenes Experiment
+exp100_titel.mp3 = Mein eigenes Experiment.
+exp100_frage.mp3 = Welche Frage möchtest DU beantworten?
+exp100_vermutung1.mp3 = Neugierig
+exp100_vermutung2.mp3 = Bereit
+exp100_vermutung3.mp3 = Los geht es
+exp100_schritt1.mp3 = Schreibe oder male deine eigene Forscherfrage.
+exp100_schritt2.mp3 = Überlege, wie du sie testen kannst.
+exp100_schritt3.mp3 = Führe dein Experiment durch und dokumentiere alles.
+exp100_wissen.mp3 = Jede große Entdeckung begann mit einer Frage, die noch niemand gestellt hatte.
+exp100_naechste_frage.mp3 = Welche Frage kommt als Nächstes?
+
+# ===== Geführte Tour auf der Inselkarte (Pip spricht) =====
+# Gleiche Regel: Datei so nennen wie links und in  sounds-neu/sprache/  legen.
+
+tour_start_1.mp3 = Soll ich dir die Insel zeigen?
+tour_start_2.mp3 = Soll ich dir alles noch einmal zeigen?
+tour_start_3.mp3 = Wollen wir die Tour weitermachen?
+tour_start_4.mp3 = Tippe auf die Fußspuren, dann geht es los.
+tour_start_5.mp3 = Oder tippe auf das Kreuz, dann spielst du gleich allein.
+tour_laufen_1.mp3 = Tippe irgendwo auf die Insel, dann laufen wir dorthin!
+tour_laufen_2.mp3 = Tippe mit dem Finger irgendwo auf die Insel.
+tour_laufen_3.mp3 = Schau, das bist du!
+tour_schild_1.mp3 = Siehst du das runde Schild?
+tour_schild_2.mp3 = Siehst du das runde Schild mit dem Haus?
+tour_schild_3.mp3 = Tippe auf das Schild!
+tour_schild_4.mp3 = Tippe auf das Schild, dann laufen wir hin!
+tour_spot_1.mp3 = Das ist dein Forscherhaus.
+tour_spot_2.mp3 = Wir sind da!
+tour_spot_3.mp3 = Mit dem grünen Pfeil gehst du nachher hinein.
+tour_auftraege_1.mp3 = Das ist meine Schriftrolle.
+tour_auftraege_2.mp3 = Tippe auf die Schriftrolle.
+tour_rucksack_1.mp3 = Tippe auf deinen Rucksack!
+tour_rucksack_2.mp3 = Hier sammelst du Tiere, Funde und Sticker.
+tour_fenster_1.mp3 = Mit dem Kreuz geht es zurück zur Insel.
+tour_karte_1.mp3 = Mit der Karte siehst du die ganze Welt.
+tour_karte_2.mp3 = Tippe auf die Karte!
+tour_wo_1.mp3 = Und wo sind wir?
+tour_wo_2.mp3 = Tippe auf dein Bild!
+tour_zoom_1.mp3 = Mit Plus wird alles größer, mit Minus kleiner.
+tour_boot_1.mp3 = Schau, hier liegt unser Boot!
+tour_boot_2.mp3 = Damit fahren wir über das Meer.
+tour_ende_1.mp3 = Wenn du Hilfe brauchst, tippe auf das Fragezeichen.
+tour_ende_2.mp3 = Jetzt bist du dran!
+tour_abbruch_1.mp3 = Okay! Viel Spaß beim Entdecken!

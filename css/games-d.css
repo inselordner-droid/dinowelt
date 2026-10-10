@@ -1,0 +1,267 @@
+/* Stationen Gruppe D: riff, schiff, tiefsee, anning, meerfutter, tauchfahrt, ammoniten */
+/* =====================================================================
+   Gemeinsames Unterwasser-Aquarell (Präfix sd-)
+   ===================================================================== */
+.sd-stage{position:absolute;inset:0;overflow:hidden;container-type:size;touch-action:none}
+.sd-bg{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.sd-wash{position:absolute;inset:0;background-size:100% 100%;background-repeat:no-repeat}
+.sd-grain{position:absolute;inset:0;mix-blend-mode:multiply;opacity:.5;background-size:320px 320px;pointer-events:none}
+.sd-rays{position:absolute;inset:0;pointer-events:none;mix-blend-mode:screen}
+.sd-rays i{position:absolute;top:-12%;width:11%;height:95%;background:linear-gradient(rgba(255,252,225,.55),rgba(255,252,225,.16) 55%,rgba(255,252,225,0));
+  transform-origin:50% 0;filter:blur(7px);animation:sdray 9s ease-in-out infinite alternate;border-radius:0 0 50% 50%}
+@keyframes sdray{from{transform:rotate(14deg) scaleX(.9);opacity:.55}to{transform:rotate(22deg) scaleX(1.25);opacity:1}}
+.sd-bub{position:absolute;bottom:-40px;border-radius:50%;border:2px solid rgba(255,255,255,.75);
+  background:radial-gradient(circle at 34% 32%,rgba(255,255,255,.9) 0 16%,rgba(255,255,255,.12) 38%,rgba(255,255,255,0) 70%);animation:sdbub linear infinite;pointer-events:none}
+@keyframes sdbub{0%{transform:translate(0,0);opacity:0}8%{opacity:1}50%{transform:translate(12px,-60cqh)}100%{transform:translate(-8px,-125cqh);opacity:.2}}
+.sd-snow{position:absolute;top:-10px;width:4px;height:4px;border-radius:50%;background:rgba(235,245,240,.55);animation:sdsnow linear infinite;pointer-events:none}
+@keyframes sdsnow{from{transform:translate(0,0)}to{transform:translate(30px,112cqh)}}
+.sd-ask{position:absolute;z-index:6;left:0;right:0;margin:0 auto;width:max-content;top:10px;display:flex;align-items:center;gap:10px;
+  background:rgba(255,251,243,.93);padding:8px 10px 8px 8px;border-radius:var(--r-blob);box-shadow:0 6px 22px rgba(20,50,70,.25);max-width:calc(100% - 20px)}
+.sd-ask .pic{width:clamp(76px,15cqmin,120px);height:clamp(60px,11cqmin,92px);border-radius:18px;background:rgba(143,188,203,.35);display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+.sd-ask .pic img,.sd-ask .pic svg{max-width:92%;max-height:92%}
+.sd-ask .txt{font:400 clamp(21px,3.4cqmin,30px)/1.1 var(--hand);color:var(--ink)}
+.sd-ask .gk-prog{justify-content:flex-start;padding:4px 0 0}
+.sd-ask .gk-prog span{width:14px;height:14px}
+.sd-ask .ibtn{flex:0 0 auto}
+.sd-pop{animation:pop .45s both}
+.gk-iart .sd-iart{display:flex;align-items:center;justify-content:center;gap:6px;height:100%;width:min(480px,82vw)}
+.gk-iart .sd-iart>*{flex:1 1 0;min-width:0;height:100%;width:100%;object-fit:contain}
+.sd-card{position:absolute;z-index:9;inset:0;display:flex;align-items:center;justify-content:center;padding:14px;background:rgba(20,50,70,.28);animation:fade .3s}
+.sd-card .card{width:min(520px,94%);max-height:100%;overflow:auto;padding:14px 20px 18px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:8px}
+.sd-card .ani{height:clamp(110px,30cqmin,210px);display:flex;align-items:center;justify-content:center;position:relative;width:100%}
+.sd-card .ani::before{content:"";position:absolute;width:62%;height:90%;border-radius:50%;background:radial-gradient(rgba(240,215,120,.6),rgba(240,215,120,0) 70%)}
+.sd-card .ani img{position:relative;max-height:100%;max-width:100%}
+.sd-card h2{font-size:clamp(30px,6cqmin,42px);color:#2f5566}
+.sd-card p{margin:0;font-size:clamp(17px,2.8cqmin,21px);line-height:1.35}
+.sd-card .era{display:inline-block;min-width:0;font-size:18px;padding:2px 12px;border-radius:12px}
+@keyframes sdfloat{0%,100%{transform:translateY(0) rotate(-1deg)}50%{transform:translateY(-6px) rotate(1deg)}}
+@keyframes sdswim{0%,100%{transform:translateX(0)}50%{transform:translateX(var(--sw,6%))}}
+
+/* =====================================================================
+   Urzeit-Riff (rf-)
+   ===================================================================== */
+.rf-spot{position:absolute;width:var(--w);height:var(--h);transform:translate(-50%,-50%)}
+.rf-ani{position:absolute;left:0;right:0;bottom:10%;height:66%;padding:0;display:flex;align-items:center;justify-content:center;z-index:1;
+  animation:sdswim var(--t,5s) ease-in-out infinite;touch-action:manipulation}
+.rf-ani img{width:100%;height:100%;object-fit:contain;animation:sdfloat 3.4s ease-in-out infinite;pointer-events:none}
+/* Rückmeldung zusätzlich zur Schwimm-Animation (die allgemeine kam gegen sdswim nicht an – Hinweis/Fehlversuch blieben unsichtbar) */
+.rf-ani.gk-good{animation:sdswim var(--t,5s) ease-in-out infinite,gcGood .5s}
+.rf-ani.gk-bad{animation:sdswim var(--t,5s) ease-in-out infinite,gcBad .45s}
+.rf-ani.gk-hint{animation:sdswim var(--t,5s) ease-in-out infinite,gcHint 1.2s ease-in-out 2}
+.rf-ani.gone{transition:transform 1s ease-in,opacity 1s;transform:translate(60%,-40%) scale(.6);opacity:0;pointer-events:none;animation:none}
+.rf-clump{position:absolute;inset:0;pointer-events:none;z-index:2}
+.rf-clump img{position:absolute;bottom:0;transform-origin:50% 100%;animation:rfsway 5s ease-in-out infinite alternate}
+@keyframes rfsway{from{transform:rotate(-2.5deg)}to{transform:rotate(2.5deg)}}
+.rf-empty{position:absolute;inset:0;z-index:1}
+.rf-sand{position:absolute;left:0;bottom:0;width:100%;height:22%;pointer-events:none}
+.rf-far{position:absolute;left:0;width:100%;bottom:12%;height:40%;opacity:.35;filter:blur(2px);pointer-events:none}
+.rf-shoal{position:absolute;left:0;width:22cqmin;height:10cqmin;pointer-events:none;opacity:.35;animation:rfshoal linear infinite}
+.rf-shoal img{position:absolute;width:30%}
+@keyframes rfshoal{from{transform:translateX(-30cqmin)}to{transform:translateX(calc(100cqw + 30cqmin))}}
+.rf-puff{position:absolute;z-index:5;width:30px;height:30px;margin:-15px;border-radius:50%;border:2px solid rgba(255,255,255,.8);pointer-events:none;animation:rfpuff .7s ease-out forwards}
+@keyframes rfpuff{to{transform:translateY(-60px) scale(1.8);opacity:0}}
+.rf-era{position:absolute;z-index:6;left:50%;bottom:12px;transform:translateX(-50%);font:22px var(--hand);background:rgba(255,251,243,.85);padding:2px 16px;border-radius:14px;white-space:nowrap}
+.rf-trans{position:absolute;inset:0;z-index:8;background:linear-gradient(#2d6b82,#123a52);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:12px;color:#fff;
+  font:clamp(30px,6cqmin,46px) var(--hand);text-align:center;animation:fade .5s;padding:16px}
+.rf-trans img{width:clamp(120px,30cqmin,220px)}
+
+/* =====================================================================
+   Forschungsschiff (sc-)
+   ===================================================================== */
+.sc-sky{position:absolute;left:0;right:0;top:0;height:34%;background:linear-gradient(#bfdde6,#e9f0e4)}
+.sc-sun{position:absolute;right:8%;top:14%;width:13cqmin;height:13cqmin;border-radius:50%;background:radial-gradient(#fbe7a1,#f0c35a 60%,rgba(240,195,90,0) 72%)}
+.sc-cloud{position:absolute;width:22cqmin;height:7cqmin;border-radius:50%;background:rgba(255,255,255,.8);box-shadow:6cqmin -2cqmin 0 -.5cqmin rgba(255,255,255,.8),-5cqmin 1cqmin 0 -1cqmin rgba(255,255,255,.7);filter:blur(1px)}
+.sc-sea{position:absolute;left:0;right:0;top:28%;height:32%;background:linear-gradient(#6fa9bb,#3f7f96);overflow:hidden}
+.sc-sea svg{position:absolute;top:0;left:-4%;width:108%;height:100%;animation:scwave 6s ease-in-out infinite alternate}
+@keyframes scwave{from{transform:translateX(-3%)}to{transform:translateX(0)}}
+.sc-rail{position:absolute;left:0;right:0;top:52%;height:4.5%;background:linear-gradient(#b98a58,#8a6238);border-top:3px solid #6e4a30;border-bottom:3px solid #6e4a30;box-shadow:0 4px 8px rgba(60,40,20,.25)}
+.sc-deck{position:absolute;left:0;right:0;top:56%;bottom:0;background:repeating-linear-gradient(90deg,#d8b787 0 58px,#c9a674 58px 60px,#dcbd8e 60px 124px,#c9a674 124px 126px);overflow:hidden}
+.sc-deck::after{content:"";position:absolute;inset:0;background:linear-gradient(rgba(60,40,20,.18),rgba(60,40,20,0) 30%)}
+.sc-crane{position:absolute;left:50%;top:0;width:min(44cqw,56cqh);height:48%;transform:translateX(-50%);pointer-events:none;z-index:3}
+.sc-rope{position:absolute;left:50%;top:0;width:3px;height:30%;background:#6e4a30}
+.sc-net{position:absolute;left:4%;right:4%;top:24%;bottom:0;pointer-events:auto}
+.sc-net.down{animation:scdown .9s cubic-bezier(.3,1.3,.5,1) both}
+.sc-net.up{animation:scup .6s ease-in both}
+@keyframes scdown{from{transform:translateY(-120%)}to{transform:none}}
+@keyframes scup{to{transform:translateY(-130%)}}
+.sc-mesh{position:absolute;inset:0;width:100%;height:100%;z-index:2;pointer-events:none}
+.sc-catch{position:absolute;inset:6% 8% 10%;display:flex;align-items:center;justify-content:center;z-index:1;animation:sdfloat 2.6s ease-in-out infinite}
+.sc-catch img{max-width:100%;max-height:100%;object-fit:contain;pointer-events:none}
+.sc-catch.gk-hint{animation:sdfloat 2.6s ease-in-out infinite,gcHint 1.2s ease-in-out 2}
+.sc-tubs{position:absolute;left:1.5%;right:1.5%;bottom:1.5%;height:41%;display:flex;gap:1.5%;justify-content:center;align-items:flex-end;z-index:2}
+.sc-tub{flex:1 1 0;min-width:0;max-width:300px;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;position:relative;padding:0;transition:transform .15s}
+.sc-tub.over{transform:scale(1.07)}
+.sc-tub.over .sc-tubsvg{filter:drop-shadow(0 0 10px rgba(240,195,90,.95))}
+.sc-sign{display:flex;align-items:center;justify-content:center;gap:2px;height:30%;width:100%}
+.sc-sign img{height:100%;max-width:58%;object-fit:contain}
+.sc-sign img.sc-hint{height:70%;max-width:38%}
+.sc-tubsvg{width:100%;height:auto;max-height:52%;flex:0 1 auto}
+.sc-tub b{font:400 clamp(17px,3.4cqmin,28px)/1 var(--hand);max-width:100%;overflow:hidden;text-overflow:ellipsis;background:rgba(255,251,243,.9);padding:2px 10px;border-radius:12px;margin-top:3px;white-space:nowrap}
+.sc-in{position:absolute;left:10%;right:10%;bottom:36%;height:22%;display:flex;justify-content:center;align-items:flex-end;pointer-events:none}
+.sc-mini{width:34%;margin:0 -6%;animation:pop .45s both}
+.sc-mini img{width:100%;height:auto}
+.sc-drop{position:absolute;z-index:6;width:10px;height:14px;border-radius:50% 50% 50% 50%/60% 60% 40% 40%;background:#8fc2cf;pointer-events:none;animation:scdrop .7s ease-out forwards}
+@keyframes scdrop{to{transform:translate(var(--dx),var(--dy));opacity:0}}
+.sc-ask{margin:0;left:10px;right:auto}
+.sc-ask .txt{font-size:clamp(19px,3cqmin,26px)}
+@container (max-aspect-ratio:3/4){ .sc-ask{left:0;right:0;margin:0 auto} .sc-crane{top:9%;height:43%;width:78cqw} }
+@container (max-aspect-ratio:3/4) and (max-width:600px){ .sc-tubs.four{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;row-gap:4px;column-gap:10px}
+  .sc-tubs.four .sc-tub{max-width:none;height:100%;min-height:0;flex-direction:row;align-items:center;justify-content:center;gap:2px}
+  .sc-tubs.four .sc-sign{flex-direction:column;height:100%;width:34%} .sc-tubs.four .sc-sign img{height:44%;max-width:100%}
+  .sc-tubs.four .sc-tubsvg{width:60%;max-height:none} .sc-tubs.four b{position:absolute;bottom:0;right:4%;font-size:17px} .sc-tubs.four .sc-in{left:36%;right:4%;bottom:44%} }
+
+/* =====================================================================
+   Leuchtende Tiefsee (ts-)
+   ===================================================================== */
+.ts{background:#0a2233}
+.ts canvas{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:crosshair}
+.ts-grain{opacity:.22;mix-blend-mode:soft-light}
+.ts-ask{background:rgba(233,242,240,.9)}
+.ts-port{border-radius:50%!important;width:clamp(84px,17cqmin,130px)!important;height:clamp(84px,17cqmin,130px)!important;background:radial-gradient(#e9f4f2,#a9d0d6)!important;
+  box-shadow:0 0 0 6px #c9a86a,0 0 0 8px #6e5a44,inset 0 0 14px rgba(20,60,80,.35)}
+.ts-port img{max-width:84%!important}
+.ts-sil{filter:brightness(0) opacity(.82);transition:filter .8s}
+.ts-sil.on{filter:none}
+.ts .sd-card .card{background:#fbf6ea}
+
+/* =====================================================================
+   Mary-Anning-Klippe (an-)
+   ===================================================================== */
+.gk-iart .sd-iart img.an-iport{border-radius:14px;box-shadow:var(--shadow);object-fit:cover;flex:0 1 auto;width:auto;max-width:30%}
+.an-story{display:flex;align-items:center;justify-content:center;padding:12px;overflow:auto;background:linear-gradient(#dbe7e6,#efe4cc)}
+.an-sbox{width:min(980px,100%);display:flex;gap:18px;padding:16px;align-items:center}
+.an-pic{flex:1 1 50%;min-width:0;display:flex;align-items:center;justify-content:center;max-height:62vh}
+.an-photo{max-height:60vh;max-width:100%;border-radius:18px 12px 20px 14px;box-shadow:0 6px 18px rgba(60,40,20,.3);border:6px solid #fbf6ea}
+.an-photo.sm{max-height:38vh}
+.an-scene{width:100%;max-height:60vh;border-radius:18px;box-shadow:0 6px 18px rgba(60,40,20,.2)}
+.an-duo{display:flex;align-items:center;justify-content:center;gap:8px;width:100%}
+.an-duo>*{flex:1 1 0;min-width:0;max-height:36vh;object-fit:contain}
+.an-stext{flex:1 1 50%;display:flex;flex-direction:column;gap:12px}
+.an-stext p{margin:0;font-size:clamp(19px,2.4vw,25px);line-height:1.4}
+.an-stext .gk-prog{justify-content:flex-start}
+.an-sbtns{gap:10px;flex-wrap:wrap;align-items:center}
+@media (max-aspect-ratio:1/1){ .an-sbox{flex-direction:column} .an-pic{max-height:42vh} .an-photo{max-height:40vh} .an-scene{max-height:34vh} .an-stext p{font-size:19px} }
+.an-sky{position:absolute;inset:0;background:linear-gradient(#cfe0e4,#eef0e2 40%)}
+.an-cliff{position:absolute;left:0;top:0;width:100%;height:38%}
+.an-sand{position:absolute;left:0;right:0;top:30%;bottom:0;background:radial-gradient(ellipse at 30% 40%,#d9ccaa,#c7b891 70%);clip-path:polygon(0 12%,25% 6%,55% 10%,80% 4%,100% 8%,100% 100%,0 100%)}
+.an-sea{position:absolute;left:-2%;right:-2%;bottom:0;height:72%;background:linear-gradient(rgba(143,188,203,.95),#5f97ad);transition:height 3.2s ease-in-out;z-index:3;pointer-events:none}
+.an-sea.low{height:9%}
+.an-sea svg{position:absolute;left:0;top:-18px;width:100%;height:24px;animation:scwave 4s ease-in-out infinite alternate}
+.an-stone{position:absolute;transform:translate(-50%,-50%);padding:0;z-index:2;touch-action:manipulation}
+.an-stone svg{width:100%;height:100%}
+/* Rückmeldung ohne transform – der Stein ist per translate(-50%,-50%) zentriert und sprang sonst beim Antippen weg */
+.an-stone.gk-bad{animation:gcBad .45s}.an-stone.gk-good{animation:gcGood .5s}.an-stone.gk-hint{animation:gcHint 1.2s ease-in-out 2}
+/* Mitte über translate statt transform: Wackeln/Hüpfen/Leuchten drehen genau um die Steinmitte (sonst 8–12 px Versatz je Tipp) */
+@supports (translate:0px){ .an-stone{transform:none;translate:-50% -50%} }
+.an-stone.open{z-index:4}
+.an-open{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:radial-gradient(rgba(255,244,200,.85),rgba(255,244,200,0) 70%);animation:pop .45s both}
+.an-open img,.an-open svg{max-width:92%;max-height:92%}
+.an-hammer{position:absolute;z-index:6;width:64px;height:64px;pointer-events:none;opacity:0;transform-origin:80% 80%}
+.an-hammer svg{width:100%;height:100%}
+.an-hammer.bang{animation:anbang .35s ease-out}
+@keyframes anbang{0%{opacity:1;transform:rotate(-50deg)}60%{opacity:1;transform:rotate(15deg)}100%{opacity:0;transform:rotate(0)}}
+.an-ask{flex-wrap:wrap;justify-content:center}
+.an-basket{display:flex;gap:4px}
+.an-basket span{position:relative;width:44px;height:44px}
+.an-basket img{width:100%;height:100%}
+.an-basket b{position:absolute;right:-2px;bottom:-4px;background:var(--sun);border-radius:10px;font-size:14px;padding:0 5px}
+.an-build .an-table{position:absolute;inset:0;background:linear-gradient(#e6d5b0,#d4bf93)}
+.an-board{position:absolute;left:50%;top:47%;transform:translate(-50%,-50%);width:min(96cqw,125cqh);aspect-ratio:400/160;background:rgba(255,251,243,.55);border-radius:var(--r-blob);box-shadow:inset 0 0 0 3px rgba(160,130,90,.3)}
+.an-outline{position:absolute;inset:0;width:100%;height:100%}
+.an-slot{position:absolute;border-radius:14px;outline:3px dashed rgba(122,98,72,.45);outline-offset:-2px;background:rgba(240,195,90,.12)}
+.an-slot.done{outline:none;background:none}
+.an-slot svg{width:100%;height:100%;display:block}
+.an-board.alive{animation:anfloat 2s ease-in-out infinite;box-shadow:0 0 0 6px rgba(240,195,90,.5)}
+@keyframes anfloat{0%,100%{transform:translate(-50%,-50%)}50%{transform:translate(-50%,-53%) rotate(1deg)}}
+.an-tray{position:absolute;left:8px;right:8px;bottom:8px;height:min(22%,170px);display:flex;gap:10px;justify-content:center;align-items:stretch;padding:8px;background:rgba(255,251,243,.7);border-radius:var(--r-blob)}
+.an-piece{flex:0 1 150px;min-width:64px;display:flex;align-items:center;justify-content:center;background:rgba(255,251,243,.9);border-radius:16px;box-shadow:var(--shadow);padding:6px}
+.an-piece svg{width:var(--rel,100%);height:var(--rel,100%);max-height:100%}
+.an-piece.used{visibility:hidden}
+
+/* =====================================================================
+   Meeres-Futter (mf-)
+   ===================================================================== */
+.mf-ask{left:10px;right:auto;margin:0}
+.mf-animal{position:absolute;right:4%;top:17%;width:min(62cqw,95cqh);height:48%;display:flex;align-items:center;justify-content:center;transition:transform .2s;z-index:2}
+.mf-animal img{max-width:100%;max-height:100%;object-fit:contain;animation:sdfloat 3s ease-in-out infinite;pointer-events:none}
+.mf-animal.over{transform:scale(1.06);filter:drop-shadow(0 0 16px rgba(240,215,120,.95))}
+.mf-hearts{position:absolute;right:3%;top:12px;display:flex;gap:4px;z-index:3}
+.mf-hearts span{width:44px;height:44px}
+.mf-bubble{position:absolute;left:4%;top:34%;padding:8px 18px;font-size:clamp(22px,4cqmin,30px);z-index:3;border-radius:22px 22px 22px 4px}
+.mf-tray{position:absolute;left:8px;right:8px;bottom:8px;min-height:24%;max-height:32%;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;padding:8px;
+  background:rgba(255,251,243,.72);border-radius:var(--r-blob);z-index:4}
+.mf-food,.mf-card{width:clamp(84px,17cqmin,136px);display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px;background:rgba(255,251,243,.95);border-radius:18px;box-shadow:var(--shadow)}
+.mf-food img,.mf-card img{width:78%;aspect-ratio:1;object-fit:contain}
+.mf-food span,.mf-card span{font:400 clamp(16px,2.6cqmin,21px)/1 var(--hand);text-align:center}
+@container (max-aspect-ratio:3/4){ .mf-animal{left:4%;right:4%;width:auto;top:18%;height:34%} .mf-bubble{top:auto;bottom:calc(34% + 8px);left:8px} .mf-hearts{top:auto;bottom:calc(34% + 14px)}
+  .mf-ask{left:0;right:0;margin:0 auto} .mf-hearts span{width:36px;height:36px} }
+.mf-chain{position:absolute;left:2%;right:2%;top:24%;height:40%;display:flex;align-items:center;justify-content:center;gap:1%;z-index:3}
+.mf-slot{flex:0 1 190px;min-width:0;aspect-ratio:1;max-height:100%;border-radius:22px;border:4px dashed rgba(255,251,243,.8);background:rgba(255,251,243,.25);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:6px}
+.mf-slot.next{border-color:var(--sun);background:rgba(240,195,90,.28)}
+.mf-slot.full{border-style:solid;border-color:rgba(255,251,243,.95);background:rgba(255,251,243,.92)}
+.mf-slot img{width:76%;flex:1 1 auto;min-height:0;object-fit:contain}
+.mf-slot span{font:400 clamp(15px,2.6cqmin,21px)/1 var(--hand);text-align:center}
+.mf-slot .mf-num{font:400 clamp(30px,6cqmin,48px)/1 var(--hand);color:rgba(255,251,243,.9)}
+.mf-arrow{flex:0 0 auto;width:clamp(34px,6cqmin,56px);opacity:.6}
+.mf-arrow svg{width:100%;height:auto}
+.mf-arrow.go{opacity:1;animation:gcGood .5s;filter:drop-shadow(0 0 8px rgba(240,195,90,1))}
+.mf-legend{position:absolute;left:0;right:0;top:66%;text-align:center;font-size:22px;color:#fff;margin:0;display:flex;align-items:center;justify-content:center;gap:6px;text-shadow:0 1px 3px rgba(0,0,0,.4);z-index:3}
+.mf-legend img{width:30px;height:30px;background:rgba(255,251,243,.8);border-radius:50%}
+@container (max-aspect-ratio:3/4){ .mf-chain{flex-direction:column;top:16%;height:45%;gap:0} .mf-slot{flex:1 1 0;max-height:none;height:0;min-height:0;aspect-ratio:auto;width:44%;flex-direction:row;gap:6px}
+  .mf-slot img{width:auto;height:90%} .mf-arrow{transform:rotate(90deg);width:30px;margin:-2px 0} .mf-legend{top:61.5%;font-size:19px} .mf-legend img{transform:rotate(90deg)} }
+
+/* =====================================================================
+   Tauchfahrt (tf-)
+   ===================================================================== */
+.tf{background:#4c93a8}
+.tf canvas{position:absolute;inset:0;width:100%;height:100%;touch-action:none}
+.tf-hud{position:absolute;left:10px;right:10px;top:34px;display:flex;justify-content:space-between;align-items:flex-start;pointer-events:none;z-index:3}
+.tf-air{display:flex;gap:2px;background:rgba(255,251,243,.85);padding:4px 10px;border-radius:22px;box-shadow:var(--shadow)}
+.tf-air span{width:clamp(30px,6cqmin,42px);height:clamp(30px,6cqmin,42px);transition:opacity .3s,transform .3s}
+.tf-air span svg{width:100%;height:100%}
+.tf-air span.off{opacity:.18;transform:scale(.7)}
+.tf-air.low{animation:tflow .8s ease-in-out infinite}
+@keyframes tflow{50%{box-shadow:0 0 0 8px rgba(200,85,61,.45)}}
+.tf-fish svg{width:34px;height:34px}
+.tf-tip{bottom:18px}
+
+/* =====================================================================
+   Ammoniten-Riff (am-)
+   ===================================================================== */
+.am-reef{position:absolute;left:0;bottom:0;width:100%;height:16%}
+.am-main{position:absolute;left:2%;right:2%;top:max(98px,16%);bottom:27%;z-index:2}
+.am-choices{position:absolute;left:8px;right:8px;bottom:10px;height:calc(25% - 14px);display:flex;gap:14px;justify-content:center;align-items:stretch;z-index:3}
+.am-a{position:absolute;transform:translate(-50%,-50%);padding:0;animation:amfloat 3.2s ease-in-out var(--d,0s) infinite}
+.am-a.gk-hint{animation:amfloat 3.2s ease-in-out var(--d,0s) infinite,gcHint 1.2s ease-in-out 2}
+.am-a svg{width:100%;height:100%}
+.am-a em{position:absolute;right:28%;top:-6%;min-width:34px;height:34px;border-radius:50%;background:var(--sun);font:700 20px/34px var(--text);font-style:normal;box-shadow:var(--shadow);display:none}
+.am-a.on em{display:block}
+.am-a.on svg{filter:drop-shadow(0 0 10px rgba(255,236,160,.95))}
+@keyframes amfloat{0%,100%{transform:translate(-50%,-50%)}50%{transform:translate(-50%,-56%) rotate(-3deg)}}
+@supports (translate:0px){ .am-a{transform:none;translate:-50% -50%} @keyframes amfloat{0%,100%{transform:none}50%{transform:translateY(-6%) rotate(-3deg)}} }
+.am-num,.am-opt{flex:0 1 150px;min-width:84px;background:rgba(255,251,243,.94);border-radius:var(--r-blob);box-shadow:var(--shadow);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:6px}
+.am-num b{font:400 clamp(38px,8cqmin,60px)/1 var(--hand)}
+.am-num span{display:flex;flex-wrap:wrap;gap:3px;justify-content:center;max-width:110px}
+.am-num i{width:11px;height:11px;border-radius:50%;background:#c98a4a}
+.am-opt .am-p{height:100%;width:100%}
+.am-row{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:1%;align-content:center}
+.am-p{width:clamp(56px,14cqmin,150px);aspect-ratio:84/64;display:flex;align-items:center;justify-content:center}
+.am-p svg{width:calc(100% * var(--s,1));height:auto}
+.am-row .am-p{animation:sdfloat 3s ease-in-out infinite}
+.am-q{border:4px dashed rgba(255,251,243,.9);border-radius:22px;font:400 clamp(40px,8cqmin,64px)/1 var(--hand);color:#fff;background:rgba(255,251,243,.2)}
+.am-new{animation:pop .45s both!important}
+.am-pool{position:absolute;left:0;right:0;top:0;height:50%;flex-wrap:nowrap;display:flex;align-items:center;justify-content:center;gap:2%}
+.am-s{width:clamp(64px,17cqmin,170px);aspect-ratio:84/64;display:flex;align-items:center;justify-content:center;padding:0;transition:opacity .3s}
+.am-s svg{width:calc(100% * var(--s));height:auto}
+.am-s.used{opacity:0;pointer-events:none}
+.am-shelf{position:absolute;left:2%;right:2%;top:52%;height:40%;display:flex;align-items:flex-end;justify-content:center;gap:2%;background:linear-gradient(transparent 82%,#b98a58 82%,#8a6238);border-radius:0 0 14px 14px;padding-bottom:5%}
+.am-slot{width:clamp(56px,15cqmin,150px);aspect-ratio:84/64;display:flex;align-items:flex-end;justify-content:center;border-bottom:3px dashed rgba(255,251,243,.6)}
+.am-slot svg{width:calc(100% * var(--s));height:auto}
+.am-slot.full{border-color:transparent;animation:pop .4s both}
+.am-grow{position:absolute;left:8%;right:8%;bottom:-2px;height:22px;opacity:.5;display:flex;justify-content:flex-end}
+.am-grow svg{height:22px;width:22px}
+.am-fact{position:absolute;z-index:9;left:50%;top:50%;transform:translate(-50%,-50%);width:min(480px,92%);padding:14px 18px 18px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:8px}
+.am-fact.pop{animation:ampop .45s both}
+@keyframes ampop{0%{transform:translate(-50%,-50%) scale(.3);opacity:0}70%{transform:translate(-50%,-50%) scale(1.06)}100%{transform:translate(-50%,-50%);opacity:1}}
+.am-fsvg{width:130px;height:auto}
+.am-fact p{margin:0;font-size:clamp(18px,3cqmin,22px)}

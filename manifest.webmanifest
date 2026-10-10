@@ -1,0 +1,16 @@
+{
+  "name": "Dino-Inselwelt",
+  "short_name": "Dino-Insel",
+  "description": "Eine gemalte Dino-Insel für Kinder von 4 bis 8 Jahren: Zeitportal mit Plattentektonik-Globus, Museum, Dino-Lauf, Waage, Futterwald, Ausgrabung, Puzzle und Forscherbuch.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#f7f0e1",
+  "theme_color": "#8fbccb",
+  "lang": "de",
+  "icons": [
+    {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

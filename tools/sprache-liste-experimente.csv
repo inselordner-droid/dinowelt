@@ -1,0 +1,1151 @@
+﻿Dateiname;Satz;Wo kommt er vor;kommt so oft vor
+fb_willkommen_1.mp3;Willkommen in der Forscherhütte!;Bücherregal (Start);1
+fb_willkommen_2.mp3;Hier ist dein Forscherbuch mit vielen Experimenten.;Bücherregal (Start);1
+fb_willkommen_3.mp3;Such dir ein Kapitel aus.;Bücherregal (Start);1
+fb_name_1.mp3;Wie heißt du?;Namen eintragen;1
+fb_name_2.mp3;Ein Erwachsener kann dir beim Schreiben helfen.;Namen eintragen;1
+fb_name_fertig.mp3;Das ist jetzt dein Forscherbuch.;Namen eintragen (nach „Hallo …!“);1
+fb_tippen.mp3;Tippe ein Experiment an!;Kapitel (nach dem Kapitelnamen);1
+fb_zuerst_1.mp3;Zuerst die Vermutung!;Reiter „Ergebnis“ ohne Vermutung;1
+fb_zuerst_2.mp3;Was glaubst du, kommt heraus?;Reiter „Ergebnis“ ohne Vermutung;1
+fb_was_glaubst_du.mp3;Was glaubst du?;Reiter „Vermutung“;1
+fb_oder.mp3;oder;Reiter „Vermutung“ (zwischen den Antworten);1
+fb_deine_vermutung.mp3;Deine Vermutung:;Vermutung gewählt (davor);1
+fb_ausprobieren.mp3;Jetzt probieren wir es aus!;Vermutung gewählt (danach);1
+fb_du_brauchst.mp3;Du brauchst:;Reiter „Plan“ (vor dem Material);1
+fb_ergebnis_1.mp3;Was ist herausgekommen?;Reiter „Ergebnis“;1
+fb_ergebnis_2.mp3;Hat deine Vermutung gestimmt?;Reiter „Ergebnis“;1
+fb_gestimmt_1.mp3;Super!;Ergebnis: Hat gestimmt;1
+fb_gestimmt_2.mp3;Deine Vermutung hat gestimmt!;Ergebnis: Hat gestimmt;1
+fb_anders_1.mp3;Spannend!;Ergebnis: Es war anders;1
+fb_anders_2.mp3;Forscher lernen gerade dann etwas, wenn es anders kommt.;Ergebnis: Es war anders;1
+fb_dino_wissen.mp3;Hier ist noch Dino-Wissen für dich.;Ergebnis (letzter Satz);1
+fb_dino_rekord.mp3;Dino-Rekord:;Reiter „Wissen“ (vor dem Rekord);1
+fb_naechste_frage.mp3;Nächste Forscherfrage:;Reiter „Wissen“ (vor der nächsten Frage);1
+fb_eigenes_wissen_1.mp3;Das war dein eigenes Experiment.;Reiter „Wissen“ bei eigenen Experimenten;1
+fb_eigenes_wissen_2.mp3;Toll, dass du selbst eine Forscherfrage hattest!;Reiter „Wissen“ bei eigenen Experimenten;1
+fb_foto_1.mp3;Tolles Foto!;Foto aufgenommen;1
+fb_foto_2.mp3;Es klebt jetzt in deinem Forscherbuch.;Foto aufgenommen;1
+fb_sticker_1.mp3;Aufgeklebt!;Aufkleber aufgeklebt;1
+fb_sticker_2.mp3;Du kannst ihn verschieben.;Aufkleber aufgeklebt;1
+fb_notiz.mp3;Schreib oder sprich, was du beobachtet hast.;Notizzettel;1
+fb_eigene_1.mp3;Hier sind deine eigenen Experimente.;Kapitel „Meine Experimente“;1
+fb_eigene_2.mp3;Hast du eine Forscherfrage?;Kapitel „Meine Experimente“;1
+fb_eigene_3.mp3;Dann leg ein neues Experiment an!;Kapitel „Meine Experimente“;1
+fb_anlegen_1.mp3;Leg dein eigenes Experiment an.;Eigenes Experiment anlegen;1
+fb_anlegen_2.mp3;Du kannst schreiben oder ins Mikrofon sprechen.;Eigenes Experiment anlegen;1
+fb_radierer_1.mp3;Das ist der Radierer.;Radierer gewählt (einmal pro Besuch);1
+fb_radierer_2.mp3;Wisch über deine Farbe, dann ist sie wieder weg.;Radierer gewählt (einmal pro Besuch);1
+fb_leeren_1.mp3;Alles weggewischt!;Alles weggewischt;1
+fb_leeren_2.mp3;Mit dem Pfeil holst du dein Bild zurück.;Alles weggewischt;1
+fb_schritt_1.mp3;Schritt 1:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_2.mp3;Schritt 2:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_3.mp3;Schritt 3:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_4.mp3;Schritt 4:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_5.mp3;Schritt 5:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_6.mp3;Schritt 6:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_7.mp3;Schritt 7:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_8.mp3;Schritt 8:;Reiter „Plan“ (vor jedem Schritt);1
+fb_schritt_9.mp3;Schritt 9:;Reiter „Plan“ (vor jedem Schritt);1
+kapitel_01.mp3;Kapitel 1: Spuren & Fossilien.;Kapitel 1 geöffnet;1
+kapitel_02.mp3;Kapitel 2: Riesig & Winzig.;Kapitel 2 geöffnet;1
+kapitel_03.mp3;Kapitel 3: Schnell & Stark.;Kapitel 3 geöffnet;1
+kapitel_04.mp3;Kapitel 4: Zähne & Futter.;Kapitel 4 geöffnet;1
+kapitel_05.mp3;Kapitel 5: Eier & Nester.;Kapitel 5 geöffnet;1
+kapitel_06.mp3;Kapitel 6: Dino-Sinne.;Kapitel 6 geöffnet;1
+kapitel_07.mp3;Kapitel 7: Tarnung & Farben.;Kapitel 7 geöffnet;1
+kapitel_08.mp3;Kapitel 8: Wasser, Luft & Fliegen.;Kapitel 8 geöffnet;1
+kapitel_09.mp3;Kapitel 9: Urzeit-Welt.;Kapitel 9 geöffnet;1
+kapitel_10.mp3;Kapitel 10: Dinos heute.;Kapitel 10 geöffnet;1
+exp001_titel.mp3;Spuren lesen.;Experiment 1 „Spuren lesen“ · Titel;1
+exp001_frage.mp3;Wer ist hier gelaufen?;Experiment 1 „Spuren lesen“ · Forscherfrage;1
+exp001_vermutung1.mp3;Ein Vogel;Experiment 1 „Spuren lesen“ · Vermutung 1;1
+exp001_vermutung2.mp3;Ein Hund;Experiment 1 „Spuren lesen“ · Vermutung 2;1
+exp001_vermutung3.mp3;Ein Mensch;Experiment 1 „Spuren lesen“ · Vermutung 3;1
+exp001_vermutung4.mp3;Ein Rätsel;Experiment 1 „Spuren lesen“ · Vermutung 4;1
+material_lupe.mp3;Lupe;Material (Reiter „Plan“);4
+exp001_schritt1.mp3;Suche draußen einen Abdruck im Sand, Schlamm oder Schnee.;Experiment 1 „Spuren lesen“ · Schritt 1;1
+exp001_schritt2.mp3;Fotografiere ihn von oben.;Experiment 1 „Spuren lesen“ · Schritt 2;1
+exp001_schritt3.mp3;Male einen Pfeil in die Laufrichtung.;Experiment 1 „Spuren lesen“ · Schritt 3;1
+exp001_wissen.mp3;Forscher nennen versteinerte Fußspuren Ichnofossilien. Sie verraten, wie schnell ein Dino lief.;Experiment 1 „Spuren lesen“ · Dino-Wissen;1
+exp001_rekord.mp3;Ein T-Rex-Abdruck war etwa 80 Zentimeter lang.;Experiment 1 „Spuren lesen“ · Dino-Rekord;1
+exp001_naechste_frage.mp3;Findest du eine zweite Spur vom selben Tier?;Experiment 1 „Spuren lesen“ · nächste Forscherfrage;1
+exp002_titel.mp3;Mein eigener Abdruck.;Experiment 2 „Mein eigener Abdruck“ · Titel;1
+exp002_frage.mp3;Wie sieht dein Fußabdruck aus?;Experiment 2 „Mein eigener Abdruck“ · Forscherfrage;1
+exp002_vermutung1.mp3;3 Zehen;Experiment 2 „Mein eigener Abdruck“ · Vermutung 1 · Experiment 97 „Vogelspuren“ · Vermutung 1;2
+exp002_vermutung2.mp3;5 Zehen;Experiment 2 „Mein eigener Abdruck“ · Vermutung 2;1
+exp002_vermutung3.mp3;Ballen;Experiment 2 „Mein eigener Abdruck“ · Vermutung 3;1
+material_sand_oder_knete.mp3;Sand oder Knete;Material (Reiter „Plan“);1
+material_wasser.mp3;Wasser;Material (Reiter „Plan“) · Experiment 17 „Der lange Hals“ · Vermutung 2;7
+exp002_schritt1.mp3;Drücke deinen Fuß fest in feuchten Sand.;Experiment 2 „Mein eigener Abdruck“ · Schritt 1;1
+exp002_schritt2.mp3;Fotografiere den Abdruck.;Experiment 2 „Mein eigener Abdruck“ · Schritt 2;1
+exp002_schritt3.mp3;Zähle die Zehen und male sie nach.;Experiment 2 „Mein eigener Abdruck“ · Schritt 3;1
+exp002_wissen.mp3;Viele Dinos liefen auf drei kräftigen Zehen – so wie Hühner heute.;Experiment 2 „Mein eigener Abdruck“ · Dino-Wissen;1
+exp002_naechste_frage.mp3;Wie verändert sich dein Abdruck, wenn du rennst?;Experiment 2 „Mein eigener Abdruck“ · nächste Forscherfrage;1
+exp003_titel.mp3;Fossil aus Salzteig.;Experiment 3 „Fossil aus Salzteig“ · Titel;1
+exp003_frage.mp3;Wie kommt ein Abdruck in den Stein?;Experiment 3 „Fossil aus Salzteig“ · Forscherfrage;1
+exp003_vermutung1.mp3;Muschel;Experiment 3 „Fossil aus Salzteig“ · Vermutung 1 · Experiment 7 „Ausgrabung“ · Vermutung 3;2
+exp003_vermutung2.mp3;Blatt;Experiment 3 „Fossil aus Salzteig“ · Vermutung 2 · Experiment 88 „Insekt im Bernstein“ · Vermutung 1 · Material (Reiter „Plan“);3
+exp003_vermutung3.mp3;Zweig;Experiment 3 „Fossil aus Salzteig“ · Vermutung 3;1
+material_mehl.mp3;Mehl;Material (Reiter „Plan“);1
+material_salz.mp3;Salz;Material (Reiter „Plan“);2
+material_muschel_oder_blatt.mp3;Muschel oder Blatt;Material (Reiter „Plan“);1
+exp003_schritt1.mp3;Knete einen flachen Teigfladen.;Experiment 3 „Fossil aus Salzteig“ · Schritt 1;1
+exp003_schritt2.mp3;Drücke eine Muschel oder ein Blatt hinein.;Experiment 3 „Fossil aus Salzteig“ · Schritt 2;1
+exp003_schritt3.mp3;Nimm sie vorsichtig heraus und lass alles trocknen.;Experiment 3 „Fossil aus Salzteig“ · Schritt 3;1
+exp003_wissen.mp3;Echte Fossilien brauchen Millionen Jahre. Dein Teig-Fossil ist morgen fertig.;Experiment 3 „Fossil aus Salzteig“ · Dino-Wissen;1
+exp003_naechste_frage.mp3;Welches Material gibt den schärfsten Abdruck?;Experiment 3 „Fossil aus Salzteig“ · nächste Forscherfrage;1
+exp004_titel.mp3;Schichten der Erde.;Experiment 4 „Schichten der Erde“ · Titel;1
+exp004_frage.mp3;Warum liegen alte Dinge ganz unten?;Experiment 4 „Schichten der Erde“ · Forscherfrage;1
+exp004_vermutung1.mp3;Oben;Experiment 4 „Schichten der Erde“ · Vermutung 1;1
+exp004_vermutung2.mp3;Unten;Experiment 4 „Schichten der Erde“ · Vermutung 2;1
+exp004_vermutung3.mp3;Egal;Experiment 4 „Schichten der Erde“ · Vermutung 3;1
+material_glas.mp3;Glas;Material (Reiter „Plan“);2
+material_sand.mp3;Sand;Material (Reiter „Plan“);2
+material_erde.mp3;Erde;Material (Reiter „Plan“);3
+material_kies.mp3;Kies;Material (Reiter „Plan“);1
+exp004_schritt1.mp3;Fülle das Glas schichtweise: erst Kies, dann Erde, dann Sand.;Experiment 4 „Schichten der Erde“ · Schritt 1;1
+exp004_schritt2.mp3;Lege in jede Schicht ein winziges Fundstück.;Experiment 4 „Schichten der Erde“ · Schritt 2;1
+exp004_schritt3.mp3;Zeichne die Schichten ab und beschrifte die älteste.;Experiment 4 „Schichten der Erde“ · Schritt 3;1
+exp004_wissen.mp3;Je tiefer eine Gesteinsschicht liegt, desto älter ist sie meistens.;Experiment 4 „Schichten der Erde“ · Dino-Wissen;1
+exp004_naechste_frage.mp3;Was passiert mit den Schichten, wenn oben Wasser dazukommt?;Experiment 4 „Schichten der Erde“ · nächste Forscherfrage;1
+exp005_titel.mp3;Blattdruck.;Experiment 5 „Blattdruck“ · Titel;1
+exp005_frage.mp3;Kann ein Blatt eine Spur hinterlassen?;Experiment 5 „Blattdruck“ · Forscherfrage;1
+exp005_vermutung1.mp3;Eiche;Experiment 5 „Blattdruck“ · Vermutung 1;1
+exp005_vermutung2.mp3;Ahorn;Experiment 5 „Blattdruck“ · Vermutung 2;1
+exp005_vermutung3.mp3;Farn;Experiment 5 „Blattdruck“ · Vermutung 3 · Experiment 86 „Urzeitpflanzen finden“ · Vermutung 1;2
+material_blaetter.mp3;Blätter;Material (Reiter „Plan“) · Experiment 41 „Nest bauen“ · Vermutung 3;3
+material_papier.mp3;Papier;Material (Reiter „Plan“) · Experiment 27 „Panzer-Test“ · Vermutung 1;11
+material_wachsmalstift.mp3;Wachsmalstift;Material (Reiter „Plan“);1
+exp005_schritt1.mp3;Lege ein Blatt unter das Papier.;Experiment 5 „Blattdruck“ · Schritt 1;1
+exp005_schritt2.mp3;Male mit der flachen Seite des Stifts darüber.;Experiment 5 „Blattdruck“ · Schritt 2;1
+exp005_schritt3.mp3;Vergleiche zwei verschiedene Blätter.;Experiment 5 „Blattdruck“ · Schritt 3;1
+exp005_wissen.mp3;Auch Pflanzen werden zu Fossilien. So wissen wir, was Dinos gefressen haben.;Experiment 5 „Blattdruck“ · Dino-Wissen;1
+exp005_naechste_frage.mp3;Erkennst du den Baum allein am Abdruck?;Experiment 5 „Blattdruck“ · nächste Forscherfrage;1
+exp006_titel.mp3;Wie groß war der Läufer?.;Experiment 6 „Wie groß war der Läufer?“ · Titel;1
+exp006_frage.mp3;Verrät die Spur die Größe des Tieres?;Experiment 6 „Wie groß war der Läufer?“ · Forscherfrage;1
+exp006_vermutung1.mp3;Winzig;Experiment 6 „Wie groß war der Läufer?“ · Vermutung 1;1
+exp006_vermutung2.mp3;Mittel;Experiment 6 „Wie groß war der Läufer?“ · Vermutung 2 · Experiment 21 „Wie schnell bist du?“ · Vermutung 2 · Experiment 55 „Wie weit siehst du zur Seite?“ · Vermutung 2;3
+exp006_vermutung3.mp3;Riesig;Experiment 6 „Wie groß war der Läufer?“ · Vermutung 3;1
+material_massband_oder_schnur.mp3;Maßband oder Schnur;Material (Reiter „Plan“);1
+exp006_schritt1.mp3;Miss die Länge eines Fußabdrucks.;Experiment 6 „Wie groß war der Läufer?“ · Schritt 1;1
+exp006_schritt2.mp3;Rechne: Abdruck mal vier ist ungefähr die Beinlänge.;Experiment 6 „Wie groß war der Läufer?“ · Schritt 2;1
+exp006_schritt3.mp3;Schreibe dein Ergebnis auf.;Experiment 6 „Wie groß war der Läufer?“ · Schritt 3;1
+exp006_wissen.mp3;Paläontologen schätzen die Höhe eines Dinos aus der Länge seines Fußabdrucks.;Experiment 6 „Wie groß war der Läufer?“ · Dino-Wissen;1
+exp006_rekord.mp3;Aus der Abdrucklänge mal vier schätzen Forscher die Beinlänge.;Experiment 6 „Wie groß war der Läufer?“ · Dino-Rekord;1
+exp006_naechste_frage.mp3;Stimmt die Rechnung auch bei einem Hund?;Experiment 6 „Wie groß war der Läufer?“ · nächste Forscherfrage;1
+exp007_titel.mp3;Ausgrabung.;Experiment 7 „Ausgrabung“ · Titel;1
+exp007_frage.mp3;Was liegt unter dem Sand versteckt?;Experiment 7 „Ausgrabung“ · Forscherfrage;1
+exp007_vermutung1.mp3;Knochen;Experiment 7 „Ausgrabung“ · Vermutung 1;1
+exp007_vermutung2.mp3;Stein;Experiment 7 „Ausgrabung“ · Vermutung 2 · Experiment 15 „Waage bauen“ · Vermutung 1 · Experiment 74 „Feder und Stein“ · Vermutung 2;4
+material_sandkiste.mp3;Sandkiste;Material (Reiter „Plan“) · Experiment 10 „Meine Fundkarte“ · Vermutung 3;2
+material_pinsel.mp3;Pinsel;Material (Reiter „Plan“);1
+material_loeffel.mp3;Löffel;Material (Reiter „Plan“) · Experiment 38 „Schnabel-Werkzeuge“ · Vermutung 2;3
+exp007_schritt1.mp3;Lass jemanden kleine Gegenstände vergraben.;Experiment 7 „Ausgrabung“ · Schritt 1;1
+exp007_schritt2.mp3;Grabe vorsichtig mit dem Pinsel, nicht mit den Händen.;Experiment 7 „Ausgrabung“ · Schritt 2;1
+exp007_schritt3.mp3;Fotografiere jeden Fund, bevor du ihn hochhebst.;Experiment 7 „Ausgrabung“ · Schritt 3;1
+exp007_wissen.mp3;Echte Forscher fotografieren jeden Knochen, bevor sie ihn bewegen. Sonst geht die Information verloren.;Experiment 7 „Ausgrabung“ · Dino-Wissen;1
+exp007_naechste_frage.mp3;Findest du auch mit geschlossenen Augen etwas?;Experiment 7 „Ausgrabung“ · nächste Forscherfrage;1
+exp008_titel.mp3;Steine untersuchen.;Experiment 8 „Steine untersuchen“ · Titel;1
+exp008_frage.mp3;Sind alle Steine gleich?;Experiment 8 „Steine untersuchen“ · Forscherfrage;1
+exp008_vermutung1.mp3;Rau;Experiment 8 „Steine untersuchen“ · Vermutung 1;1
+exp008_vermutung2.mp3;Glatt;Experiment 8 „Steine untersuchen“ · Vermutung 2;1
+exp008_vermutung3.mp3;Glitzernd;Experiment 8 „Steine untersuchen“ · Vermutung 3;1
+material_5_steine.mp3;5 Steine;Material (Reiter „Plan“);1
+exp008_schritt1.mp3;Sammle fünf verschiedene Steine.;Experiment 8 „Steine untersuchen“ · Schritt 1;1
+exp008_schritt2.mp3;Schau jeden mit der Lupe an.;Experiment 8 „Steine untersuchen“ · Schritt 2;1
+exp008_schritt3.mp3;Sortiere sie von rau nach glatt.;Experiment 8 „Steine untersuchen“ · Schritt 3;1
+exp008_wissen.mp3;Glatte Steine sind oft lange im Wasser gerollt. Raue Steine sind frisch abgebrochen.;Experiment 8 „Steine untersuchen“ · Dino-Wissen;1
+exp008_naechste_frage.mp3;Woher kommt der glatteste Stein, den du hast?;Experiment 8 „Steine untersuchen“ · nächste Forscherfrage;1
+exp009_titel.mp3;Wer lief schneller?.;Experiment 9 „Wer lief schneller?“ · Titel;1
+exp009_frage.mp3;Verraten Schritte die Geschwindigkeit?;Experiment 9 „Wer lief schneller?“ · Forscherfrage;1
+exp009_vermutung1.mp3;Langsam;Experiment 9 „Wer lief schneller?“ · Vermutung 1 · Experiment 21 „Wie schnell bist du?“ · Vermutung 1;2
+exp009_vermutung2.mp3;Normal;Experiment 9 „Wer lief schneller?“ · Vermutung 2;1
+exp009_vermutung3.mp3;Schnell;Experiment 9 „Wer lief schneller?“ · Vermutung 3 · Experiment 21 „Wie schnell bist du?“ · Vermutung 3;2
+material_sand_oder_kreide.mp3;Sand oder Kreide;Material (Reiter „Plan“);1
+exp009_schritt1.mp3;Gehe langsam zehn Schritte und markiere sie.;Experiment 9 „Wer lief schneller?“ · Schritt 1;1
+exp009_schritt2.mp3;Renne dieselbe Strecke und markiere wieder.;Experiment 9 „Wer lief schneller?“ · Schritt 2;1
+exp009_schritt3.mp3;Vergleiche die Abstände.;Experiment 9 „Wer lief schneller?“ · Schritt 3;1
+exp009_wissen.mp3;Große Abstände zwischen Spuren bedeuten: Das Tier rannte.;Experiment 9 „Wer lief schneller?“ · Dino-Wissen;1
+exp009_rekord.mp3;Ein rennender Raubdino ließ über vier Meter Lücke zwischen den Spuren.;Experiment 9 „Wer lief schneller?“ · Dino-Rekord;1
+exp009_naechste_frage.mp3;Wie sehen deine Spuren aus, wenn du hüpfst?;Experiment 9 „Wer lief schneller?“ · nächste Forscherfrage;1
+exp010_titel.mp3;Meine Fundkarte.;Experiment 10 „Meine Fundkarte“ · Titel;1
+exp010_frage.mp3;Wo hast du etwas entdeckt?;Experiment 10 „Meine Fundkarte“ · Forscherfrage;1
+exp010_vermutung1.mp3;Zuhause;Experiment 10 „Meine Fundkarte“ · Vermutung 1;1
+exp010_vermutung2.mp3;Park;Experiment 10 „Meine Fundkarte“ · Vermutung 2;1
+material_stift.mp3;Stift;Material (Reiter „Plan“);9
+exp010_schritt1.mp3;Zeichne eine Karte von deinem Forschungsort.;Experiment 10 „Meine Fundkarte“ · Schritt 1;1
+exp010_schritt2.mp3;Male ein Kreuz an jede Fundstelle.;Experiment 10 „Meine Fundkarte“ · Schritt 2;1
+exp010_schritt3.mp3;Schreibe dazu, was du dort gefunden hast.;Experiment 10 „Meine Fundkarte“ · Schritt 3;1
+exp010_wissen.mp3;Ohne Fundkarte weiß niemand mehr, wo ein Fossil gelegen hat.;Experiment 10 „Meine Fundkarte“ · Dino-Wissen;1
+exp010_naechste_frage.mp3;Findest du deine Stelle mit der Karte wieder?;Experiment 10 „Meine Fundkarte“ · nächste Forscherfrage;1
+exp011_titel.mp3;So lang wie ein Brachiosaurus.;Experiment 11 „So lang wie ein Brachiosaurus“ · Titel;1
+exp011_frage.mp3;Wie lang sind 23 Meter?;Experiment 11 „So lang wie ein Brachiosaurus“ · Forscherfrage;1
+exp011_vermutung1.mp3;Wie ein Auto;Experiment 11 „So lang wie ein Brachiosaurus“ · Vermutung 1;1
+exp011_vermutung2.mp3;Wie ein Bus;Experiment 11 „So lang wie ein Brachiosaurus“ · Vermutung 2;1
+exp011_vermutung3.mp3;Wie ein Haus;Experiment 11 „So lang wie ein Brachiosaurus“ · Vermutung 3;1
+material_schnur_oder_schritte.mp3;Schnur oder Schritte;Material (Reiter „Plan“);1
+exp011_schritt1.mp3;Gehe 30 große Schritte geradeaus.;Experiment 11 „So lang wie ein Brachiosaurus“ · Schritt 1;1
+exp011_schritt2.mp3;Schau zurück – so lang war ein Brachiosaurus.;Experiment 11 „So lang wie ein Brachiosaurus“ · Schritt 2;1
+exp011_schritt3.mp3;Fotografiere die Strecke.;Experiment 11 „So lang wie ein Brachiosaurus“ · Schritt 3;1
+exp011_wissen.mp3;Brachiosaurus war etwa so lang wie zwei Busse hintereinander.;Experiment 11 „So lang wie ein Brachiosaurus“ · Dino-Wissen;1
+exp011_rekord.mp3;Brachiosaurus: etwa 23 Meter lang.;Experiment 11 „So lang wie ein Brachiosaurus“ · Dino-Rekord;1
+exp011_naechste_frage.mp3;Wie lange brauchst du für diese Strecke?;Experiment 11 „So lang wie ein Brachiosaurus“ · nächste Forscherfrage;1
+exp012_titel.mp3;Größenvergleich.;Experiment 12 „Größenvergleich“ · Titel;1
+exp012_frage.mp3;Wie klein bist du neben einem Dino?;Experiment 12 „Größenvergleich“ · Forscherfrage;1
+exp012_vermutung1.mp3;2 mal;Experiment 12 „Größenvergleich“ · Vermutung 1;1
+exp012_vermutung2.mp3;5 mal;Experiment 12 „Größenvergleich“ · Vermutung 2;1
+exp012_vermutung3.mp3;10 mal;Experiment 12 „Größenvergleich“ · Vermutung 3;1
+exp012_schritt1.mp3;Male dich selbst an den Rand der Seite.;Experiment 12 „Größenvergleich“ · Schritt 1;1
+exp012_schritt2.mp3;Male daneben einen Dino, der zehnmal größer ist.;Experiment 12 „Größenvergleich“ · Schritt 2;1
+exp012_schritt3.mp3;Zähle, wie oft du hineinpasst.;Experiment 12 „Größenvergleich“ · Schritt 3;1
+exp012_wissen.mp3;Ein T-Rex war etwa so hoch wie ein Doppeldeckerbus.;Experiment 12 „Größenvergleich“ · Dino-Wissen;1
+exp012_rekord.mp3;T-Rex: etwa 4 Meter Hüfthöhe, 12 Meter Länge.;Experiment 12 „Größenvergleich“ · Dino-Rekord;1
+exp012_naechste_frage.mp3;Welches Tier von heute kommt einem Dino am nächsten?;Experiment 12 „Größenvergleich“ · nächste Forscherfrage;1
+exp013_titel.mp3;Wie groß war ein Dino-Ei?.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Titel;1
+exp013_frage.mp3;Passt ein Dino-Ei in deine Hand?;Experiment 13 „Wie groß war ein Dino-Ei?“ · Forscherfrage;1
+exp013_vermutung1.mp3;Hühnerei;Experiment 13 „Wie groß war ein Dino-Ei?“ · Vermutung 1 · Material (Reiter „Plan“);2
+exp013_vermutung2.mp3;Apfel;Experiment 13 „Wie groß war ein Dino-Ei?“ · Vermutung 2 · Material (Reiter „Plan“) · Experiment 15 „Waage bauen“ · Vermutung 2;6
+exp013_vermutung3.mp3;Fußball;Experiment 13 „Wie groß war ein Dino-Ei?“ · Vermutung 3;1
+material_ball.mp3;Ball;Material (Reiter „Plan“);3
+exp013_schritt1.mp3;Lege einen Ball, einen Apfel und ein Ei nebeneinander.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Schritt 1;1
+exp013_schritt2.mp3;Fotografiere sie mit deiner Hand daneben.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Schritt 2;1
+exp013_schritt3.mp3;Kreise das ein, was du für ein Dino-Ei hältst.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Schritt 3;1
+exp013_wissen.mp3;Selbst die größten Dino-Eier waren kaum größer als ein Fußball.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Dino-Wissen;1
+exp013_rekord.mp3;Das größte bekannte Dino-Ei misst rund 30 Zentimeter.;Experiment 13 „Wie groß war ein Dino-Ei?“ · Dino-Rekord;1
+exp013_naechste_frage.mp3;Wie viele Hühnereier ergeben zusammen ein Dino-Ei?;Experiment 13 „Wie groß war ein Dino-Ei?“ · nächste Forscherfrage;1
+exp014_titel.mp3;Fußabdruck in Lebensgröße.;Experiment 14 „Fußabdruck in Lebensgröße“ · Titel;1
+exp014_frage.mp3;Wie groß war ein Dino-Fuß wirklich?;Experiment 14 „Fußabdruck in Lebensgröße“ · Forscherfrage;1
+exp014_vermutung1.mp3;Kleiner;Experiment 14 „Fußabdruck in Lebensgröße“ · Vermutung 1;1
+exp014_vermutung2.mp3;Genau;Experiment 14 „Fußabdruck in Lebensgröße“ · Vermutung 2;1
+exp014_vermutung3.mp3;Größer;Experiment 14 „Fußabdruck in Lebensgröße“ · Vermutung 3;1
+material_kreide.mp3;Kreide;Material (Reiter „Plan“);3
+material_draussen_platz.mp3;Draußen-Platz;Material (Reiter „Plan“);1
+exp014_schritt1.mp3;Male mit Kreide einen Fuß von einem Meter Länge.;Experiment 14 „Fußabdruck in Lebensgröße“ · Schritt 1;1
+exp014_schritt2.mp3;Stelle dich hinein.;Experiment 14 „Fußabdruck in Lebensgröße“ · Schritt 2;1
+exp014_schritt3.mp3;Fotografiere dich im Abdruck.;Experiment 14 „Fußabdruck in Lebensgröße“ · Schritt 3;1
+exp014_wissen.mp3;In den Fußabdruck eines Sauropoden passt ein ganzes Kind zum Sitzen.;Experiment 14 „Fußabdruck in Lebensgröße“ · Dino-Wissen;1
+exp014_rekord.mp3;Ein Sauropoden-Abdruck war bis zu 1 Meter lang.;Experiment 14 „Fußabdruck in Lebensgröße“ · Dino-Rekord;1
+exp014_naechste_frage.mp3;Wie viele deiner Abdrücke passen in den großen hinein?;Experiment 14 „Fußabdruck in Lebensgröße“ · nächste Forscherfrage;1
+exp015_titel.mp3;Waage bauen.;Experiment 15 „Waage bauen“ · Titel;1
+exp015_frage.mp3;Was ist schwerer?;Experiment 15 „Waage bauen“ · Forscherfrage;1
+exp015_vermutung3.mp3;Feder;Experiment 15 „Waage bauen“ · Vermutung 3 · Experiment 74 „Feder und Stein“ · Vermutung 1 · Material (Reiter „Plan“);5
+material_buegel_oder_lineal.mp3;Bügel oder Lineal;Material (Reiter „Plan“);1
+material_schnur.mp3;Schnur;Material (Reiter „Plan“);3
+material_2_becher.mp3;2 Becher;Material (Reiter „Plan“);1
+exp015_schritt1.mp3;Hänge zwei Becher an ein Lineal und balanciere es aus.;Experiment 15 „Waage bauen“ · Schritt 1;1
+exp015_schritt2.mp3;Lege links und rechts verschiedene Dinge hinein.;Experiment 15 „Waage bauen“ · Schritt 2;1
+exp015_schritt3.mp3;Notiere, was schwerer war.;Experiment 15 „Waage bauen“ · Schritt 3;1
+exp015_wissen.mp3;Argentinosaurus wog so viel wie zehn Elefanten.;Experiment 15 „Waage bauen“ · Dino-Wissen;1
+exp015_rekord.mp3;Argentinosaurus: etwa 70 Tonnen.;Experiment 15 „Waage bauen“ · Dino-Rekord;1
+exp015_naechste_frage.mp3;Wie viele Steine wiegen so viel wie ein Apfel?;Experiment 15 „Waage bauen“ · nächste Forscherfrage;1
+exp016_titel.mp3;Der kleinste Dino.;Experiment 16 „Der kleinste Dino“ · Titel;1
+exp016_frage.mp3;Waren alle Dinos riesig?;Experiment 16 „Der kleinste Dino“ · Forscherfrage;1
+exp016_vermutung1.mp3;Wie eine Maus;Experiment 16 „Der kleinste Dino“ · Vermutung 1;1
+exp016_vermutung2.mp3;Wie ein Vogel;Experiment 16 „Der kleinste Dino“ · Vermutung 2;1
+exp016_vermutung3.mp3;Wie eine Katze;Experiment 16 „Der kleinste Dino“ · Vermutung 3;1
+material_lineal.mp3;Lineal;Material (Reiter „Plan“);2
+exp016_schritt1.mp3;Miss 30 Zentimeter ab – so groß war ein kleiner Raubdino.;Experiment 16 „Der kleinste Dino“ · Schritt 1;1
+exp016_schritt2.mp3;Suche etwas in deinem Zimmer, das genauso groß ist.;Experiment 16 „Der kleinste Dino“ · Schritt 2;1
+exp016_schritt3.mp3;Fotografiere es.;Experiment 16 „Der kleinste Dino“ · Schritt 3;1
+exp016_wissen.mp3;Der kleinste bekannte Dino war ungefähr so groß wie eine Taube.;Experiment 16 „Der kleinste Dino“ · Dino-Wissen;1
+exp016_rekord.mp3;Der kleinste bekannte Dino war rund 35 Zentimeter lang.;Experiment 16 „Der kleinste Dino“ · Dino-Rekord;1
+exp016_naechste_frage.mp3;Welches Tier in deiner Nähe ist genauso groß?;Experiment 16 „Der kleinste Dino“ · nächste Forscherfrage;1
+exp017_titel.mp3;Der lange Hals.;Experiment 17 „Der lange Hals“ · Titel;1
+exp017_frage.mp3;Wozu braucht man einen langen Hals?;Experiment 17 „Der lange Hals“ · Forscherfrage;1
+exp017_vermutung1.mp3;Hohe Blätter;Experiment 17 „Der lange Hals“ · Vermutung 1;1
+exp017_vermutung3.mp3;Weit sehen;Experiment 17 „Der lange Hals“ · Vermutung 3;1
+material_papprollen.mp3;Papprollen;Material (Reiter „Plan“);1
+material_klebeband.mp3;Klebeband;Material (Reiter „Plan“);2
+exp017_schritt1.mp3;Klebe Rollen zu einem langen Hals zusammen.;Experiment 17 „Der lange Hals“ · Schritt 1;1
+exp017_schritt2.mp3;Halte ihn hoch – was kannst du damit erreichen?;Experiment 17 „Der lange Hals“ · Schritt 2;1
+exp017_schritt3.mp3;Male, was oben zu fressen wäre.;Experiment 17 „Der lange Hals“ · Schritt 3;1
+exp017_wissen.mp3;Mamenchisaurus hatte einen Hals von zwölf Metern – halb so lang wie sein ganzer Körper.;Experiment 17 „Der lange Hals“ · Dino-Wissen;1
+exp017_rekord.mp3;Mamenchisaurus: 12 Meter Hals.;Experiment 17 „Der lange Hals“ · Dino-Rekord;1
+exp017_naechste_frage.mp3;Wie lang darf dein Papierhals werden, bevor er umkippt?;Experiment 17 „Der lange Hals“ · nächste Forscherfrage;1
+exp018_titel.mp3;Wie viele Kinder?.;Experiment 18 „Wie viele Kinder?“ · Titel;1
+exp018_frage.mp3;Wie schwer ist ein T-Rex?;Experiment 18 „Wie viele Kinder?“ · Forscherfrage;1
+exp018_vermutung1.mp3;Etwa 10;Experiment 18 „Wie viele Kinder?“ · Vermutung 1;1
+exp018_vermutung2.mp3;Etwa 100;Experiment 18 „Wie viele Kinder?“ · Vermutung 2;1
+exp018_vermutung3.mp3;Über 200;Experiment 18 „Wie viele Kinder?“ · Vermutung 3;1
+exp018_schritt1.mp3;Ein T-Rex wog etwa 7000 Kilo.;Experiment 18 „Wie viele Kinder?“ · Schritt 1;1
+exp018_schritt2.mp3;Ein Kind wiegt etwa 25 Kilo. Schätze, wie viele Kinder das sind.;Experiment 18 „Wie viele Kinder?“ · Schritt 2;1
+exp018_schritt3.mp3;Male eine Reihe Strichmännchen als Antwort.;Experiment 18 „Wie viele Kinder?“ · Schritt 3;1
+exp018_wissen.mp3;Es wären ungefähr 280 Kinder nötig, um einen T-Rex aufzuwiegen.;Experiment 18 „Wie viele Kinder?“ · Dino-Wissen;1
+exp018_rekord.mp3;T-Rex: rund 7000 Kilo.;Experiment 18 „Wie viele Kinder?“ · Dino-Rekord;1
+exp018_naechste_frage.mp3;Wie viele Kinder wiegen zusammen so viel wie du?;Experiment 18 „Wie viele Kinder?“ · nächste Forscherfrage;1
+exp019_titel.mp3;Ein Zahn so groß wie....;Experiment 19 „Ein Zahn so groß wie...“ · Titel;1
+exp019_frage.mp3;Wie groß war ein T-Rex-Zahn?;Experiment 19 „Ein Zahn so groß wie...“ · Forscherfrage;1
+exp019_vermutung1.mp3;Wie eine Nuss;Experiment 19 „Ein Zahn so groß wie...“ · Vermutung 1;1
+exp019_vermutung2.mp3;Wie eine Banane;Experiment 19 „Ein Zahn so groß wie...“ · Vermutung 2;1
+exp019_vermutung3.mp3;Wie eine Möhre;Experiment 19 „Ein Zahn so groß wie...“ · Vermutung 3;1
+material_banane.mp3;Banane;Material (Reiter „Plan“);1
+exp019_schritt1.mp3;Ein großer T-Rex-Zahn war 20 Zentimeter lang.;Experiment 19 „Ein Zahn so groß wie...“ · Schritt 1;1
+exp019_schritt2.mp3;Lege eine Banane daneben und miss sie.;Experiment 19 „Ein Zahn so groß wie...“ · Schritt 2;1
+exp019_schritt3.mp3;Zeichne den Zahn in Originalgröße.;Experiment 19 „Ein Zahn so groß wie...“ · Schritt 3;1
+exp019_wissen.mp3;Ein T-Rex verlor ständig Zähne – und es wuchsen sofort neue nach.;Experiment 19 „Ein Zahn so groß wie...“ · Dino-Wissen;1
+exp019_rekord.mp3;Ein T-Rex-Zahn wurde bis zu 20 Zentimeter lang.;Experiment 19 „Ein Zahn so groß wie...“ · Dino-Rekord;1
+exp019_naechste_frage.mp3;Wie lang wäre ein Zahn, der zu deiner Größe passt?;Experiment 19 „Ein Zahn so groß wie...“ · nächste Forscherfrage;1
+exp020_titel.mp3;Mein Dino-Maßband.;Experiment 20 „Mein Dino-Maßband“ · Titel;1
+exp020_frage.mp3;Wie misst man ohne Lineal?;Experiment 20 „Mein Dino-Maßband“ · Forscherfrage;1
+exp020_vermutung1.mp3;1 Arm;Experiment 20 „Mein Dino-Maßband“ · Vermutung 1;1
+exp020_vermutung2.mp3;3 Arme;Experiment 20 „Mein Dino-Maßband“ · Vermutung 2;1
+exp020_vermutung3.mp3;10 Arme;Experiment 20 „Mein Dino-Maßband“ · Vermutung 3;1
+material_schere.mp3;Schere;Material (Reiter „Plan“);3
+exp020_schritt1.mp3;Schneide eine Schnur so lang wie dein Arm ab.;Experiment 20 „Mein Dino-Maßband“ · Schritt 1;1
+exp020_schritt2.mp3;Miss damit drei Dinge im Raum.;Experiment 20 „Mein Dino-Maßband“ · Schritt 2;1
+exp020_schritt3.mp3;Schreibe auf: Wie viele Armlängen?;Experiment 20 „Mein Dino-Maßband“ · Schritt 3;1
+exp020_wissen.mp3;Früher maßen Menschen mit Füßen, Ellen und Schritten – jeder hatte andere Maße.;Experiment 20 „Mein Dino-Maßband“ · Dino-Wissen;1
+exp020_naechste_frage.mp3;Ist dein Arm ein zuverlässiges Maß? Miss zweimal.;Experiment 20 „Mein Dino-Maßband“ · nächste Forscherfrage;1
+exp021_titel.mp3;Wie schnell bist du?.;Experiment 21 „Wie schnell bist du?“ · Titel;1
+exp021_frage.mp3;Wärst du schneller als ein Raubdino?;Experiment 21 „Wie schnell bist du?“ · Forscherfrage;1
+exp021_vermutung4.mp3;Superschnell;Experiment 21 „Wie schnell bist du?“ · Vermutung 4;1
+material_stoppuhr.mp3;Stoppuhr;Material (Reiter „Plan“);4
+material_freie_strecke.mp3;Freie Strecke;Material (Reiter „Plan“);1
+exp021_schritt1.mp3;Miss zehn Meter ab.;Experiment 21 „Wie schnell bist du?“ · Schritt 1;1
+exp021_schritt2.mp3;Laufe los und lass jemanden stoppen.;Experiment 21 „Wie schnell bist du?“ · Schritt 2;1
+exp021_schritt3.mp3;Notiere deine Zeit.;Experiment 21 „Wie schnell bist du?“ · Schritt 3;1
+exp021_wissen.mp3;Ein Velociraptor lief etwa 40 km/h – ungefähr so schnell wie ein Fahrrad bergab.;Experiment 21 „Wie schnell bist du?“ · Dino-Wissen;1
+exp021_rekord.mp3;Velociraptor: etwa 40 km/h. T-Rex: etwa 20 km/h. Mensch: etwa 15 km/h.;Experiment 21 „Wie schnell bist du?“ · Dino-Rekord;1
+exp021_naechste_frage.mp3;Bist du mit Anlauf schneller?;Experiment 21 „Wie schnell bist du?“ · nächste Forscherfrage;1
+exp022_titel.mp3;Zwei Beine oder vier?.;Experiment 22 „Zwei Beine oder vier?“ · Titel;1
+exp022_frage.mp3;Womit kommst du schneller voran?;Experiment 22 „Zwei Beine oder vier?“ · Forscherfrage;1
+exp022_vermutung1.mp3;Zwei Beine;Experiment 22 „Zwei Beine oder vier?“ · Vermutung 1;1
+exp022_vermutung2.mp3;Vier Beine;Experiment 22 „Zwei Beine oder vier?“ · Vermutung 2;1
+exp022_vermutung3.mp3;Gleich;Experiment 22 „Zwei Beine oder vier?“ · Vermutung 3 · Experiment 23 „Der Schwanz als Balance“ · Vermutung 3 · Experiment 45 „Warm bleiben“ · Vermutung 3;9
+material_freie_flaeche.mp3;Freie Fläche;Material (Reiter „Plan“);1
+exp022_schritt1.mp3;Laufe eine kurze Strecke auf zwei Beinen.;Experiment 22 „Zwei Beine oder vier?“ · Schritt 1;1
+exp022_schritt2.mp3;Krabbele dieselbe Strecke auf allen vieren.;Experiment 22 „Zwei Beine oder vier?“ · Schritt 2;1
+exp022_schritt3.mp3;Vergleiche und schreibe auf, was leichter war.;Experiment 22 „Zwei Beine oder vier?“ · Schritt 3;1
+exp022_wissen.mp3;Viele Dinos wechselten: Sie grasten auf vier Beinen und rannten auf zwei.;Experiment 22 „Zwei Beine oder vier?“ · Dino-Wissen;1
+exp022_naechste_frage.mp3;Ist es auf Gras anders als auf Stein?;Experiment 22 „Zwei Beine oder vier?“ · nächste Forscherfrage;1
+exp023_titel.mp3;Der Schwanz als Balance.;Experiment 23 „Der Schwanz als Balance“ · Titel;1
+exp023_frage.mp3;Hilft ein Schwanz beim Balancieren?;Experiment 23 „Der Schwanz als Balance“ · Forscherfrage;1
+exp023_vermutung1.mp3;Mit Stab;Experiment 23 „Der Schwanz als Balance“ · Vermutung 1;1
+exp023_vermutung2.mp3;Ohne Stab;Experiment 23 „Der Schwanz als Balance“ · Vermutung 2;1
+material_besenstiel_oder_stab.mp3;Besenstiel oder Stab;Material (Reiter „Plan“);1
+material_linie_am_boden.mp3;Linie am Boden;Material (Reiter „Plan“);1
+exp023_schritt1.mp3;Balanciere auf einer Linie mit hängenden Armen.;Experiment 23 „Der Schwanz als Balance“ · Schritt 1;1
+exp023_schritt2.mp3;Balanciere noch einmal mit ausgestrecktem Stab.;Experiment 23 „Der Schwanz als Balance“ · Schritt 2;1
+exp023_schritt3.mp3;Was war leichter?;Experiment 23 „Der Schwanz als Balance“ · Schritt 3;1
+exp023_wissen.mp3;Der schwere Schwanz eines T-Rex war das Gegengewicht zu seinem Kopf.;Experiment 23 „Der Schwanz als Balance“ · Dino-Wissen;1
+exp023_naechste_frage.mp3;Hilft ein schwererer Stab noch mehr?;Experiment 23 „Der Schwanz als Balance“ · nächste Forscherfrage;1
+exp024_titel.mp3;Schritte zählen.;Experiment 24 „Schritte zählen“ · Titel;1
+exp024_frage.mp3;Wie viele Schritte brauchst du?;Experiment 24 „Schritte zählen“ · Forscherfrage;1
+exp024_vermutung1.mp3;Unter 10;Experiment 24 „Schritte zählen“ · Vermutung 1 · Experiment 39 „Kauen zählen“ · Vermutung 1;2
+exp024_vermutung2.mp3;10 bis 20;Experiment 24 „Schritte zählen“ · Vermutung 2 · Experiment 39 „Kauen zählen“ · Vermutung 2;2
+exp024_vermutung3.mp3;Über 20;Experiment 24 „Schritte zählen“ · Vermutung 3 · Experiment 39 „Kauen zählen“ · Vermutung 3;2
+material_zimmer_oder_weg.mp3;Zimmer oder Weg;Material (Reiter „Plan“);1
+exp024_schritt1.mp3;Zähle deine Schritte durch den Raum.;Experiment 24 „Schritte zählen“ · Schritt 1;1
+exp024_schritt2.mp3;Mache jetzt Riesenschritte und zähle noch einmal.;Experiment 24 „Schritte zählen“ · Schritt 2;1
+exp024_schritt3.mp3;Male beide Zahlen auf.;Experiment 24 „Schritte zählen“ · Schritt 3;1
+exp024_wissen.mp3;Ein Sauropode brauchte für dieselbe Strecke nur wenige Schritte – seine Beine waren so lang wie ein Auto.;Experiment 24 „Schritte zählen“ · Dino-Wissen;1
+exp024_rekord.mp3;Ein großer Sauropode kam mit einem Schritt vier Meter weit.;Experiment 24 „Schritte zählen“ · Dino-Rekord;1
+exp024_naechste_frage.mp3;Wie viele Schritte braucht ein Erwachsener für dieselbe Strecke?;Experiment 24 „Schritte zählen“ · nächste Forscherfrage;1
+exp025_titel.mp3;Wer zieht stärker?.;Experiment 25 „Wer zieht stärker?“ · Titel;1
+exp025_frage.mp3;Wie stark bist du?;Experiment 25 „Wer zieht stärker?“ · Forscherfrage;1
+exp025_vermutung1.mp3;Eine Hand;Experiment 25 „Wer zieht stärker?“ · Vermutung 1;1
+exp025_vermutung2.mp3;Zwei Hände;Experiment 25 „Wer zieht stärker?“ · Vermutung 2;1
+exp025_vermutung3.mp3;Ganzer Körper;Experiment 25 „Wer zieht stärker?“ · Vermutung 3;1
+material_weiches_seil_oder_tuch.mp3;Weiches Seil oder Tuch;Material (Reiter „Plan“);1
+exp025_schritt1.mp3;Zieht zu zweit vorsichtig an einem Tuch.;Experiment 25 „Wer zieht stärker?“ · Schritt 1;1
+exp025_schritt2.mp3;Probiert es mit einer Hand und mit beiden.;Experiment 25 „Wer zieht stärker?“ · Schritt 2;1
+exp025_schritt3.mp3;Notiert, was den Unterschied macht.;Experiment 25 „Wer zieht stärker?“ · Schritt 3;1
+exp025_wissen.mp3;Triceratops schob mit seinem Nackenschild Gegner zur Seite – wie ein Bulldozer.;Experiment 25 „Wer zieht stärker?“ · Dino-Wissen;1
+exp025_naechste_frage.mp3;Ändert sich das Ergebnis mit rutschigen Schuhen?;Experiment 25 „Wer zieht stärker?“ · nächste Forscherfrage;1
+exp026_titel.mp3;Weitsprung.;Experiment 26 „Weitsprung“ · Titel;1
+exp026_frage.mp3;Wie weit springst du?;Experiment 26 „Weitsprung“ · Forscherfrage;1
+exp026_vermutung1.mp3;Unter 1 m;Experiment 26 „Weitsprung“ · Vermutung 1;1
+exp026_vermutung2.mp3;Etwa 1 m;Experiment 26 „Weitsprung“ · Vermutung 2;1
+exp026_vermutung3.mp3;Über 1 m;Experiment 26 „Weitsprung“ · Vermutung 3;1
+material_massband.mp3;Maßband;Material (Reiter „Plan“);1
+exp026_schritt1.mp3;Springe aus dem Stand so weit du kannst.;Experiment 26 „Weitsprung“ · Schritt 1;1
+exp026_schritt2.mp3;Markiere die Landung mit Kreide.;Experiment 26 „Weitsprung“ · Schritt 2;1
+exp026_schritt3.mp3;Miss die Strecke und schreibe sie auf.;Experiment 26 „Weitsprung“ · Schritt 3;1
+exp026_wissen.mp3;Kleine Raubdinos sprangen wahrscheinlich weiter als jeder Mensch.;Experiment 26 „Weitsprung“ · Dino-Wissen;1
+exp026_rekord.mp3;Kleine Raubdinos sprangen mehrere Meter weit.;Experiment 26 „Weitsprung“ · Dino-Rekord;1
+exp026_naechste_frage.mp3;Springst du mit Anlauf wirklich weiter?;Experiment 26 „Weitsprung“ · nächste Forscherfrage;1
+exp027_titel.mp3;Panzer-Test.;Experiment 27 „Panzer-Test“ · Titel;1
+exp027_frage.mp3;Welcher Schutz hält am besten?;Experiment 27 „Panzer-Test“ · Forscherfrage;1
+exp027_vermutung2.mp3;Tuch;Experiment 27 „Panzer-Test“ · Vermutung 2 · Material (Reiter „Plan“) · Experiment 42 „Ei-Fall-Test“ · Vermutung 3;5
+exp027_vermutung3.mp3;Karton;Experiment 27 „Panzer-Test“ · Vermutung 3 · Material (Reiter „Plan“);3
+material_ei_oder_ball.mp3;Ei oder Ball;Material (Reiter „Plan“);1
+exp027_schritt1.mp3;Wickle einen Ball einmal in Papier, einmal in ein Tuch.;Experiment 27 „Panzer-Test“ · Schritt 1;1
+exp027_schritt2.mp3;Lass ihn aus kleiner Höhe fallen.;Experiment 27 „Panzer-Test“ · Schritt 2;1
+exp027_schritt3.mp3;Male, welcher Schutz gewonnen hat.;Experiment 27 „Panzer-Test“ · Schritt 3;1
+exp027_wissen.mp3;Ankylosaurus trug Knochenplatten auf dem Rücken – wie ein lebender Panzer.;Experiment 27 „Panzer-Test“ · Dino-Wissen;1
+exp027_naechste_frage.mp3;Welche Polsterung ist leicht und schützt trotzdem?;Experiment 27 „Panzer-Test“ · nächste Forscherfrage;1
+exp028_titel.mp3;Stampf-Erschütterung.;Experiment 28 „Stampf-Erschütterung“ · Titel;1
+exp028_frage.mp3;Kann man Schritte im Wasser sehen?;Experiment 28 „Stampf-Erschütterung“ · Forscherfrage;1
+exp028_vermutung1.mp3;Kleine Wellen;Experiment 28 „Stampf-Erschütterung“ · Vermutung 1;1
+exp028_vermutung2.mp3;Große Wellen;Experiment 28 „Stampf-Erschütterung“ · Vermutung 2;1
+exp028_vermutung3.mp3;Nichts;Experiment 28 „Stampf-Erschütterung“ · Vermutung 3 · Experiment 81 „Vulkanausbruch“ · Vermutung 3;2
+material_glas_wasser.mp3;Glas Wasser;Material (Reiter „Plan“);3
+material_tisch.mp3;Tisch;Material (Reiter „Plan“);3
+exp028_schritt1.mp3;Stelle ein halbvolles Glas auf den Tisch.;Experiment 28 „Stampf-Erschütterung“ · Schritt 1;1
+exp028_schritt2.mp3;Stampfe daneben auf den Boden.;Experiment 28 „Stampf-Erschütterung“ · Schritt 2;1
+exp028_schritt3.mp3;Beobachte die Wellen und male sie.;Experiment 28 „Stampf-Erschütterung“ · Schritt 3;1
+exp028_wissen.mp3;Schwere Dinos ließen den Boden vibrieren. Andere Tiere spürten sie, bevor sie sie sahen.;Experiment 28 „Stampf-Erschütterung“ · Dino-Wissen;1
+exp028_naechste_frage.mp3;Spürst du das Stampfen auch durch eine Wand?;Experiment 28 „Stampf-Erschütterung“ · nächste Forscherfrage;1
+exp029_titel.mp3;Schwere Last tragen.;Experiment 29 „Schwere Last tragen“ · Titel;1
+exp029_frage.mp3;Wie viel kannst du tragen?;Experiment 29 „Schwere Last tragen“ · Forscherfrage;1
+exp029_vermutung1.mp3;Leicht;Experiment 29 „Schwere Last tragen“ · Vermutung 1;1
+exp029_vermutung2.mp3;Geht so;Experiment 29 „Schwere Last tragen“ · Vermutung 2;1
+exp029_vermutung3.mp3;Ganz schön schwer;Experiment 29 „Schwere Last tragen“ · Vermutung 3;1
+material_rucksack.mp3;Rucksack;Material (Reiter „Plan“);1
+material_buecher.mp3;Bücher;Material (Reiter „Plan“);2
+exp029_schritt1.mp3;Packe erst ein Buch in den Rucksack und gehe zehn Schritte.;Experiment 29 „Schwere Last tragen“ · Schritt 1;1
+exp029_schritt2.mp3;Packe drei Bücher dazu und gehe wieder.;Experiment 29 „Schwere Last tragen“ · Schritt 2;1
+exp029_schritt3.mp3;Beschreibe den Unterschied.;Experiment 29 „Schwere Last tragen“ · Schritt 3 · Experiment 52 „Große Ohren bauen“ · Schritt 3 · Experiment 78 „Segel im Wind“ · Schritt 3;3
+exp029_wissen.mp3;Die Beine der Sauropoden waren Säulen aus dickem Knochen – nur so trugen sie ihr Gewicht.;Experiment 29 „Schwere Last tragen“ · Dino-Wissen;1
+exp029_rekord.mp3;Die Beinknochen der Sauropoden waren dicker als ein Kinderkörper.;Experiment 29 „Schwere Last tragen“ · Dino-Rekord;1
+exp029_naechste_frage.mp3;Wie weit kommst du mit doppeltem Gewicht?;Experiment 29 „Schwere Last tragen“ · nächste Forscherfrage;1
+exp030_titel.mp3;Ausdauer-Test.;Experiment 30 „Ausdauer-Test“ · Titel;1
+exp030_frage.mp3;Wie lange hältst du durch?;Experiment 30 „Ausdauer-Test“ · Forscherfrage;1
+exp030_vermutung1.mp3;Unter 10 s;Experiment 30 „Ausdauer-Test“ · Vermutung 1 · Experiment 69 „Wer sieht mich zuerst?“ · Vermutung 1;2
+exp030_vermutung2.mp3;10 bis 30 s;Experiment 30 „Ausdauer-Test“ · Vermutung 2;1
+exp030_vermutung3.mp3;Über 30 s;Experiment 30 „Ausdauer-Test“ · Vermutung 3;1
+exp030_schritt1.mp3;Stehe auf einem Bein und lass die Zeit laufen.;Experiment 30 „Ausdauer-Test“ · Schritt 1;1
+exp030_schritt2.mp3;Probiere es mit geschlossenen Augen noch einmal.;Experiment 30 „Ausdauer-Test“ · Schritt 2;1
+exp030_schritt3.mp3;Notiere beide Zeiten.;Experiment 30 „Ausdauer-Test“ · Schritt 3;1
+exp030_wissen.mp3;Flamingos stehen stundenlang auf einem Bein – auch sie sind Dino-Verwandte.;Experiment 30 „Ausdauer-Test“ · Dino-Wissen;1
+exp030_rekord.mp3;Flamingos stehen stundenlang auf einem Bein.;Experiment 30 „Ausdauer-Test“ · Dino-Rekord;1
+exp030_naechste_frage.mp3;Hilft es, einen festen Punkt anzuschauen?;Experiment 30 „Ausdauer-Test“ · nächste Forscherfrage;1
+exp031_titel.mp3;Spitz oder flach?.;Experiment 31 „Spitz oder flach?“ · Titel;1
+exp031_frage.mp3;Was verraten Zähne über das Futter?;Experiment 31 „Spitz oder flach?“ · Forscherfrage;1
+exp031_vermutung1.mp3;Spitz;Experiment 31 „Spitz oder flach?“ · Vermutung 1;1
+exp031_vermutung2.mp3;Flach;Experiment 31 „Spitz oder flach?“ · Vermutung 2;1
+exp031_vermutung3.mp3;Beides;Experiment 31 „Spitz oder flach?“ · Vermutung 3 · Experiment 33 „Reißen oder mahlen“ · Vermutung 3 · Experiment 38 „Schnabel-Werkzeuge“ · Vermutung 3;5
+material_spiegel.mp3;Spiegel;Material (Reiter „Plan“);2
+exp031_schritt1.mp3;Schau dir deine Zähne im Spiegel an.;Experiment 31 „Spitz oder flach?“ · Schritt 1;1
+exp031_schritt2.mp3;Finde die spitzen vorne und die flachen hinten.;Experiment 31 „Spitz oder flach?“ · Schritt 2;1
+exp031_schritt3.mp3;Male beide Formen auf.;Experiment 31 „Spitz oder flach?“ · Schritt 3;1
+exp031_wissen.mp3;Spitze Zähne reißen Fleisch. Flache Zähne mahlen Pflanzen. Du hast beides.;Experiment 31 „Spitz oder flach?“ · Dino-Wissen;1
+exp031_naechste_frage.mp3;Welche Zähne hat ein Haustier, das du kennst?;Experiment 31 „Spitz oder flach?“ · nächste Forscherfrage;1
+exp032_titel.mp3;Blätter rupfen.;Experiment 32 „Blätter rupfen“ · Titel;1
+exp032_frage.mp3;Wie frisst man Blätter ohne Hände?;Experiment 32 „Blätter rupfen“ · Forscherfrage;1
+exp032_vermutung1.mp3;Kamm;Experiment 32 „Blätter rupfen“ · Vermutung 1 · Material (Reiter „Plan“);2
+exp032_vermutung2.mp3;Lippen;Experiment 32 „Blätter rupfen“ · Vermutung 2;1
+exp032_vermutung3.mp3;Hände;Experiment 32 „Blätter rupfen“ · Vermutung 3 · Experiment 52 „Große Ohren bauen“ · Vermutung 1;2
+material_blaetter_oder_salat.mp3;Blätter oder Salat;Material (Reiter „Plan“);1
+exp032_schritt1.mp3;Ziehe einen Kamm durch die Blätter, ohne die Hände zu benutzen.;Experiment 32 „Blätter rupfen“ · Schritt 1;1
+exp032_schritt2.mp3;Probiere es dann nur mit den Lippen.;Experiment 32 „Blätter rupfen“ · Schritt 2;1
+exp032_schritt3.mp3;Was hat besser funktioniert?;Experiment 32 „Blätter rupfen“ · Schritt 3;1
+exp032_wissen.mp3;Diplodocus hatte Zähne wie einen Rechen: Er streifte Blätter von Zweigen ab.;Experiment 32 „Blätter rupfen“ · Dino-Wissen;1
+exp032_naechste_frage.mp3;Welches Blatt reißt am leichtesten ab?;Experiment 32 „Blätter rupfen“ · nächste Forscherfrage;1
+exp033_titel.mp3;Reißen oder mahlen.;Experiment 33 „Reißen oder mahlen“ · Titel;1
+exp033_frage.mp3;Wie zerkleinerst du dein Essen?;Experiment 33 „Reißen oder mahlen“ · Forscherfrage;1
+exp033_vermutung1.mp3;Vorne;Experiment 33 „Reißen oder mahlen“ · Vermutung 1;1
+exp033_vermutung2.mp3;Hinten;Experiment 33 „Reißen oder mahlen“ · Vermutung 2;1
+material_moehre.mp3;Möhre;Material (Reiter „Plan“);1
+exp033_schritt1.mp3;Beiße vorsichtig ein Stück Möhre ab.;Experiment 33 „Reißen oder mahlen“ · Schritt 1;1
+exp033_schritt2.mp3;Achte darauf, welche Zähne du benutzt.;Experiment 33 „Reißen oder mahlen“ · Schritt 2;1
+exp033_schritt3.mp3;Male die Zähne, die am meisten arbeiten.;Experiment 33 „Reißen oder mahlen“ · Schritt 3;1
+exp033_wissen.mp3;Hadrosaurier hatten über 1000 Zähne, die wie eine Mühle zusammenarbeiteten.;Experiment 33 „Reißen oder mahlen“ · Dino-Wissen;1
+exp033_rekord.mp3;Hadrosaurier hatten über 1000 Zähne im Maul.;Experiment 33 „Reißen oder mahlen“ · Dino-Rekord;1
+exp033_naechste_frage.mp3;Was ändert sich bei hartem Brot?;Experiment 33 „Reißen oder mahlen“ · nächste Forscherfrage;1
+exp034_titel.mp3;Magensteine.;Experiment 34 „Magensteine“ · Titel;1
+exp034_frage.mp3;Warum schlucken Tiere Steine?;Experiment 34 „Magensteine“ · Forscherfrage;1
+exp034_vermutung1.mp3;Bleibt ganz;Experiment 34 „Magensteine“ · Vermutung 1;1
+exp034_vermutung2.mp3;Zerfällt;Experiment 34 „Magensteine“ · Vermutung 2;1
+exp034_vermutung3.mp3;Weiß nicht;Experiment 34 „Magensteine“ · Vermutung 3 · Experiment 43 „Warum rollt ein Ei im Kreis?“ · Vermutung 3;2
+material_flasche.mp3;Flasche;Material (Reiter „Plan“);1
+material_kieselsteine.mp3;Kieselsteine;Material (Reiter „Plan“);1
+material_salatblatt.mp3;Salatblatt;Material (Reiter „Plan“);1
+exp034_schritt1.mp3;Fülle Wasser und ein Blatt in eine Flasche und schüttle.;Experiment 34 „Magensteine“ · Schritt 1;1
+exp034_schritt2.mp3;Gib Kieselsteine dazu und schüttle wieder.;Experiment 34 „Magensteine“ · Schritt 2;1
+exp034_schritt3.mp3;Vergleiche, was mit dem Blatt passiert.;Experiment 34 „Magensteine“ · Schritt 3;1
+exp034_wissen.mp3;Sauropoden schluckten Steine, die im Magen das Futter zerrieben. Sie hießen Gastrolithen.;Experiment 34 „Magensteine“ · Dino-Wissen;1
+exp034_naechste_frage.mp3;Wie viele Steine braucht es, bis es schneller geht?;Experiment 34 „Magensteine“ · nächste Forscherfrage;1
+exp035_titel.mp3;Fressende Tiere beobachten.;Experiment 35 „Fressende Tiere beobachten“ · Titel;1
+exp035_frage.mp3;Wie frisst ein Tier heute?;Experiment 35 „Fressende Tiere beobachten“ · Forscherfrage;1
+exp035_vermutung1.mp3;Vogel;Experiment 35 „Fressende Tiere beobachten“ · Vermutung 1;1
+exp035_vermutung2.mp3;Eichhörnchen;Experiment 35 „Fressende Tiere beobachten“ · Vermutung 2;1
+exp035_vermutung3.mp3;Haustier;Experiment 35 „Fressende Tiere beobachten“ · Vermutung 3;1
+material_geduld.mp3;Geduld;Material (Reiter „Plan“);2
+material_kamera.mp3;Kamera;Material (Reiter „Plan“);10
+exp035_schritt1.mp3;Beobachte einen Vogel, ein Eichhörnchen oder ein Haustier beim Fressen.;Experiment 35 „Fressende Tiere beobachten“ · Schritt 1;1
+exp035_schritt2.mp3;Fotografiere oder male, wie es das Futter hält.;Experiment 35 „Fressende Tiere beobachten“ · Schritt 2;1
+exp035_schritt3.mp3;Beschreibe, was der Schnabel oder das Maul tut.;Experiment 35 „Fressende Tiere beobachten“ · Schritt 3;1
+exp035_wissen.mp3;Vögel haben keine Zähne. Sie zerkleinern Futter in einem Muskelmagen.;Experiment 35 „Fressende Tiere beobachten“ · Dino-Wissen;1
+exp035_naechste_frage.mp3;Wie lange braucht ein Vogel für ein einzelnes Korn?;Experiment 35 „Fressende Tiere beobachten“ · nächste Forscherfrage;1
+exp036_titel.mp3;Zahnabdruck in Knete.;Experiment 36 „Zahnabdruck in Knete“ · Titel;1
+exp036_frage.mp3;Hinterlässt jeder Biss dieselbe Spur?;Experiment 36 „Zahnabdruck in Knete“ · Forscherfrage;1
+exp036_vermutung2.mp3;Gabel;Experiment 36 „Zahnabdruck in Knete“ · Vermutung 2;1
+exp036_vermutung3.mp3;Ähnlich;Experiment 36 „Zahnabdruck in Knete“ · Vermutung 3;1
+material_knete.mp3;Knete;Material (Reiter „Plan“);1
+exp036_schritt1.mp3;Beiße vorsichtig in einen Apfel und schau dir die Spur an.;Experiment 36 „Zahnabdruck in Knete“ · Schritt 1;1
+exp036_schritt2.mp3;Drücke eine Gabel in Knete.;Experiment 36 „Zahnabdruck in Knete“ · Schritt 2;1
+exp036_schritt3.mp3;Vergleiche beide Muster.;Experiment 36 „Zahnabdruck in Knete“ · Schritt 3;1
+exp036_wissen.mp3;An Bissspuren in Fossilien erkennen Forscher, welcher Dino wen gefressen hat.;Experiment 36 „Zahnabdruck in Knete“ · Dino-Wissen;1
+exp036_naechste_frage.mp3;Erkennst du an der Bissspur, wer gebissen hat?;Experiment 36 „Zahnabdruck in Knete“ · nächste Forscherfrage;1
+exp037_titel.mp3;Ein Berg Futter.;Experiment 37 „Ein Berg Futter“ · Titel;1
+exp037_frage.mp3;Wie viel frisst ein Riese am Tag?;Experiment 37 „Ein Berg Futter“ · Forscherfrage;1
+exp037_vermutung1.mp3;Eine Schüssel;Experiment 37 „Ein Berg Futter“ · Vermutung 1;1
+exp037_vermutung2.mp3;Ein Wagen;Experiment 37 „Ein Berg Futter“ · Vermutung 2;1
+exp037_vermutung3.mp3;Ein Lastwagen;Experiment 37 „Ein Berg Futter“ · Vermutung 3;1
+material_salat.mp3;Salat;Material (Reiter „Plan“);1
+material_schuessel.mp3;Schüssel;Material (Reiter „Plan“);2
+exp037_schritt1.mp3;Fülle eine Schüssel mit Salat.;Experiment 37 „Ein Berg Futter“ · Schritt 1;1
+exp037_schritt2.mp3;Ein Sauropode fraß etwa 500 Kilo am Tag.;Experiment 37 „Ein Berg Futter“ · Schritt 2;1
+exp037_schritt3.mp3;Male, wie hoch dieser Berg wäre.;Experiment 37 „Ein Berg Futter“ · Schritt 3;1
+exp037_wissen.mp3;Ein großer Pflanzenfresser fraß fast den ganzen Tag – zum Kauen blieb kaum Zeit.;Experiment 37 „Ein Berg Futter“ · Dino-Wissen;1
+exp037_rekord.mp3;Ein großer Pflanzenfresser fraß etwa 500 Kilo am Tag.;Experiment 37 „Ein Berg Futter“ · Dino-Rekord;1
+exp037_naechste_frage.mp3;Wie viel isst du selbst an einem Tag?;Experiment 37 „Ein Berg Futter“ · nächste Forscherfrage;1
+exp038_titel.mp3;Schnabel-Werkzeuge.;Experiment 38 „Schnabel-Werkzeuge“ · Titel;1
+exp038_frage.mp3;Welcher Schnabel passt zu welchem Futter?;Experiment 38 „Schnabel-Werkzeuge“ · Forscherfrage;1
+exp038_vermutung1.mp3;Pinzette;Experiment 38 „Schnabel-Werkzeuge“ · Vermutung 1 · Material (Reiter „Plan“);2
+material_reis.mp3;Reis;Material (Reiter „Plan“);1
+exp038_schritt1.mp3;Hole Reiskörner mit der Pinzette heraus.;Experiment 38 „Schnabel-Werkzeuge“ · Schritt 1;1
+exp038_schritt2.mp3;Schöpfe Wasser mit dem Löffel.;Experiment 38 „Schnabel-Werkzeuge“ · Schritt 2;1
+exp038_schritt3.mp3;Notiere, welches Werkzeug wozu passt.;Experiment 38 „Schnabel-Werkzeuge“ · Schritt 3;1
+exp038_wissen.mp3;Jeder Vogelschnabel ist ein Spezialwerkzeug – vom Nussknacker bis zum Sieb.;Experiment 38 „Schnabel-Werkzeuge“ · Dino-Wissen;1
+exp038_naechste_frage.mp3;Welches Werkzeug holt Wasser aus einer engen Flasche?;Experiment 38 „Schnabel-Werkzeuge“ · nächste Forscherfrage;1
+exp039_titel.mp3;Kauen zählen.;Experiment 39 „Kauen zählen“ · Titel;1
+exp039_frage.mp3;Wie oft kaust du?;Experiment 39 „Kauen zählen“ · Forscherfrage;1
+material_apfelstueck.mp3;Apfelstück;Material (Reiter „Plan“);1
+exp039_schritt1.mp3;Nimm einen Bissen und zähle deine Kaubewegungen.;Experiment 39 „Kauen zählen“ · Schritt 1;1
+exp039_schritt2.mp3;Probiere es mit Brot noch einmal.;Experiment 39 „Kauen zählen“ · Schritt 2;1
+exp039_schritt3.mp3;Vergleiche die Zahlen.;Experiment 39 „Kauen zählen“ · Schritt 3;1
+exp039_wissen.mp3;Der T-Rex kaute überhaupt nicht. Er schluckte große Stücke im Ganzen.;Experiment 39 „Kauen zählen“ · Dino-Wissen;1
+exp039_rekord.mp3;Der T-Rex kaute gar nicht, er schluckte im Ganzen.;Experiment 39 „Kauen zählen“ · Dino-Rekord;1
+exp039_naechste_frage.mp3;Kaust du bei deinem Lieblingsessen anders?;Experiment 39 „Kauen zählen“ · nächste Forscherfrage;1
+exp040_titel.mp3;Mein Dino-Menü.;Experiment 40 „Mein Dino-Menü“ · Titel;1
+exp040_frage.mp3;Was würde dein Dino fressen?;Experiment 40 „Mein Dino-Menü“ · Forscherfrage;1
+exp040_vermutung1.mp3;Pflanzen;Experiment 40 „Mein Dino-Menü“ · Vermutung 1;1
+exp040_vermutung2.mp3;Fleisch;Experiment 40 „Mein Dino-Menü“ · Vermutung 2;1
+exp040_vermutung3.mp3;Alles;Experiment 40 „Mein Dino-Menü“ · Vermutung 3;1
+exp040_schritt1.mp3;Erfinde einen Dino und gib ihm einen Namen.;Experiment 40 „Mein Dino-Menü“ · Schritt 1;1
+exp040_schritt2.mp3;Male drei Dinge auf seinen Speiseplan.;Experiment 40 „Mein Dino-Menü“ · Schritt 2;1
+exp040_schritt3.mp3;Male seine passenden Zähne dazu.;Experiment 40 „Mein Dino-Menü“ · Schritt 3;1
+exp040_wissen.mp3;Manche Dinos fraßen beides: Pflanzen und Fleisch. Sie heißen Allesfresser.;Experiment 40 „Mein Dino-Menü“ · Dino-Wissen;1
+exp040_naechste_frage.mp3;Welche Zähne bräuchte dein Dino für harte Nüsse?;Experiment 40 „Mein Dino-Menü“ · nächste Forscherfrage;1
+exp041_titel.mp3;Nest bauen.;Experiment 41 „Nest bauen“ · Titel;1
+exp041_frage.mp3;Woraus baut man ein gutes Nest?;Experiment 41 „Nest bauen“ · Forscherfrage;1
+exp041_vermutung1.mp3;Gras;Experiment 41 „Nest bauen“ · Vermutung 1 · Material (Reiter „Plan“);2
+exp041_vermutung2.mp3;Zweige;Experiment 41 „Nest bauen“ · Vermutung 2 · Material (Reiter „Plan“);3
+material_moos.mp3;Moos;Material (Reiter „Plan“) · Experiment 86 „Urzeitpflanzen finden“ · Vermutung 2;2
+exp041_schritt1.mp3;Sammle draußen weiche und feste Materialien.;Experiment 41 „Nest bauen“ · Schritt 1;1
+exp041_schritt2.mp3;Baue eine runde Mulde.;Experiment 41 „Nest bauen“ · Schritt 2;1
+exp041_schritt3.mp3;Fotografiere dein Nest von oben.;Experiment 41 „Nest bauen“ · Schritt 3;1
+exp041_wissen.mp3;Manche Dinos bauten Nester dicht nebeneinander – wie eine Möwenkolonie.;Experiment 41 „Nest bauen“ · Dino-Wissen;1
+exp041_naechste_frage.mp3;Hält dein Nest auch im Wind?;Experiment 41 „Nest bauen“ · nächste Forscherfrage;1
+exp042_titel.mp3;Ei-Fall-Test.;Experiment 42 „Ei-Fall-Test“ · Titel;1
+exp042_frage.mp3;Welche Polsterung schützt am besten?;Experiment 42 „Ei-Fall-Test“ · Forscherfrage;1
+exp042_vermutung1.mp3;Watte;Experiment 42 „Ei-Fall-Test“ · Vermutung 1 · Material (Reiter „Plan“);2
+material_ei_aus_plastik.mp3;Ei aus Plastik;Material (Reiter „Plan“);1
+exp042_schritt1.mp3;Polstere dein Ei auf drei verschiedene Arten.;Experiment 42 „Ei-Fall-Test“ · Schritt 1;1
+exp042_schritt2.mp3;Lass es aus Tischhöhe auf eine weiche Unterlage fallen.;Experiment 42 „Ei-Fall-Test“ · Schritt 2;1
+exp042_schritt3.mp3;Male ein Häkchen bei der besten Polsterung.;Experiment 42 „Ei-Fall-Test“ · Schritt 3;1
+exp042_wissen.mp3;Dino-Eier lagen weich in Pflanzen gebettet – das hielt sie warm und heil.;Experiment 42 „Ei-Fall-Test“ · Dino-Wissen;1
+exp042_rekord.mp3;Dino-Eier lagen in weichem Pflanzenmaterial gebettet.;Experiment 42 „Ei-Fall-Test“ · Dino-Rekord;1
+exp042_naechste_frage.mp3;Aus welcher Höhe hält die Polsterung nicht mehr?;Experiment 42 „Ei-Fall-Test“ · nächste Forscherfrage;1
+exp043_titel.mp3;Warum rollt ein Ei im Kreis?.;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Titel;1
+exp043_frage.mp3;Rollt ein Ei geradeaus?;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Forscherfrage;1
+exp043_vermutung1.mp3;Geradeaus;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Vermutung 1;1
+exp043_vermutung2.mp3;Im Kreis;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Vermutung 2;1
+material_ei.mp3;Ei;Material (Reiter „Plan“);2
+exp043_schritt1.mp3;Rolle ein Ei über den Tisch.;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Schritt 1;1
+exp043_schritt2.mp3;Rolle danach einen Ball.;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Schritt 2;1
+exp043_schritt3.mp3;Male beide Wege auf.;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Schritt 3;1
+exp043_wissen.mp3;Weil Eier spitz zulaufen, rollen sie im Kreis zurück – und nicht aus dem Nest.;Experiment 43 „Warum rollt ein Ei im Kreis?“ · Dino-Wissen;1
+exp043_naechste_frage.mp3;Rollt eine Kugel anders als ein Ei?;Experiment 43 „Warum rollt ein Ei im Kreis?“ · nächste Forscherfrage;1
+exp044_titel.mp3;Die Kraft der Kuppel.;Experiment 44 „Die Kraft der Kuppel“ · Titel;1
+exp044_frage.mp3;Wie stark ist eine Eierschale?;Experiment 44 „Die Kraft der Kuppel“ · Forscherfrage;1
+exp044_vermutung1.mp3;1 Buch;Experiment 44 „Die Kraft der Kuppel“ · Vermutung 1;1
+exp044_vermutung2.mp3;3 Bücher;Experiment 44 „Die Kraft der Kuppel“ · Vermutung 2;1
+exp044_vermutung3.mp3;Mehr;Experiment 44 „Die Kraft der Kuppel“ · Vermutung 3 · Experiment 47 „Wie viele passen hinein?“ · Vermutung 3;2
+material_eierschalenhaelften.mp3;Eierschalenhälften;Material (Reiter „Plan“);1
+exp044_schritt1.mp3;Stelle vier Schalenhälften mit der Wölbung nach oben auf.;Experiment 44 „Die Kraft der Kuppel“ · Schritt 1;1
+exp044_schritt2.mp3;Lege vorsichtig ein Buch darauf.;Experiment 44 „Die Kraft der Kuppel“ · Schritt 2;1
+exp044_schritt3.mp3;Zähle, wie viele Bücher sie tragen.;Experiment 44 „Die Kraft der Kuppel“ · Schritt 3;1
+exp044_wissen.mp3;Die Kuppelform verteilt das Gewicht – deshalb sind auch Brücken gewölbt.;Experiment 44 „Die Kraft der Kuppel“ · Dino-Wissen;1
+exp044_naechste_frage.mp3;Trägt eine umgedrehte Schale genauso viel?;Experiment 44 „Die Kraft der Kuppel“ · nächste Forscherfrage;1
+exp045_titel.mp3;Warm bleiben.;Experiment 45 „Warm bleiben“ · Titel;1
+exp045_frage.mp3;Was hält ein Ei warm?;Experiment 45 „Warm bleiben“ · Forscherfrage;1
+exp045_vermutung1.mp3;Eingepackt;Experiment 45 „Warm bleiben“ · Vermutung 1;1
+exp045_vermutung2.mp3;Frei;Experiment 45 „Warm bleiben“ · Vermutung 2;1
+material_2_eier.mp3;2 Eier;Material (Reiter „Plan“);1
+exp045_schritt1.mp3;Wickle ein Ei in ein Tuch, lass das andere frei liegen.;Experiment 45 „Warm bleiben“ · Schritt 1;1
+exp045_schritt2.mp3;Warte zehn Minuten.;Experiment 45 „Warm bleiben“ · Schritt 2;1
+exp045_schritt3.mp3;Fühle beide und beschreibe den Unterschied.;Experiment 45 „Warm bleiben“ · Schritt 3;1
+exp045_wissen.mp3;Oviraptor saß auf seinem Nest wie ein Vogel und wärmte die Eier mit dem Körper.;Experiment 45 „Warm bleiben“ · Dino-Wissen;1
+exp045_naechste_frage.mp3;Welcher Stoff hält die Wärme am längsten?;Experiment 45 „Warm bleiben“ · nächste Forscherfrage;1
+exp046_titel.mp3;Nest verstecken.;Experiment 46 „Nest verstecken“ · Titel;1
+exp046_frage.mp3;Wie versteckt man ein Nest?;Experiment 46 „Nest verstecken“ · Forscherfrage;1
+exp046_vermutung1.mp3;Sofort gefunden;Experiment 46 „Nest verstecken“ · Vermutung 1;1
+exp046_vermutung2.mp3;Gedauert;Experiment 46 „Nest verstecken“ · Vermutung 2;1
+exp046_vermutung3.mp3;Nicht gefunden;Experiment 46 „Nest verstecken“ · Vermutung 3;1
+material_nest.mp3;Nest;Material (Reiter „Plan“);2
+material_naturmaterial.mp3;Naturmaterial;Material (Reiter „Plan“);2
+exp046_schritt1.mp3;Lege dein Nest an eine Stelle draußen.;Experiment 46 „Nest verstecken“ · Schritt 1;1
+exp046_schritt2.mp3;Tarne es mit Blättern und Gras.;Experiment 46 „Nest verstecken“ · Schritt 2;1
+exp046_schritt3.mp3;Fotografiere es und lass jemanden suchen.;Experiment 46 „Nest verstecken“ · Schritt 3;1
+exp046_wissen.mp3;Gut getarnte Nester werden von Räubern seltener gefunden.;Experiment 46 „Nest verstecken“ · Dino-Wissen;1
+exp046_naechste_frage.mp3;Findet jemand dein Nest aus zehn Schritten Entfernung?;Experiment 46 „Nest verstecken“ · nächste Forscherfrage;1
+exp047_titel.mp3;Wie viele passen hinein?.;Experiment 47 „Wie viele passen hinein?“ · Titel;1
+exp047_frage.mp3;Wie viele Eier fasst dein Nest?;Experiment 47 „Wie viele passen hinein?“ · Forscherfrage;1
+exp047_vermutung1.mp3;Bis 5;Experiment 47 „Wie viele passen hinein?“ · Vermutung 1;1
+exp047_vermutung2.mp3;Bis 10;Experiment 47 „Wie viele passen hinein?“ · Vermutung 2;1
+material_baelle_oder_steine.mp3;Bälle oder Steine;Material (Reiter „Plan“);1
+exp047_schritt1.mp3;Lege so viele runde Dinge ins Nest, wie hineinpassen.;Experiment 47 „Wie viele passen hinein?“ · Schritt 1;1
+exp047_schritt2.mp3;Zähle sie.;Experiment 47 „Wie viele passen hinein?“ · Schritt 2;1
+exp047_schritt3.mp3;Male sie in dein Buch.;Experiment 47 „Wie viele passen hinein?“ · Schritt 3;1
+exp047_wissen.mp3;Manche Dino-Nester enthielten über 30 Eier – kreisförmig angeordnet.;Experiment 47 „Wie viele passen hinein?“ · Dino-Wissen;1
+exp047_rekord.mp3;Manche Dino-Nester enthielten über 30 Eier.;Experiment 47 „Wie viele passen hinein?“ · Dino-Rekord;1
+exp047_naechste_frage.mp3;Passen mehr Eier hinein, wenn du sie anders legst?;Experiment 47 „Wie viele passen hinein?“ · nächste Forscherfrage;1
+exp048_titel.mp3;Schwimmt ein Ei?.;Experiment 48 „Schwimmt ein Ei?“ · Titel;1
+exp048_frage.mp3;Geht ein Ei unter?;Experiment 48 „Schwimmt ein Ei?“ · Forscherfrage;1
+exp048_vermutung1.mp3;Sinkt;Experiment 48 „Schwimmt ein Ei?“ · Vermutung 1 · Experiment 71 „Schwimmt oder sinkt?“ · Vermutung 2;2
+exp048_vermutung2.mp3;Schwimmt;Experiment 48 „Schwimmt ein Ei?“ · Vermutung 2 · Experiment 71 „Schwimmt oder sinkt?“ · Vermutung 1;2
+exp048_vermutung3.mp3;Schwebt;Experiment 48 „Schwimmt ein Ei?“ · Vermutung 3;1
+exp048_schritt1.mp3;Lege ein Ei in klares Wasser und beobachte.;Experiment 48 „Schwimmt ein Ei?“ · Schritt 1;1
+exp048_schritt2.mp3;Rühre viel Salz ins Wasser.;Experiment 48 „Schwimmt ein Ei?“ · Schritt 2;1
+exp048_schritt3.mp3;Male, was jetzt passiert.;Experiment 48 „Schwimmt ein Ei?“ · Schritt 3;1
+exp048_wissen.mp3;In Salzwasser schwimmt ein Ei, weil salziges Wasser schwerer ist.;Experiment 48 „Schwimmt ein Ei?“ · Dino-Wissen;1
+exp048_naechste_frage.mp3;Wie viel Salz braucht es genau, bis das Ei schwimmt?;Experiment 48 „Schwimmt ein Ei?“ · nächste Forscherfrage;1
+exp049_titel.mp3;Vogelnest suchen.;Experiment 49 „Vogelnest suchen“ · Titel;1
+exp049_frage.mp3;Wo bauen Vögel heute ihre Nester?;Experiment 49 „Vogelnest suchen“ · Forscherfrage;1
+exp049_vermutung1.mp3;Im Baum;Experiment 49 „Vogelnest suchen“ · Vermutung 1;1
+exp049_vermutung2.mp3;Am Haus;Experiment 49 „Vogelnest suchen“ · Vermutung 2;1
+exp049_vermutung3.mp3;Am Boden;Experiment 49 „Vogelnest suchen“ · Vermutung 3;1
+material_fernglas.mp3;Fernglas;Material (Reiter „Plan“);2
+exp049_schritt1.mp3;Suche draußen nach einem Nest – schau nach oben.;Experiment 49 „Vogelnest suchen“ · Schritt 1;1
+exp049_schritt2.mp3;Fotografiere aus der Ferne, ohne zu stören.;Experiment 49 „Vogelnest suchen“ · Schritt 2;1
+exp049_schritt3.mp3;Male, wo es gebaut wurde.;Experiment 49 „Vogelnest suchen“ · Schritt 3;1
+exp049_wissen.mp3;Vögel sind die einzigen Dinosaurier, die heute noch leben.;Experiment 49 „Vogelnest suchen“ · Dino-Wissen;1
+exp049_naechste_frage.mp3;Aus welchem Material ist das Vogelnest gebaut?;Experiment 49 „Vogelnest suchen“ · nächste Forscherfrage;1
+exp050_titel.mp3;Mein Dino schlüpft.;Experiment 50 „Mein Dino schlüpft“ · Titel;1
+exp050_frage.mp3;Wie sieht ein Dino-Baby aus?;Experiment 50 „Mein Dino schlüpft“ · Forscherfrage;1
+exp050_vermutung1.mp3;Noch drin;Experiment 50 „Mein Dino schlüpft“ · Vermutung 1;1
+exp050_vermutung2.mp3;Halb raus;Experiment 50 „Mein Dino schlüpft“ · Vermutung 2;1
+exp050_vermutung3.mp3;Ganz draußen;Experiment 50 „Mein Dino schlüpft“ · Vermutung 3;1
+exp050_schritt1.mp3;Male ein Ei mit einem Riss.;Experiment 50 „Mein Dino schlüpft“ · Schritt 1;1
+exp050_schritt2.mp3;Male das Baby, das herausschaut.;Experiment 50 „Mein Dino schlüpft“ · Schritt 2;1
+exp050_schritt3.mp3;Gib ihm einen Namen.;Experiment 50 „Mein Dino schlüpft“ · Schritt 3;1
+exp050_wissen.mp3;Frisch geschlüpfte Dinos waren winzig – manche passten in eine Hand.;Experiment 50 „Mein Dino schlüpft“ · Dino-Wissen;1
+exp050_naechste_frage.mp3;Wie sieht dein Dino als Erwachsener aus?;Experiment 50 „Mein Dino schlüpft“ · nächste Forscherfrage;1
+exp051_titel.mp3;Eine Minute lauschen.;Experiment 51 „Eine Minute lauschen“ · Titel;1
+exp051_frage.mp3;Wie viele Geräusche hörst du?;Experiment 51 „Eine Minute lauschen“ · Forscherfrage;1
+exp051_vermutung1.mp3;1 bis 3;Experiment 51 „Eine Minute lauschen“ · Vermutung 1;1
+exp051_vermutung2.mp3;4 bis 8;Experiment 51 „Eine Minute lauschen“ · Vermutung 2;1
+exp051_vermutung3.mp3;Mehr als 8;Experiment 51 „Eine Minute lauschen“ · Vermutung 3;1
+exp051_schritt1.mp3;Setz dich still hin und schließe die Augen.;Experiment 51 „Eine Minute lauschen“ · Schritt 1;1
+exp051_schritt2.mp3;Zähle eine Minute lang alle Geräusche.;Experiment 51 „Eine Minute lauschen“ · Schritt 2;1
+exp051_schritt3.mp3;Male für jedes Geräusch ein Symbol.;Experiment 51 „Eine Minute lauschen“ · Schritt 3;1
+exp051_wissen.mp3;Dinosaurier hörten tiefe Töne besonders gut – die tragen weit durch den Wald.;Experiment 51 „Eine Minute lauschen“ · Dino-Wissen;1
+exp051_rekord.mp3;Dinosaurier hörten besonders gut tiefe Töne.;Experiment 51 „Eine Minute lauschen“ · Dino-Rekord;1
+exp051_naechste_frage.mp3;Hörst du drinnen andere Geräusche als draußen?;Experiment 51 „Eine Minute lauschen“ · nächste Forscherfrage;1
+exp052_titel.mp3;Große Ohren bauen.;Experiment 52 „Große Ohren bauen“ · Titel;1
+exp052_frage.mp3;Hört man mit größeren Ohren mehr?;Experiment 52 „Große Ohren bauen“ · Forscherfrage;1
+exp052_vermutung2.mp3;Trichter;Experiment 52 „Große Ohren bauen“ · Vermutung 2;1
+exp052_schritt1.mp3;Halte die Hände hinter deine Ohren und lausche.;Experiment 52 „Große Ohren bauen“ · Schritt 1;1
+exp052_schritt2.mp3;Forme einen Papiertrichter und lausche noch einmal.;Experiment 52 „Große Ohren bauen“ · Schritt 2;1
+exp052_wissen.mp3;Parasaurolophus hatte einen hohlen Kamm auf dem Kopf – vermutlich ein Tröte und ein Verstärker.;Experiment 52 „Große Ohren bauen“ · Dino-Wissen;1
+exp052_naechste_frage.mp3;Hilft der Trichter auch beim Rufen?;Experiment 52 „Große Ohren bauen“ · nächste Forscherfrage;1
+exp053_titel.mp3;Riech-Dosen.;Experiment 53 „Riech-Dosen“ · Titel;1
+exp053_frage.mp3;Erkennst du Dinge mit der Nase?;Experiment 53 „Riech-Dosen“ · Forscherfrage;1
+exp053_vermutung1.mp3;Zitrone;Experiment 53 „Riech-Dosen“ · Vermutung 1 · Material (Reiter „Plan“);2
+exp053_vermutung2.mp3;Zimt;Experiment 53 „Riech-Dosen“ · Vermutung 2 · Material (Reiter „Plan“);2
+exp053_vermutung3.mp3;Seife;Experiment 53 „Riech-Dosen“ · Vermutung 3 · Material (Reiter „Plan“);2
+material_3_becher.mp3;3 Becher;Material (Reiter „Plan“);1
+exp053_schritt1.mp3;Lass jemanden drei Becher mit Duftproben füllen.;Experiment 53 „Riech-Dosen“ · Schritt 1;1
+exp053_schritt2.mp3;Rieche mit geschlossenen Augen.;Experiment 53 „Riech-Dosen“ · Schritt 2;1
+exp053_schritt3.mp3;Male, was du erkannt hast.;Experiment 53 „Riech-Dosen“ · Schritt 3;1
+exp053_wissen.mp3;Der T-Rex hatte riesige Riechzentren im Gehirn. Er roch Beute vermutlich kilometerweit.;Experiment 53 „Riech-Dosen“ · Dino-Wissen;1
+exp053_naechste_frage.mp3;Erkennst du Gerüche noch mit zugehaltener Nase?;Experiment 53 „Riech-Dosen“ · nächste Forscherfrage;1
+exp054_titel.mp3;Jäger oder Gejagter?.;Experiment 54 „Jäger oder Gejagter?“ · Titel;1
+exp054_frage.mp3;Wozu sitzen Augen vorn oder seitlich?;Experiment 54 „Jäger oder Gejagter?“ · Forscherfrage;1
+exp054_vermutung1.mp3;Vorn: Jäger;Experiment 54 „Jäger oder Gejagter?“ · Vermutung 1;1
+exp054_vermutung2.mp3;Seitlich: Beute;Experiment 54 „Jäger oder Gejagter?“ · Vermutung 2;1
+exp054_schritt1.mp3;Schau in den Spiegel: Wo sitzen deine Augen?;Experiment 54 „Jäger oder Gejagter?“ · Schritt 1;1
+exp054_schritt2.mp3;Halte die Hände seitlich ans Gesicht – was siehst du noch?;Experiment 54 „Jäger oder Gejagter?“ · Schritt 2;1
+exp054_schritt3.mp3;Male beide Augenstellungen.;Experiment 54 „Jäger oder Gejagter?“ · Schritt 3;1
+exp054_wissen.mp3;Jäger haben Augen vorn, um Entfernungen zu schätzen. Beutetiere haben sie seitlich, um alles zu sehen.;Experiment 54 „Jäger oder Gejagter?“ · Dino-Wissen;1
+exp054_naechste_frage.mp3;Wo sitzen die Augen bei einem Vogel?;Experiment 54 „Jäger oder Gejagter?“ · nächste Forscherfrage;1
+exp055_titel.mp3;Wie weit siehst du zur Seite?.;Experiment 55 „Wie weit siehst du zur Seite?“ · Titel;1
+exp055_frage.mp3;Wie groß ist dein Blickfeld?;Experiment 55 „Wie weit siehst du zur Seite?“ · Forscherfrage;1
+exp055_vermutung1.mp3;Sehr weit;Experiment 55 „Wie weit siehst du zur Seite?“ · Vermutung 1;1
+exp055_vermutung3.mp3;Nur vorn;Experiment 55 „Wie weit siehst du zur Seite?“ · Vermutung 3;1
+material_ein_helfer.mp3;Ein Helfer;Material (Reiter „Plan“);2
+exp055_schritt1.mp3;Schau geradeaus und bewege nichts.;Experiment 55 „Wie weit siehst du zur Seite?“ · Schritt 1;1
+exp055_schritt2.mp3;Lass jemanden langsam von hinten nach vorn winken.;Experiment 55 „Wie weit siehst du zur Seite?“ · Schritt 2;1
+exp055_schritt3.mp3;Ruf Stopp, sobald du die Hand siehst.;Experiment 55 „Wie weit siehst du zur Seite?“ · Schritt 3;1
+exp055_wissen.mp3;Triceratops sah fast rundum – nur direkt hinter sich war ein blinder Fleck.;Experiment 55 „Wie weit siehst du zur Seite?“ · Dino-Wissen;1
+exp055_rekord.mp3;Triceratops sah fast rundum.;Experiment 55 „Wie weit siehst du zur Seite?“ · Dino-Rekord;1
+exp055_naechste_frage.mp3;Ändert eine Mütze dein Blickfeld?;Experiment 55 „Wie weit siehst du zur Seite?“ · nächste Forscherfrage;1
+exp056_titel.mp3;Fühl-Beutel.;Experiment 56 „Fühl-Beutel“ · Titel;1
+exp056_frage.mp3;Erkennst du Dinge nur mit den Händen?;Experiment 56 „Fühl-Beutel“ · Forscherfrage;1
+exp056_vermutung1.mp3;1 bis 2;Experiment 56 „Fühl-Beutel“ · Vermutung 1;1
+exp056_vermutung2.mp3;3 bis 4;Experiment 56 „Fühl-Beutel“ · Vermutung 2;1
+exp056_vermutung3.mp3;Alle 5;Experiment 56 „Fühl-Beutel“ · Vermutung 3;1
+material_beutel.mp3;Beutel;Material (Reiter „Plan“);1
+material_5_gegenstaende.mp3;5 Gegenstände;Material (Reiter „Plan“);2
+exp056_schritt1.mp3;Lass jemanden fünf Dinge in einen Beutel legen.;Experiment 56 „Fühl-Beutel“ · Schritt 1;1
+exp056_schritt2.mp3;Ertaste sie ohne zu schauen.;Experiment 56 „Fühl-Beutel“ · Schritt 2;1
+exp056_schritt3.mp3;Male auf, was du erkannt hast.;Experiment 56 „Fühl-Beutel“ · Schritt 3;1
+exp056_wissen.mp3;Die Schnauze mancher Dinos war voller Nerven – wie die Fingerspitzen eines Menschen.;Experiment 56 „Fühl-Beutel“ · Dino-Wissen;1
+exp056_naechste_frage.mp3;Erkennst du die Dinge auch mit Handschuhen?;Experiment 56 „Fühl-Beutel“ · nächste Forscherfrage;1
+exp057_titel.mp3;Sehen im Dunkeln.;Experiment 57 „Sehen im Dunkeln“ · Titel;1
+exp057_frage.mp3;Was siehst du bei wenig Licht?;Experiment 57 „Sehen im Dunkeln“ · Forscherfrage;1
+exp057_vermutung1.mp3;Alle Farben;Experiment 57 „Sehen im Dunkeln“ · Vermutung 1;1
+exp057_vermutung2.mp3;Nur grau;Experiment 57 „Sehen im Dunkeln“ · Vermutung 2;1
+exp057_vermutung3.mp3;Fast nichts;Experiment 57 „Sehen im Dunkeln“ · Vermutung 3;1
+material_dunkler_raum.mp3;Dunkler Raum;Material (Reiter „Plan“);1
+material_taschenlampe.mp3;Taschenlampe;Material (Reiter „Plan“);1
+exp057_schritt1.mp3;Verdunkle einen Raum und warte zwei Minuten.;Experiment 57 „Sehen im Dunkeln“ · Schritt 1;1
+exp057_schritt2.mp3;Schau dich um: Welche Farben erkennst du noch?;Experiment 57 „Sehen im Dunkeln“ · Schritt 2;1
+exp057_schritt3.mp3;Male, was du siehst.;Experiment 57 „Sehen im Dunkeln“ · Schritt 3;1
+exp057_wissen.mp3;Manche kleinen Dinos hatten sehr große Augenringe – ein Hinweis auf Nachtaktivität.;Experiment 57 „Sehen im Dunkeln“ · Dino-Wissen;1
+exp057_naechste_frage.mp3;Nach wie vielen Minuten siehst du am meisten?;Experiment 57 „Sehen im Dunkeln“ · nächste Forscherfrage;1
+exp058_titel.mp3;Vibration spüren.;Experiment 58 „Vibration spüren“ · Titel;1
+exp058_frage.mp3;Kann man mit dem Körper hören?;Experiment 58 „Vibration spüren“ · Forscherfrage;1
+exp058_vermutung1.mp3;Durch Luft;Experiment 58 „Vibration spüren“ · Vermutung 1;1
+exp058_vermutung2.mp3;Durch Tisch;Experiment 58 „Vibration spüren“ · Vermutung 2;1
+exp058_schritt1.mp3;Lege dein Ohr flach auf den Tisch.;Experiment 58 „Vibration spüren“ · Schritt 1;1
+exp058_schritt2.mp3;Lass jemanden am anderen Ende leise klopfen.;Experiment 58 „Vibration spüren“ · Schritt 2;1
+exp058_schritt3.mp3;Vergleiche mit dem Hören durch die Luft.;Experiment 58 „Vibration spüren“ · Schritt 3;1
+exp058_wissen.mp3;Elefanten hören Erschütterungen mit den Füßen. Große Dinos konnten das wahrscheinlich auch.;Experiment 58 „Vibration spüren“ · Dino-Wissen;1
+exp058_naechste_frage.mp3;Durch welches Material kommt das Klopfen am besten?;Experiment 58 „Vibration spüren“ · nächste Forscherfrage;1
+exp059_titel.mp3;Dino-Rufe erfinden.;Experiment 59 „Dino-Rufe erfinden“ · Titel;1
+exp059_frage.mp3;Wie klang ein Dinosaurier?;Experiment 59 „Dino-Rufe erfinden“ · Forscherfrage;1
+exp059_vermutung1.mp3;Tief;Experiment 59 „Dino-Rufe erfinden“ · Vermutung 1;1
+exp059_vermutung2.mp3;Laut;Experiment 59 „Dino-Rufe erfinden“ · Vermutung 2;1
+exp059_vermutung3.mp3;Hoch;Experiment 59 „Dino-Rufe erfinden“ · Vermutung 3;1
+material_deine_stimme.mp3;Deine Stimme;Material (Reiter „Plan“);1
+material_roehre.mp3;Röhre;Material (Reiter „Plan“);1
+exp059_schritt1.mp3;Rufe durch eine Papprolle.;Experiment 59 „Dino-Rufe erfinden“ · Schritt 1;1
+exp059_schritt2.mp3;Probiere hohe und tiefe Töne.;Experiment 59 „Dino-Rufe erfinden“ · Schritt 2;1
+exp059_schritt3.mp3;Male, welcher Ton zu welchem Dino passt.;Experiment 59 „Dino-Rufe erfinden“ · Schritt 3;1
+exp059_wissen.mp3;Niemand weiß, wie Dinos klangen. Im Film sind es Geräusche von Elefanten und Krokodilen.;Experiment 59 „Dino-Rufe erfinden“ · Dino-Wissen;1
+exp059_naechste_frage.mp3;Welcher Ton trägt am weitesten nach draußen?;Experiment 59 „Dino-Rufe erfinden“ · nächste Forscherfrage;1
+exp060_titel.mp3;Was fällt sofort auf?.;Experiment 60 „Was fällt sofort auf?“ · Titel;1
+exp060_frage.mp3;Welche Farbe siehst du zuerst?;Experiment 60 „Was fällt sofort auf?“ · Forscherfrage;1
+exp060_vermutung1.mp3;Rot;Experiment 60 „Was fällt sofort auf?“ · Vermutung 1 · Experiment 67 „Warnfarben suchen“ · Vermutung 1;2
+exp060_vermutung2.mp3;Gelb;Experiment 60 „Was fällt sofort auf?“ · Vermutung 2 · Experiment 67 „Warnfarben suchen“ · Vermutung 2;2
+exp060_vermutung3.mp3;Grün;Experiment 60 „Was fällt sofort auf?“ · Vermutung 3 · Experiment 65 „Welche Farbe hatte ein Dino?“ · Vermutung 2;2
+exp060_vermutung4.mp3;Blau;Experiment 60 „Was fällt sofort auf?“ · Vermutung 4;1
+material_bunte_gegenstaende.mp3;Bunte Gegenstände;Material (Reiter „Plan“);1
+exp060_schritt1.mp3;Lege fünf verschiedenfarbige Dinge nebeneinander.;Experiment 60 „Was fällt sofort auf?“ · Schritt 1;1
+exp060_schritt2.mp3;Tritt zurück und schau kurz hin.;Experiment 60 „Was fällt sofort auf?“ · Schritt 2;1
+exp060_schritt3.mp3;Male die Farbe, die dir zuerst auffiel.;Experiment 60 „Was fällt sofort auf?“ · Schritt 3;1
+exp060_wissen.mp3;Auffällige Farben warnen oder locken an – beides gab es schon in der Urzeit.;Experiment 60 „Was fällt sofort auf?“ · Dino-Wissen;1
+exp060_naechste_frage.mp3;Ist es im Halbdunkeln dieselbe Farbe?;Experiment 60 „Was fällt sofort auf?“ · nächste Forscherfrage;1
+exp061_titel.mp3;Verstecken üben.;Experiment 61 „Verstecken üben“ · Titel;1
+exp061_frage.mp3;Wo verschwindet ein Gegenstand?;Experiment 61 „Verstecken üben“ · Forscherfrage;1
+exp061_vermutung1.mp3;Im Grün;Experiment 61 „Verstecken üben“ · Vermutung 1;1
+exp061_vermutung2.mp3;Auf Stein;Experiment 61 „Verstecken üben“ · Vermutung 2;1
+exp061_vermutung3.mp3;Im Sand;Experiment 61 „Verstecken üben“ · Vermutung 3;1
+material_kleiner_gegenstand.mp3;Kleiner Gegenstand;Material (Reiter „Plan“);1
+exp061_schritt1.mp3;Suche einen Untergrund, auf dem dein Gegenstand kaum auffällt.;Experiment 61 „Verstecken üben“ · Schritt 1;1
+exp061_schritt2.mp3;Fotografiere ihn dort.;Experiment 61 „Verstecken üben“ · Schritt 2;1
+exp061_schritt3.mp3;Lass jemanden auf dem Foto suchen.;Experiment 61 „Verstecken üben“ · Schritt 3;1
+exp061_wissen.mp3;Tarnung funktioniert nur am passenden Ort. Auf falschem Untergrund fällt sie sofort auf.;Experiment 61 „Verstecken üben“ · Dino-Wissen;1
+exp061_naechste_frage.mp3;Welcher Ort tarnt am schlechtesten?;Experiment 61 „Verstecken üben“ · nächste Forscherfrage;1
+exp062_titel.mp3;Streifen oder Flecken?.;Experiment 62 „Streifen oder Flecken?“ · Titel;1
+exp062_frage.mp3;Welches Muster tarnt besser?;Experiment 62 „Streifen oder Flecken?“ · Forscherfrage;1
+exp062_vermutung1.mp3;Streifen;Experiment 62 „Streifen oder Flecken?“ · Vermutung 1;1
+exp062_vermutung2.mp3;Flecken;Experiment 62 „Streifen oder Flecken?“ · Vermutung 2;1
+exp062_vermutung3.mp3;Einfarbig;Experiment 62 „Streifen oder Flecken?“ · Vermutung 3;1
+material_stifte.mp3;Stifte;Material (Reiter „Plan“);3
+exp062_schritt1.mp3;Male einen Dino mit Streifen und einen mit Flecken.;Experiment 62 „Streifen oder Flecken?“ · Schritt 1;1
+exp062_schritt2.mp3;Lege beide auf gemustertes Papier.;Experiment 62 „Streifen oder Flecken?“ · Schritt 2;1
+exp062_schritt3.mp3;Male ein Häkchen beim besseren Versteck.;Experiment 62 „Streifen oder Flecken?“ · Schritt 3;1
+exp062_wissen.mp3;Streifen lösen die Körperform auf. Flecken imitieren Lichtflecken im Blätterdach.;Experiment 62 „Streifen oder Flecken?“ · Dino-Wissen;1
+exp062_naechste_frage.mp3;Welches Muster würde im Schnee tarnen?;Experiment 62 „Streifen oder Flecken?“ · nächste Forscherfrage;1
+exp063_titel.mp3;Blätter-Tarnung.;Experiment 63 „Blätter-Tarnung“ · Titel;1
+exp063_frage.mp3;Kannst du dich selbst tarnen?;Experiment 63 „Blätter-Tarnung“ · Forscherfrage;1
+exp063_vermutung1.mp3;Gut sichtbar;Experiment 63 „Blätter-Tarnung“ · Vermutung 1;1
+exp063_vermutung2.mp3;Kaum;Experiment 63 „Blätter-Tarnung“ · Vermutung 2;1
+exp063_vermutung3.mp3;Unsichtbar;Experiment 63 „Blätter-Tarnung“ · Vermutung 3;1
+exp063_schritt1.mp3;Sammle Blätter, Gras und Zweige.;Experiment 63 „Blätter-Tarnung“ · Schritt 1;1
+exp063_schritt2.mp3;Verstecke deine Hand darunter.;Experiment 63 „Blätter-Tarnung“ · Schritt 2;1
+exp063_schritt3.mp3;Fotografiere und schau, ob man sie noch sieht.;Experiment 63 „Blätter-Tarnung“ · Schritt 3;1
+exp063_wissen.mp3;Manche Insekten sehen aus wie Blätter – Tarnung ist uralt.;Experiment 63 „Blätter-Tarnung“ · Dino-Wissen;1
+exp063_naechste_frage.mp3;Funktioniert die Tarnung auch aus großer Entfernung?;Experiment 63 „Blätter-Tarnung“ · nächste Forscherfrage;1
+exp064_titel.mp3;Farbe wechseln.;Experiment 64 „Farbe wechseln“ · Titel;1
+exp064_frage.mp3;Wie wirkt dieselbe Farbe auf verschiedenem Grund?;Experiment 64 „Farbe wechseln“ · Forscherfrage;1
+exp064_vermutung1.mp3;Fällt auf;Experiment 64 „Farbe wechseln“ · Vermutung 1;1
+exp064_vermutung2.mp3;Verschwindet;Experiment 64 „Farbe wechseln“ · Vermutung 2;1
+exp064_vermutung3.mp3;Kein Unterschied;Experiment 64 „Farbe wechseln“ · Vermutung 3;1
+material_buntes_papier.mp3;Buntes Papier;Material (Reiter „Plan“);1
+material_kleiner_zettel.mp3;Kleiner Zettel;Material (Reiter „Plan“);1
+exp064_schritt1.mp3;Lege einen grünen Zettel auf grünen Grund.;Experiment 64 „Farbe wechseln“ · Schritt 1;1
+exp064_schritt2.mp3;Lege ihn auf braunen Grund.;Experiment 64 „Farbe wechseln“ · Schritt 2;1
+exp064_schritt3.mp3;Male beide Wirkungen.;Experiment 64 „Farbe wechseln“ · Schritt 3;1
+exp064_wissen.mp3;Ein Chamäleon wechselt die Farbe nicht nur zur Tarnung, sondern auch aus Stimmung.;Experiment 64 „Farbe wechseln“ · Dino-Wissen;1
+exp064_naechste_frage.mp3;Welcher Untergrund passt zu deiner Kleidung?;Experiment 64 „Farbe wechseln“ · nächste Forscherfrage;1
+exp065_titel.mp3;Welche Farbe hatte ein Dino?.;Experiment 65 „Welche Farbe hatte ein Dino?“ · Titel;1
+exp065_frage.mp3;Weiß man, wie Dinos aussahen?;Experiment 65 „Welche Farbe hatte ein Dino?“ · Forscherfrage;1
+exp065_vermutung1.mp3;Braun;Experiment 65 „Welche Farbe hatte ein Dino?“ · Vermutung 1;1
+exp065_vermutung3.mp3;Bunt;Experiment 65 „Welche Farbe hatte ein Dino?“ · Vermutung 3;1
+exp065_schritt1.mp3;Male denselben Dino dreimal in verschiedenen Farben.;Experiment 65 „Welche Farbe hatte ein Dino?“ · Schritt 1;1
+exp065_schritt2.mp3;Überlege, welche Farbe zu seinem Lebensraum passt.;Experiment 65 „Welche Farbe hatte ein Dino?“ · Schritt 2;1
+exp065_schritt3.mp3;Kreise deine Wahl ein.;Experiment 65 „Welche Farbe hatte ein Dino?“ · Schritt 3;1
+exp065_wissen.mp3;Aus winzigen Farbkörnern in Fossilfedern kennen Forscher die Farbe einiger Dinos wirklich.;Experiment 65 „Welche Farbe hatte ein Dino?“ · Dino-Wissen;1
+exp065_naechste_frage.mp3;Welche Farben hat ein Vogel in deiner Nähe?;Experiment 65 „Welche Farbe hatte ein Dino?“ · nächste Forscherfrage;1
+exp066_titel.mp3;Hell oben, dunkel unten.;Experiment 66 „Hell oben, dunkel unten“ · Titel;1
+exp066_frage.mp3;Warum sind viele Tiere unten heller?;Experiment 66 „Hell oben, dunkel unten“ · Forscherfrage;1
+exp066_vermutung1.mp3;Oben hell;Experiment 66 „Hell oben, dunkel unten“ · Vermutung 1;1
+exp066_vermutung2.mp3;Unten hell;Experiment 66 „Hell oben, dunkel unten“ · Vermutung 2;1
+exp066_vermutung3.mp3;Ganz gleich;Experiment 66 „Hell oben, dunkel unten“ · Vermutung 3;1
+material_lampe.mp3;Lampe;Material (Reiter „Plan“);1
+exp066_schritt1.mp3;Leuchte von oben auf einen Ball.;Experiment 66 „Hell oben, dunkel unten“ · Schritt 1;1
+exp066_schritt2.mp3;Schau, wo der Schatten liegt.;Experiment 66 „Hell oben, dunkel unten“ · Schritt 2;1
+exp066_schritt3.mp3;Male den Ball so an, dass er flach aussieht.;Experiment 66 „Hell oben, dunkel unten“ · Schritt 3;1
+exp066_wissen.mp3;Helle Bäuche gleichen den Schatten aus. Dadurch wirken Tiere flach und fallen weniger auf.;Experiment 66 „Hell oben, dunkel unten“ · Dino-Wissen;1
+exp066_naechste_frage.mp3;Sieht der Ball von unten anders aus?;Experiment 66 „Hell oben, dunkel unten“ · nächste Forscherfrage;1
+exp067_titel.mp3;Warnfarben suchen.;Experiment 67 „Warnfarben suchen“ · Titel;1
+exp067_frage.mp3;Welche Farben sagen: Achtung!;Experiment 67 „Warnfarben suchen“ · Forscherfrage;1
+exp067_vermutung3.mp3;Schwarz-gelb;Experiment 67 „Warnfarben suchen“ · Vermutung 3;1
+exp067_schritt1.mp3;Suche draußen etwas Auffälliges: Beere, Blüte, Käfer.;Experiment 67 „Warnfarben suchen“ · Schritt 1;1
+exp067_schritt2.mp3;Fotografiere es aus sicherem Abstand.;Experiment 67 „Warnfarben suchen“ · Schritt 2;1
+exp067_schritt3.mp3;Male die Farbe daneben.;Experiment 67 „Warnfarben suchen“ · Schritt 3;1
+exp067_wissen.mp3;Rot und Gelb heißen im Tierreich oft: Ich bin giftig oder wehrhaft.;Experiment 67 „Warnfarben suchen“ · Dino-Wissen;1
+exp067_naechste_frage.mp3;Welche Farben tragen Warnschilder auf der Straße?;Experiment 67 „Warnfarben suchen“ · nächste Forscherfrage;1
+exp068_titel.mp3;Kopfschmuck bauen.;Experiment 68 „Kopfschmuck bauen“ · Titel;1
+exp068_frage.mp3;Wozu trägt ein Dino einen Kamm?;Experiment 68 „Kopfschmuck bauen“ · Forscherfrage;1
+exp068_vermutung1.mp3;Zum Schutz;Experiment 68 „Kopfschmuck bauen“ · Vermutung 1;1
+exp068_vermutung2.mp3;Zum Angeben;Experiment 68 „Kopfschmuck bauen“ · Vermutung 2;1
+exp068_vermutung3.mp3;Zum Rufen;Experiment 68 „Kopfschmuck bauen“ · Vermutung 3;1
+material_gummiband.mp3;Gummiband;Material (Reiter „Plan“);1
+exp068_schritt1.mp3;Schneide einen Kamm oder ein Nackenschild aus.;Experiment 68 „Kopfschmuck bauen“ · Schritt 1;1
+exp068_schritt2.mp3;Setze es auf.;Experiment 68 „Kopfschmuck bauen“ · Schritt 2;1
+exp068_schritt3.mp3;Fotografiere dich als Dino.;Experiment 68 „Kopfschmuck bauen“ · Schritt 3;1
+exp068_wissen.mp3;Kämme und Hörner dienten oft nicht dem Kampf, sondern dem Beeindrucken.;Experiment 68 „Kopfschmuck bauen“ · Dino-Wissen;1
+exp068_naechste_frage.mp3;Wie klingt es, wenn du in deinen Kamm hineinrufst?;Experiment 68 „Kopfschmuck bauen“ · nächste Forscherfrage;1
+exp069_titel.mp3;Wer sieht mich zuerst?.;Experiment 69 „Wer sieht mich zuerst?“ · Titel;1
+exp069_frage.mp3;Wie gut versteckst du dich?;Experiment 69 „Wer sieht mich zuerst?“ · Forscherfrage;1
+exp069_vermutung2.mp3;Bis 1 min;Experiment 69 „Wer sieht mich zuerst?“ · Vermutung 2;1
+exp069_vermutung3.mp3;Länger;Experiment 69 „Wer sieht mich zuerst?“ · Vermutung 3;1
+exp069_schritt1.mp3;Verstecke dich draußen oder im Zimmer.;Experiment 69 „Wer sieht mich zuerst?“ · Schritt 1;1
+exp069_schritt2.mp3;Lass jemanden suchen und stoppe die Zeit.;Experiment 69 „Wer sieht mich zuerst?“ · Schritt 2;1
+exp069_schritt3.mp3;Notiere, welches Versteck am längsten hielt.;Experiment 69 „Wer sieht mich zuerst?“ · Schritt 3;1
+exp069_wissen.mp3;Stillhalten hilft mehr als jede Farbe. Bewegung verrät Tiere sofort.;Experiment 69 „Wer sieht mich zuerst?“ · Dino-Wissen;1
+exp069_naechste_frage.mp3;Hilft Stillhalten wirklich mehr als Wegducken?;Experiment 69 „Wer sieht mich zuerst?“ · nächste Forscherfrage;1
+exp070_titel.mp3;Mein Dino-Steckbrief.;Experiment 70 „Mein Dino-Steckbrief“ · Titel;1
+exp070_frage.mp3;Wie sieht dein Forscher-Dino aus?;Experiment 70 „Mein Dino-Steckbrief“ · Forscherfrage;1
+exp070_vermutung1.mp3;Pflanzenfresser;Experiment 70 „Mein Dino-Steckbrief“ · Vermutung 1;1
+exp070_vermutung2.mp3;Räuber;Experiment 70 „Mein Dino-Steckbrief“ · Vermutung 2;1
+exp070_vermutung3.mp3;Wasserdino;Experiment 70 „Mein Dino-Steckbrief“ · Vermutung 3;1
+exp070_schritt1.mp3;Male deinen erfundenen Dino.;Experiment 70 „Mein Dino-Steckbrief“ · Schritt 1;1
+exp070_schritt2.mp3;Schreibe Name, Größe und Lieblingsfutter dazu.;Experiment 70 „Mein Dino-Steckbrief“ · Schritt 2;1
+exp070_schritt3.mp3;Male seinen Lebensraum in den Hintergrund.;Experiment 70 „Mein Dino-Steckbrief“ · Schritt 3;1
+exp070_wissen.mp3;Neue Dino-Arten werden bis heute entdeckt – etwa alle zwei Wochen eine.;Experiment 70 „Mein Dino-Steckbrief“ · Dino-Wissen;1
+exp070_naechste_frage.mp3;Wie würde dein Dino auf Latein heißen?;Experiment 70 „Mein Dino-Steckbrief“ · nächste Forscherfrage;1
+exp071_titel.mp3;Schwimmt oder sinkt?.;Experiment 71 „Schwimmt oder sinkt?“ · Titel;1
+exp071_frage.mp3;Was bleibt oben?;Experiment 71 „Schwimmt oder sinkt?“ · Forscherfrage;1
+exp071_vermutung3.mp3;Kommt drauf an;Experiment 71 „Schwimmt oder sinkt?“ · Vermutung 3;1
+material_schuessel_wasser.mp3;Schüssel Wasser;Material (Reiter „Plan“);2
+exp071_schritt1.mp3;Vermute zuerst bei jedem Gegenstand.;Experiment 71 „Schwimmt oder sinkt?“ · Schritt 1;1
+exp071_schritt2.mp3;Lege sie nacheinander ins Wasser.;Experiment 71 „Schwimmt oder sinkt?“ · Schritt 2;1
+exp071_schritt3.mp3;Male zwei Spalten: schwimmt und sinkt.;Experiment 71 „Schwimmt oder sinkt?“ · Schritt 3;1
+exp071_wissen.mp3;Manche Meeressaurier hatten leichte, luftgefüllte Knochen – andere schwere, um zu tauchen.;Experiment 71 „Schwimmt oder sinkt?“ · Dino-Wissen;1
+exp071_naechste_frage.mp3;Ändert sich das Ergebnis mit Salzwasser?;Experiment 71 „Schwimmt oder sinkt?“ · nächste Forscherfrage;1
+exp072_titel.mp3;Flossen testen.;Experiment 72 „Flossen testen“ · Titel;1
+exp072_frage.mp3;Was schiebt mehr Wasser?;Experiment 72 „Flossen testen“ · Forscherfrage;1
+exp072_vermutung1.mp3;Gespreizt;Experiment 72 „Flossen testen“ · Vermutung 1;1
+exp072_vermutung2.mp3;Geschlossen;Experiment 72 „Flossen testen“ · Vermutung 2;1
+exp072_schritt1.mp3;Ziehe die Hand mit gespreizten Fingern durchs Wasser.;Experiment 72 „Flossen testen“ · Schritt 1;1
+exp072_schritt2.mp3;Ziehe sie mit geschlossenen Fingern durch.;Experiment 72 „Flossen testen“ · Schritt 2;1
+exp072_schritt3.mp3;Beschreibe, was mehr Kraft brauchte.;Experiment 72 „Flossen testen“ · Schritt 3;1
+exp072_wissen.mp3;Plesiosaurier ruderten mit vier großen Paddeln – wie ein Meeresschildkröte, nur größer.;Experiment 72 „Flossen testen“ · Dino-Wissen;1
+exp072_naechste_frage.mp3;Was schiebt mehr Wasser: Hand oder Löffel?;Experiment 72 „Flossen testen“ · nächste Forscherfrage;1
+exp073_titel.mp3;Papier-Flugsaurier.;Experiment 73 „Papier-Flugsaurier“ · Titel;1
+exp073_frage.mp3;Welche Form fliegt am weitesten?;Experiment 73 „Papier-Flugsaurier“ · Forscherfrage;1
+exp073_vermutung1.mp3;Schmal;Experiment 73 „Papier-Flugsaurier“ · Vermutung 1;1
+exp073_vermutung2.mp3;Breit;Experiment 73 „Papier-Flugsaurier“ · Vermutung 2;1
+exp073_vermutung3.mp3;Gleich weit;Experiment 73 „Papier-Flugsaurier“ · Vermutung 3;1
+exp073_schritt1.mp3;Falte zwei verschiedene Flieger.;Experiment 73 „Papier-Flugsaurier“ · Schritt 1;1
+exp073_schritt2.mp3;Wirf beide von derselben Stelle.;Experiment 73 „Papier-Flugsaurier“ · Schritt 2;1
+exp073_schritt3.mp3;Miss die Weiten und male den Sieger.;Experiment 73 „Papier-Flugsaurier“ · Schritt 3;1
+exp073_wissen.mp3;Quetzalcoatlus hatte zwölf Meter Spannweite – so breit wie ein kleines Flugzeug.;Experiment 73 „Papier-Flugsaurier“ · Dino-Wissen;1
+exp073_rekord.mp3;Quetzalcoatlus: 12 Meter Spannweite.;Experiment 73 „Papier-Flugsaurier“ · Dino-Rekord;1
+exp073_naechste_frage.mp3;Was ändert eine Büroklammer an der Nase des Fliegers?;Experiment 73 „Papier-Flugsaurier“ · nächste Forscherfrage;1
+exp074_titel.mp3;Feder und Stein.;Experiment 74 „Feder und Stein“ · Titel;1
+exp074_frage.mp3;Was fällt schneller?;Experiment 74 „Feder und Stein“ · Forscherfrage;1
+exp074_vermutung3.mp3;Gleichzeitig;Experiment 74 „Feder und Stein“ · Vermutung 3;1
+exp074_schritt1.mp3;Lass beide gleichzeitig aus Schulterhöhe fallen.;Experiment 74 „Feder und Stein“ · Schritt 1;1
+exp074_schritt2.mp3;Beobachte genau.;Experiment 74 „Feder und Stein“ · Schritt 2;1
+exp074_schritt3.mp3;Male, was zuerst unten war.;Experiment 74 „Feder und Stein“ · Schritt 3;1
+exp074_wissen.mp3;Ohne Luft würden Feder und Stein gleich schnell fallen. Die Luft bremst die Feder.;Experiment 74 „Feder und Stein“ · Dino-Wissen;1
+exp074_rekord.mp3;Microraptor hatte Federn an Armen und Beinen.;Experiment 74 „Feder und Stein“ · Dino-Rekord;1
+exp074_naechste_frage.mp3;Was passiert mit zusammengeknülltem Papier?;Experiment 74 „Feder und Stein“ · nächste Forscherfrage;1
+exp075_titel.mp3;Der Zauber der Tragfläche.;Experiment 75 „Der Zauber der Tragfläche“ · Titel;1
+exp075_frage.mp3;Warum hebt ein Flügel ab?;Experiment 75 „Der Zauber der Tragfläche“ · Forscherfrage;1
+exp075_vermutung1.mp3;Nach oben;Experiment 75 „Der Zauber der Tragfläche“ · Vermutung 1;1
+exp075_vermutung2.mp3;Nach unten;Experiment 75 „Der Zauber der Tragfläche“ · Vermutung 2;1
+exp075_vermutung3.mp3;Bleibt liegen;Experiment 75 „Der Zauber der Tragfläche“ · Vermutung 3;1
+material_papierstreifen.mp3;Papierstreifen;Material (Reiter „Plan“);1
+exp075_schritt1.mp3;Halte einen Papierstreifen an die Unterlippe.;Experiment 75 „Der Zauber der Tragfläche“ · Schritt 1;1
+exp075_schritt2.mp3;Puste kräftig darüber hinweg.;Experiment 75 „Der Zauber der Tragfläche“ · Schritt 2;1
+exp075_schritt3.mp3;Male, wohin sich das Papier bewegt.;Experiment 75 „Der Zauber der Tragfläche“ · Schritt 3;1
+exp075_wissen.mp3;Schnelle Luft über einem Flügel zieht ihn nach oben. So fliegen Vögel und Flugzeuge.;Experiment 75 „Der Zauber der Tragfläche“ · Dino-Wissen;1
+exp075_naechste_frage.mp3;Wie stark musst du pusten, damit es reicht?;Experiment 75 „Der Zauber der Tragfläche“ · nächste Forscherfrage;1
+exp076_titel.mp3;Wasserabdruck.;Experiment 76 „Wasserabdruck“ · Titel;1
+exp076_frage.mp3;Kann man im Wasser Spuren hinterlassen?;Experiment 76 „Wasserabdruck“ · Forscherfrage;1
+exp076_vermutung1.mp3;Sofort weg;Experiment 76 „Wasserabdruck“ · Vermutung 1;1
+exp076_vermutung2.mp3;Nach einer Weile;Experiment 76 „Wasserabdruck“ · Vermutung 2;1
+exp076_vermutung3.mp3;Bleibt;Experiment 76 „Wasserabdruck“ · Vermutung 3;1
+material_wasserschuessel.mp3;Wasserschüssel;Material (Reiter „Plan“);1
+exp076_schritt1.mp3;Tauche deine Hand kurz ins Wasser.;Experiment 76 „Wasserabdruck“ · Schritt 1;1
+exp076_schritt2.mp3;Drücke sie auf trockenes Papier.;Experiment 76 „Wasserabdruck“ · Schritt 2;1
+exp076_schritt3.mp3;Beobachte, wie schnell die Spur verschwindet.;Experiment 76 „Wasserabdruck“ · Schritt 3;1
+exp076_wissen.mp3;Es gibt Fossilspuren von Dinos, die nur mit den Zehenspitzen den Grund berührten – sie schwammen.;Experiment 76 „Wasserabdruck“ · Dino-Wissen;1
+exp076_naechste_frage.mp3;Wie lange hält die nasse Spur auf einem Stein?;Experiment 76 „Wasserabdruck“ · nächste Forscherfrage;1
+exp077_titel.mp3;Fallschirm bauen.;Experiment 77 „Fallschirm bauen“ · Titel;1
+exp077_frage.mp3;Was macht den Fall langsam?;Experiment 77 „Fallschirm bauen“ · Forscherfrage;1
+exp077_vermutung1.mp3;Groß;Experiment 77 „Fallschirm bauen“ · Vermutung 1;1
+exp077_vermutung2.mp3;Klein;Experiment 77 „Fallschirm bauen“ · Vermutung 2;1
+material_tuch_oder_tuete.mp3;Tuch oder Tüte;Material (Reiter „Plan“);1
+material_kleines_gewicht.mp3;Kleines Gewicht;Material (Reiter „Plan“);1
+exp077_schritt1.mp3;Binde vier Schnüre an die Ecken und ein Gewicht daran.;Experiment 77 „Fallschirm bauen“ · Schritt 1;1
+exp077_schritt2.mp3;Lass den Fallschirm fallen.;Experiment 77 „Fallschirm bauen“ · Schritt 2;1
+exp077_schritt3.mp3;Probiere eine kleinere Fläche und vergleiche.;Experiment 77 „Fallschirm bauen“ · Schritt 3;1
+exp077_wissen.mp3;Große Flächen fangen mehr Luft. Deshalb gleiten Flugsaurier mit riesigen Flügeln.;Experiment 77 „Fallschirm bauen“ · Dino-Wissen;1
+exp077_naechste_frage.mp3;Was ändert ein Loch in der Mitte des Fallschirms?;Experiment 77 „Fallschirm bauen“ · nächste Forscherfrage;1
+exp078_titel.mp3;Segel im Wind.;Experiment 78 „Segel im Wind“ · Titel;1
+exp078_frage.mp3;Was macht der Wind mit einem Kamm?;Experiment 78 „Segel im Wind“ · Forscherfrage;1
+exp078_vermutung1.mp3;Quer stärker;Experiment 78 „Segel im Wind“ · Vermutung 1;1
+exp078_vermutung2.mp3;Längs stärker;Experiment 78 „Segel im Wind“ · Vermutung 2;1
+exp078_schritt1.mp3;Schneide eine Rückensegelform aus.;Experiment 78 „Segel im Wind“ · Schritt 1;1
+exp078_schritt2.mp3;Halte sie in den Wind, längs und quer.;Experiment 78 „Segel im Wind“ · Schritt 2;1
+exp078_wissen.mp3;Spinosaurus trug ein riesiges Segel auf dem Rücken – vielleicht zum Kühlen, vielleicht zum Imponieren.;Experiment 78 „Segel im Wind“ · Dino-Wissen;1
+exp078_naechste_frage.mp3;Wie groß darf das Segel werden, bevor es umfällt?;Experiment 78 „Segel im Wind“ · nächste Forscherfrage;1
+exp079_titel.mp3;Blubbern.;Experiment 79 „Blubbern“ · Titel;1
+exp079_frage.mp3;Wie sieht Atmen unter Wasser aus?;Experiment 79 „Blubbern“ · Forscherfrage;1
+exp079_vermutung1.mp3;Kleine Blasen;Experiment 79 „Blubbern“ · Vermutung 1;1
+exp079_vermutung2.mp3;Große Blasen;Experiment 79 „Blubbern“ · Vermutung 2;1
+exp079_vermutung3.mp3;Sprudel;Experiment 79 „Blubbern“ · Vermutung 3;1
+material_strohhalm.mp3;Strohhalm;Material (Reiter „Plan“);1
+exp079_schritt1.mp3;Puste vorsichtig durch den Halm ins Wasser.;Experiment 79 „Blubbern“ · Schritt 1;1
+exp079_schritt2.mp3;Puste einmal sanft, einmal kräftig.;Experiment 79 „Blubbern“ · Schritt 2;1
+exp079_schritt3.mp3;Male die Blasen in beiden Größen.;Experiment 79 „Blubbern“ · Schritt 3;1
+exp079_wissen.mp3;Meeressaurier atmeten Luft. Sie mussten regelmäßig auftauchen wie Wale.;Experiment 79 „Blubbern“ · Dino-Wissen;1
+exp079_naechste_frage.mp3;Wie tief kannst du den Halm halten?;Experiment 79 „Blubbern“ · nächste Forscherfrage;1
+exp080_titel.mp3;Wellen machen.;Experiment 80 „Wellen machen“ · Titel;1
+exp080_frage.mp3;Wie entstehen Wellen?;Experiment 80 „Wellen machen“ · Forscherfrage;1
+exp080_vermutung1.mp3;Ringe;Experiment 80 „Wellen machen“ · Vermutung 1;1
+exp080_vermutung2.mp3;Lange Wellen;Experiment 80 „Wellen machen“ · Vermutung 2;1
+exp080_vermutung3.mp3;Chaos;Experiment 80 „Wellen machen“ · Vermutung 3;1
+material_wanne_oder_schuessel.mp3;Wanne oder Schüssel;Material (Reiter „Plan“);1
+exp080_schritt1.mp3;Tippe mit einem Finger ins Wasser und beobachte die Ringe.;Experiment 80 „Wellen machen“ · Schritt 1;1
+exp080_schritt2.mp3;Wische mit der ganzen Hand.;Experiment 80 „Wellen machen“ · Schritt 2;1
+exp080_schritt3.mp3;Male beide Wellenbilder.;Experiment 80 „Wellen machen“ · Schritt 3;1
+exp080_wissen.mp3;Ein schwimmender Riesendino machte Wellen, die andere Tiere schon von weitem spürten.;Experiment 80 „Wellen machen“ · Dino-Wissen;1
+exp080_naechste_frage.mp3;Was passiert mit zwei Fingern gleichzeitig?;Experiment 80 „Wellen machen“ · nächste Forscherfrage;1
+exp081_titel.mp3;Vulkanausbruch.;Experiment 81 „Vulkanausbruch“ · Titel;1
+exp081_frage.mp3;Was passiert, wenn ein Vulkan ausbricht?;Experiment 81 „Vulkanausbruch“ · Forscherfrage;1
+exp081_vermutung1.mp3;Schaum;Experiment 81 „Vulkanausbruch“ · Vermutung 1;1
+exp081_vermutung2.mp3;Fontäne;Experiment 81 „Vulkanausbruch“ · Vermutung 2;1
+material_natron.mp3;Natron;Material (Reiter „Plan“);1
+material_essig.mp3;Essig;Material (Reiter „Plan“);1
+material_becher.mp3;Becher;Material (Reiter „Plan“);1
+material_schale.mp3;Schale;Material (Reiter „Plan“);1
+exp081_schritt1.mp3;Stelle einen Becher in eine Schale und fülle Natron hinein.;Experiment 81 „Vulkanausbruch“ · Schritt 1;1
+exp081_schritt2.mp3;Gieße Essig dazu und tritt zurück.;Experiment 81 „Vulkanausbruch“ · Schritt 2;1
+exp081_schritt3.mp3;Fotografiere den Ausbruch.;Experiment 81 „Vulkanausbruch“ · Schritt 3;1
+exp081_wissen.mp3;Vulkanasche hat viele Fossilien schlagartig eingeschlossen und für uns aufbewahrt.;Experiment 81 „Vulkanausbruch“ · Dino-Wissen;1
+exp081_naechste_frage.mp3;Wird der Ausbruch mit warmem Essig größer?;Experiment 81 „Vulkanausbruch“ · nächste Forscherfrage;1
+exp082_titel.mp3;Erdschichten im Glas.;Experiment 82 „Erdschichten im Glas“ · Titel;1
+exp082_frage.mp3;Wie sortiert sich Erde im Wasser?;Experiment 82 „Erdschichten im Glas“ · Forscherfrage;1
+exp082_vermutung1.mp3;Kies unten;Experiment 82 „Erdschichten im Glas“ · Vermutung 1;1
+exp082_vermutung2.mp3;Sand unten;Experiment 82 „Erdschichten im Glas“ · Vermutung 2;1
+exp082_vermutung3.mp3;Erde unten;Experiment 82 „Erdschichten im Glas“ · Vermutung 3;1
+material_glas_mit_deckel.mp3;Glas mit Deckel;Material (Reiter „Plan“);1
+exp082_schritt1.mp3;Fülle Erde, Sand und Wasser ins Glas und schüttle.;Experiment 82 „Erdschichten im Glas“ · Schritt 1;1
+exp082_schritt2.mp3;Stelle es hin und warte eine Stunde.;Experiment 82 „Erdschichten im Glas“ · Schritt 2;1
+exp082_schritt3.mp3;Male die Schichten ab.;Experiment 82 „Erdschichten im Glas“ · Schritt 3;1
+exp082_wissen.mp3;Schwere Körner sinken zuerst. So entstehen über Jahrtausende Gesteinsschichten.;Experiment 82 „Erdschichten im Glas“ · Dino-Wissen;1
+exp082_naechste_frage.mp3;Wie lange dauert es, bis das Wasser klar ist?;Experiment 82 „Erdschichten im Glas“ · nächste Forscherfrage;1
+exp083_titel.mp3;Pangäa puzzeln.;Experiment 83 „Pangäa puzzeln“ · Titel;1
+exp083_frage.mp3;Passen die Kontinente zusammen?;Experiment 83 „Pangäa puzzeln“ · Forscherfrage;1
+exp083_vermutung1.mp3;Passt genau;Experiment 83 „Pangäa puzzeln“ · Vermutung 1;1
+exp083_vermutung2.mp3;Fast;Experiment 83 „Pangäa puzzeln“ · Vermutung 2;1
+exp083_vermutung3.mp3;Gar nicht;Experiment 83 „Pangäa puzzeln“ · Vermutung 3;1
+material_weltkarte.mp3;Weltkarte;Material (Reiter „Plan“);1
+exp083_schritt1.mp3;Male Afrika und Südamerika ab und schneide sie aus.;Experiment 83 „Pangäa puzzeln“ · Schritt 1;1
+exp083_schritt2.mp3;Schiebe sie aneinander.;Experiment 83 „Pangäa puzzeln“ · Schritt 2;1
+exp083_schritt3.mp3;Male, wie gut sie passen.;Experiment 83 „Pangäa puzzeln“ · Schritt 3;1
+exp083_wissen.mp3;Zur Dino-Zeit lagen alle Kontinente in einem einzigen Superkontinent: Pangäa.;Experiment 83 „Pangäa puzzeln“ · Dino-Wissen;1
+exp083_naechste_frage.mp3;Welche anderen Küsten passen zusammen?;Experiment 83 „Pangäa puzzeln“ · nächste Forscherfrage;1
+exp084_titel.mp3;Einschlagkrater.;Experiment 84 „Einschlagkrater“ · Titel;1
+exp084_frage.mp3;Was macht ein Meteorit mit dem Boden?;Experiment 84 „Einschlagkrater“ · Forscherfrage;1
+exp084_vermutung1.mp3;Niedrig: klein;Experiment 84 „Einschlagkrater“ · Vermutung 1;1
+exp084_vermutung2.mp3;Hoch: groß;Experiment 84 „Einschlagkrater“ · Vermutung 2;1
+exp084_vermutung3.mp3;Immer gleich;Experiment 84 „Einschlagkrater“ · Vermutung 3;1
+material_schuessel_mehl.mp3;Schüssel Mehl;Material (Reiter „Plan“);1
+material_kakao.mp3;Kakao;Material (Reiter „Plan“);1
+material_murmel.mp3;Murmel;Material (Reiter „Plan“);1
+exp084_schritt1.mp3;Streue Kakao über eine Schüssel Mehl.;Experiment 84 „Einschlagkrater“ · Schritt 1;1
+exp084_schritt2.mp3;Lass eine Murmel aus verschiedenen Höhen fallen.;Experiment 84 „Einschlagkrater“ · Schritt 2;1
+exp084_schritt3.mp3;Fotografiere die Krater.;Experiment 84 „Einschlagkrater“ · Schritt 3;1
+exp084_wissen.mp3;Vor 66 Millionen Jahren schlug ein Asteroid ein. Das war das Ende der großen Dinos.;Experiment 84 „Einschlagkrater“ · Dino-Wissen;1
+exp084_rekord.mp3;Der Chicxulub-Krater ist rund 180 Kilometer breit.;Experiment 84 „Einschlagkrater“ · Dino-Rekord;1
+exp084_naechste_frage.mp3;Was ändert eine schwerere Kugel am Krater?;Experiment 84 „Einschlagkrater“ · nächste Forscherfrage;1
+exp085_titel.mp3;Regen und Erosion.;Experiment 85 „Regen und Erosion“ · Titel;1
+exp085_frage.mp3;Kann Wasser Land verändern?;Experiment 85 „Regen und Erosion“ · Forscherfrage;1
+exp085_vermutung1.mp3;Bleibt gleich;Experiment 85 „Regen und Erosion“ · Vermutung 1 · Experiment 87 „Schatten wandert“ · Vermutung 3;2
+exp085_vermutung2.mp3;Rillen;Experiment 85 „Regen und Erosion“ · Vermutung 2;1
+exp085_vermutung3.mp3;Fällt zusammen;Experiment 85 „Regen und Erosion“ · Vermutung 3;1
+material_sandhaufen.mp3;Sandhaufen;Material (Reiter „Plan“);1
+material_giesskanne.mp3;Gießkanne;Material (Reiter „Plan“);1
+exp085_schritt1.mp3;Baue einen kleinen Sandberg.;Experiment 85 „Regen und Erosion“ · Schritt 1;1
+exp085_schritt2.mp3;Gieße vorsichtig Wasser darüber.;Experiment 85 „Regen und Erosion“ · Schritt 2;1
+exp085_schritt3.mp3;Fotografiere vorher und nachher.;Experiment 85 „Regen und Erosion“ · Schritt 3;1
+exp085_wissen.mp3;Erosion legt Fossilien frei. Viele Funde entdeckt man nach starkem Regen.;Experiment 85 „Regen und Erosion“ · Dino-Wissen;1
+exp085_naechste_frage.mp3;Schützen Pflanzen deinen Sandberg?;Experiment 85 „Regen und Erosion“ · nächste Forscherfrage;1
+exp086_titel.mp3;Urzeitpflanzen finden.;Experiment 86 „Urzeitpflanzen finden“ · Titel;1
+exp086_frage.mp3;Welche Pflanzen gab es schon damals?;Experiment 86 „Urzeitpflanzen finden“ · Forscherfrage;1
+exp086_vermutung3.mp3;Schachtelhalm;Experiment 86 „Urzeitpflanzen finden“ · Vermutung 3;1
+exp086_schritt1.mp3;Suche Farne, Moose oder Schachtelhalme.;Experiment 86 „Urzeitpflanzen finden“ · Schritt 1;1
+exp086_schritt2.mp3;Fotografiere eine Pflanze aus der Nähe.;Experiment 86 „Urzeitpflanzen finden“ · Schritt 2;1
+exp086_schritt3.mp3;Male die Blattform nach.;Experiment 86 „Urzeitpflanzen finden“ · Schritt 3;1
+exp086_wissen.mp3;Farne und Schachtelhalme wuchsen schon, bevor es Dinos gab – und wachsen heute noch.;Experiment 86 „Urzeitpflanzen finden“ · Dino-Wissen;1
+exp086_naechste_frage.mp3;Wo in deiner Umgebung wachsen die meisten Farne?;Experiment 86 „Urzeitpflanzen finden“ · nächste Forscherfrage;1
+exp087_titel.mp3;Schatten wandert.;Experiment 87 „Schatten wandert“ · Titel;1
+exp087_frage.mp3;Bewegt sich ein Schatten?;Experiment 87 „Schatten wandert“ · Forscherfrage;1
+exp087_vermutung1.mp3;Wandert;Experiment 87 „Schatten wandert“ · Vermutung 1;1
+exp087_vermutung2.mp3;Wird länger;Experiment 87 „Schatten wandert“ · Vermutung 2;1
+material_stock.mp3;Stock;Material (Reiter „Plan“);1
+material_sonniger_platz.mp3;Sonniger Platz;Material (Reiter „Plan“);1
+exp087_schritt1.mp3;Stelle einen Stock in die Sonne und male den Schatten nach.;Experiment 87 „Schatten wandert“ · Schritt 1;1
+exp087_schritt2.mp3;Komme eine Stunde später wieder und male erneut.;Experiment 87 „Schatten wandert“ · Schritt 2;1
+exp087_schritt3.mp3;Vergleiche beide Linien.;Experiment 87 „Schatten wandert“ · Schritt 3;1
+exp087_wissen.mp3;Auch die Dinos lebten nach Sonne und Schatten – Uhren gab es nicht.;Experiment 87 „Schatten wandert“ · Dino-Wissen;1
+exp087_naechste_frage.mp3;Wann am Tag ist der Schatten am kürzesten?;Experiment 87 „Schatten wandert“ · nächste Forscherfrage;1
+exp088_titel.mp3;Insekt im Bernstein.;Experiment 88 „Insekt im Bernstein“ · Titel;1
+exp088_frage.mp3;Wie bleibt etwas Millionen Jahre erhalten?;Experiment 88 „Insekt im Bernstein“ · Forscherfrage;1
+exp088_vermutung2.mp3;Insekt;Experiment 88 „Insekt im Bernstein“ · Vermutung 2;1
+material_gelatine_oder_honig.mp3;Gelatine oder Honig;Material (Reiter „Plan“);1
+material_kleines_glas.mp3;Kleines Glas;Material (Reiter „Plan“);1
+exp088_schritt1.mp3;Lege ein kleines Blatt in ein Glas.;Experiment 88 „Insekt im Bernstein“ · Schritt 1;1
+exp088_schritt2.mp3;Gieße Gelatine oder Honig darüber.;Experiment 88 „Insekt im Bernstein“ · Schritt 2;1
+exp088_schritt3.mp3;Warte, bis es fest ist, und schau von der Seite hinein.;Experiment 88 „Insekt im Bernstein“ · Schritt 3;1
+exp088_wissen.mp3;Bernstein ist versteinertes Baumharz. Darin stecken manchmal Insekten und sogar Federn.;Experiment 88 „Insekt im Bernstein“ · Dino-Wissen;1
+exp088_naechste_frage.mp3;Sieht man das Blatt nach einer Woche noch?;Experiment 88 „Insekt im Bernstein“ · nächste Forscherfrage;1
+exp089_titel.mp3;Sonnenplatz.;Experiment 89 „Sonnenplatz“ · Titel;1
+exp089_frage.mp3;Wo wird es am schnellsten warm?;Experiment 89 „Sonnenplatz“ · Forscherfrage;1
+exp089_vermutung1.mp3;Sonne;Experiment 89 „Sonnenplatz“ · Vermutung 1;1
+exp089_vermutung2.mp3;Schatten;Experiment 89 „Sonnenplatz“ · Vermutung 2;1
+material_zwei_steine.mp3;Zwei Steine;Material (Reiter „Plan“);1
+exp089_schritt1.mp3;Lege einen Stein in die Sonne, einen in den Schatten.;Experiment 89 „Sonnenplatz“ · Schritt 1;1
+exp089_schritt2.mp3;Warte 20 Minuten.;Experiment 89 „Sonnenplatz“ · Schritt 2;1
+exp089_schritt3.mp3;Fühle beide und schreibe auf, welcher wärmer war.;Experiment 89 „Sonnenplatz“ · Schritt 3;1
+exp089_wissen.mp3;Reptilien wärmen sich in der Sonne. Viele Dinos konnten ihre Wärme dagegen selbst erzeugen.;Experiment 89 „Sonnenplatz“ · Dino-Wissen;1
+exp089_naechste_frage.mp3;Welche Farbe wird in der Sonne am schnellsten warm?;Experiment 89 „Sonnenplatz“ · nächste Forscherfrage;1
+exp090_titel.mp3;Urzeit-Sumpf.;Experiment 90 „Urzeit-Sumpf“ · Titel;1
+exp090_frage.mp3;Was passiert mit Schlamm im Glas?;Experiment 90 „Urzeit-Sumpf“ · Forscherfrage;1
+exp090_vermutung1.mp3;Zweige oben;Experiment 90 „Urzeit-Sumpf“ · Vermutung 1;1
+exp090_vermutung2.mp3;Zweige unten;Experiment 90 „Urzeit-Sumpf“ · Vermutung 2;1
+exp090_vermutung3.mp3;Alles trüb;Experiment 90 „Urzeit-Sumpf“ · Vermutung 3;1
+exp090_schritt1.mp3;Rühre Erde in Wasser und gib Zweige dazu.;Experiment 90 „Urzeit-Sumpf“ · Schritt 1;1
+exp090_schritt2.mp3;Stelle das Glas an einen ruhigen Ort.;Experiment 90 „Urzeit-Sumpf“ · Schritt 2;1
+exp090_schritt3.mp3;Male nach einem Tag, was du siehst.;Experiment 90 „Urzeit-Sumpf“ · Schritt 3;1
+exp090_wissen.mp3;In Sümpfen sinken tote Tiere schnell ein. Deshalb wurden dort besonders viele Fossilien.;Experiment 90 „Urzeit-Sumpf“ · Dino-Wissen;1
+exp090_naechste_frage.mp3;Was schwimmt nach zwei Tagen oben?;Experiment 90 „Urzeit-Sumpf“ · nächste Forscherfrage;1
+exp091_titel.mp3;Vögel beobachten.;Experiment 91 „Vögel beobachten“ · Titel;1
+exp091_frage.mp3;Bewegen sich Vögel wie Dinos?;Experiment 91 „Vögel beobachten“ · Forscherfrage;1
+exp091_vermutung1.mp3;Läuft;Experiment 91 „Vögel beobachten“ · Vermutung 1;1
+exp091_vermutung2.mp3;Hüpft;Experiment 91 „Vögel beobachten“ · Vermutung 2;1
+exp091_vermutung3.mp3;Fliegt;Experiment 91 „Vögel beobachten“ · Vermutung 3;1
+exp091_schritt1.mp3;Beobachte einen Vogel fünf Minuten lang.;Experiment 91 „Vögel beobachten“ · Schritt 1;1
+exp091_schritt2.mp3;Achte auf Kopf, Beine und Schwanz.;Experiment 91 „Vögel beobachten“ · Schritt 2;1
+exp091_schritt3.mp3;Male oder fotografiere seine Haltung.;Experiment 91 „Vögel beobachten“ · Schritt 3;1
+exp091_wissen.mp3;Vögel sind Dinosaurier. Sie stammen von kleinen, gefiederten Raubdinos ab.;Experiment 91 „Vögel beobachten“ · Dino-Wissen;1
+exp091_rekord.mp3;Vögel sind die einzige heute lebende Dinosauriergruppe.;Experiment 91 „Vögel beobachten“ · Dino-Rekord;1
+exp091_naechste_frage.mp3;Wie oft schaut ein Vogel sich in einer Minute um?;Experiment 91 „Vögel beobachten“ · nächste Forscherfrage;1
+exp092_titel.mp3;Der Gabelknochen.;Experiment 92 „Der Gabelknochen“ · Titel;1
+exp092_frage.mp3;Welchen Knochen teilen Huhn und T-Rex?;Experiment 92 „Der Gabelknochen“ · Forscherfrage;1
+exp092_vermutung1.mp3;V-Form;Experiment 92 „Der Gabelknochen“ · Vermutung 1;1
+exp092_vermutung2.mp3;Rund;Experiment 92 „Der Gabelknochen“ · Vermutung 2;1
+exp092_vermutung3.mp3;Gerade;Experiment 92 „Der Gabelknochen“ · Vermutung 3;1
+material_bild_oder_knochen.mp3;Bild oder Knochen;Material (Reiter „Plan“);1
+exp092_schritt1.mp3;Suche ein Bild vom Gabelbein eines Huhns.;Experiment 92 „Der Gabelknochen“ · Schritt 1;1
+exp092_schritt2.mp3;Male die V-Form nach.;Experiment 92 „Der Gabelknochen“ · Schritt 2;1
+exp092_schritt3.mp3;Male denselben Knochen in einen Dino hinein.;Experiment 92 „Der Gabelknochen“ · Schritt 3;1
+exp092_wissen.mp3;Das Gabelbein gab es schon beim T-Rex. Es hält die Schultern beim Flügelschlag zusammen.;Experiment 92 „Der Gabelknochen“ · Dino-Wissen;1
+exp092_naechste_frage.mp3;Welche Knochenformen findest du bei einem Hähnchen?;Experiment 92 „Der Gabelknochen“ · nächste Forscherfrage;1
+exp093_titel.mp3;Federn untersuchen.;Experiment 93 „Federn untersuchen“ · Titel;1
+exp093_frage.mp3;Wie ist eine Feder gebaut?;Experiment 93 „Federn untersuchen“ · Forscherfrage;1
+exp093_vermutung1.mp3;Weich;Experiment 93 „Federn untersuchen“ · Vermutung 1;1
+exp093_vermutung2.mp3;Steif;Experiment 93 „Federn untersuchen“ · Vermutung 2;1
+exp093_schritt1.mp3;Schau eine gefundene Feder durch die Lupe an.;Experiment 93 „Federn untersuchen“ · Schritt 1;1
+exp093_schritt2.mp3;Streiche einmal gegen die Richtung und wieder zurück.;Experiment 93 „Federn untersuchen“ · Schritt 2;1
+exp093_schritt3.mp3;Male die feinen Härchen auf.;Experiment 93 „Federn untersuchen“ · Schritt 3;1
+exp093_wissen.mp3;Die Häkchen an den Federästen greifen ineinander wie ein Reißverschluss.;Experiment 93 „Federn untersuchen“ · Dino-Wissen;1
+exp093_naechste_frage.mp3;Schwimmt eine Feder auf Wasser?;Experiment 93 „Federn untersuchen“ · nächste Forscherfrage;1
+exp094_titel.mp3;Reptil beobachten.;Experiment 94 „Reptil beobachten“ · Titel;1
+exp094_frage.mp3;Was macht eine Eidechse den ganzen Tag?;Experiment 94 „Reptil beobachten“ · Forscherfrage;1
+exp094_vermutung1.mp3;Sonnen;Experiment 94 „Reptil beobachten“ · Vermutung 1;1
+exp094_vermutung2.mp3;Flitzen;Experiment 94 „Reptil beobachten“ · Vermutung 2;1
+exp094_vermutung3.mp3;Jagen;Experiment 94 „Reptil beobachten“ · Vermutung 3;1
+exp094_schritt1.mp3;Suche eine Eidechse an einer warmen Mauer.;Experiment 94 „Reptil beobachten“ · Schritt 1;1
+exp094_schritt2.mp3;Beobachte still aus der Ferne.;Experiment 94 „Reptil beobachten“ · Schritt 2;1
+exp094_schritt3.mp3;Male, was sie tat.;Experiment 94 „Reptil beobachten“ · Schritt 3;1
+exp094_wissen.mp3;Eidechsen sind keine Dinos, aber nahe Verwandte aus derselben großen Reptilienfamilie.;Experiment 94 „Reptil beobachten“ · Dino-Wissen;1
+exp094_naechste_frage.mp3;Bei welchem Wetter siehst du Eidechsen am häufigsten?;Experiment 94 „Reptil beobachten“ · nächste Forscherfrage;1
+exp095_titel.mp3;Vogelstimmen sammeln.;Experiment 95 „Vogelstimmen sammeln“ · Titel;1
+exp095_frage.mp3;Wie viele verschiedene Rufe hörst du?;Experiment 95 „Vogelstimmen sammeln“ · Forscherfrage;1
+exp095_vermutung1.mp3;Einen;Experiment 95 „Vogelstimmen sammeln“ · Vermutung 1;1
+exp095_vermutung2.mp3;Zwei bis drei;Experiment 95 „Vogelstimmen sammeln“ · Vermutung 2;1
+exp095_vermutung3.mp3;Viele;Experiment 95 „Vogelstimmen sammeln“ · Vermutung 3;1
+material_handy_zum_aufnehmen.mp3;Handy zum Aufnehmen;Material (Reiter „Plan“);1
+exp095_schritt1.mp3;Nimm draußen eine Minute Vogelgesang auf.;Experiment 95 „Vogelstimmen sammeln“ · Schritt 1;1
+exp095_schritt2.mp3;Höre die Aufnahme noch einmal an.;Experiment 95 „Vogelstimmen sammeln“ · Schritt 2;1
+exp095_schritt3.mp3;Male für jeden Ruf ein Symbol.;Experiment 95 „Vogelstimmen sammeln“ · Schritt 3;1
+exp095_wissen.mp3;Vogelgesang funktioniert über einen eigenen Stimmkopf tief im Brustkorb, die Syrinx.;Experiment 95 „Vogelstimmen sammeln“ · Dino-Wissen;1
+exp095_naechste_frage.mp3;Antwortet ein Vogel, wenn du zurückpfeifst?;Experiment 95 „Vogelstimmen sammeln“ · nächste Forscherfrage;1
+exp096_titel.mp3;Krokodil-Vergleich.;Experiment 96 „Krokodil-Vergleich“ · Titel;1
+exp096_frage.mp3;Was hat ein Krokodil mit Dinos gemeinsam?;Experiment 96 „Krokodil-Vergleich“ · Forscherfrage;1
+exp096_vermutung1.mp3;Zähne;Experiment 96 „Krokodil-Vergleich“ · Vermutung 1 · Experiment 98 „Museumsbesuch“ · Vermutung 3;2
+exp096_vermutung2.mp3;Eier;Experiment 96 „Krokodil-Vergleich“ · Vermutung 2;1
+exp096_vermutung3.mp3;Beine seitlich;Experiment 96 „Krokodil-Vergleich“ · Vermutung 3;1
+material_bilder.mp3;Bilder;Material (Reiter „Plan“);1
+exp096_schritt1.mp3;Schau dir ein Krokodil-Bild genau an.;Experiment 96 „Krokodil-Vergleich“ · Schritt 1;1
+exp096_schritt2.mp3;Male Zähne, Haut und Beine ab.;Experiment 96 „Krokodil-Vergleich“ · Schritt 2;1
+exp096_schritt3.mp3;Schreibe drei Gemeinsamkeiten mit einem Dino auf.;Experiment 96 „Krokodil-Vergleich“ · Schritt 3;1
+exp096_wissen.mp3;Krokodile und Vögel sind die nächsten lebenden Verwandten der Dinosaurier.;Experiment 96 „Krokodil-Vergleich“ · Dino-Wissen;1
+exp096_naechste_frage.mp3;Was hat ein Krokodil, was kein Vogel hat?;Experiment 96 „Krokodil-Vergleich“ · nächste Forscherfrage;1
+exp097_titel.mp3;Vogelspuren.;Experiment 97 „Vogelspuren“ · Titel;1
+exp097_frage.mp3;Wie sieht ein Vogelabdruck aus?;Experiment 97 „Vogelspuren“ · Forscherfrage;1
+exp097_vermutung2.mp3;4 Zehen;Experiment 97 „Vogelspuren“ · Vermutung 2;1
+exp097_vermutung3.mp3;Unklar;Experiment 97 „Vogelspuren“ · Vermutung 3;1
+material_sand_oder_schnee.mp3;Sand oder Schnee;Material (Reiter „Plan“);1
+exp097_schritt1.mp3;Suche Vogelspuren am Boden oder streue Sand aus.;Experiment 97 „Vogelspuren“ · Schritt 1;1
+exp097_schritt2.mp3;Fotografiere einen Abdruck.;Experiment 97 „Vogelspuren“ · Schritt 2;1
+exp097_schritt3.mp3;Zähle die Zehen und vergleiche mit Dino-Spuren.;Experiment 97 „Vogelspuren“ · Schritt 3;1
+exp097_wissen.mp3;Vogel- und Dinospuren sehen sich so ähnlich, dass Forscher sie manchmal verwechseln.;Experiment 97 „Vogelspuren“ · Dino-Wissen;1
+exp097_naechste_frage.mp3;Laufen alle Vögel gleich?;Experiment 97 „Vogelspuren“ · nächste Forscherfrage;1
+exp098_titel.mp3;Museumsbesuch.;Experiment 98 „Museumsbesuch“ · Titel · Material (Reiter „Plan“);2
+exp098_frage.mp3;Wie groß ist ein echtes Skelett?;Experiment 98 „Museumsbesuch“ · Forscherfrage;1
+exp098_vermutung1.mp3;Beinknochen;Experiment 98 „Museumsbesuch“ · Vermutung 1;1
+exp098_vermutung2.mp3;Schädel;Experiment 98 „Museumsbesuch“ · Vermutung 2;1
+exp098_schritt1.mp3;Besuche ein Naturkundemuseum.;Experiment 98 „Museumsbesuch“ · Schritt 1;1
+exp098_schritt2.mp3;Stelle dich neben ein Skelett und lass dich fotografieren.;Experiment 98 „Museumsbesuch“ · Schritt 2;1
+exp098_schritt3.mp3;Male auf, welcher Knochen dich am meisten beeindruckt hat.;Experiment 98 „Museumsbesuch“ · Schritt 3;1
+exp098_wissen.mp3;Das Skelett im Berliner Naturkundemuseum ist der höchste montierte Dino der Welt.;Experiment 98 „Museumsbesuch“ · Dino-Wissen;1
+exp098_rekord.mp3;Das Berliner Brachiosaurus-Skelett ist 13,27 Meter hoch.;Experiment 98 „Museumsbesuch“ · Dino-Rekord;1
+exp098_naechste_frage.mp3;Welcher Knochen fehlt in dem Skelett?;Experiment 98 „Museumsbesuch“ · nächste Forscherfrage;1
+exp099_titel.mp3;Forscher-Interview.;Experiment 99 „Forscher-Interview“ · Titel;1
+exp099_frage.mp3;Was wissen andere über Dinos?;Experiment 99 „Forscher-Interview“ · Forscherfrage;1
+exp099_vermutung1.mp3;T-Rex;Experiment 99 „Forscher-Interview“ · Vermutung 1;1
+exp099_vermutung2.mp3;Langhals;Experiment 99 „Forscher-Interview“ · Vermutung 2;1
+exp099_vermutung3.mp3;Ein anderer;Experiment 99 „Forscher-Interview“ · Vermutung 3;1
+material_ein_gespraechspartner.mp3;Ein Gesprächspartner;Material (Reiter „Plan“);1
+exp099_schritt1.mp3;Frage jemanden: Welcher Dino gefällt dir am besten?;Experiment 99 „Forscher-Interview“ · Schritt 1;1
+exp099_schritt2.mp3;Frage: Was möchtest du über Dinos wissen?;Experiment 99 „Forscher-Interview“ · Schritt 2;1
+exp099_schritt3.mp3;Schreibe oder male die Antworten auf.;Experiment 99 „Forscher-Interview“ · Schritt 3;1
+exp099_wissen.mp3;Auch Forscher wissen nicht alles. Gute Fragen sind wichtiger als fertige Antworten.;Experiment 99 „Forscher-Interview“ · Dino-Wissen;1
+exp099_naechste_frage.mp3;Was weiß jemand, der viel älter ist als du?;Experiment 99 „Forscher-Interview“ · nächste Forscherfrage;1
+exp100_titel.mp3;Mein eigenes Experiment.;Experiment 100 „Mein eigenes Experiment“ · Titel;1
+exp100_frage.mp3;Welche Frage möchtest DU beantworten?;Experiment 100 „Mein eigenes Experiment“ · Forscherfrage;1
+exp100_vermutung1.mp3;Neugierig;Experiment 100 „Mein eigenes Experiment“ · Vermutung 1;1
+exp100_vermutung2.mp3;Bereit;Experiment 100 „Mein eigenes Experiment“ · Vermutung 2;1
+exp100_vermutung3.mp3;Los geht es;Experiment 100 „Mein eigenes Experiment“ · Vermutung 3;1
+material_alles_was_du_brauchst.mp3;Alles, was du brauchst;Material (Reiter „Plan“);1
+exp100_schritt1.mp3;Schreibe oder male deine eigene Forscherfrage.;Experiment 100 „Mein eigenes Experiment“ · Schritt 1;1
+exp100_schritt2.mp3;Überlege, wie du sie testen kannst.;Experiment 100 „Mein eigenes Experiment“ · Schritt 2;1
+exp100_schritt3.mp3;Führe dein Experiment durch und dokumentiere alles.;Experiment 100 „Mein eigenes Experiment“ · Schritt 3;1
+exp100_wissen.mp3;Jede große Entdeckung begann mit einer Frage, die noch niemand gestellt hatte.;Experiment 100 „Mein eigenes Experiment“ · Dino-Wissen;1
+exp100_naechste_frage.mp3;Welche Frage kommt als Nächstes?;Experiment 100 „Mein eigenes Experiment“ · nächste Forscherfrage;1

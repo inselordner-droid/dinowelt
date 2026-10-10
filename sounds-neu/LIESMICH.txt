@@ -1,0 +1,15 @@
+Dino-Inselwelt · eigene Töne, Sprache und Musik
+===============================================
+
+Lege deine Tondateien (mp3; m4a, wav und ogg gehen auch) in einen der drei Ordner:
+
+  toene/    ersetzt einen Ton der App.        Name wie in tools/toene-liste.txt, z. B.  toene/pop.mp3
+  sprache/  ersetzt eine Sprachaufnahme.      Name wie in tools/sprache-liste.csv, z. B.  sprache/v0012.mp3
+            oder vertont einen Satz neu.      Experimentebuch: Namen aus tools/sprache-liste-experimente.txt,
+                                              andere Sätze: eine Zeile in sprache/saetze.txt
+  musik/    ersetzt die Musik der Inselkarte. Name:  musik/musik.mp3
+
+Danach: Doppelklick auf tools/Grafiken-einbinden.command (Windows: Grafiken-einbinden.bat) und die App neu laden.
+Fehlt eine Datei, bleibt alles wie bisher. Die ganze Anleitung steht in tools/LIESMICH-Grafiken.md.
+
+Dateinamen bitte nur mit a–z, 0–9, _ und - (keine Leerzeichen, keine Umlaute).

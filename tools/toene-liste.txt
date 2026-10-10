@@ -1,0 +1,44 @@
+# Dino-Inselwelt · alle Töne der App
+# Eine Datei  sounds-neu/toene/<name>.mp3  ersetzt den eingebauten Ton (m4a, wav, ogg gehen auch).
+# Kurze Töne nehmen (unter 1 Sekunde, bei „win“ und „magic“ bis 2 Sekunden), ohne Stille am Anfang.
+# Format:  dateiname ; Beschreibung ; wie oft im Programm benutzt
+#
+tap.mp3 ; kurzer Tipp-Ton (fast jeder Knopf) ; 132×
+pop.mp3 ; Plopp (auswählen, aufheben, aufkleben) ; 109×
+ok.mp3 ; richtig! (drei aufsteigende Töne) ; 20×
+no.mp3 ; noch nicht (sanfter tiefer Ton, kein Fehlerton) ; 24×
+star.mp3 ; Stern/neues Tier (Glitzer) ; 11×
+win.mp3 ; geschafft! (kleine Fanfare) ; 23×
+whoosh.mp3 ; Wusch (Station öffnen/schließen, umblättern, wegwischen) ; 44×
+step.mp3 ; Schritt ; 15×
+jump.mp3 ; Sprung ; 11×
+bump.mp3 ; Anstoßen/Stolpern ; 7×
+chew.mp3 ; Kauen (Futter) ; 6×
+yuck.mp3 ; „Igitt“ (falsches Futter) ; 4×
+dig.mp3 ; Graben ; 3×
+brush.mp3 ; Pinseln ; 11×
+clink.mp3 ; Klirren (Fund, Kristall) ; 10×
+click.mp3 ; Klick (Werkzeug, Farbe, Schalter) ; 18×
+egg.mp3 ; Ei/Schlüpfen ; 5×
+thud.mp3 ; dumpfer Aufprall (schwerer Schritt, ablegen) ; 8×
+magic.mp3 ; Zauberklang (Belohnung, Sticker, Foto) ; 28×
+trumpet.mp3 ; Trompeten (Mammut) ; 1×
+roar.mp3 ; Dino-Brüllen (Ausgrabung, Nestbau, Dino-Tracker) – ersetzt assets/sounds/roar.mp3 ; Datei
+#
+# Klanghöhle: eigene Tier-Stimmen (ganze Datei wird gespielt)
+klang_trex.mp3 ; Klanghöhle – Tyrannosaurus ; Datei
+klang_carno.mp3 ; Klanghöhle – Carnotaurus ; Datei
+klang_spino.mp3 ; Klanghöhle – Spinosaurus ; Datei
+klang_para.mp3 ; Klanghöhle – Parasaurolophus ; Datei
+klang_brachio.mp3 ; Klanghöhle – Brachiosaurus ; Datei
+klang_trike.mp3 ; Klanghöhle – Triceratops ; Datei
+klang_micro.mp3 ; Klanghöhle – Microraptor ; Datei
+klang_huhn.mp3 ; Klanghöhle – Huhn ; Datei
+klang_mammut.mp3 ; Klanghöhle – Mammut ; Datei
+klang_cory.mp3 ; Klanghöhle – Corythosaurus ; Datei
+klang_diplo.mp3 ; Klanghöhle – Diplodocus ; Datei
+klang_archae.mp3 ; Klanghöhle – Archaeopteryx ; Datei
+klang_croc.mp3 ; Klanghöhle – Riesenkrokodil (Deinosuchus) ; Datei
+#
+# Musik: die Datei gehört in den Ordner  sounds-neu/musik/
+musik/musik.mp3 ; Hintergrundmusik der Inselkarte (und im Urzeit-Kino) – läuft in Schleife ; Datei

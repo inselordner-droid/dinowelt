@@ -1,0 +1,18 @@
+# Dino-Inselwelt · eigene Sätze vertonen
+#
+# Hier trägst du Sätze ein, für die es noch keine Aufnahme gibt (oder die du selbst sprechen möchtest).
+# Eine Zeile je Satz:
+#
+#     dateiname.mp3 = Genauer Satz.
+#
+# Die Tondatei legst du in diesen Ordner (sounds-neu/sprache/). Der Satz muss so dastehen, wie die App
+# ihn sagt – Groß-/Kleinschreibung und der Punkt am Ende sind egal. Danach Doppelklick auf
+# tools/Grafiken-einbinden.command (Windows: .bat) und die App neu laden.
+#
+# Beispiel (das # am Anfang weglassen):
+# hallo_mia.mp3 = Hallo Mia!
+#
+# Für die 932 vorhandenen Aufnahmen und für alle Sätze des Experimentebuchs brauchst du diese Datei NICHT:
+# Dort genügt der richtige Dateiname (siehe tools/sprache-liste.csv und tools/sprache-liste-experimente.txt).
+# Zeilen, die mit # beginnen, werden nicht gelesen.
+

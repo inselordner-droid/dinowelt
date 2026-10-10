@@ -1,0 +1,1935 @@
+figuren/forscher_andrews.png
+figuren/forscher_anning.png
+figuren/forscher_brown.png
+figuren/forscher_hendrickson.png
+figuren/forscher_janensch.png
+figuren/forscher_xuxing.png
+figuren/guide_elena.png
+figuren/guide_jonas.png
+figuren/guide_malik.png
+figuren/guide_sofia.png
+figuren/kind_ayo_boot.png
+figuren/kind_ayo_laufen1.png
+figuren/kind_ayo_laufen2.png
+figuren/kind_ayo_lupe.png
+figuren/kind_ayo_stehen.png
+figuren/kind_ayo_winken.png
+figuren/kind_ben_boot.png
+figuren/kind_ben_laufen1.png
+figuren/kind_ben_laufen2.png
+figuren/kind_ben_lupe.png
+figuren/kind_ben_stehen.png
+figuren/kind_ben_winken.png
+figuren/kind_lina_boot.png
+figuren/kind_lina_laufen1.png
+figuren/kind_lina_laufen2.png
+figuren/kind_lina_lupe.png
+figuren/kind_lina_stehen.png
+figuren/kind_lina_winken.png
+figuren/kind_mia_boot.png
+figuren/kind_mia_laufen1.png
+figuren/kind_mia_laufen2.png
+figuren/kind_mia_lupe.png
+figuren/kind_mia_stehen.png
+figuren/kind_mia_winken.png
+figuren/pip_baby.png
+figuren/pip_denkt.png
+figuren/pip_forscher.png
+figuren/pip_freut.png
+figuren/pip_halstuch.png
+figuren/pip_hut.png
+figuren/pip_rucksack.png
+figuren/pip_schlaeft.png
+figuren/pip_zeigt.png
+figuren/start_gruppenbild.png
+fossilien/achat.png
+fossilien/amethyst.png
+fossilien/ammonit.png
+fossilien/belemnit.png
+fossilien/bernstein.png
+fossilien/blattabdruck.png
+fossilien/dino_ei.png
+fossilien/dino_eier_nest.png
+fossilien/fischfossil.png
+fossilien/holz.png
+fossilien/kiesel.png
+fossilien/knochen.png
+fossilien/knochen_brachiosaurus_hinterbein.png
+fossilien/knochen_brachiosaurus_rippen.png
+fossilien/knochen_brachiosaurus_schaedel.png
+fossilien/knochen_brachiosaurus_schwanz.png
+fossilien/knochen_brachiosaurus_vorderbein.png
+fossilien/knochen_brachiosaurus_wirbel.png
+fossilien/knochen_ichthyosaurus_hinterbein.png
+fossilien/knochen_ichthyosaurus_rippen.png
+fossilien/knochen_ichthyosaurus_schaedel.png
+fossilien/knochen_ichthyosaurus_schwanz.png
+fossilien/knochen_ichthyosaurus_vorderbein.png
+fossilien/knochen_ichthyosaurus_wirbel.png
+fossilien/knochen_mammut_hinterbein.png
+fossilien/knochen_mammut_rippen.png
+fossilien/knochen_mammut_schaedel.png
+fossilien/knochen_mammut_schwanz.png
+fossilien/knochen_mammut_vorderbein.png
+fossilien/knochen_mammut_wirbel.png
+fossilien/knochen_stegosaurus_hinterbein.png
+fossilien/knochen_stegosaurus_rippen.png
+fossilien/knochen_stegosaurus_schaedel.png
+fossilien/knochen_stegosaurus_schwanz.png
+fossilien/knochen_stegosaurus_vorderbein.png
+fossilien/knochen_stegosaurus_wirbel.png
+fossilien/knochen_trex_hinterbein.png
+fossilien/knochen_trex_rippen.png
+fossilien/knochen_trex_schaedel.png
+fossilien/knochen_trex_schwanz.png
+fossilien/knochen_trex_vorderbein.png
+fossilien/knochen_trex_wirbel.png
+fossilien/knochen_triceratops_hinterbein.png
+fossilien/knochen_triceratops_rippen.png
+fossilien/knochen_triceratops_schaedel.png
+fossilien/knochen_triceratops_schwanz.png
+fossilien/knochen_triceratops_vorderbein.png
+fossilien/knochen_triceratops_wirbel.png
+fossilien/knochen_velociraptor_hinterbein.png
+fossilien/knochen_velociraptor_rippen.png
+fossilien/knochen_velociraptor_schaedel.png
+fossilien/knochen_velociraptor_schwanz.png
+fossilien/knochen_velociraptor_vorderbein.png
+fossilien/knochen_velociraptor_wirbel.png
+fossilien/koprolith.png
+fossilien/kristall.png
+fossilien/lavastein.png
+fossilien/megalodon_zahn.png
+fossilien/meteorit.png
+fossilien/muschel.png
+fossilien/pyrit.png
+fossilien/quarz.png
+fossilien/schaedel_brachiosaurus.png
+fossilien/schaedel_ichthyosaurus.png
+fossilien/schaedel_mammut.png
+fossilien/schaedel_stegosaurus.png
+fossilien/schaedel_trex.png
+fossilien/schaedel_triceratops.png
+fossilien/schaedel_velociraptor.png
+fossilien/skelett_brachiosaurus.png
+fossilien/skelett_ichthyosaurus.png
+fossilien/skelett_mammut.png
+fossilien/skelett_stegosaurus.png
+fossilien/skelett_trex.png
+fossilien/skelett_triceratops.png
+fossilien/skelett_velociraptor.png
+fossilien/spur.png
+fossilien/stein_geschlossen.png
+fossilien/stein_offen_ammonit.png
+fossilien/steinplatte.png
+fossilien/trilobit.png
+fossilien/zahn.png
+karten/album.png
+karten/auftragsrolle.png
+karten/kartenpaeckchen.png
+karten/kartenrueckseite.png
+karten/pass_seite.png
+karten/stempel_draussen.png
+karten/stempel_museum.png
+karten/urkunde_rahmen.png
+objekte/auto.png
+objekte/bagger.png
+objekte/ballon.png
+objekte/banane.png
+objekte/bus.png
+objekte/ei_archelon.png
+objekte/ei_flugsaurier.png
+objekte/ei_huhn.png
+objekte/ei_krokodil.png
+objekte/ei_oviraptor.png
+objekte/ei_protoceratops.png
+objekte/ei_riesig.png
+objekte/ei_riss.png
+objekte/ei_sauropode.png
+objekte/ei_therizinosaurus.png
+objekte/erwachsener.png
+objekte/fahrrad.png
+objekte/grabung_eis.png
+objekte/grabung_fluss.png
+objekte/grabung_klippe.png
+objekte/grabung_vulkan.png
+objekte/grabung_wald.png
+objekte/grabung_wueste.png
+objekte/haus.png
+objekte/karotte.png
+objekte/kind.png
+objekte/kiste.png
+objekte/knochen.png
+objekte/meer_fischschwarm.png
+objekte/meer_krebs.png
+objekte/meer_muschel.png
+objekte/meer_plankton.png
+objekte/meer_schildkroete.png
+objekte/meer_tintenfisch.png
+objekte/meer_wurm.png
+objekte/melone.png
+objekte/rucksack.png
+objekte/stein.png
+objekte/wagen.png
+objekte/werkzeug_gips.png
+objekte/werkzeug_hammer.png
+objekte/werkzeug_kamera.png
+objekte/werkzeug_kompass.png
+objekte/werkzeug_lupe.png
+objekte/werkzeug_massband.png
+objekte/werkzeug_meissel.png
+objekte/werkzeug_notizbuch.png
+objekte/werkzeug_pinsel.png
+objekte/werkzeug_quatsch_badeente.png
+objekte/werkzeug_quatsch_regenschirm.png
+objekte/werkzeug_quatsch_teddy.png
+objekte/werkzeug_quatsch_toaster.png
+objekte/werkzeug_schaufel.png
+objekte/werkzeug_sieb.png
+objekte/werkzeug_taschenlampe.png
+pflanzen/araukarie.png
+pflanzen/ast.png
+pflanzen/baumfarn.png
+pflanzen/baumstamm.png
+pflanzen/blumenwiese.png
+pflanzen/busch.png
+pflanzen/busch_raschelnd.png
+pflanzen/farn_gruppe.png
+pflanzen/futter_blaetter.png
+pflanzen/futter_farn.png
+pflanzen/futter_fruechte.png
+pflanzen/futter_gras.png
+pflanzen/futter_moos.png
+pflanzen/futter_wurzeln.png
+pflanzen/futter_zapfen.png
+pflanzen/ginkgo.png
+pflanzen/grasbueschel.png
+pflanzen/kaktus.png
+pflanzen/koralle_hirn.png
+pflanzen/koralle_rot.png
+pflanzen/laubbaum_fruehling.png
+pflanzen/laubbaum_herbst.png
+pflanzen/laubbaum_sommer.png
+pflanzen/laubbaum_winter.png
+pflanzen/laubhaufen.png
+pflanzen/liane.png
+pflanzen/magnolie.png
+pflanzen/nadelbaum.png
+pflanzen/nadelbaum_schnee.png
+pflanzen/palme.png
+pflanzen/palmfarn.png
+pflanzen/schachtelhalm.png
+pflanzen/schilf.png
+pflanzen/schwamm.png
+pflanzen/seegras.png
+pflanzen/seelilie.png
+pflanzen/seerose.png
+pflanzen/seetang.png
+pflanzen/zweige.png
+stationen/hintergrund_ammoniten_hoch.png
+stationen/hintergrund_ammoniten_quer.png
+stationen/hintergrund_anning_hoch.png
+stationen/hintergrund_anning_quer.png
+stationen/hintergrund_ausflug_hoch.png
+stationen/hintergrund_ausflug_quer.png
+stationen/hintergrund_bildquiz_hoch.png
+stationen/hintergrund_bildquiz_quer.png
+stationen/hintergrund_dschungel_hoch.png
+stationen/hintergrund_dschungel_quer.png
+stationen/hintergrund_eier_hoch.png
+stationen/hintergrund_eier_quer.png
+stationen/hintergrund_endlos_hoch.png
+stationen/hintergrund_endlos_quer.png
+stationen/hintergrund_expedition_hoch.png
+stationen/hintergrund_expedition_quer.png
+stationen/hintergrund_forscher_hoch.png
+stationen/hintergrund_forscher_quer.png
+stationen/hintergrund_futter_hoch.png
+stationen/hintergrund_futter_quer.png
+stationen/hintergrund_grabung_hoch.png
+stationen/hintergrund_grabung_quer.png
+stationen/hintergrund_grossklein_hoch.png
+stationen/hintergrund_grossklein_quer.png
+stationen/hintergrund_kamera_hoch.png
+stationen/hintergrund_kamera_quer.png
+stationen/hintergrund_karten_hoch.png
+stationen/hintergrund_karten_quer.png
+stationen/hintergrund_kino_hoch.png
+stationen/hintergrund_kino_quer.png
+stationen/hintergrund_kita_hoch.png
+stationen/hintergrund_kita_quer.png
+stationen/hintergrund_klang_hoch.png
+stationen/hintergrund_klang_quer.png
+stationen/hintergrund_lager_hoch.png
+stationen/hintergrund_lager_quer.png
+stationen/hintergrund_lauf_hoch.png
+stationen/hintergrund_lauf_quer.png
+stationen/hintergrund_lufwas_hoch.png
+stationen/hintergrund_lufwas_quer.png
+stationen/hintergrund_meerfutter_hoch.png
+stationen/hintergrund_meerfutter_quer.png
+stationen/hintergrund_memory_hoch.png
+stationen/hintergrund_memory_quer.png
+stationen/hintergrund_museum_hoch.png
+stationen/hintergrund_museum_quer.png
+stationen/hintergrund_nest_hoch.png
+stationen/hintergrund_nest_quer.png
+stationen/hintergrund_picknick_hoch.png
+stationen/hintergrund_picknick_quer.png
+stationen/hintergrund_puzzle_hoch.png
+stationen/hintergrund_puzzle_quer.png
+stationen/hintergrund_rennen_hoch.png
+stationen/hintergrund_rennen_quer.png
+stationen/hintergrund_rettung_hoch.png
+stationen/hintergrund_rettung_quer.png
+stationen/hintergrund_riff_hoch.png
+stationen/hintergrund_riff_quer.png
+stationen/hintergrund_schatten_hoch.png
+stationen/hintergrund_schatten_quer.png
+stationen/hintergrund_schiff_hoch.png
+stationen/hintergrund_schiff_quer.png
+stationen/hintergrund_spuren_hoch.png
+stationen/hintergrund_spuren_quer.png
+stationen/hintergrund_tauchfahrt_hoch.png
+stationen/hintergrund_tauchfahrt_quer.png
+stationen/hintergrund_tiefsee_hoch.png
+stationen/hintergrund_tiefsee_quer.png
+stationen/hintergrund_tracker_hoch.png
+stationen/hintergrund_tracker_quer.png
+stationen/hintergrund_vulkan_hoch.png
+stationen/hintergrund_vulkan_quer.png
+stationen/hintergrund_waage_hoch.png
+stationen/hintergrund_waage_quer.png
+stationen/hintergrund_werbinich_hoch.png
+stationen/hintergrund_werbinich_quer.png
+stationen/hintergrund_werkstatt_hoch.png
+stationen/hintergrund_werkstatt_quer.png
+stationen/hintergrund_wiegross_hoch.png
+stationen/hintergrund_wiegross_quer.png
+stationen/hintergrund_zeitportal_hoch.png
+stationen/hintergrund_zeitportal_quer.png
+stationen/hintergrund_zuhause_hoch.png
+stationen/hintergrund_zuhause_quer.png
+stationen/schild_ammoniten.png
+stationen/schild_anning.png
+stationen/schild_ausflug.png
+stationen/schild_bildquiz.png
+stationen/schild_dschungel.png
+stationen/schild_eier.png
+stationen/schild_endlos.png
+stationen/schild_expedition.png
+stationen/schild_forscher.png
+stationen/schild_futter.png
+stationen/schild_grabung.png
+stationen/schild_grossklein.png
+stationen/schild_kamera.png
+stationen/schild_karten.png
+stationen/schild_kino.png
+stationen/schild_kita.png
+stationen/schild_klang.png
+stationen/schild_lager.png
+stationen/schild_lauf.png
+stationen/schild_lufwas.png
+stationen/schild_meerfutter.png
+stationen/schild_memory.png
+stationen/schild_museum.png
+stationen/schild_nest.png
+stationen/schild_picknick.png
+stationen/schild_puzzle.png
+stationen/schild_rennen.png
+stationen/schild_rettung.png
+stationen/schild_riff.png
+stationen/schild_schatten.png
+stationen/schild_schiff.png
+stationen/schild_spuren.png
+stationen/schild_tauchfahrt.png
+stationen/schild_tiefsee.png
+stationen/schild_tracker.png
+stationen/schild_vulkan.png
+stationen/schild_waage.png
+stationen/schild_werbinich.png
+stationen/schild_werkstatt.png
+stationen/schild_wiegross.png
+stationen/schild_zeitportal.png
+stationen/schild_zuhause.png
+stationen/wahrzeichen_ammoniten.png
+stationen/wahrzeichen_anning.png
+stationen/wahrzeichen_ausflug.png
+stationen/wahrzeichen_bildquiz.png
+stationen/wahrzeichen_dschungel.png
+stationen/wahrzeichen_eier.png
+stationen/wahrzeichen_endlos.png
+stationen/wahrzeichen_expedition.png
+stationen/wahrzeichen_forscher.png
+stationen/wahrzeichen_futter.png
+stationen/wahrzeichen_grabung.png
+stationen/wahrzeichen_grossklein.png
+stationen/wahrzeichen_kamera.png
+stationen/wahrzeichen_karten.png
+stationen/wahrzeichen_kino.png
+stationen/wahrzeichen_kita.png
+stationen/wahrzeichen_klang.png
+stationen/wahrzeichen_lager.png
+stationen/wahrzeichen_lauf.png
+stationen/wahrzeichen_lufwas.png
+stationen/wahrzeichen_meerfutter.png
+stationen/wahrzeichen_memory.png
+stationen/wahrzeichen_museum.png
+stationen/wahrzeichen_nest.png
+stationen/wahrzeichen_picknick.png
+stationen/wahrzeichen_puzzle.png
+stationen/wahrzeichen_rennen.png
+stationen/wahrzeichen_rettung.png
+stationen/wahrzeichen_riff.png
+stationen/wahrzeichen_schatten.png
+stationen/wahrzeichen_schiff.png
+stationen/wahrzeichen_spuren.png
+stationen/wahrzeichen_tauchfahrt.png
+stationen/wahrzeichen_tiefsee.png
+stationen/wahrzeichen_tracker.png
+stationen/wahrzeichen_vulkan.png
+stationen/wahrzeichen_waage.png
+stationen/wahrzeichen_werbinich.png
+stationen/wahrzeichen_werkstatt.png
+stationen/wahrzeichen_wiegross.png
+stationen/wahrzeichen_zeitportal.png
+stationen/wahrzeichen_zuhause.png
+sticker/alle-zeiten.png
+sticker/ammoniten.png
+sticker/anning.png
+sticker/ausflug.png
+sticker/bildquiz.png
+sticker/blume.png
+sticker/dschungel.png
+sticker/eier.png
+sticker/eigenes.png
+sticker/endlos.png
+sticker/entdecker.png
+sticker/erste-reise.png
+sticker/expedition.png
+sticker/forscher.png
+sticker/futter.png
+sticker/grabung-profi.png
+sticker/grabung.png
+sticker/grossklein.png
+sticker/junior.png
+sticker/kamera.png
+sticker/kapitaen.png
+sticker/karten-10.png
+sticker/karten.png
+sticker/kino.png
+sticker/kita.png
+sticker/klang.png
+sticker/lager.png
+sticker/lauf.png
+sticker/lufwas.png
+sticker/meerfutter.png
+sticker/memory.png
+sticker/museum-alle.png
+sticker/museum.png
+sticker/nest.png
+sticker/picknick.png
+sticker/puzzle.png
+sticker/r-duene.png
+sticker/r-farn.png
+sticker/r-kaktus.png
+sticker/r-klippe.png
+sticker/r-lava.png
+sticker/r-mammut.png
+sticker/r-muschel.png
+sticker/r-palme.png
+sticker/r-schnee.png
+sticker/r-vulkan.png
+sticker/r-wasserfall.png
+sticker/r-welle.png
+sticker/rennen.png
+sticker/rettung.png
+sticker/riff.png
+sticker/satt.png
+sticker/schatten.png
+sticker/schiff.png
+sticker/skelett.png
+sticker/spuren.png
+sticker/tauchfahrt.png
+sticker/tiefsee.png
+sticker/tracker.png
+sticker/vulkan.png
+sticker/waage.png
+sticker/werbinich.png
+sticker/werkstatt.png
+sticker/wiegross.png
+sticker/zuhause.png
+symbole/aas.png
+symbole/album.png
+symbole/anker.png
+symbole/auto.png
+symbole/babydino.png
+symbole/ball.png
+symbole/ballon.png
+symbole/banane.png
+symbole/blase.png
+symbole/blume.png
+symbole/boot.png
+symbole/buch.png
+symbole/bus.png
+symbole/decke.png
+symbole/duene.png
+symbole/eier.png
+symbole/eis.png
+symbole/erde.png
+symbole/fackel.png
+symbole/fahrrad.png
+symbole/feder.png
+symbole/fernglas.png
+symbole/film.png
+symbole/fisch.png
+symbole/flagge.png
+symbole/flaschenpost.png
+symbole/fleisch.png
+symbole/frage.png
+symbole/fussabdruck.png
+symbole/futter.png
+symbole/globus.png
+symbole/grabung.png
+symbole/hai.png
+symbole/hammer.png
+symbole/hand.png
+symbole/haus.png
+symbole/insekten.png
+symbole/kaktus.png
+symbole/kamera.png
+symbole/karotte.png
+symbole/kartenpack.png
+symbole/kind.png
+symbole/kiste.png
+symbole/kleintier.png
+symbole/klippe.png
+symbole/kompass.png
+symbole/land.png
+symbole/lauf.png
+symbole/lava.png
+symbole/luft.png
+symbole/lupe.png
+symbole/meer.png
+symbole/meissel.png
+symbole/melone.png
+symbole/mensch.png
+symbole/mikro.png
+symbole/mikrofon.png
+symbole/museum.png
+symbole/musik.png
+symbole/nacht.png
+symbole/nest.png
+symbole/ohr.png
+symbole/palme.png
+symbole/perle.png
+symbole/pinsel.png
+symbole/popcorn.png
+symbole/puzzle.png
+symbole/qualle.png
+symbole/radierer.png
+symbole/regal.png
+symbole/rettungsring.png
+symbole/ruecksack.png
+symbole/scanner.png
+symbole/schatten.png
+symbole/schaufel.png
+symbole/schiff.png
+symbole/schneeflocke.png
+symbole/schwamm.png
+symbole/seestern.png
+symbole/sonne.png
+symbole/sticker.png
+symbole/stift.png
+symbole/taschenlampe.png
+symbole/taucher.png
+symbole/tisch_karte.png
+symbole/untertitel.png
+symbole/vulkan.png
+symbole/waage.png
+symbole/wagen.png
+symbole/wal.png
+symbole/wasserblatt.png
+symbole/wasserfall.png
+symbole/welle.png
+symbole/wolke.png
+symbole/wueste.png
+symbole/zelt.png
+tiere/allosaurus.png
+tiere/ambulocetus.png
+tiere/ammonit.png
+tiere/andrewsarchus.png
+tiere/ankylosaurus.png
+tiere/anomalocaris.png
+tiere/archaeopteryx.png
+tiere/archelon.png
+tiere/argentinosaurus.png
+tiere/arthropleura.png
+tiere/baby_ankylosaurus.png
+tiere/baby_brachiosaurus.png
+tiere/baby_diplodocus.png
+tiere/baby_maiasaura.png
+tiere/baby_oviraptor.png
+tiere/baby_parasaurolophus.png
+tiere/baby_protoceratops.png
+tiere/baby_spinosaurus.png
+tiere/baby_stegosaurus.png
+tiere/baby_trex.png
+tiere/baby_triceratops.png
+tiere/baby_velociraptor.png
+tiere/basilosaurus.png
+tiere/bothriolepis.png
+tiere/brachiosaurus.png
+tiere/brontosaurus.png
+tiere/carnotaurus.png
+tiere/ceratosaurus.png
+tiere/cladoselache.png
+tiere/coelophysis.png
+tiere/coelurosauravus.png
+tiere/compsognathus.png
+tiere/corythosaurus.png
+tiere/cynognathus.png
+tiere/deinonychus.png
+tiere/deinosuchus.png
+tiere/dilophosaurus.png
+tiere/dimetrodon.png
+tiere/diplocaulus.png
+tiere/diplodocus.png
+tiere/dorudon.png
+tiere/dunkleosteus.png
+tiere/edaphosaurus.png
+tiere/edestus.png
+tiere/edmontosaurus.png
+tiere/elasmosaurus.png
+tiere/elefant.png
+tiere/entelodon.png
+tiere/eoraptor.png
+tiere/eurypterus.png
+tiere/eusthenopteron.png
+tiere/gallimimus.png
+tiere/gastornis.png
+tiere/giganotosaurus.png
+tiere/giraffe.png
+tiere/gorgonops.png
+tiere/helicoprion.png
+tiere/herrerasaurus.png
+tiere/hoehlenbaer.png
+tiere/huhn.png
+tiere/hund.png
+tiere/hyaenodon.png
+tiere/hylonomus.png
+tiere/hynerpeton.png
+tiere/ichthyosaurus.png
+tiere/ichthyostega.png
+tiere/iguanodon.png
+tiere/kaninchen.png
+tiere/katze.png
+tiere/kentrosaurus.png
+tiere/kronosaurus.png
+tiere/leedsichthys.png
+tiere/liopleurodon.png
+tiere/livyatan.png
+tiere/lystrosaurus.png
+tiere/maiasaura.png
+tiere/mamenchisaurus.png
+tiere/mammut.png
+tiere/megaloceros.png
+tiere/megalodon.png
+tiere/meganeura.png
+tiere/mesohippus.png
+tiere/microraptor.png
+tiere/mosasaurus.png
+tiere/moschops.png
+tiere/nothosaurus.png
+tiere/orthoceras.png
+tiere/oviraptor.png
+tiere/pachycephalosaurus.png
+tiere/pachyrhinosaurus.png
+tiere/pantolambda.png
+tiere/paraceratherium.png
+tiere/parasaurolophus.png
+tiere/pferd.png
+tiere/placodus.png
+tiere/plateosaurus.png
+tiere/plesiosaurus.png
+tiere/postosuchus.png
+tiere/proterogyrinus.png
+tiere/protoceratops.png
+tiere/pteranodon.png
+tiere/ptilodus.png
+tiere/pulmonoscorpius.png
+tiere/quastenflosser.png
+tiere/quetzalcoatlus.png
+tiere/scutosaurus.png
+tiere/seekuh.png
+tiere/shonisaurus.png
+tiere/smilodon.png
+tiere/spinosaurus.png
+tiere/stegosaurus.png
+tiere/struthiomimus.png
+tiere/styracosaurus.png
+tiere/therizinosaurus.png
+tiere/tiktaalik.png
+tiere/titanoboa.png
+tiere/trex.png
+tiere/triceratops.png
+tiere/trilobit.png
+tiere/tylosaurus.png
+tiere/uintatherium.png
+tiere/utahraptor.png
+tiere/velociraptor.png
+tiere/wollnashorn.png
+tiere/xenacanthus.png
+ui/app_icon.png
+ui/btn_auftraege.png
+ui/btn_eltern.png
+ui/btn_foto.png
+ui/btn_ganzekarte.png
+ui/btn_hinweis.png
+ui/btn_links.png
+ui/btn_los.png
+ui/btn_musik.png
+ui/btn_nochmal.png
+ui/btn_ok.png
+ui/btn_pause.png
+ui/btn_play.png
+ui/btn_rechts.png
+ui/btn_rucksack.png
+ui/btn_schliessen.png
+ui/btn_springen.png
+ui/btn_ton_an.png
+ui/btn_ton_aus.png
+ui/btn_vorlesen.png
+ui/btn_weiter.png
+ui/btn_wobinich.png
+ui/btn_zoom_minus.png
+ui/btn_zoom_plus.png
+ui/btn_zurinsel.png
+ui/btn_zurueck.png
+ui/fortschritt_punkt.png
+ui/fragezeichen_wolke.png
+ui/haken_stempel.png
+ui/herz.png
+ui/karte_panel.png
+ui/konfetti.png
+ui/level_leicht.png
+ui/level_mittel.png
+ui/level_schwer.png
+ui/namensschild.png
+ui/schloss.png
+ui/sprechblase.png
+ui/stationsschild_scheibe.png
+ui/stern_leer.png
+ui/stern_voll.png
+ui/toast_rahmen.png
+zeitalter/devon.png
+zeitalter/jura.png
+zeitalter/kambrium.png
+zeitalter/karbon.png
+zeitalter/kreide.png
+zeitalter/neogen.png
+zeitalter/ordovizium.png
+zeitalter/palaeogen.png
+zeitalter/perm.png
+zeitalter/quartaer.png
+zeitalter/silur.png
+zeitalter/trias.png
+# ===== Experimentebuch (Forscherhütte) – Ordner grafiken-neu/experimente/ =====
+# Format ab hier:  dateiname ; empfohlene Größe in Pixeln ; wofür
+# Alle Bilder sind freiwillig: fehlt eins, bleibt die bisherige Zeichnung.
+experimente/buch_umschlag.png ; 600x600 ; Bild auf dem Forscherbuch im Bücherregal (bisher: T-Rex)
+experimente/kapitel_01.png ; 400x400 ; Rundes Bild auf dem Buch „Spuren & Fossilien“
+experimente/kapitel_02.png ; 400x400 ; Rundes Bild auf dem Buch „Riesig & Winzig“
+experimente/kapitel_03.png ; 400x400 ; Rundes Bild auf dem Buch „Schnell & Stark“
+experimente/kapitel_04.png ; 400x400 ; Rundes Bild auf dem Buch „Zähne & Futter“
+experimente/kapitel_05.png ; 400x400 ; Rundes Bild auf dem Buch „Eier & Nester“
+experimente/kapitel_06.png ; 400x400 ; Rundes Bild auf dem Buch „Dino-Sinne“
+experimente/kapitel_07.png ; 400x400 ; Rundes Bild auf dem Buch „Tarnung & Farben“
+experimente/kapitel_08.png ; 400x400 ; Rundes Bild auf dem Buch „Wasser, Luft & Fliegen“
+experimente/kapitel_09.png ; 400x400 ; Rundes Bild auf dem Buch „Urzeit-Welt“
+experimente/kapitel_10.png ; 400x400 ; Rundes Bild auf dem Buch „Dinos heute“
+experimente/kapitel_11.png ; 400x400 ; Rundes Bild auf dem Buch „Meine Experimente“
+experimente/seite_leer.png ; 2000x1300 ; Leeres Blatt für eigene Experimente (bisher: Linienpapier)
+experimente/seite_hintergrund.png ; 1200x1600 ; Papier-Hintergrund der beiden Buchseiten (darf auch .jpg sein)
+experimente/stempel_geschafft.png ; 600x300 ; Stempel „Geschafft!“ auf dem Blatt (durchsichtiger Hintergrund)
+experimente/eigenes.png ; 400x300 ; Bild der Kacheln eigener Experimente (bisher: Lupe)
+experimente/eigenes_neu.png ; 400x300 ; Bild der Kachel „Neues Experiment“ (bisher: Stift)
+experimente/werkzeug_pinsel.png ; 200x200 ; Werkzeug-Knopf: Pinselgröße
+experimente/werkzeug_radierer.png ; 200x200 ; Werkzeug-Knopf: Radierer
+experimente/werkzeug_zurueck.png ; 200x200 ; Werkzeug-Knopf: Rückgängig
+experimente/werkzeug_leeren.png ; 200x200 ; Werkzeug-Knopf: Alles wegwischen (Schwamm)
+experimente/werkzeug_sticker.png ; 200x200 ; Werkzeug-Knopf: Sticker aufkleben
+experimente/werkzeug_notiz.png ; 200x200 ; Werkzeug-Knopf: Notizzettel
+experimente/werkzeug_foto.png ; 200x200 ; Werkzeug-Knopf: Foto
+experimente/reiter_mission.png ; 120x120 ; Symbol am Reiter „Mission“
+experimente/reiter_vermutung.png ; 120x120 ; Symbol am Reiter „Vermutung“
+experimente/reiter_plan.png ; 120x120 ; Symbol am Reiter „Plan“
+experimente/reiter_ergebnis.png ; 120x120 ; Symbol am Reiter „Ergebnis“
+experimente/reiter_wissen.png ; 120x120 ; Symbol am Reiter „Wissen“
+experimente/material_2_becher.png ; 300x300 ; Material: 2 Becher
+experimente/material_2_eier.png ; 300x300 ; Material: 2 Eier
+experimente/material_3_becher.png ; 300x300 ; Material: 3 Becher
+experimente/material_5_gegenstaende.png ; 300x300 ; Material: 5 Gegenstände
+experimente/material_5_steine.png ; 300x300 ; Material: 5 Steine
+experimente/material_alles_was_du_brauchst.png ; 300x300 ; Material: Alles, was du brauchst
+experimente/material_apfel.png ; 300x300 ; Material: Apfel
+experimente/material_apfelstueck.png ; 300x300 ; Material: Apfelstück
+experimente/material_baelle_oder_steine.png ; 300x300 ; Material: Bälle oder Steine
+experimente/material_ball.png ; 300x300 ; Material: Ball
+experimente/material_banane.png ; 300x300 ; Material: Banane
+experimente/material_becher.png ; 300x300 ; Material: Becher
+experimente/material_besenstiel_oder_stab.png ; 300x300 ; Material: Besenstiel oder Stab
+experimente/material_beutel.png ; 300x300 ; Material: Beutel
+experimente/material_bild_oder_knochen.png ; 300x300 ; Material: Bild oder Knochen
+experimente/material_bilder.png ; 300x300 ; Material: Bilder
+experimente/material_blaetter.png ; 300x300 ; Material: Blätter
+experimente/material_blaetter_oder_salat.png ; 300x300 ; Material: Blätter oder Salat
+experimente/material_blatt.png ; 300x300 ; Material: Blatt
+experimente/material_buecher.png ; 300x300 ; Material: Bücher
+experimente/material_buegel_oder_lineal.png ; 300x300 ; Material: Bügel oder Lineal
+experimente/material_bunte_gegenstaende.png ; 300x300 ; Material: Bunte Gegenstände
+experimente/material_buntes_papier.png ; 300x300 ; Material: Buntes Papier
+experimente/material_deine_stimme.png ; 300x300 ; Material: Deine Stimme
+experimente/material_draussen_platz.png ; 300x300 ; Material: Draußen-Platz
+experimente/material_dunkler_raum.png ; 300x300 ; Material: Dunkler Raum
+experimente/material_ei.png ; 300x300 ; Material: Ei
+experimente/material_ei_aus_plastik.png ; 300x300 ; Material: Ei aus Plastik
+experimente/material_ei_oder_ball.png ; 300x300 ; Material: Ei oder Ball
+experimente/material_eierschalenhaelften.png ; 300x300 ; Material: Eierschalenhälften
+experimente/material_ein_gespraechspartner.png ; 300x300 ; Material: Ein Gesprächspartner
+experimente/material_ein_helfer.png ; 300x300 ; Material: Ein Helfer
+experimente/material_erde.png ; 300x300 ; Material: Erde
+experimente/material_essig.png ; 300x300 ; Material: Essig
+experimente/material_feder.png ; 300x300 ; Material: Feder
+experimente/material_fernglas.png ; 300x300 ; Material: Fernglas
+experimente/material_flasche.png ; 300x300 ; Material: Flasche
+experimente/material_freie_flaeche.png ; 300x300 ; Material: Freie Fläche
+experimente/material_freie_strecke.png ; 300x300 ; Material: Freie Strecke
+experimente/material_geduld.png ; 300x300 ; Material: Geduld
+experimente/material_gelatine_oder_honig.png ; 300x300 ; Material: Gelatine oder Honig
+experimente/material_giesskanne.png ; 300x300 ; Material: Gießkanne
+experimente/material_glas.png ; 300x300 ; Material: Glas
+experimente/material_glas_mit_deckel.png ; 300x300 ; Material: Glas mit Deckel
+experimente/material_glas_wasser.png ; 300x300 ; Material: Glas Wasser
+experimente/material_gras.png ; 300x300 ; Material: Gras
+experimente/material_gummiband.png ; 300x300 ; Material: Gummiband
+experimente/material_handy_zum_aufnehmen.png ; 300x300 ; Material: Handy zum Aufnehmen
+experimente/material_huehnerei.png ; 300x300 ; Material: Hühnerei
+experimente/material_kakao.png ; 300x300 ; Material: Kakao
+experimente/material_kamera.png ; 300x300 ; Material: Kamera
+experimente/material_kamm.png ; 300x300 ; Material: Kamm
+experimente/material_karton.png ; 300x300 ; Material: Karton
+experimente/material_kies.png ; 300x300 ; Material: Kies
+experimente/material_kieselsteine.png ; 300x300 ; Material: Kieselsteine
+experimente/material_klebeband.png ; 300x300 ; Material: Klebeband
+experimente/material_kleiner_gegenstand.png ; 300x300 ; Material: Kleiner Gegenstand
+experimente/material_kleiner_zettel.png ; 300x300 ; Material: Kleiner Zettel
+experimente/material_kleines_gewicht.png ; 300x300 ; Material: Kleines Gewicht
+experimente/material_kleines_glas.png ; 300x300 ; Material: Kleines Glas
+experimente/material_knete.png ; 300x300 ; Material: Knete
+experimente/material_kreide.png ; 300x300 ; Material: Kreide
+experimente/material_lampe.png ; 300x300 ; Material: Lampe
+experimente/material_lineal.png ; 300x300 ; Material: Lineal
+experimente/material_linie_am_boden.png ; 300x300 ; Material: Linie am Boden
+experimente/material_loeffel.png ; 300x300 ; Material: Löffel
+experimente/material_lupe.png ; 300x300 ; Material: Lupe
+experimente/material_massband.png ; 300x300 ; Material: Maßband
+experimente/material_massband_oder_schnur.png ; 300x300 ; Material: Maßband oder Schnur
+experimente/material_mehl.png ; 300x300 ; Material: Mehl
+experimente/material_moehre.png ; 300x300 ; Material: Möhre
+experimente/material_moos.png ; 300x300 ; Material: Moos
+experimente/material_murmel.png ; 300x300 ; Material: Murmel
+experimente/material_muschel_oder_blatt.png ; 300x300 ; Material: Muschel oder Blatt
+experimente/material_museumsbesuch.png ; 300x300 ; Material: Museumsbesuch
+experimente/material_natron.png ; 300x300 ; Material: Natron
+experimente/material_naturmaterial.png ; 300x300 ; Material: Naturmaterial
+experimente/material_nest.png ; 300x300 ; Material: Nest
+experimente/material_papier.png ; 300x300 ; Material: Papier
+experimente/material_papierstreifen.png ; 300x300 ; Material: Papierstreifen
+experimente/material_papprollen.png ; 300x300 ; Material: Papprollen
+experimente/material_pinsel.png ; 300x300 ; Material: Pinsel
+experimente/material_pinzette.png ; 300x300 ; Material: Pinzette
+experimente/material_reis.png ; 300x300 ; Material: Reis
+experimente/material_roehre.png ; 300x300 ; Material: Röhre
+experimente/material_rucksack.png ; 300x300 ; Material: Rucksack
+experimente/material_salat.png ; 300x300 ; Material: Salat
+experimente/material_salatblatt.png ; 300x300 ; Material: Salatblatt
+experimente/material_salz.png ; 300x300 ; Material: Salz
+experimente/material_sand.png ; 300x300 ; Material: Sand
+experimente/material_sand_oder_knete.png ; 300x300 ; Material: Sand oder Knete
+experimente/material_sand_oder_kreide.png ; 300x300 ; Material: Sand oder Kreide
+experimente/material_sand_oder_schnee.png ; 300x300 ; Material: Sand oder Schnee
+experimente/material_sandhaufen.png ; 300x300 ; Material: Sandhaufen
+experimente/material_sandkiste.png ; 300x300 ; Material: Sandkiste
+experimente/material_schale.png ; 300x300 ; Material: Schale
+experimente/material_schere.png ; 300x300 ; Material: Schere
+experimente/material_schnur.png ; 300x300 ; Material: Schnur
+experimente/material_schnur_oder_schritte.png ; 300x300 ; Material: Schnur oder Schritte
+experimente/material_schuessel.png ; 300x300 ; Material: Schüssel
+experimente/material_schuessel_mehl.png ; 300x300 ; Material: Schüssel Mehl
+experimente/material_schuessel_wasser.png ; 300x300 ; Material: Schüssel Wasser
+experimente/material_seife.png ; 300x300 ; Material: Seife
+experimente/material_sonniger_platz.png ; 300x300 ; Material: Sonniger Platz
+experimente/material_spiegel.png ; 300x300 ; Material: Spiegel
+experimente/material_stein.png ; 300x300 ; Material: Stein
+experimente/material_stift.png ; 300x300 ; Material: Stift
+experimente/material_stifte.png ; 300x300 ; Material: Stifte
+experimente/material_stock.png ; 300x300 ; Material: Stock
+experimente/material_stoppuhr.png ; 300x300 ; Material: Stoppuhr
+experimente/material_strohhalm.png ; 300x300 ; Material: Strohhalm
+experimente/material_taschenlampe.png ; 300x300 ; Material: Taschenlampe
+experimente/material_tisch.png ; 300x300 ; Material: Tisch
+experimente/material_tuch.png ; 300x300 ; Material: Tuch
+experimente/material_tuch_oder_tuete.png ; 300x300 ; Material: Tuch oder Tüte
+experimente/material_wachsmalstift.png ; 300x300 ; Material: Wachsmalstift
+experimente/material_wanne_oder_schuessel.png ; 300x300 ; Material: Wanne oder Schüssel
+experimente/material_wasser.png ; 300x300 ; Material: Wasser
+experimente/material_wasserschuessel.png ; 300x300 ; Material: Wasserschüssel
+experimente/material_watte.png ; 300x300 ; Material: Watte
+experimente/material_weiches_seil_oder_tuch.png ; 300x300 ; Material: Weiches Seil oder Tuch
+experimente/material_weltkarte.png ; 300x300 ; Material: Weltkarte
+experimente/material_zimmer_oder_weg.png ; 300x300 ; Material: Zimmer oder Weg
+experimente/material_zimt.png ; 300x300 ; Material: Zimt
+experimente/material_zitrone.png ; 300x300 ; Material: Zitrone
+experimente/material_zwei_steine.png ; 300x300 ; Material: Zwei Steine
+experimente/material_zweige.png ; 300x300 ; Material: Zweige
+experimente/exp001.png ; 2000x1300 ; Experiment 1 „Spuren lesen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp001_schritt1.png ; 600x600 ; Experiment 1 – Bild zu Schritt 1
+experimente/exp001_schritt2.png ; 600x600 ; Experiment 1 – Bild zu Schritt 2
+experimente/exp001_schritt3.png ; 600x600 ; Experiment 1 – Bild zu Schritt 3
+experimente/exp001_vermutung1.png ; 400x400 ; Experiment 1 – Vermutungs-Karte „Ein Vogel“
+experimente/exp001_vermutung2.png ; 400x400 ; Experiment 1 – Vermutungs-Karte „Ein Hund“
+experimente/exp001_vermutung3.png ; 400x400 ; Experiment 1 – Vermutungs-Karte „Ein Mensch“
+experimente/exp001_vermutung4.png ; 400x400 ; Experiment 1 – Vermutungs-Karte „Ein Rätsel“
+experimente/exp001_wissen.png ; 800x600 ; Experiment 1 – Bild zum Dino-Wissen
+experimente/exp002.png ; 2000x1300 ; Experiment 2 „Mein eigener Abdruck“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp002_schritt1.png ; 600x600 ; Experiment 2 – Bild zu Schritt 1
+experimente/exp002_schritt2.png ; 600x600 ; Experiment 2 – Bild zu Schritt 2
+experimente/exp002_schritt3.png ; 600x600 ; Experiment 2 – Bild zu Schritt 3
+experimente/exp002_vermutung1.png ; 400x400 ; Experiment 2 – Vermutungs-Karte „3 Zehen“
+experimente/exp002_vermutung2.png ; 400x400 ; Experiment 2 – Vermutungs-Karte „5 Zehen“
+experimente/exp002_vermutung3.png ; 400x400 ; Experiment 2 – Vermutungs-Karte „Ballen“
+experimente/exp002_wissen.png ; 800x600 ; Experiment 2 – Bild zum Dino-Wissen
+experimente/exp003.png ; 2000x1300 ; Experiment 3 „Fossil aus Salzteig“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp003_schritt1.png ; 600x600 ; Experiment 3 – Bild zu Schritt 1
+experimente/exp003_schritt2.png ; 600x600 ; Experiment 3 – Bild zu Schritt 2
+experimente/exp003_schritt3.png ; 600x600 ; Experiment 3 – Bild zu Schritt 3
+experimente/exp003_vermutung1.png ; 400x400 ; Experiment 3 – Vermutungs-Karte „Muschel“
+experimente/exp003_vermutung2.png ; 400x400 ; Experiment 3 – Vermutungs-Karte „Blatt“
+experimente/exp003_vermutung3.png ; 400x400 ; Experiment 3 – Vermutungs-Karte „Zweig“
+experimente/exp003_wissen.png ; 800x600 ; Experiment 3 – Bild zum Dino-Wissen
+experimente/exp004.png ; 2000x1300 ; Experiment 4 „Schichten der Erde“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp004_schritt1.png ; 600x600 ; Experiment 4 – Bild zu Schritt 1
+experimente/exp004_schritt2.png ; 600x600 ; Experiment 4 – Bild zu Schritt 2
+experimente/exp004_schritt3.png ; 600x600 ; Experiment 4 – Bild zu Schritt 3
+experimente/exp004_vermutung1.png ; 400x400 ; Experiment 4 – Vermutungs-Karte „Oben“
+experimente/exp004_vermutung2.png ; 400x400 ; Experiment 4 – Vermutungs-Karte „Unten“
+experimente/exp004_vermutung3.png ; 400x400 ; Experiment 4 – Vermutungs-Karte „Egal“
+experimente/exp004_wissen.png ; 800x600 ; Experiment 4 – Bild zum Dino-Wissen
+experimente/exp005.png ; 2000x1300 ; Experiment 5 „Blattdruck“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp005_schritt1.png ; 600x600 ; Experiment 5 – Bild zu Schritt 1
+experimente/exp005_schritt2.png ; 600x600 ; Experiment 5 – Bild zu Schritt 2
+experimente/exp005_schritt3.png ; 600x600 ; Experiment 5 – Bild zu Schritt 3
+experimente/exp005_vermutung1.png ; 400x400 ; Experiment 5 – Vermutungs-Karte „Eiche“
+experimente/exp005_vermutung2.png ; 400x400 ; Experiment 5 – Vermutungs-Karte „Ahorn“
+experimente/exp005_vermutung3.png ; 400x400 ; Experiment 5 – Vermutungs-Karte „Farn“
+experimente/exp005_wissen.png ; 800x600 ; Experiment 5 – Bild zum Dino-Wissen
+experimente/exp006.png ; 2000x1300 ; Experiment 6 „Wie groß war der Läufer?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp006_schritt1.png ; 600x600 ; Experiment 6 – Bild zu Schritt 1
+experimente/exp006_schritt2.png ; 600x600 ; Experiment 6 – Bild zu Schritt 2
+experimente/exp006_schritt3.png ; 600x600 ; Experiment 6 – Bild zu Schritt 3
+experimente/exp006_vermutung1.png ; 400x400 ; Experiment 6 – Vermutungs-Karte „Winzig“
+experimente/exp006_vermutung2.png ; 400x400 ; Experiment 6 – Vermutungs-Karte „Mittel“
+experimente/exp006_vermutung3.png ; 400x400 ; Experiment 6 – Vermutungs-Karte „Riesig“
+experimente/exp006_wissen.png ; 800x600 ; Experiment 6 – Bild zum Dino-Wissen
+experimente/exp007.png ; 2000x1300 ; Experiment 7 „Ausgrabung“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp007_schritt1.png ; 600x600 ; Experiment 7 – Bild zu Schritt 1
+experimente/exp007_schritt2.png ; 600x600 ; Experiment 7 – Bild zu Schritt 2
+experimente/exp007_schritt3.png ; 600x600 ; Experiment 7 – Bild zu Schritt 3
+experimente/exp007_vermutung1.png ; 400x400 ; Experiment 7 – Vermutungs-Karte „Knochen“
+experimente/exp007_vermutung2.png ; 400x400 ; Experiment 7 – Vermutungs-Karte „Stein“
+experimente/exp007_vermutung3.png ; 400x400 ; Experiment 7 – Vermutungs-Karte „Muschel“
+experimente/exp007_wissen.png ; 800x600 ; Experiment 7 – Bild zum Dino-Wissen
+experimente/exp008.png ; 2000x1300 ; Experiment 8 „Steine untersuchen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp008_schritt1.png ; 600x600 ; Experiment 8 – Bild zu Schritt 1
+experimente/exp008_schritt2.png ; 600x600 ; Experiment 8 – Bild zu Schritt 2
+experimente/exp008_schritt3.png ; 600x600 ; Experiment 8 – Bild zu Schritt 3
+experimente/exp008_vermutung1.png ; 400x400 ; Experiment 8 – Vermutungs-Karte „Rau“
+experimente/exp008_vermutung2.png ; 400x400 ; Experiment 8 – Vermutungs-Karte „Glatt“
+experimente/exp008_vermutung3.png ; 400x400 ; Experiment 8 – Vermutungs-Karte „Glitzernd“
+experimente/exp008_wissen.png ; 800x600 ; Experiment 8 – Bild zum Dino-Wissen
+experimente/exp009.png ; 2000x1300 ; Experiment 9 „Wer lief schneller?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp009_schritt1.png ; 600x600 ; Experiment 9 – Bild zu Schritt 1
+experimente/exp009_schritt2.png ; 600x600 ; Experiment 9 – Bild zu Schritt 2
+experimente/exp009_schritt3.png ; 600x600 ; Experiment 9 – Bild zu Schritt 3
+experimente/exp009_vermutung1.png ; 400x400 ; Experiment 9 – Vermutungs-Karte „Langsam“
+experimente/exp009_vermutung2.png ; 400x400 ; Experiment 9 – Vermutungs-Karte „Normal“
+experimente/exp009_vermutung3.png ; 400x400 ; Experiment 9 – Vermutungs-Karte „Schnell“
+experimente/exp009_wissen.png ; 800x600 ; Experiment 9 – Bild zum Dino-Wissen
+experimente/exp010.png ; 2000x1300 ; Experiment 10 „Meine Fundkarte“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp010_schritt1.png ; 600x600 ; Experiment 10 – Bild zu Schritt 1
+experimente/exp010_schritt2.png ; 600x600 ; Experiment 10 – Bild zu Schritt 2
+experimente/exp010_schritt3.png ; 600x600 ; Experiment 10 – Bild zu Schritt 3
+experimente/exp010_vermutung1.png ; 400x400 ; Experiment 10 – Vermutungs-Karte „Zuhause“
+experimente/exp010_vermutung2.png ; 400x400 ; Experiment 10 – Vermutungs-Karte „Park“
+experimente/exp010_vermutung3.png ; 400x400 ; Experiment 10 – Vermutungs-Karte „Sandkiste“
+experimente/exp010_wissen.png ; 800x600 ; Experiment 10 – Bild zum Dino-Wissen
+experimente/exp011.png ; 2000x1300 ; Experiment 11 „So lang wie ein Brachiosaurus“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp011_schritt1.png ; 600x600 ; Experiment 11 – Bild zu Schritt 1
+experimente/exp011_schritt2.png ; 600x600 ; Experiment 11 – Bild zu Schritt 2
+experimente/exp011_schritt3.png ; 600x600 ; Experiment 11 – Bild zu Schritt 3
+experimente/exp011_vermutung1.png ; 400x400 ; Experiment 11 – Vermutungs-Karte „Wie ein Auto“
+experimente/exp011_vermutung2.png ; 400x400 ; Experiment 11 – Vermutungs-Karte „Wie ein Bus“
+experimente/exp011_vermutung3.png ; 400x400 ; Experiment 11 – Vermutungs-Karte „Wie ein Haus“
+experimente/exp011_wissen.png ; 800x600 ; Experiment 11 – Bild zum Dino-Wissen
+experimente/exp012.png ; 2000x1300 ; Experiment 12 „Größenvergleich“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp012_schritt1.png ; 600x600 ; Experiment 12 – Bild zu Schritt 1
+experimente/exp012_schritt2.png ; 600x600 ; Experiment 12 – Bild zu Schritt 2
+experimente/exp012_schritt3.png ; 600x600 ; Experiment 12 – Bild zu Schritt 3
+experimente/exp012_vermutung1.png ; 400x400 ; Experiment 12 – Vermutungs-Karte „2 mal“
+experimente/exp012_vermutung2.png ; 400x400 ; Experiment 12 – Vermutungs-Karte „5 mal“
+experimente/exp012_vermutung3.png ; 400x400 ; Experiment 12 – Vermutungs-Karte „10 mal“
+experimente/exp012_wissen.png ; 800x600 ; Experiment 12 – Bild zum Dino-Wissen
+experimente/exp013.png ; 2000x1300 ; Experiment 13 „Wie groß war ein Dino-Ei?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp013_schritt1.png ; 600x600 ; Experiment 13 – Bild zu Schritt 1
+experimente/exp013_schritt2.png ; 600x600 ; Experiment 13 – Bild zu Schritt 2
+experimente/exp013_schritt3.png ; 600x600 ; Experiment 13 – Bild zu Schritt 3
+experimente/exp013_vermutung1.png ; 400x400 ; Experiment 13 – Vermutungs-Karte „Hühnerei“
+experimente/exp013_vermutung2.png ; 400x400 ; Experiment 13 – Vermutungs-Karte „Apfel“
+experimente/exp013_vermutung3.png ; 400x400 ; Experiment 13 – Vermutungs-Karte „Fußball“
+experimente/exp013_wissen.png ; 800x600 ; Experiment 13 – Bild zum Dino-Wissen
+experimente/exp014.png ; 2000x1300 ; Experiment 14 „Fußabdruck in Lebensgröße“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp014_schritt1.png ; 600x600 ; Experiment 14 – Bild zu Schritt 1
+experimente/exp014_schritt2.png ; 600x600 ; Experiment 14 – Bild zu Schritt 2
+experimente/exp014_schritt3.png ; 600x600 ; Experiment 14 – Bild zu Schritt 3
+experimente/exp014_vermutung1.png ; 400x400 ; Experiment 14 – Vermutungs-Karte „Kleiner“
+experimente/exp014_vermutung2.png ; 400x400 ; Experiment 14 – Vermutungs-Karte „Genau“
+experimente/exp014_vermutung3.png ; 400x400 ; Experiment 14 – Vermutungs-Karte „Größer“
+experimente/exp014_wissen.png ; 800x600 ; Experiment 14 – Bild zum Dino-Wissen
+experimente/exp015.png ; 2000x1300 ; Experiment 15 „Waage bauen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp015_schritt1.png ; 600x600 ; Experiment 15 – Bild zu Schritt 1
+experimente/exp015_schritt2.png ; 600x600 ; Experiment 15 – Bild zu Schritt 2
+experimente/exp015_schritt3.png ; 600x600 ; Experiment 15 – Bild zu Schritt 3
+experimente/exp015_vermutung1.png ; 400x400 ; Experiment 15 – Vermutungs-Karte „Stein“
+experimente/exp015_vermutung2.png ; 400x400 ; Experiment 15 – Vermutungs-Karte „Apfel“
+experimente/exp015_vermutung3.png ; 400x400 ; Experiment 15 – Vermutungs-Karte „Feder“
+experimente/exp015_wissen.png ; 800x600 ; Experiment 15 – Bild zum Dino-Wissen
+experimente/exp016.png ; 2000x1300 ; Experiment 16 „Der kleinste Dino“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp016_schritt1.png ; 600x600 ; Experiment 16 – Bild zu Schritt 1
+experimente/exp016_schritt2.png ; 600x600 ; Experiment 16 – Bild zu Schritt 2
+experimente/exp016_schritt3.png ; 600x600 ; Experiment 16 – Bild zu Schritt 3
+experimente/exp016_vermutung1.png ; 400x400 ; Experiment 16 – Vermutungs-Karte „Wie eine Maus“
+experimente/exp016_vermutung2.png ; 400x400 ; Experiment 16 – Vermutungs-Karte „Wie ein Vogel“
+experimente/exp016_vermutung3.png ; 400x400 ; Experiment 16 – Vermutungs-Karte „Wie eine Katze“
+experimente/exp016_wissen.png ; 800x600 ; Experiment 16 – Bild zum Dino-Wissen
+experimente/exp017.png ; 2000x1300 ; Experiment 17 „Der lange Hals“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp017_schritt1.png ; 600x600 ; Experiment 17 – Bild zu Schritt 1
+experimente/exp017_schritt2.png ; 600x600 ; Experiment 17 – Bild zu Schritt 2
+experimente/exp017_schritt3.png ; 600x600 ; Experiment 17 – Bild zu Schritt 3
+experimente/exp017_vermutung1.png ; 400x400 ; Experiment 17 – Vermutungs-Karte „Hohe Blätter“
+experimente/exp017_vermutung2.png ; 400x400 ; Experiment 17 – Vermutungs-Karte „Wasser“
+experimente/exp017_vermutung3.png ; 400x400 ; Experiment 17 – Vermutungs-Karte „Weit sehen“
+experimente/exp017_wissen.png ; 800x600 ; Experiment 17 – Bild zum Dino-Wissen
+experimente/exp018.png ; 2000x1300 ; Experiment 18 „Wie viele Kinder?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp018_schritt1.png ; 600x600 ; Experiment 18 – Bild zu Schritt 1
+experimente/exp018_schritt2.png ; 600x600 ; Experiment 18 – Bild zu Schritt 2
+experimente/exp018_schritt3.png ; 600x600 ; Experiment 18 – Bild zu Schritt 3
+experimente/exp018_vermutung1.png ; 400x400 ; Experiment 18 – Vermutungs-Karte „Etwa 10“
+experimente/exp018_vermutung2.png ; 400x400 ; Experiment 18 – Vermutungs-Karte „Etwa 100“
+experimente/exp018_vermutung3.png ; 400x400 ; Experiment 18 – Vermutungs-Karte „Über 200“
+experimente/exp018_wissen.png ; 800x600 ; Experiment 18 – Bild zum Dino-Wissen
+experimente/exp019.png ; 2000x1300 ; Experiment 19 „Ein Zahn so groß wie...“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp019_schritt1.png ; 600x600 ; Experiment 19 – Bild zu Schritt 1
+experimente/exp019_schritt2.png ; 600x600 ; Experiment 19 – Bild zu Schritt 2
+experimente/exp019_schritt3.png ; 600x600 ; Experiment 19 – Bild zu Schritt 3
+experimente/exp019_vermutung1.png ; 400x400 ; Experiment 19 – Vermutungs-Karte „Wie eine Nuss“
+experimente/exp019_vermutung2.png ; 400x400 ; Experiment 19 – Vermutungs-Karte „Wie eine Banane“
+experimente/exp019_vermutung3.png ; 400x400 ; Experiment 19 – Vermutungs-Karte „Wie eine Möhre“
+experimente/exp019_wissen.png ; 800x600 ; Experiment 19 – Bild zum Dino-Wissen
+experimente/exp020.png ; 2000x1300 ; Experiment 20 „Mein Dino-Maßband“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp020_schritt1.png ; 600x600 ; Experiment 20 – Bild zu Schritt 1
+experimente/exp020_schritt2.png ; 600x600 ; Experiment 20 – Bild zu Schritt 2
+experimente/exp020_schritt3.png ; 600x600 ; Experiment 20 – Bild zu Schritt 3
+experimente/exp020_vermutung1.png ; 400x400 ; Experiment 20 – Vermutungs-Karte „1 Arm“
+experimente/exp020_vermutung2.png ; 400x400 ; Experiment 20 – Vermutungs-Karte „3 Arme“
+experimente/exp020_vermutung3.png ; 400x400 ; Experiment 20 – Vermutungs-Karte „10 Arme“
+experimente/exp020_wissen.png ; 800x600 ; Experiment 20 – Bild zum Dino-Wissen
+experimente/exp021.png ; 2000x1300 ; Experiment 21 „Wie schnell bist du?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp021_schritt1.png ; 600x600 ; Experiment 21 – Bild zu Schritt 1
+experimente/exp021_schritt2.png ; 600x600 ; Experiment 21 – Bild zu Schritt 2
+experimente/exp021_schritt3.png ; 600x600 ; Experiment 21 – Bild zu Schritt 3
+experimente/exp021_vermutung1.png ; 400x400 ; Experiment 21 – Vermutungs-Karte „Langsam“
+experimente/exp021_vermutung2.png ; 400x400 ; Experiment 21 – Vermutungs-Karte „Mittel“
+experimente/exp021_vermutung3.png ; 400x400 ; Experiment 21 – Vermutungs-Karte „Schnell“
+experimente/exp021_vermutung4.png ; 400x400 ; Experiment 21 – Vermutungs-Karte „Superschnell“
+experimente/exp021_wissen.png ; 800x600 ; Experiment 21 – Bild zum Dino-Wissen
+experimente/exp022.png ; 2000x1300 ; Experiment 22 „Zwei Beine oder vier?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp022_schritt1.png ; 600x600 ; Experiment 22 – Bild zu Schritt 1
+experimente/exp022_schritt2.png ; 600x600 ; Experiment 22 – Bild zu Schritt 2
+experimente/exp022_schritt3.png ; 600x600 ; Experiment 22 – Bild zu Schritt 3
+experimente/exp022_vermutung1.png ; 400x400 ; Experiment 22 – Vermutungs-Karte „Zwei Beine“
+experimente/exp022_vermutung2.png ; 400x400 ; Experiment 22 – Vermutungs-Karte „Vier Beine“
+experimente/exp022_vermutung3.png ; 400x400 ; Experiment 22 – Vermutungs-Karte „Gleich“
+experimente/exp022_wissen.png ; 800x600 ; Experiment 22 – Bild zum Dino-Wissen
+experimente/exp023.png ; 2000x1300 ; Experiment 23 „Der Schwanz als Balance“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp023_schritt1.png ; 600x600 ; Experiment 23 – Bild zu Schritt 1
+experimente/exp023_schritt2.png ; 600x600 ; Experiment 23 – Bild zu Schritt 2
+experimente/exp023_schritt3.png ; 600x600 ; Experiment 23 – Bild zu Schritt 3
+experimente/exp023_vermutung1.png ; 400x400 ; Experiment 23 – Vermutungs-Karte „Mit Stab“
+experimente/exp023_vermutung2.png ; 400x400 ; Experiment 23 – Vermutungs-Karte „Ohne Stab“
+experimente/exp023_vermutung3.png ; 400x400 ; Experiment 23 – Vermutungs-Karte „Gleich“
+experimente/exp023_wissen.png ; 800x600 ; Experiment 23 – Bild zum Dino-Wissen
+experimente/exp024.png ; 2000x1300 ; Experiment 24 „Schritte zählen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp024_schritt1.png ; 600x600 ; Experiment 24 – Bild zu Schritt 1
+experimente/exp024_schritt2.png ; 600x600 ; Experiment 24 – Bild zu Schritt 2
+experimente/exp024_schritt3.png ; 600x600 ; Experiment 24 – Bild zu Schritt 3
+experimente/exp024_vermutung1.png ; 400x400 ; Experiment 24 – Vermutungs-Karte „Unter 10“
+experimente/exp024_vermutung2.png ; 400x400 ; Experiment 24 – Vermutungs-Karte „10 bis 20“
+experimente/exp024_vermutung3.png ; 400x400 ; Experiment 24 – Vermutungs-Karte „Über 20“
+experimente/exp024_wissen.png ; 800x600 ; Experiment 24 – Bild zum Dino-Wissen
+experimente/exp025.png ; 2000x1300 ; Experiment 25 „Wer zieht stärker?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp025_schritt1.png ; 600x600 ; Experiment 25 – Bild zu Schritt 1
+experimente/exp025_schritt2.png ; 600x600 ; Experiment 25 – Bild zu Schritt 2
+experimente/exp025_schritt3.png ; 600x600 ; Experiment 25 – Bild zu Schritt 3
+experimente/exp025_vermutung1.png ; 400x400 ; Experiment 25 – Vermutungs-Karte „Eine Hand“
+experimente/exp025_vermutung2.png ; 400x400 ; Experiment 25 – Vermutungs-Karte „Zwei Hände“
+experimente/exp025_vermutung3.png ; 400x400 ; Experiment 25 – Vermutungs-Karte „Ganzer Körper“
+experimente/exp025_wissen.png ; 800x600 ; Experiment 25 – Bild zum Dino-Wissen
+experimente/exp026.png ; 2000x1300 ; Experiment 26 „Weitsprung“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp026_schritt1.png ; 600x600 ; Experiment 26 – Bild zu Schritt 1
+experimente/exp026_schritt2.png ; 600x600 ; Experiment 26 – Bild zu Schritt 2
+experimente/exp026_schritt3.png ; 600x600 ; Experiment 26 – Bild zu Schritt 3
+experimente/exp026_vermutung1.png ; 400x400 ; Experiment 26 – Vermutungs-Karte „Unter 1 m“
+experimente/exp026_vermutung2.png ; 400x400 ; Experiment 26 – Vermutungs-Karte „Etwa 1 m“
+experimente/exp026_vermutung3.png ; 400x400 ; Experiment 26 – Vermutungs-Karte „Über 1 m“
+experimente/exp026_wissen.png ; 800x600 ; Experiment 26 – Bild zum Dino-Wissen
+experimente/exp027.png ; 2000x1300 ; Experiment 27 „Panzer-Test“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp027_schritt1.png ; 600x600 ; Experiment 27 – Bild zu Schritt 1
+experimente/exp027_schritt2.png ; 600x600 ; Experiment 27 – Bild zu Schritt 2
+experimente/exp027_schritt3.png ; 600x600 ; Experiment 27 – Bild zu Schritt 3
+experimente/exp027_vermutung1.png ; 400x400 ; Experiment 27 – Vermutungs-Karte „Papier“
+experimente/exp027_vermutung2.png ; 400x400 ; Experiment 27 – Vermutungs-Karte „Tuch“
+experimente/exp027_vermutung3.png ; 400x400 ; Experiment 27 – Vermutungs-Karte „Karton“
+experimente/exp027_wissen.png ; 800x600 ; Experiment 27 – Bild zum Dino-Wissen
+experimente/exp028.png ; 2000x1300 ; Experiment 28 „Stampf-Erschütterung“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp028_schritt1.png ; 600x600 ; Experiment 28 – Bild zu Schritt 1
+experimente/exp028_schritt2.png ; 600x600 ; Experiment 28 – Bild zu Schritt 2
+experimente/exp028_schritt3.png ; 600x600 ; Experiment 28 – Bild zu Schritt 3
+experimente/exp028_vermutung1.png ; 400x400 ; Experiment 28 – Vermutungs-Karte „Kleine Wellen“
+experimente/exp028_vermutung2.png ; 400x400 ; Experiment 28 – Vermutungs-Karte „Große Wellen“
+experimente/exp028_vermutung3.png ; 400x400 ; Experiment 28 – Vermutungs-Karte „Nichts“
+experimente/exp028_wissen.png ; 800x600 ; Experiment 28 – Bild zum Dino-Wissen
+experimente/exp029.png ; 2000x1300 ; Experiment 29 „Schwere Last tragen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp029_schritt1.png ; 600x600 ; Experiment 29 – Bild zu Schritt 1
+experimente/exp029_schritt2.png ; 600x600 ; Experiment 29 – Bild zu Schritt 2
+experimente/exp029_schritt3.png ; 600x600 ; Experiment 29 – Bild zu Schritt 3
+experimente/exp029_vermutung1.png ; 400x400 ; Experiment 29 – Vermutungs-Karte „Leicht“
+experimente/exp029_vermutung2.png ; 400x400 ; Experiment 29 – Vermutungs-Karte „Geht so“
+experimente/exp029_vermutung3.png ; 400x400 ; Experiment 29 – Vermutungs-Karte „Ganz schön schwer“
+experimente/exp029_wissen.png ; 800x600 ; Experiment 29 – Bild zum Dino-Wissen
+experimente/exp030.png ; 2000x1300 ; Experiment 30 „Ausdauer-Test“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp030_schritt1.png ; 600x600 ; Experiment 30 – Bild zu Schritt 1
+experimente/exp030_schritt2.png ; 600x600 ; Experiment 30 – Bild zu Schritt 2
+experimente/exp030_schritt3.png ; 600x600 ; Experiment 30 – Bild zu Schritt 3
+experimente/exp030_vermutung1.png ; 400x400 ; Experiment 30 – Vermutungs-Karte „Unter 10 s“
+experimente/exp030_vermutung2.png ; 400x400 ; Experiment 30 – Vermutungs-Karte „10 bis 30 s“
+experimente/exp030_vermutung3.png ; 400x400 ; Experiment 30 – Vermutungs-Karte „Über 30 s“
+experimente/exp030_wissen.png ; 800x600 ; Experiment 30 – Bild zum Dino-Wissen
+experimente/exp031.png ; 2000x1300 ; Experiment 31 „Spitz oder flach?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp031_schritt1.png ; 600x600 ; Experiment 31 – Bild zu Schritt 1
+experimente/exp031_schritt2.png ; 600x600 ; Experiment 31 – Bild zu Schritt 2
+experimente/exp031_schritt3.png ; 600x600 ; Experiment 31 – Bild zu Schritt 3
+experimente/exp031_vermutung1.png ; 400x400 ; Experiment 31 – Vermutungs-Karte „Spitz“
+experimente/exp031_vermutung2.png ; 400x400 ; Experiment 31 – Vermutungs-Karte „Flach“
+experimente/exp031_vermutung3.png ; 400x400 ; Experiment 31 – Vermutungs-Karte „Beides“
+experimente/exp031_wissen.png ; 800x600 ; Experiment 31 – Bild zum Dino-Wissen
+experimente/exp032.png ; 2000x1300 ; Experiment 32 „Blätter rupfen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp032_schritt1.png ; 600x600 ; Experiment 32 – Bild zu Schritt 1
+experimente/exp032_schritt2.png ; 600x600 ; Experiment 32 – Bild zu Schritt 2
+experimente/exp032_schritt3.png ; 600x600 ; Experiment 32 – Bild zu Schritt 3
+experimente/exp032_vermutung1.png ; 400x400 ; Experiment 32 – Vermutungs-Karte „Kamm“
+experimente/exp032_vermutung2.png ; 400x400 ; Experiment 32 – Vermutungs-Karte „Lippen“
+experimente/exp032_vermutung3.png ; 400x400 ; Experiment 32 – Vermutungs-Karte „Hände“
+experimente/exp032_wissen.png ; 800x600 ; Experiment 32 – Bild zum Dino-Wissen
+experimente/exp033.png ; 2000x1300 ; Experiment 33 „Reißen oder mahlen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp033_schritt1.png ; 600x600 ; Experiment 33 – Bild zu Schritt 1
+experimente/exp033_schritt2.png ; 600x600 ; Experiment 33 – Bild zu Schritt 2
+experimente/exp033_schritt3.png ; 600x600 ; Experiment 33 – Bild zu Schritt 3
+experimente/exp033_vermutung1.png ; 400x400 ; Experiment 33 – Vermutungs-Karte „Vorne“
+experimente/exp033_vermutung2.png ; 400x400 ; Experiment 33 – Vermutungs-Karte „Hinten“
+experimente/exp033_vermutung3.png ; 400x400 ; Experiment 33 – Vermutungs-Karte „Beides“
+experimente/exp033_wissen.png ; 800x600 ; Experiment 33 – Bild zum Dino-Wissen
+experimente/exp034.png ; 2000x1300 ; Experiment 34 „Magensteine“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp034_schritt1.png ; 600x600 ; Experiment 34 – Bild zu Schritt 1
+experimente/exp034_schritt2.png ; 600x600 ; Experiment 34 – Bild zu Schritt 2
+experimente/exp034_schritt3.png ; 600x600 ; Experiment 34 – Bild zu Schritt 3
+experimente/exp034_vermutung1.png ; 400x400 ; Experiment 34 – Vermutungs-Karte „Bleibt ganz“
+experimente/exp034_vermutung2.png ; 400x400 ; Experiment 34 – Vermutungs-Karte „Zerfällt“
+experimente/exp034_vermutung3.png ; 400x400 ; Experiment 34 – Vermutungs-Karte „Weiß nicht“
+experimente/exp034_wissen.png ; 800x600 ; Experiment 34 – Bild zum Dino-Wissen
+experimente/exp035.png ; 2000x1300 ; Experiment 35 „Fressende Tiere beobachten“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp035_schritt1.png ; 600x600 ; Experiment 35 – Bild zu Schritt 1
+experimente/exp035_schritt2.png ; 600x600 ; Experiment 35 – Bild zu Schritt 2
+experimente/exp035_schritt3.png ; 600x600 ; Experiment 35 – Bild zu Schritt 3
+experimente/exp035_vermutung1.png ; 400x400 ; Experiment 35 – Vermutungs-Karte „Vogel“
+experimente/exp035_vermutung2.png ; 400x400 ; Experiment 35 – Vermutungs-Karte „Eichhörnchen“
+experimente/exp035_vermutung3.png ; 400x400 ; Experiment 35 – Vermutungs-Karte „Haustier“
+experimente/exp035_wissen.png ; 800x600 ; Experiment 35 – Bild zum Dino-Wissen
+experimente/exp036.png ; 2000x1300 ; Experiment 36 „Zahnabdruck in Knete“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp036_schritt1.png ; 600x600 ; Experiment 36 – Bild zu Schritt 1
+experimente/exp036_schritt2.png ; 600x600 ; Experiment 36 – Bild zu Schritt 2
+experimente/exp036_schritt3.png ; 600x600 ; Experiment 36 – Bild zu Schritt 3
+experimente/exp036_vermutung1.png ; 400x400 ; Experiment 36 – Vermutungs-Karte „Apfel“
+experimente/exp036_vermutung2.png ; 400x400 ; Experiment 36 – Vermutungs-Karte „Gabel“
+experimente/exp036_vermutung3.png ; 400x400 ; Experiment 36 – Vermutungs-Karte „Ähnlich“
+experimente/exp036_wissen.png ; 800x600 ; Experiment 36 – Bild zum Dino-Wissen
+experimente/exp037.png ; 2000x1300 ; Experiment 37 „Ein Berg Futter“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp037_schritt1.png ; 600x600 ; Experiment 37 – Bild zu Schritt 1
+experimente/exp037_schritt2.png ; 600x600 ; Experiment 37 – Bild zu Schritt 2
+experimente/exp037_schritt3.png ; 600x600 ; Experiment 37 – Bild zu Schritt 3
+experimente/exp037_vermutung1.png ; 400x400 ; Experiment 37 – Vermutungs-Karte „Eine Schüssel“
+experimente/exp037_vermutung2.png ; 400x400 ; Experiment 37 – Vermutungs-Karte „Ein Wagen“
+experimente/exp037_vermutung3.png ; 400x400 ; Experiment 37 – Vermutungs-Karte „Ein Lastwagen“
+experimente/exp037_wissen.png ; 800x600 ; Experiment 37 – Bild zum Dino-Wissen
+experimente/exp038.png ; 2000x1300 ; Experiment 38 „Schnabel-Werkzeuge“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp038_schritt1.png ; 600x600 ; Experiment 38 – Bild zu Schritt 1
+experimente/exp038_schritt2.png ; 600x600 ; Experiment 38 – Bild zu Schritt 2
+experimente/exp038_schritt3.png ; 600x600 ; Experiment 38 – Bild zu Schritt 3
+experimente/exp038_vermutung1.png ; 400x400 ; Experiment 38 – Vermutungs-Karte „Pinzette“
+experimente/exp038_vermutung2.png ; 400x400 ; Experiment 38 – Vermutungs-Karte „Löffel“
+experimente/exp038_vermutung3.png ; 400x400 ; Experiment 38 – Vermutungs-Karte „Beides“
+experimente/exp038_wissen.png ; 800x600 ; Experiment 38 – Bild zum Dino-Wissen
+experimente/exp039.png ; 2000x1300 ; Experiment 39 „Kauen zählen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp039_schritt1.png ; 600x600 ; Experiment 39 – Bild zu Schritt 1
+experimente/exp039_schritt2.png ; 600x600 ; Experiment 39 – Bild zu Schritt 2
+experimente/exp039_schritt3.png ; 600x600 ; Experiment 39 – Bild zu Schritt 3
+experimente/exp039_vermutung1.png ; 400x400 ; Experiment 39 – Vermutungs-Karte „Unter 10“
+experimente/exp039_vermutung2.png ; 400x400 ; Experiment 39 – Vermutungs-Karte „10 bis 20“
+experimente/exp039_vermutung3.png ; 400x400 ; Experiment 39 – Vermutungs-Karte „Über 20“
+experimente/exp039_wissen.png ; 800x600 ; Experiment 39 – Bild zum Dino-Wissen
+experimente/exp040.png ; 2000x1300 ; Experiment 40 „Mein Dino-Menü“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp040_schritt1.png ; 600x600 ; Experiment 40 – Bild zu Schritt 1
+experimente/exp040_schritt2.png ; 600x600 ; Experiment 40 – Bild zu Schritt 2
+experimente/exp040_schritt3.png ; 600x600 ; Experiment 40 – Bild zu Schritt 3
+experimente/exp040_vermutung1.png ; 400x400 ; Experiment 40 – Vermutungs-Karte „Pflanzen“
+experimente/exp040_vermutung2.png ; 400x400 ; Experiment 40 – Vermutungs-Karte „Fleisch“
+experimente/exp040_vermutung3.png ; 400x400 ; Experiment 40 – Vermutungs-Karte „Alles“
+experimente/exp040_wissen.png ; 800x600 ; Experiment 40 – Bild zum Dino-Wissen
+experimente/exp041.png ; 2000x1300 ; Experiment 41 „Nest bauen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp041_schritt1.png ; 600x600 ; Experiment 41 – Bild zu Schritt 1
+experimente/exp041_schritt2.png ; 600x600 ; Experiment 41 – Bild zu Schritt 2
+experimente/exp041_schritt3.png ; 600x600 ; Experiment 41 – Bild zu Schritt 3
+experimente/exp041_vermutung1.png ; 400x400 ; Experiment 41 – Vermutungs-Karte „Gras“
+experimente/exp041_vermutung2.png ; 400x400 ; Experiment 41 – Vermutungs-Karte „Zweige“
+experimente/exp041_vermutung3.png ; 400x400 ; Experiment 41 – Vermutungs-Karte „Blätter“
+experimente/exp041_wissen.png ; 800x600 ; Experiment 41 – Bild zum Dino-Wissen
+experimente/exp042.png ; 2000x1300 ; Experiment 42 „Ei-Fall-Test“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp042_schritt1.png ; 600x600 ; Experiment 42 – Bild zu Schritt 1
+experimente/exp042_schritt2.png ; 600x600 ; Experiment 42 – Bild zu Schritt 2
+experimente/exp042_schritt3.png ; 600x600 ; Experiment 42 – Bild zu Schritt 3
+experimente/exp042_vermutung1.png ; 400x400 ; Experiment 42 – Vermutungs-Karte „Watte“
+experimente/exp042_vermutung2.png ; 400x400 ; Experiment 42 – Vermutungs-Karte „Papier“
+experimente/exp042_vermutung3.png ; 400x400 ; Experiment 42 – Vermutungs-Karte „Tuch“
+experimente/exp042_wissen.png ; 800x600 ; Experiment 42 – Bild zum Dino-Wissen
+experimente/exp043.png ; 2000x1300 ; Experiment 43 „Warum rollt ein Ei im Kreis?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp043_schritt1.png ; 600x600 ; Experiment 43 – Bild zu Schritt 1
+experimente/exp043_schritt2.png ; 600x600 ; Experiment 43 – Bild zu Schritt 2
+experimente/exp043_schritt3.png ; 600x600 ; Experiment 43 – Bild zu Schritt 3
+experimente/exp043_vermutung1.png ; 400x400 ; Experiment 43 – Vermutungs-Karte „Geradeaus“
+experimente/exp043_vermutung2.png ; 400x400 ; Experiment 43 – Vermutungs-Karte „Im Kreis“
+experimente/exp043_vermutung3.png ; 400x400 ; Experiment 43 – Vermutungs-Karte „Weiß nicht“
+experimente/exp043_wissen.png ; 800x600 ; Experiment 43 – Bild zum Dino-Wissen
+experimente/exp044.png ; 2000x1300 ; Experiment 44 „Die Kraft der Kuppel“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp044_schritt1.png ; 600x600 ; Experiment 44 – Bild zu Schritt 1
+experimente/exp044_schritt2.png ; 600x600 ; Experiment 44 – Bild zu Schritt 2
+experimente/exp044_schritt3.png ; 600x600 ; Experiment 44 – Bild zu Schritt 3
+experimente/exp044_vermutung1.png ; 400x400 ; Experiment 44 – Vermutungs-Karte „1 Buch“
+experimente/exp044_vermutung2.png ; 400x400 ; Experiment 44 – Vermutungs-Karte „3 Bücher“
+experimente/exp044_vermutung3.png ; 400x400 ; Experiment 44 – Vermutungs-Karte „Mehr“
+experimente/exp044_wissen.png ; 800x600 ; Experiment 44 – Bild zum Dino-Wissen
+experimente/exp045.png ; 2000x1300 ; Experiment 45 „Warm bleiben“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp045_schritt1.png ; 600x600 ; Experiment 45 – Bild zu Schritt 1
+experimente/exp045_schritt2.png ; 600x600 ; Experiment 45 – Bild zu Schritt 2
+experimente/exp045_schritt3.png ; 600x600 ; Experiment 45 – Bild zu Schritt 3
+experimente/exp045_vermutung1.png ; 400x400 ; Experiment 45 – Vermutungs-Karte „Eingepackt“
+experimente/exp045_vermutung2.png ; 400x400 ; Experiment 45 – Vermutungs-Karte „Frei“
+experimente/exp045_vermutung3.png ; 400x400 ; Experiment 45 – Vermutungs-Karte „Gleich“
+experimente/exp045_wissen.png ; 800x600 ; Experiment 45 – Bild zum Dino-Wissen
+experimente/exp046.png ; 2000x1300 ; Experiment 46 „Nest verstecken“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp046_schritt1.png ; 600x600 ; Experiment 46 – Bild zu Schritt 1
+experimente/exp046_schritt2.png ; 600x600 ; Experiment 46 – Bild zu Schritt 2
+experimente/exp046_schritt3.png ; 600x600 ; Experiment 46 – Bild zu Schritt 3
+experimente/exp046_vermutung1.png ; 400x400 ; Experiment 46 – Vermutungs-Karte „Sofort gefunden“
+experimente/exp046_vermutung2.png ; 400x400 ; Experiment 46 – Vermutungs-Karte „Gedauert“
+experimente/exp046_vermutung3.png ; 400x400 ; Experiment 46 – Vermutungs-Karte „Nicht gefunden“
+experimente/exp046_wissen.png ; 800x600 ; Experiment 46 – Bild zum Dino-Wissen
+experimente/exp047.png ; 2000x1300 ; Experiment 47 „Wie viele passen hinein?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp047_schritt1.png ; 600x600 ; Experiment 47 – Bild zu Schritt 1
+experimente/exp047_schritt2.png ; 600x600 ; Experiment 47 – Bild zu Schritt 2
+experimente/exp047_schritt3.png ; 600x600 ; Experiment 47 – Bild zu Schritt 3
+experimente/exp047_vermutung1.png ; 400x400 ; Experiment 47 – Vermutungs-Karte „Bis 5“
+experimente/exp047_vermutung2.png ; 400x400 ; Experiment 47 – Vermutungs-Karte „Bis 10“
+experimente/exp047_vermutung3.png ; 400x400 ; Experiment 47 – Vermutungs-Karte „Mehr“
+experimente/exp047_wissen.png ; 800x600 ; Experiment 47 – Bild zum Dino-Wissen
+experimente/exp048.png ; 2000x1300 ; Experiment 48 „Schwimmt ein Ei?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp048_schritt1.png ; 600x600 ; Experiment 48 – Bild zu Schritt 1
+experimente/exp048_schritt2.png ; 600x600 ; Experiment 48 – Bild zu Schritt 2
+experimente/exp048_schritt3.png ; 600x600 ; Experiment 48 – Bild zu Schritt 3
+experimente/exp048_vermutung1.png ; 400x400 ; Experiment 48 – Vermutungs-Karte „Sinkt“
+experimente/exp048_vermutung2.png ; 400x400 ; Experiment 48 – Vermutungs-Karte „Schwimmt“
+experimente/exp048_vermutung3.png ; 400x400 ; Experiment 48 – Vermutungs-Karte „Schwebt“
+experimente/exp048_wissen.png ; 800x600 ; Experiment 48 – Bild zum Dino-Wissen
+experimente/exp049.png ; 2000x1300 ; Experiment 49 „Vogelnest suchen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp049_schritt1.png ; 600x600 ; Experiment 49 – Bild zu Schritt 1
+experimente/exp049_schritt2.png ; 600x600 ; Experiment 49 – Bild zu Schritt 2
+experimente/exp049_schritt3.png ; 600x600 ; Experiment 49 – Bild zu Schritt 3
+experimente/exp049_vermutung1.png ; 400x400 ; Experiment 49 – Vermutungs-Karte „Im Baum“
+experimente/exp049_vermutung2.png ; 400x400 ; Experiment 49 – Vermutungs-Karte „Am Haus“
+experimente/exp049_vermutung3.png ; 400x400 ; Experiment 49 – Vermutungs-Karte „Am Boden“
+experimente/exp049_wissen.png ; 800x600 ; Experiment 49 – Bild zum Dino-Wissen
+experimente/exp050.png ; 2000x1300 ; Experiment 50 „Mein Dino schlüpft“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp050_schritt1.png ; 600x600 ; Experiment 50 – Bild zu Schritt 1
+experimente/exp050_schritt2.png ; 600x600 ; Experiment 50 – Bild zu Schritt 2
+experimente/exp050_schritt3.png ; 600x600 ; Experiment 50 – Bild zu Schritt 3
+experimente/exp050_vermutung1.png ; 400x400 ; Experiment 50 – Vermutungs-Karte „Noch drin“
+experimente/exp050_vermutung2.png ; 400x400 ; Experiment 50 – Vermutungs-Karte „Halb raus“
+experimente/exp050_vermutung3.png ; 400x400 ; Experiment 50 – Vermutungs-Karte „Ganz draußen“
+experimente/exp050_wissen.png ; 800x600 ; Experiment 50 – Bild zum Dino-Wissen
+experimente/exp051.png ; 2000x1300 ; Experiment 51 „Eine Minute lauschen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp051_schritt1.png ; 600x600 ; Experiment 51 – Bild zu Schritt 1
+experimente/exp051_schritt2.png ; 600x600 ; Experiment 51 – Bild zu Schritt 2
+experimente/exp051_schritt3.png ; 600x600 ; Experiment 51 – Bild zu Schritt 3
+experimente/exp051_vermutung1.png ; 400x400 ; Experiment 51 – Vermutungs-Karte „1 bis 3“
+experimente/exp051_vermutung2.png ; 400x400 ; Experiment 51 – Vermutungs-Karte „4 bis 8“
+experimente/exp051_vermutung3.png ; 400x400 ; Experiment 51 – Vermutungs-Karte „Mehr als 8“
+experimente/exp051_wissen.png ; 800x600 ; Experiment 51 – Bild zum Dino-Wissen
+experimente/exp052.png ; 2000x1300 ; Experiment 52 „Große Ohren bauen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp052_schritt1.png ; 600x600 ; Experiment 52 – Bild zu Schritt 1
+experimente/exp052_schritt2.png ; 600x600 ; Experiment 52 – Bild zu Schritt 2
+experimente/exp052_schritt3.png ; 600x600 ; Experiment 52 – Bild zu Schritt 3
+experimente/exp052_vermutung1.png ; 400x400 ; Experiment 52 – Vermutungs-Karte „Hände“
+experimente/exp052_vermutung2.png ; 400x400 ; Experiment 52 – Vermutungs-Karte „Trichter“
+experimente/exp052_vermutung3.png ; 400x400 ; Experiment 52 – Vermutungs-Karte „Gleich“
+experimente/exp052_wissen.png ; 800x600 ; Experiment 52 – Bild zum Dino-Wissen
+experimente/exp053.png ; 2000x1300 ; Experiment 53 „Riech-Dosen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp053_schritt1.png ; 600x600 ; Experiment 53 – Bild zu Schritt 1
+experimente/exp053_schritt2.png ; 600x600 ; Experiment 53 – Bild zu Schritt 2
+experimente/exp053_schritt3.png ; 600x600 ; Experiment 53 – Bild zu Schritt 3
+experimente/exp053_vermutung1.png ; 400x400 ; Experiment 53 – Vermutungs-Karte „Zitrone“
+experimente/exp053_vermutung2.png ; 400x400 ; Experiment 53 – Vermutungs-Karte „Zimt“
+experimente/exp053_vermutung3.png ; 400x400 ; Experiment 53 – Vermutungs-Karte „Seife“
+experimente/exp053_wissen.png ; 800x600 ; Experiment 53 – Bild zum Dino-Wissen
+experimente/exp054.png ; 2000x1300 ; Experiment 54 „Jäger oder Gejagter?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp054_schritt1.png ; 600x600 ; Experiment 54 – Bild zu Schritt 1
+experimente/exp054_schritt2.png ; 600x600 ; Experiment 54 – Bild zu Schritt 2
+experimente/exp054_schritt3.png ; 600x600 ; Experiment 54 – Bild zu Schritt 3
+experimente/exp054_vermutung1.png ; 400x400 ; Experiment 54 – Vermutungs-Karte „Vorn: Jäger“
+experimente/exp054_vermutung2.png ; 400x400 ; Experiment 54 – Vermutungs-Karte „Seitlich: Beute“
+experimente/exp054_vermutung3.png ; 400x400 ; Experiment 54 – Vermutungs-Karte „Beides“
+experimente/exp054_wissen.png ; 800x600 ; Experiment 54 – Bild zum Dino-Wissen
+experimente/exp055.png ; 2000x1300 ; Experiment 55 „Wie weit siehst du zur Seite?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp055_schritt1.png ; 600x600 ; Experiment 55 – Bild zu Schritt 1
+experimente/exp055_schritt2.png ; 600x600 ; Experiment 55 – Bild zu Schritt 2
+experimente/exp055_schritt3.png ; 600x600 ; Experiment 55 – Bild zu Schritt 3
+experimente/exp055_vermutung1.png ; 400x400 ; Experiment 55 – Vermutungs-Karte „Sehr weit“
+experimente/exp055_vermutung2.png ; 400x400 ; Experiment 55 – Vermutungs-Karte „Mittel“
+experimente/exp055_vermutung3.png ; 400x400 ; Experiment 55 – Vermutungs-Karte „Nur vorn“
+experimente/exp055_wissen.png ; 800x600 ; Experiment 55 – Bild zum Dino-Wissen
+experimente/exp056.png ; 2000x1300 ; Experiment 56 „Fühl-Beutel“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp056_schritt1.png ; 600x600 ; Experiment 56 – Bild zu Schritt 1
+experimente/exp056_schritt2.png ; 600x600 ; Experiment 56 – Bild zu Schritt 2
+experimente/exp056_schritt3.png ; 600x600 ; Experiment 56 – Bild zu Schritt 3
+experimente/exp056_vermutung1.png ; 400x400 ; Experiment 56 – Vermutungs-Karte „1 bis 2“
+experimente/exp056_vermutung2.png ; 400x400 ; Experiment 56 – Vermutungs-Karte „3 bis 4“
+experimente/exp056_vermutung3.png ; 400x400 ; Experiment 56 – Vermutungs-Karte „Alle 5“
+experimente/exp056_wissen.png ; 800x600 ; Experiment 56 – Bild zum Dino-Wissen
+experimente/exp057.png ; 2000x1300 ; Experiment 57 „Sehen im Dunkeln“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp057_schritt1.png ; 600x600 ; Experiment 57 – Bild zu Schritt 1
+experimente/exp057_schritt2.png ; 600x600 ; Experiment 57 – Bild zu Schritt 2
+experimente/exp057_schritt3.png ; 600x600 ; Experiment 57 – Bild zu Schritt 3
+experimente/exp057_vermutung1.png ; 400x400 ; Experiment 57 – Vermutungs-Karte „Alle Farben“
+experimente/exp057_vermutung2.png ; 400x400 ; Experiment 57 – Vermutungs-Karte „Nur grau“
+experimente/exp057_vermutung3.png ; 400x400 ; Experiment 57 – Vermutungs-Karte „Fast nichts“
+experimente/exp057_wissen.png ; 800x600 ; Experiment 57 – Bild zum Dino-Wissen
+experimente/exp058.png ; 2000x1300 ; Experiment 58 „Vibration spüren“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp058_schritt1.png ; 600x600 ; Experiment 58 – Bild zu Schritt 1
+experimente/exp058_schritt2.png ; 600x600 ; Experiment 58 – Bild zu Schritt 2
+experimente/exp058_schritt3.png ; 600x600 ; Experiment 58 – Bild zu Schritt 3
+experimente/exp058_vermutung1.png ; 400x400 ; Experiment 58 – Vermutungs-Karte „Durch Luft“
+experimente/exp058_vermutung2.png ; 400x400 ; Experiment 58 – Vermutungs-Karte „Durch Tisch“
+experimente/exp058_vermutung3.png ; 400x400 ; Experiment 58 – Vermutungs-Karte „Gleich“
+experimente/exp058_wissen.png ; 800x600 ; Experiment 58 – Bild zum Dino-Wissen
+experimente/exp059.png ; 2000x1300 ; Experiment 59 „Dino-Rufe erfinden“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp059_schritt1.png ; 600x600 ; Experiment 59 – Bild zu Schritt 1
+experimente/exp059_schritt2.png ; 600x600 ; Experiment 59 – Bild zu Schritt 2
+experimente/exp059_schritt3.png ; 600x600 ; Experiment 59 – Bild zu Schritt 3
+experimente/exp059_vermutung1.png ; 400x400 ; Experiment 59 – Vermutungs-Karte „Tief“
+experimente/exp059_vermutung2.png ; 400x400 ; Experiment 59 – Vermutungs-Karte „Laut“
+experimente/exp059_vermutung3.png ; 400x400 ; Experiment 59 – Vermutungs-Karte „Hoch“
+experimente/exp059_wissen.png ; 800x600 ; Experiment 59 – Bild zum Dino-Wissen
+experimente/exp060.png ; 2000x1300 ; Experiment 60 „Was fällt sofort auf?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp060_schritt1.png ; 600x600 ; Experiment 60 – Bild zu Schritt 1
+experimente/exp060_schritt2.png ; 600x600 ; Experiment 60 – Bild zu Schritt 2
+experimente/exp060_schritt3.png ; 600x600 ; Experiment 60 – Bild zu Schritt 3
+experimente/exp060_vermutung1.png ; 400x400 ; Experiment 60 – Vermutungs-Karte „Rot“
+experimente/exp060_vermutung2.png ; 400x400 ; Experiment 60 – Vermutungs-Karte „Gelb“
+experimente/exp060_vermutung3.png ; 400x400 ; Experiment 60 – Vermutungs-Karte „Grün“
+experimente/exp060_vermutung4.png ; 400x400 ; Experiment 60 – Vermutungs-Karte „Blau“
+experimente/exp060_wissen.png ; 800x600 ; Experiment 60 – Bild zum Dino-Wissen
+experimente/exp061.png ; 2000x1300 ; Experiment 61 „Verstecken üben“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp061_schritt1.png ; 600x600 ; Experiment 61 – Bild zu Schritt 1
+experimente/exp061_schritt2.png ; 600x600 ; Experiment 61 – Bild zu Schritt 2
+experimente/exp061_schritt3.png ; 600x600 ; Experiment 61 – Bild zu Schritt 3
+experimente/exp061_vermutung1.png ; 400x400 ; Experiment 61 – Vermutungs-Karte „Im Grün“
+experimente/exp061_vermutung2.png ; 400x400 ; Experiment 61 – Vermutungs-Karte „Auf Stein“
+experimente/exp061_vermutung3.png ; 400x400 ; Experiment 61 – Vermutungs-Karte „Im Sand“
+experimente/exp061_wissen.png ; 800x600 ; Experiment 61 – Bild zum Dino-Wissen
+experimente/exp062.png ; 2000x1300 ; Experiment 62 „Streifen oder Flecken?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp062_schritt1.png ; 600x600 ; Experiment 62 – Bild zu Schritt 1
+experimente/exp062_schritt2.png ; 600x600 ; Experiment 62 – Bild zu Schritt 2
+experimente/exp062_schritt3.png ; 600x600 ; Experiment 62 – Bild zu Schritt 3
+experimente/exp062_vermutung1.png ; 400x400 ; Experiment 62 – Vermutungs-Karte „Streifen“
+experimente/exp062_vermutung2.png ; 400x400 ; Experiment 62 – Vermutungs-Karte „Flecken“
+experimente/exp062_vermutung3.png ; 400x400 ; Experiment 62 – Vermutungs-Karte „Einfarbig“
+experimente/exp062_wissen.png ; 800x600 ; Experiment 62 – Bild zum Dino-Wissen
+experimente/exp063.png ; 2000x1300 ; Experiment 63 „Blätter-Tarnung“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp063_schritt1.png ; 600x600 ; Experiment 63 – Bild zu Schritt 1
+experimente/exp063_schritt2.png ; 600x600 ; Experiment 63 – Bild zu Schritt 2
+experimente/exp063_schritt3.png ; 600x600 ; Experiment 63 – Bild zu Schritt 3
+experimente/exp063_vermutung1.png ; 400x400 ; Experiment 63 – Vermutungs-Karte „Gut sichtbar“
+experimente/exp063_vermutung2.png ; 400x400 ; Experiment 63 – Vermutungs-Karte „Kaum“
+experimente/exp063_vermutung3.png ; 400x400 ; Experiment 63 – Vermutungs-Karte „Unsichtbar“
+experimente/exp063_wissen.png ; 800x600 ; Experiment 63 – Bild zum Dino-Wissen
+experimente/exp064.png ; 2000x1300 ; Experiment 64 „Farbe wechseln“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp064_schritt1.png ; 600x600 ; Experiment 64 – Bild zu Schritt 1
+experimente/exp064_schritt2.png ; 600x600 ; Experiment 64 – Bild zu Schritt 2
+experimente/exp064_schritt3.png ; 600x600 ; Experiment 64 – Bild zu Schritt 3
+experimente/exp064_vermutung1.png ; 400x400 ; Experiment 64 – Vermutungs-Karte „Fällt auf“
+experimente/exp064_vermutung2.png ; 400x400 ; Experiment 64 – Vermutungs-Karte „Verschwindet“
+experimente/exp064_vermutung3.png ; 400x400 ; Experiment 64 – Vermutungs-Karte „Kein Unterschied“
+experimente/exp064_wissen.png ; 800x600 ; Experiment 64 – Bild zum Dino-Wissen
+experimente/exp065.png ; 2000x1300 ; Experiment 65 „Welche Farbe hatte ein Dino?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp065_schritt1.png ; 600x600 ; Experiment 65 – Bild zu Schritt 1
+experimente/exp065_schritt2.png ; 600x600 ; Experiment 65 – Bild zu Schritt 2
+experimente/exp065_schritt3.png ; 600x600 ; Experiment 65 – Bild zu Schritt 3
+experimente/exp065_vermutung1.png ; 400x400 ; Experiment 65 – Vermutungs-Karte „Braun“
+experimente/exp065_vermutung2.png ; 400x400 ; Experiment 65 – Vermutungs-Karte „Grün“
+experimente/exp065_vermutung3.png ; 400x400 ; Experiment 65 – Vermutungs-Karte „Bunt“
+experimente/exp065_wissen.png ; 800x600 ; Experiment 65 – Bild zum Dino-Wissen
+experimente/exp066.png ; 2000x1300 ; Experiment 66 „Hell oben, dunkel unten“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp066_schritt1.png ; 600x600 ; Experiment 66 – Bild zu Schritt 1
+experimente/exp066_schritt2.png ; 600x600 ; Experiment 66 – Bild zu Schritt 2
+experimente/exp066_schritt3.png ; 600x600 ; Experiment 66 – Bild zu Schritt 3
+experimente/exp066_vermutung1.png ; 400x400 ; Experiment 66 – Vermutungs-Karte „Oben hell“
+experimente/exp066_vermutung2.png ; 400x400 ; Experiment 66 – Vermutungs-Karte „Unten hell“
+experimente/exp066_vermutung3.png ; 400x400 ; Experiment 66 – Vermutungs-Karte „Ganz gleich“
+experimente/exp066_wissen.png ; 800x600 ; Experiment 66 – Bild zum Dino-Wissen
+experimente/exp067.png ; 2000x1300 ; Experiment 67 „Warnfarben suchen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp067_schritt1.png ; 600x600 ; Experiment 67 – Bild zu Schritt 1
+experimente/exp067_schritt2.png ; 600x600 ; Experiment 67 – Bild zu Schritt 2
+experimente/exp067_schritt3.png ; 600x600 ; Experiment 67 – Bild zu Schritt 3
+experimente/exp067_vermutung1.png ; 400x400 ; Experiment 67 – Vermutungs-Karte „Rot“
+experimente/exp067_vermutung2.png ; 400x400 ; Experiment 67 – Vermutungs-Karte „Gelb“
+experimente/exp067_vermutung3.png ; 400x400 ; Experiment 67 – Vermutungs-Karte „Schwarz-gelb“
+experimente/exp067_wissen.png ; 800x600 ; Experiment 67 – Bild zum Dino-Wissen
+experimente/exp068.png ; 2000x1300 ; Experiment 68 „Kopfschmuck bauen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp068_schritt1.png ; 600x600 ; Experiment 68 – Bild zu Schritt 1
+experimente/exp068_schritt2.png ; 600x600 ; Experiment 68 – Bild zu Schritt 2
+experimente/exp068_schritt3.png ; 600x600 ; Experiment 68 – Bild zu Schritt 3
+experimente/exp068_vermutung1.png ; 400x400 ; Experiment 68 – Vermutungs-Karte „Zum Schutz“
+experimente/exp068_vermutung2.png ; 400x400 ; Experiment 68 – Vermutungs-Karte „Zum Angeben“
+experimente/exp068_vermutung3.png ; 400x400 ; Experiment 68 – Vermutungs-Karte „Zum Rufen“
+experimente/exp068_wissen.png ; 800x600 ; Experiment 68 – Bild zum Dino-Wissen
+experimente/exp069.png ; 2000x1300 ; Experiment 69 „Wer sieht mich zuerst?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp069_schritt1.png ; 600x600 ; Experiment 69 – Bild zu Schritt 1
+experimente/exp069_schritt2.png ; 600x600 ; Experiment 69 – Bild zu Schritt 2
+experimente/exp069_schritt3.png ; 600x600 ; Experiment 69 – Bild zu Schritt 3
+experimente/exp069_vermutung1.png ; 400x400 ; Experiment 69 – Vermutungs-Karte „Unter 10 s“
+experimente/exp069_vermutung2.png ; 400x400 ; Experiment 69 – Vermutungs-Karte „Bis 1 min“
+experimente/exp069_vermutung3.png ; 400x400 ; Experiment 69 – Vermutungs-Karte „Länger“
+experimente/exp069_wissen.png ; 800x600 ; Experiment 69 – Bild zum Dino-Wissen
+experimente/exp070.png ; 2000x1300 ; Experiment 70 „Mein Dino-Steckbrief“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp070_schritt1.png ; 600x600 ; Experiment 70 – Bild zu Schritt 1
+experimente/exp070_schritt2.png ; 600x600 ; Experiment 70 – Bild zu Schritt 2
+experimente/exp070_schritt3.png ; 600x600 ; Experiment 70 – Bild zu Schritt 3
+experimente/exp070_vermutung1.png ; 400x400 ; Experiment 70 – Vermutungs-Karte „Pflanzenfresser“
+experimente/exp070_vermutung2.png ; 400x400 ; Experiment 70 – Vermutungs-Karte „Räuber“
+experimente/exp070_vermutung3.png ; 400x400 ; Experiment 70 – Vermutungs-Karte „Wasserdino“
+experimente/exp070_wissen.png ; 800x600 ; Experiment 70 – Bild zum Dino-Wissen
+experimente/exp071.png ; 2000x1300 ; Experiment 71 „Schwimmt oder sinkt?“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp071_schritt1.png ; 600x600 ; Experiment 71 – Bild zu Schritt 1
+experimente/exp071_schritt2.png ; 600x600 ; Experiment 71 – Bild zu Schritt 2
+experimente/exp071_schritt3.png ; 600x600 ; Experiment 71 – Bild zu Schritt 3
+experimente/exp071_vermutung1.png ; 400x400 ; Experiment 71 – Vermutungs-Karte „Schwimmt“
+experimente/exp071_vermutung2.png ; 400x400 ; Experiment 71 – Vermutungs-Karte „Sinkt“
+experimente/exp071_vermutung3.png ; 400x400 ; Experiment 71 – Vermutungs-Karte „Kommt drauf an“
+experimente/exp071_wissen.png ; 800x600 ; Experiment 71 – Bild zum Dino-Wissen
+experimente/exp072.png ; 2000x1300 ; Experiment 72 „Flossen testen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp072_schritt1.png ; 600x600 ; Experiment 72 – Bild zu Schritt 1
+experimente/exp072_schritt2.png ; 600x600 ; Experiment 72 – Bild zu Schritt 2
+experimente/exp072_schritt3.png ; 600x600 ; Experiment 72 – Bild zu Schritt 3
+experimente/exp072_vermutung1.png ; 400x400 ; Experiment 72 – Vermutungs-Karte „Gespreizt“
+experimente/exp072_vermutung2.png ; 400x400 ; Experiment 72 – Vermutungs-Karte „Geschlossen“
+experimente/exp072_vermutung3.png ; 400x400 ; Experiment 72 – Vermutungs-Karte „Gleich“
+experimente/exp072_wissen.png ; 800x600 ; Experiment 72 – Bild zum Dino-Wissen
+experimente/exp073.png ; 2000x1300 ; Experiment 73 „Papier-Flugsaurier“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp073_schritt1.png ; 600x600 ; Experiment 73 – Bild zu Schritt 1
+experimente/exp073_schritt2.png ; 600x600 ; Experiment 73 – Bild zu Schritt 2
+experimente/exp073_schritt3.png ; 600x600 ; Experiment 73 – Bild zu Schritt 3
+experimente/exp073_vermutung1.png ; 400x400 ; Experiment 73 – Vermutungs-Karte „Schmal“
+experimente/exp073_vermutung2.png ; 400x400 ; Experiment 73 – Vermutungs-Karte „Breit“
+experimente/exp073_vermutung3.png ; 400x400 ; Experiment 73 – Vermutungs-Karte „Gleich weit“
+experimente/exp073_wissen.png ; 800x600 ; Experiment 73 – Bild zum Dino-Wissen
+experimente/exp074.png ; 2000x1300 ; Experiment 74 „Feder und Stein“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp074_schritt1.png ; 600x600 ; Experiment 74 – Bild zu Schritt 1
+experimente/exp074_schritt2.png ; 600x600 ; Experiment 74 – Bild zu Schritt 2
+experimente/exp074_schritt3.png ; 600x600 ; Experiment 74 – Bild zu Schritt 3
+experimente/exp074_vermutung1.png ; 400x400 ; Experiment 74 – Vermutungs-Karte „Feder“
+experimente/exp074_vermutung2.png ; 400x400 ; Experiment 74 – Vermutungs-Karte „Stein“
+experimente/exp074_vermutung3.png ; 400x400 ; Experiment 74 – Vermutungs-Karte „Gleichzeitig“
+experimente/exp074_wissen.png ; 800x600 ; Experiment 74 – Bild zum Dino-Wissen
+experimente/exp075.png ; 2000x1300 ; Experiment 75 „Der Zauber der Tragfläche“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp075_schritt1.png ; 600x600 ; Experiment 75 – Bild zu Schritt 1
+experimente/exp075_schritt2.png ; 600x600 ; Experiment 75 – Bild zu Schritt 2
+experimente/exp075_schritt3.png ; 600x600 ; Experiment 75 – Bild zu Schritt 3
+experimente/exp075_vermutung1.png ; 400x400 ; Experiment 75 – Vermutungs-Karte „Nach oben“
+experimente/exp075_vermutung2.png ; 400x400 ; Experiment 75 – Vermutungs-Karte „Nach unten“
+experimente/exp075_vermutung3.png ; 400x400 ; Experiment 75 – Vermutungs-Karte „Bleibt liegen“
+experimente/exp075_wissen.png ; 800x600 ; Experiment 75 – Bild zum Dino-Wissen
+experimente/exp076.png ; 2000x1300 ; Experiment 76 „Wasserabdruck“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp076_schritt1.png ; 600x600 ; Experiment 76 – Bild zu Schritt 1
+experimente/exp076_schritt2.png ; 600x600 ; Experiment 76 – Bild zu Schritt 2
+experimente/exp076_schritt3.png ; 600x600 ; Experiment 76 – Bild zu Schritt 3
+experimente/exp076_vermutung1.png ; 400x400 ; Experiment 76 – Vermutungs-Karte „Sofort weg“
+experimente/exp076_vermutung2.png ; 400x400 ; Experiment 76 – Vermutungs-Karte „Nach einer Weile“
+experimente/exp076_vermutung3.png ; 400x400 ; Experiment 76 – Vermutungs-Karte „Bleibt“
+experimente/exp076_wissen.png ; 800x600 ; Experiment 76 – Bild zum Dino-Wissen
+experimente/exp077.png ; 2000x1300 ; Experiment 77 „Fallschirm bauen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp077_schritt1.png ; 600x600 ; Experiment 77 – Bild zu Schritt 1
+experimente/exp077_schritt2.png ; 600x600 ; Experiment 77 – Bild zu Schritt 2
+experimente/exp077_schritt3.png ; 600x600 ; Experiment 77 – Bild zu Schritt 3
+experimente/exp077_vermutung1.png ; 400x400 ; Experiment 77 – Vermutungs-Karte „Groß“
+experimente/exp077_vermutung2.png ; 400x400 ; Experiment 77 – Vermutungs-Karte „Klein“
+experimente/exp077_vermutung3.png ; 400x400 ; Experiment 77 – Vermutungs-Karte „Gleich“
+experimente/exp077_wissen.png ; 800x600 ; Experiment 77 – Bild zum Dino-Wissen
+experimente/exp078.png ; 2000x1300 ; Experiment 78 „Segel im Wind“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp078_schritt1.png ; 600x600 ; Experiment 78 – Bild zu Schritt 1
+experimente/exp078_schritt2.png ; 600x600 ; Experiment 78 – Bild zu Schritt 2
+experimente/exp078_schritt3.png ; 600x600 ; Experiment 78 – Bild zu Schritt 3
+experimente/exp078_vermutung1.png ; 400x400 ; Experiment 78 – Vermutungs-Karte „Quer stärker“
+experimente/exp078_vermutung2.png ; 400x400 ; Experiment 78 – Vermutungs-Karte „Längs stärker“
+experimente/exp078_vermutung3.png ; 400x400 ; Experiment 78 – Vermutungs-Karte „Gleich“
+experimente/exp078_wissen.png ; 800x600 ; Experiment 78 – Bild zum Dino-Wissen
+experimente/exp079.png ; 2000x1300 ; Experiment 79 „Blubbern“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp079_schritt1.png ; 600x600 ; Experiment 79 – Bild zu Schritt 1
+experimente/exp079_schritt2.png ; 600x600 ; Experiment 79 – Bild zu Schritt 2
+experimente/exp079_schritt3.png ; 600x600 ; Experiment 79 – Bild zu Schritt 3
+experimente/exp079_vermutung1.png ; 400x400 ; Experiment 79 – Vermutungs-Karte „Kleine Blasen“
+experimente/exp079_vermutung2.png ; 400x400 ; Experiment 79 – Vermutungs-Karte „Große Blasen“
+experimente/exp079_vermutung3.png ; 400x400 ; Experiment 79 – Vermutungs-Karte „Sprudel“
+experimente/exp079_wissen.png ; 800x600 ; Experiment 79 – Bild zum Dino-Wissen
+experimente/exp080.png ; 2000x1300 ; Experiment 80 „Wellen machen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp080_schritt1.png ; 600x600 ; Experiment 80 – Bild zu Schritt 1
+experimente/exp080_schritt2.png ; 600x600 ; Experiment 80 – Bild zu Schritt 2
+experimente/exp080_schritt3.png ; 600x600 ; Experiment 80 – Bild zu Schritt 3
+experimente/exp080_vermutung1.png ; 400x400 ; Experiment 80 – Vermutungs-Karte „Ringe“
+experimente/exp080_vermutung2.png ; 400x400 ; Experiment 80 – Vermutungs-Karte „Lange Wellen“
+experimente/exp080_vermutung3.png ; 400x400 ; Experiment 80 – Vermutungs-Karte „Chaos“
+experimente/exp080_wissen.png ; 800x600 ; Experiment 80 – Bild zum Dino-Wissen
+experimente/exp081.png ; 2000x1300 ; Experiment 81 „Vulkanausbruch“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp081_schritt1.png ; 600x600 ; Experiment 81 – Bild zu Schritt 1
+experimente/exp081_schritt2.png ; 600x600 ; Experiment 81 – Bild zu Schritt 2
+experimente/exp081_schritt3.png ; 600x600 ; Experiment 81 – Bild zu Schritt 3
+experimente/exp081_vermutung1.png ; 400x400 ; Experiment 81 – Vermutungs-Karte „Schaum“
+experimente/exp081_vermutung2.png ; 400x400 ; Experiment 81 – Vermutungs-Karte „Fontäne“
+experimente/exp081_vermutung3.png ; 400x400 ; Experiment 81 – Vermutungs-Karte „Nichts“
+experimente/exp081_wissen.png ; 800x600 ; Experiment 81 – Bild zum Dino-Wissen
+experimente/exp082.png ; 2000x1300 ; Experiment 82 „Erdschichten im Glas“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp082_schritt1.png ; 600x600 ; Experiment 82 – Bild zu Schritt 1
+experimente/exp082_schritt2.png ; 600x600 ; Experiment 82 – Bild zu Schritt 2
+experimente/exp082_schritt3.png ; 600x600 ; Experiment 82 – Bild zu Schritt 3
+experimente/exp082_vermutung1.png ; 400x400 ; Experiment 82 – Vermutungs-Karte „Kies unten“
+experimente/exp082_vermutung2.png ; 400x400 ; Experiment 82 – Vermutungs-Karte „Sand unten“
+experimente/exp082_vermutung3.png ; 400x400 ; Experiment 82 – Vermutungs-Karte „Erde unten“
+experimente/exp082_wissen.png ; 800x600 ; Experiment 82 – Bild zum Dino-Wissen
+experimente/exp083.png ; 2000x1300 ; Experiment 83 „Pangäa puzzeln“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp083_schritt1.png ; 600x600 ; Experiment 83 – Bild zu Schritt 1
+experimente/exp083_schritt2.png ; 600x600 ; Experiment 83 – Bild zu Schritt 2
+experimente/exp083_schritt3.png ; 600x600 ; Experiment 83 – Bild zu Schritt 3
+experimente/exp083_vermutung1.png ; 400x400 ; Experiment 83 – Vermutungs-Karte „Passt genau“
+experimente/exp083_vermutung2.png ; 400x400 ; Experiment 83 – Vermutungs-Karte „Fast“
+experimente/exp083_vermutung3.png ; 400x400 ; Experiment 83 – Vermutungs-Karte „Gar nicht“
+experimente/exp083_wissen.png ; 800x600 ; Experiment 83 – Bild zum Dino-Wissen
+experimente/exp084.png ; 2000x1300 ; Experiment 84 „Einschlagkrater“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp084_schritt1.png ; 600x600 ; Experiment 84 – Bild zu Schritt 1
+experimente/exp084_schritt2.png ; 600x600 ; Experiment 84 – Bild zu Schritt 2
+experimente/exp084_schritt3.png ; 600x600 ; Experiment 84 – Bild zu Schritt 3
+experimente/exp084_vermutung1.png ; 400x400 ; Experiment 84 – Vermutungs-Karte „Niedrig: klein“
+experimente/exp084_vermutung2.png ; 400x400 ; Experiment 84 – Vermutungs-Karte „Hoch: groß“
+experimente/exp084_vermutung3.png ; 400x400 ; Experiment 84 – Vermutungs-Karte „Immer gleich“
+experimente/exp084_wissen.png ; 800x600 ; Experiment 84 – Bild zum Dino-Wissen
+experimente/exp085.png ; 2000x1300 ; Experiment 85 „Regen und Erosion“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp085_schritt1.png ; 600x600 ; Experiment 85 – Bild zu Schritt 1
+experimente/exp085_schritt2.png ; 600x600 ; Experiment 85 – Bild zu Schritt 2
+experimente/exp085_schritt3.png ; 600x600 ; Experiment 85 – Bild zu Schritt 3
+experimente/exp085_vermutung1.png ; 400x400 ; Experiment 85 – Vermutungs-Karte „Bleibt gleich“
+experimente/exp085_vermutung2.png ; 400x400 ; Experiment 85 – Vermutungs-Karte „Rillen“
+experimente/exp085_vermutung3.png ; 400x400 ; Experiment 85 – Vermutungs-Karte „Fällt zusammen“
+experimente/exp085_wissen.png ; 800x600 ; Experiment 85 – Bild zum Dino-Wissen
+experimente/exp086.png ; 2000x1300 ; Experiment 86 „Urzeitpflanzen finden“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp086_schritt1.png ; 600x600 ; Experiment 86 – Bild zu Schritt 1
+experimente/exp086_schritt2.png ; 600x600 ; Experiment 86 – Bild zu Schritt 2
+experimente/exp086_schritt3.png ; 600x600 ; Experiment 86 – Bild zu Schritt 3
+experimente/exp086_vermutung1.png ; 400x400 ; Experiment 86 – Vermutungs-Karte „Farn“
+experimente/exp086_vermutung2.png ; 400x400 ; Experiment 86 – Vermutungs-Karte „Moos“
+experimente/exp086_vermutung3.png ; 400x400 ; Experiment 86 – Vermutungs-Karte „Schachtelhalm“
+experimente/exp086_wissen.png ; 800x600 ; Experiment 86 – Bild zum Dino-Wissen
+experimente/exp087.png ; 2000x1300 ; Experiment 87 „Schatten wandert“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp087_schritt1.png ; 600x600 ; Experiment 87 – Bild zu Schritt 1
+experimente/exp087_schritt2.png ; 600x600 ; Experiment 87 – Bild zu Schritt 2
+experimente/exp087_schritt3.png ; 600x600 ; Experiment 87 – Bild zu Schritt 3
+experimente/exp087_vermutung1.png ; 400x400 ; Experiment 87 – Vermutungs-Karte „Wandert“
+experimente/exp087_vermutung2.png ; 400x400 ; Experiment 87 – Vermutungs-Karte „Wird länger“
+experimente/exp087_vermutung3.png ; 400x400 ; Experiment 87 – Vermutungs-Karte „Bleibt gleich“
+experimente/exp087_wissen.png ; 800x600 ; Experiment 87 – Bild zum Dino-Wissen
+experimente/exp088.png ; 2000x1300 ; Experiment 88 „Insekt im Bernstein“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp088_schritt1.png ; 600x600 ; Experiment 88 – Bild zu Schritt 1
+experimente/exp088_schritt2.png ; 600x600 ; Experiment 88 – Bild zu Schritt 2
+experimente/exp088_schritt3.png ; 600x600 ; Experiment 88 – Bild zu Schritt 3
+experimente/exp088_vermutung1.png ; 400x400 ; Experiment 88 – Vermutungs-Karte „Blatt“
+experimente/exp088_vermutung2.png ; 400x400 ; Experiment 88 – Vermutungs-Karte „Insekt“
+experimente/exp088_vermutung3.png ; 400x400 ; Experiment 88 – Vermutungs-Karte „Feder“
+experimente/exp088_wissen.png ; 800x600 ; Experiment 88 – Bild zum Dino-Wissen
+experimente/exp089.png ; 2000x1300 ; Experiment 89 „Sonnenplatz“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp089_schritt1.png ; 600x600 ; Experiment 89 – Bild zu Schritt 1
+experimente/exp089_schritt2.png ; 600x600 ; Experiment 89 – Bild zu Schritt 2
+experimente/exp089_schritt3.png ; 600x600 ; Experiment 89 – Bild zu Schritt 3
+experimente/exp089_vermutung1.png ; 400x400 ; Experiment 89 – Vermutungs-Karte „Sonne“
+experimente/exp089_vermutung2.png ; 400x400 ; Experiment 89 – Vermutungs-Karte „Schatten“
+experimente/exp089_vermutung3.png ; 400x400 ; Experiment 89 – Vermutungs-Karte „Gleich“
+experimente/exp089_wissen.png ; 800x600 ; Experiment 89 – Bild zum Dino-Wissen
+experimente/exp090.png ; 2000x1300 ; Experiment 90 „Urzeit-Sumpf“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp090_schritt1.png ; 600x600 ; Experiment 90 – Bild zu Schritt 1
+experimente/exp090_schritt2.png ; 600x600 ; Experiment 90 – Bild zu Schritt 2
+experimente/exp090_schritt3.png ; 600x600 ; Experiment 90 – Bild zu Schritt 3
+experimente/exp090_vermutung1.png ; 400x400 ; Experiment 90 – Vermutungs-Karte „Zweige oben“
+experimente/exp090_vermutung2.png ; 400x400 ; Experiment 90 – Vermutungs-Karte „Zweige unten“
+experimente/exp090_vermutung3.png ; 400x400 ; Experiment 90 – Vermutungs-Karte „Alles trüb“
+experimente/exp090_wissen.png ; 800x600 ; Experiment 90 – Bild zum Dino-Wissen
+experimente/exp091.png ; 2000x1300 ; Experiment 91 „Vögel beobachten“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp091_schritt1.png ; 600x600 ; Experiment 91 – Bild zu Schritt 1
+experimente/exp091_schritt2.png ; 600x600 ; Experiment 91 – Bild zu Schritt 2
+experimente/exp091_schritt3.png ; 600x600 ; Experiment 91 – Bild zu Schritt 3
+experimente/exp091_vermutung1.png ; 400x400 ; Experiment 91 – Vermutungs-Karte „Läuft“
+experimente/exp091_vermutung2.png ; 400x400 ; Experiment 91 – Vermutungs-Karte „Hüpft“
+experimente/exp091_vermutung3.png ; 400x400 ; Experiment 91 – Vermutungs-Karte „Fliegt“
+experimente/exp091_wissen.png ; 800x600 ; Experiment 91 – Bild zum Dino-Wissen
+experimente/exp092.png ; 2000x1300 ; Experiment 92 „Der Gabelknochen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp092_schritt1.png ; 600x600 ; Experiment 92 – Bild zu Schritt 1
+experimente/exp092_schritt2.png ; 600x600 ; Experiment 92 – Bild zu Schritt 2
+experimente/exp092_schritt3.png ; 600x600 ; Experiment 92 – Bild zu Schritt 3
+experimente/exp092_vermutung1.png ; 400x400 ; Experiment 92 – Vermutungs-Karte „V-Form“
+experimente/exp092_vermutung2.png ; 400x400 ; Experiment 92 – Vermutungs-Karte „Rund“
+experimente/exp092_vermutung3.png ; 400x400 ; Experiment 92 – Vermutungs-Karte „Gerade“
+experimente/exp092_wissen.png ; 800x600 ; Experiment 92 – Bild zum Dino-Wissen
+experimente/exp093.png ; 2000x1300 ; Experiment 93 „Federn untersuchen“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp093_schritt1.png ; 600x600 ; Experiment 93 – Bild zu Schritt 1
+experimente/exp093_schritt2.png ; 600x600 ; Experiment 93 – Bild zu Schritt 2
+experimente/exp093_schritt3.png ; 600x600 ; Experiment 93 – Bild zu Schritt 3
+experimente/exp093_vermutung1.png ; 400x400 ; Experiment 93 – Vermutungs-Karte „Weich“
+experimente/exp093_vermutung2.png ; 400x400 ; Experiment 93 – Vermutungs-Karte „Steif“
+experimente/exp093_vermutung3.png ; 400x400 ; Experiment 93 – Vermutungs-Karte „Beides“
+experimente/exp093_wissen.png ; 800x600 ; Experiment 93 – Bild zum Dino-Wissen
+experimente/exp094.png ; 2000x1300 ; Experiment 94 „Reptil beobachten“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp094_schritt1.png ; 600x600 ; Experiment 94 – Bild zu Schritt 1
+experimente/exp094_schritt2.png ; 600x600 ; Experiment 94 – Bild zu Schritt 2
+experimente/exp094_schritt3.png ; 600x600 ; Experiment 94 – Bild zu Schritt 3
+experimente/exp094_vermutung1.png ; 400x400 ; Experiment 94 – Vermutungs-Karte „Sonnen“
+experimente/exp094_vermutung2.png ; 400x400 ; Experiment 94 – Vermutungs-Karte „Flitzen“
+experimente/exp094_vermutung3.png ; 400x400 ; Experiment 94 – Vermutungs-Karte „Jagen“
+experimente/exp094_wissen.png ; 800x600 ; Experiment 94 – Bild zum Dino-Wissen
+experimente/exp095.png ; 2000x1300 ; Experiment 95 „Vogelstimmen sammeln“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp095_schritt1.png ; 600x600 ; Experiment 95 – Bild zu Schritt 1
+experimente/exp095_schritt2.png ; 600x600 ; Experiment 95 – Bild zu Schritt 2
+experimente/exp095_schritt3.png ; 600x600 ; Experiment 95 – Bild zu Schritt 3
+experimente/exp095_vermutung1.png ; 400x400 ; Experiment 95 – Vermutungs-Karte „Einen“
+experimente/exp095_vermutung2.png ; 400x400 ; Experiment 95 – Vermutungs-Karte „Zwei bis drei“
+experimente/exp095_vermutung3.png ; 400x400 ; Experiment 95 – Vermutungs-Karte „Viele“
+experimente/exp095_wissen.png ; 800x600 ; Experiment 95 – Bild zum Dino-Wissen
+experimente/exp096.png ; 2000x1300 ; Experiment 96 „Krokodil-Vergleich“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp096_schritt1.png ; 600x600 ; Experiment 96 – Bild zu Schritt 1
+experimente/exp096_schritt2.png ; 600x600 ; Experiment 96 – Bild zu Schritt 2
+experimente/exp096_schritt3.png ; 600x600 ; Experiment 96 – Bild zu Schritt 3
+experimente/exp096_vermutung1.png ; 400x400 ; Experiment 96 – Vermutungs-Karte „Zähne“
+experimente/exp096_vermutung2.png ; 400x400 ; Experiment 96 – Vermutungs-Karte „Eier“
+experimente/exp096_vermutung3.png ; 400x400 ; Experiment 96 – Vermutungs-Karte „Beine seitlich“
+experimente/exp096_wissen.png ; 800x600 ; Experiment 96 – Bild zum Dino-Wissen
+experimente/exp097.png ; 2000x1300 ; Experiment 97 „Vogelspuren“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp097_schritt1.png ; 600x600 ; Experiment 97 – Bild zu Schritt 1
+experimente/exp097_schritt2.png ; 600x600 ; Experiment 97 – Bild zu Schritt 2
+experimente/exp097_schritt3.png ; 600x600 ; Experiment 97 – Bild zu Schritt 3
+experimente/exp097_vermutung1.png ; 400x400 ; Experiment 97 – Vermutungs-Karte „3 Zehen“
+experimente/exp097_vermutung2.png ; 400x400 ; Experiment 97 – Vermutungs-Karte „4 Zehen“
+experimente/exp097_vermutung3.png ; 400x400 ; Experiment 97 – Vermutungs-Karte „Unklar“
+experimente/exp097_wissen.png ; 800x600 ; Experiment 97 – Bild zum Dino-Wissen
+experimente/exp098.png ; 2000x1300 ; Experiment 98 „Museumsbesuch“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp098_schritt1.png ; 600x600 ; Experiment 98 – Bild zu Schritt 1
+experimente/exp098_schritt2.png ; 600x600 ; Experiment 98 – Bild zu Schritt 2
+experimente/exp098_schritt3.png ; 600x600 ; Experiment 98 – Bild zu Schritt 3
+experimente/exp098_vermutung1.png ; 400x400 ; Experiment 98 – Vermutungs-Karte „Beinknochen“
+experimente/exp098_vermutung2.png ; 400x400 ; Experiment 98 – Vermutungs-Karte „Schädel“
+experimente/exp098_vermutung3.png ; 400x400 ; Experiment 98 – Vermutungs-Karte „Zähne“
+experimente/exp098_wissen.png ; 800x600 ; Experiment 98 – Bild zum Dino-Wissen
+experimente/exp099.png ; 2000x1300 ; Experiment 99 „Forscher-Interview“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp099_schritt1.png ; 600x600 ; Experiment 99 – Bild zu Schritt 1
+experimente/exp099_schritt2.png ; 600x600 ; Experiment 99 – Bild zu Schritt 2
+experimente/exp099_schritt3.png ; 600x600 ; Experiment 99 – Bild zu Schritt 3
+experimente/exp099_vermutung1.png ; 400x400 ; Experiment 99 – Vermutungs-Karte „T-Rex“
+experimente/exp099_vermutung2.png ; 400x400 ; Experiment 99 – Vermutungs-Karte „Langhals“
+experimente/exp099_vermutung3.png ; 400x400 ; Experiment 99 – Vermutungs-Karte „Ein anderer“
+experimente/exp099_wissen.png ; 800x600 ; Experiment 99 – Bild zum Dino-Wissen
+experimente/exp100.png ; 2000x1300 ; Experiment 100 „Mein eigenes Experiment“ – Malvorlage (Querformat, helle Flächen zum Ausmalen)
+experimente/exp100_schritt1.png ; 600x600 ; Experiment 100 – Bild zu Schritt 1
+experimente/exp100_schritt2.png ; 600x600 ; Experiment 100 – Bild zu Schritt 2
+experimente/exp100_schritt3.png ; 600x600 ; Experiment 100 – Bild zu Schritt 3
+experimente/exp100_vermutung1.png ; 400x400 ; Experiment 100 – Vermutungs-Karte „Neugierig“
+experimente/exp100_vermutung2.png ; 400x400 ; Experiment 100 – Vermutungs-Karte „Bereit“
+experimente/exp100_vermutung3.png ; 400x400 ; Experiment 100 – Vermutungs-Karte „Los geht es“
+experimente/exp100_wissen.png ; 800x600 ; Experiment 100 – Bild zum Dino-Wissen
+
+# ===== Mein Forscherhaus – Zimmer-Hintergründe (Ordner grafiken-neu/stationen/) =====
+# Format:  dateiname ; empfohlene Größe in Pixeln ; wofür
+# Alle Bilder sind freiwillig: fehlt eins, bleibt das gezeichnete Zimmer. Gibt es nur eine Ausrichtung, wird sie für beide benutzt.
+# Wichtig: Rahmen, Regalfächer und Bodenstellen im Bild LEER lassen – dort stellt das Kind seine Sachen hin
+# (die genauen Plätze stehen als Tabelle am Anfang von stations/zuhause.js).
+stationen/haus_uebersicht.png ; 1920x1200 ; Forscherhaus – aufgeschnittenes Haus mit allen 15 Zimmern (quer)
+stationen/haus_uebersicht_hoch.png ; 1350x1800 ; Forscherhaus – aufgeschnittenes Haus (hoch, Handy)
+stationen/haus_flur.png ; 1920x1200 ; Forscherhaus – Flur (quer)
+stationen/haus_flur_hoch.png ; 1350x1800 ; Forscherhaus – Flur (hoch, Handy)
+stationen/haus_wohn.png ; 1920x1200 ; Forscherhaus – Wohnzimmer (quer)
+stationen/haus_wohn_hoch.png ; 1350x1800 ; Forscherhaus – Wohnzimmer (hoch, Handy)
+stationen/haus_kueche.png ; 1920x1200 ; Forscherhaus – Küche (quer)
+stationen/haus_kueche_hoch.png ; 1350x1800 ; Forscherhaus – Küche (hoch, Handy)
+stationen/haus_schlaf.png ; 1920x1200 ; Forscherhaus – Schlafzimmer (quer)
+stationen/haus_schlaf_hoch.png ; 1350x1800 ; Forscherhaus – Schlafzimmer (hoch, Handy)
+stationen/haus_bad.png ; 1920x1200 ; Forscherhaus – Badezimmer (quer)
+stationen/haus_bad_hoch.png ; 1350x1800 ; Forscherhaus – Badezimmer (hoch, Handy)
+stationen/haus_arbeit.png ; 1920x1200 ; Forscherhaus – Arbeitszimmer (quer)
+stationen/haus_arbeit_hoch.png ; 1350x1800 ; Forscherhaus – Arbeitszimmer (hoch, Handy)
+stationen/haus_dach.png ; 1920x1200 ; Forscherhaus – Dachboden (quer)
+stationen/haus_dach_hoch.png ; 1350x1800 ; Forscherhaus – Dachboden (hoch, Handy)
+stationen/haus_keller.png ; 1920x1200 ; Forscherhaus – Keller (quer)
+stationen/haus_keller_hoch.png ; 1350x1800 ; Forscherhaus – Keller (hoch, Handy)
+stationen/haus_garten.png ; 1920x1200 ; Forscherhaus – Garten (quer)
+stationen/haus_garten_hoch.png ; 1350x1800 ; Forscherhaus – Garten (hoch, Handy)
+stationen/haus_stern.png ; 1920x1200 ; Forscherhaus – Sternwarte (quer)
+stationen/haus_stern_hoch.png ; 1350x1800 ; Forscherhaus – Sternwarte (hoch, Handy)
+stationen/haus_meer.png ; 1920x1200 ; Forscherhaus – Urzeit-Meerzimmer (quer)
+stationen/haus_meer_hoch.png ; 1350x1800 ; Forscherhaus – Urzeit-Meerzimmer (hoch, Handy)
+stationen/haus_vulkan.png ; 1920x1200 ; Forscherhaus – Vulkan-Labor (quer)
+stationen/haus_vulkan_hoch.png ; 1350x1800 ; Forscherhaus – Vulkan-Labor (hoch, Handy)
+stationen/haus_fossil.png ; 1920x1200 ; Forscherhaus – Fossilien-Galerie (quer)
+stationen/haus_fossil_hoch.png ; 1350x1800 ; Forscherhaus – Fossilien-Galerie (hoch, Handy)
+stationen/haus_eis.png ; 1920x1200 ; Forscherhaus – Eiszeit-Zimmer (quer)
+stationen/haus_eis_hoch.png ; 1350x1800 ; Forscherhaus – Eiszeit-Zimmer (hoch, Handy)
+stationen/haus_dschungel.png ; 1920x1200 ; Forscherhaus – Dschungel-Gewächshaus (quer)
+stationen/haus_dschungel_hoch.png ; 1350x1800 ; Forscherhaus – Dschungel-Gewächshaus (hoch, Handy)
+# Kleine bewegte Dinge im Forscherhaus (Ordner grafiken-neu/objekte/, quadratisch, durchsichtiger Hintergrund)
+objekte/haus_ente.png ; 256x256 ; Forscherhaus – Badeente
+objekte/haus_schaukel.png ; 256x256 ; Forscherhaus – Schaukel im Garten
+objekte/haus_spinne.png ; 256x256 ; Forscherhaus – kleine Spinne auf dem Dachboden
+objekte/haus_trommel.png ; 256x256 ; Forscherhaus – Trommel der Waschmaschine
+objekte/haus_maus.png ; 256x256 ; Forscherhaus – Maus im Keller
+objekte/haus_vogel.png ; 256x256 ; Forscherhaus – Vogel im Garten
+objekte/haus_schaukelbrett.png ; 256x256 ; Forscherhaus – Schaukel-Dino
+objekte/haus_kuckuck.png ; 256x256 ; Forscherhaus – Kuckuck der Uhr
+objekte/haus_rakete.png ; 256x256 ; Forscherhaus – Rakete in der Sternwarte
+objekte/haus_planeten.png ; 256x256 ; Forscherhaus – Planeten-Mobile
+objekte/haus_falter.png ; 256x256 ; Forscherhaus – Schmetterling im Gewächshaus
+objekte/haus_frosch.png ; 256x256 ; Forscherhaus – Frosch im Gewächshaus
+objekte/haus_hase.png ; 256x256 ; Forscherhaus – Schneehase im Eiszeit-Zimmer
+# Zimmer-Symbole der Haus-Übersicht (Ordner grafiken-neu/symbole/)
+symbole/zh_sofa.png ; 128x128 ; Forscherhaus – Symbol Wohnzimmer
+symbole/zh_tisch.png ; 128x128 ; Forscherhaus – Symbol Arbeitszimmer
+symbole/zh_tuer.png ; 128x128 ; Forscherhaus – Symbol Flur
+symbole/zh_bett.png ; 128x128 ; Forscherhaus – Symbol Schlafzimmer
+symbole/zh_wanne.png ; 128x128 ; Forscherhaus – Symbol Badezimmer
+symbole/zh_topf.png ; 128x128 ; Forscherhaus – Symbol Küche
+symbole/zh_fass.png ; 128x128 ; Forscherhaus – Symbol Keller
+symbole/zh_dach.png ; 128x128 ; Forscherhaus – Symbol Dachboden
+symbole/zh_stern.png ; 128x128 ; Forscherhaus – Symbol Sternwarte
+symbole/zh_meer.png ; 128x128 ; Forscherhaus – Symbol Urzeit-Meerzimmer
+symbole/zh_vulkan.png ; 128x128 ; Forscherhaus – Symbol Vulkan-Labor
+symbole/zh_fossil.png ; 128x128 ; Forscherhaus – Symbol Fossilien-Galerie
+symbole/zh_eis.png ; 128x128 ; Forscherhaus – Symbol Eiszeit-Zimmer
+symbole/zh_dschungel.png ; 128x128 ; Forscherhaus – Symbol Dschungel-Gewächshaus
+
+# ===== Karte gestalten – Ordner grafiken-neu/karte/ =====
+# Format:  dateiname ; empfohlene Größe in Pixeln ; wofür.   Alle Bilder sind freiwillig: fehlt eins, bleibt die Zeichnung.
+# So müssen die Bilder sein: PNG mit DURCHSICHTIGEM Hintergrund, leicht von schräg oben gemalt (wie die Karte), das Ding steht
+#   unten in der Mitte des Bildes (= Fußpunkt, dort steht es auf dem Boden) – oben/seitlich wenig leeren Rand lassen.
+#   Die App macht das Bild so hoch wie die bisherige Zeichnung (das Seitenverhältnis bleibt). Flache Dinge (Düne, Knochen, Welle …)
+#   bekommen die Breite der Zeichnung. Größe/Zufall/Spiegelung der Karte bleiben erhalten.
+# Varianten: name_1.png … name_4.png – jedes Ding auf der Karte bekommt fest (nach seinem Ort) eine davon. name.png allein gilt für alle.
+# Empfohlene Größen sind großzügig (doppelte Kartengröße beim größten Exemplar); größere Bilder gehen auch, werden aber verkleinert.
+# --- Pflanzen, Felsen, Berge, Vulkane, Fossilien ---
+karte/baum_nadel.png ; 120x200 ; Nadelbaum (Wälder, Tal, Gebirge). Varianten baum_nadel_1 … _4 werden gemischt
+karte/baum_nadel_schnee.png ; 110x180 ; Nadelbaum mit Schnee (Gondwana-Hochland; im Winter auch im Tal). Fehlt es, gilt baum_nadel
+karte/baum_ginkgo.png ; 150x200 ; Ginkgo-Baum (Laubbaum im Forscher-Tal, Laurasia, Inseln)
+karte/baum_ginkgo_herbst.png ; 150x200 ; Ginkgo im Herbst (goldgelb). Fehlt es, gilt baum_ginkgo
+karte/baum_ginkgo_winter.png ; 150x200 ; Ginkgo im Winter (kahl). Fehlt es, gilt baum_ginkgo
+karte/palmfarn.png ; 200x170 ; Palmfarn (Cycadee) an der Tethys-Küste und auf den Inseln. Statt dessen geht auch palme.png
+karte/palme.png ; 200x170 ; wird benutzt, wenn es kein palmfarn.png gibt
+karte/baumfarn.png ; 240x210 ; Baumfarn (Küste, Tal, Gondwana-Wald, Inseln)
+karte/farn.png ; 170x60 ; kleiner Farn am Boden
+karte/schachtelhalm.png ; 70x100 ; Schachtelhalme (Tal, Küste, Ebene, Steppe)
+karte/samenfarn.png ; 240x160 ; Samenfarn-Busch (Dicroidium; Gondwana, Wüste, Ebene)
+karte/grasbueschel.png ; 30x20 ; kleines Grasbüschel (sehr viele – Bild klein und einfach halten)
+karte/pilze.png ; 40x20 ; drei kleine Pilze (Tal, Laurasia)
+karte/fels.png ; 90x60 ; Felsbrocken (überall). Varianten fels_1 … _4
+karte/fels_rot.png ; 90x60 ; roter Wüstenfels. Fehlt es, gilt fels
+karte/fels_dunkel.png ; 90x50 ; dunkler Lavafels (Vulkane). Fehlt es, gilt fels
+karte/fels_schnee.png ; 80x50 ; Fels mit Schnee (Hochland; im Winter auch im Tal). Fehlt es, gilt fels
+karte/duene.png ; 460x90 ; Sanddüne (Pangäa-Wüste), wird zufällig gespiegelt
+karte/tafelberg.png ; 390x420 ; roter Tafelberg (Wüste)
+karte/felsbogen.png ; 240x210 ; Felsbogen (Wüste)
+karte/knochen_boden.png ; 190x70 ; Knochen/Skelett im Boden (Wüste, Fossilien-Ebene), wird leicht gedreht
+karte/grabungsfahne.png ; 30x60 ; Grabungsfähnchen (Fossilien-Ebene) – Fußpunkt = Fuß der Stange
+karte/berg.png ; 620x620 ; Berg (Zentralgebirge, Ural) – die Berge sind verschieden groß, das Bild wird jeweils auf ihre Höhe gebracht. Varianten berg_1 … _4
+karte/berg_schnee.png ; 620x620 ; Berg mit Schneegipfel. Fehlt es, gilt berg
+karte/berg_eis.png ; 560x560 ; Eisberg-Gebirge im Gondwana-Hochland. Fehlt es, gilt berg_schnee, dann berg
+karte/berg_rot.png ; 560x560 ; roter Gondwana-Berg. Fehlt es, gilt berg
+karte/vulkan.png ; 480x500 ; kleiner Vulkankegel (Sibirische Vulkane)
+karte/vulkan_aktiv.png ; 480x500 ; glühender Vulkankegel (auch die Klang-Vulkaninsel). Fehlt es, gilt vulkan
+karte/vulkan_gross.png ; 2270x1520 ; der große Vulkan mit Lavastrom (Rauch und Glut bleiben bewegt darüber)
+karte/lavaspalte.png ; 170x50 ; glühender Riss im Boden (flach, wird gedreht)
+karte/dampfloch.png ; 70x30 ; dampfendes Loch (flach)
+karte/kompassrose.png ; 490x540 ; Kompassrose im Meer (wird mittig gesetzt, nicht am Fuß)
+karte/ruderboot.png ; 210x60 ; Ruderboot an den Anlegern (wird gespiegelt)
+karte/welle.png ; 80x20 ; kleine Welle im Meer (sehr viele)
+karte/koralle.png ; 120x90 ; Korallen im Tethys-Meer
+karte/seetang.png ; 60x110 ; Seetang im Meer
+karte/herbstlaub.png ; 40x30 ; Laub am Boden (nur im Herbst im Tal)
+karte/schneemann.png ; 90x130 ; Schneemann (nur im Winter, bei den Häusern im Tal)
+# --- Wahrzeichen an den Stationen (karte/wahrzeichen_<station>.png) – Bild wird in den Rahmen der Zeichnung eingepasst, Fuß unten Mitte ---
+karte/wahrzeichen_museum.png ; 440x290 ; Museum
+karte/wahrzeichen_forscher.png ; 320x230 ; Forscherhütte (Zelte)
+karte/wahrzeichen_zeitportal.png ; 430x220 ; Zeitportal (Steinkreis; der Globus darüber bleibt bewegt)
+karte/wahrzeichen_lauf.png ; 180x160 ; Dino-Lauf
+karte/wahrzeichen_grabung.png ; 380x200 ; Ausgrabung
+karte/wahrzeichen_waage.png ; 390x160 ; Dino-Waage
+karte/wahrzeichen_puzzle.png ; 270x160 ; Puzzle
+karte/wahrzeichen_futter.png ; 210x80 ; Futterplatz
+karte/wahrzeichen_dschungel.png ; 220x280 ; Dschungel-Lianen
+karte/wahrzeichen_lager.png ; 350x200 ; Forscherlager
+karte/wahrzeichen_klang.png ; 310x180 ; Klang-Vulkan
+karte/wahrzeichen_karten.png ; 230x210 ; Kartenhaus (Pavillon)
+karte/wahrzeichen_kino.png ; 340x190 ; Kino
+karte/wahrzeichen_werkstatt.png ; 300x180 ; Werkstatt (Schuppen)
+karte/wahrzeichen_kita.png ; 320x150 ; Dino-Kita
+karte/wahrzeichen_spuren.png ; 400x100 ; Spurensuche
+karte/wahrzeichen_tracker.png ; 150x270 ; Tracker (Antenne)
+karte/wahrzeichen_eier.png ; 230x120 ; Dino-Eier (Nest)
+karte/wahrzeichen_nest.png ; 330x120 ; Nestbau
+karte/wahrzeichen_memory.png ; 240x120 ; Memory
+karte/wahrzeichen_grossklein.png ; 180x280 ; Groß & Klein (Messlatte)
+karte/wahrzeichen_schatten.png ; 270x190 ; Schattenspiel
+karte/wahrzeichen_kamera.png ; 220x150 ; Kamera
+karte/wahrzeichen_rennen.png ; 540x270 ; Dino-Rennen (Rennbahn)
+karte/wahrzeichen_vulkan.png ; 290x150 ; Vulkan-Expedition (Lager)
+karte/wahrzeichen_endlos.png ; 420x200 ; Endlos-Lauf
+karte/wahrzeichen_wiegross.png ; 220x310 ; Wie groß? (Messturm)
+karte/wahrzeichen_werbinich.png ; 280x160 ; Wer bin ich?
+karte/wahrzeichen_bildquiz.png ; 150x190 ; Bilderquiz
+karte/wahrzeichen_lufwas.png ; 280x160 ; Luft, Land, Wasser
+karte/wahrzeichen_picknick.png ; 240x150 ; Picknick
+karte/wahrzeichen_rettung.png ; 250x180 ; Rettung
+karte/wahrzeichen_expedition.png ; 380x280 ; Expedition
+karte/wahrzeichen_zuhause.png ; 380x260 ; Mein Forscherhaus
+karte/wahrzeichen_ausflug.png ; 330x220 ; Forscher-Ausflug
+karte/wahrzeichen_riff.png ; 1030x590 ; Riff (Meer)
+karte/wahrzeichen_schiff.png ; 920x420 ; Forschungsschiff (Meer) – statt dessen geht auch forschungsschiff.png
+karte/wahrzeichen_tiefsee.png ; 1230x560 ; Tiefsee mit Taucherglocke – statt dessen geht auch taucherglocke.png
+karte/wahrzeichen_anning.png ; 790x550 ; Mary-Anning-Klippeninsel – statt dessen geht auch kreideklippe.png
+karte/wahrzeichen_meerfutter.png ; 570x190 ; Futterfloß (Meer) – statt dessen geht auch futterfloss.png
+karte/wahrzeichen_tauchfahrt.png ; 550x270 ; Tauch-Ponton – statt dessen geht auch ponton.png
+karte/wahrzeichen_ammoniten.png ; 920x370 ; Ammoniten-Lagune
+karte/forschungsschiff.png ; 920x420 ; wie karte/wahrzeichen_schiff.png (wird benutzt, wenn es das nicht gibt)
+karte/taucherglocke.png ; 1230x560 ; wie karte/wahrzeichen_tiefsee.png (wird benutzt, wenn es das nicht gibt)
+karte/kreideklippe.png ; 790x550 ; wie karte/wahrzeichen_anning.png (wird benutzt, wenn es das nicht gibt)
+karte/futterfloss.png ; 570x190 ; wie karte/wahrzeichen_meerfutter.png (wird benutzt, wenn es das nicht gibt)
+karte/ponton.png ; 550x270 ; wie karte/wahrzeichen_tauchfahrt.png (wird benutzt, wenn es das nicht gibt)
+# --- Wege, Wasser, Boot, Funde, Wolken ---
+karte/bruecke.png ; 400x80 ; Holzbrücke über Flüsse – waagerecht von links nach rechts malen, wird auf die Brückenlänge gestreckt
+karte/haengebruecke.png ; 400x80 ; Hängebrücke – waagerecht malen, wird auf die Länge gestreckt
+karte/steg.png ; 400x70 ; Bootssteg/Anleger – waagerecht malen (links Land, rechts Wasser), wird auf die Länge gestreckt
+karte/boot.png ; 440x420 ; Segelboot der Kinder, von der Seite, Bug nach RECHTS. Die Figur und Pip sitzen davor im Boot
+karte/boot_vorne.png ; 440x420 ; freiwillig: nur die vordere Bordwand (gleiche Bildgröße wie boot.png) – verdeckt die Beine der Figur
+karte/glitzer.png ; 128x128 ; glitzernder Fund im Boden (pulsiert)
+karte/busch.png ; 200x160 ; raschelnder Busch (dahinter versteckt sich ein Dino)
+karte/flaschenpost.png ; 160x100 ; Flaschenpost im Meer (schaukelt)
+karte/wolke.png ; 720x360 ; Wolke über der Karte (halb durchsichtig). Varianten wolke_1 … _3
+karte/wolke_1.png ; 720x360 ; Wolke, Variante 1
+karte/wolke_2.png ; 720x360 ; Wolke, Variante 2
+karte/wolke_3.png ; 720x360 ; Wolke, Variante 3
+# --- Flächen-Texturen: kachelbares Muster (rechts passt an links, oben an unten), wird leicht über die Grundfarbe gelegt (multiplizieren) ---
+#   Helle Bilder (fast weiß) wirken am besten: Weiß ändert nichts, dunklere Stellen färben ein.
+karte/wiese_textur.png ; 480x480 ; Muster auf allem Land außer der Wüste
+karte/sand_textur.png ; 480x480 ; Muster auf der Pangäa-Wüste
+karte/meer_textur.png ; 480x480 ; Muster auf dem Meer
+karte/papier_textur.png ; 480x480 ; Papier-Muster über der ganzen Karte
+# Diese Namen haben (noch) keine Wirkung – die Karte zeichnet so etwas nicht (Flüsse, Seen, Küsten und Wege bleiben gezeichnet):
+#   karte/oase, karte/wasserfall, karte/sandbank, karte/eisscholle, karte/atoll, karte/boje (Bojen gehören zum Wahrzeichen der Station),
+#   karte/nebel, karte/regentropfen, karte/schneeflocken, karte/gluehwuermchen (Wetter-Teilchen bleiben gezeichnet), karte/kompassrose siehe oben.
+
+# ===== Landschaften der Lauf- und Rennspiele – Ordner grafiken-neu/landschaften/ =====
+# Format:  dateiname ; empfohlene Größe in Pixeln ; wofür.   Fehlt ein Bild, bleibt diese Schicht gezeichnet.
+# Je Welt vier Schichten: _himmel (füllt den Hintergrund), _hinten (ferne Berge, langsam), _mitte (Hügel/Bäume, schneller),
+#   _boden (Boden, läuft mit dem Dino). hinten/mitte/boden werden waagerecht wiederholt: der RECHTE Rand muss nahtlos an den LINKEN passen.
+#   hinten/mitte: oben durchsichtig (dort scheint der Himmel durch). boden: oberer Bildrand = Bodenlinie, auf der der Dino läuft.
+# Wer benutzt was: Dino-Lauf: die gewählte Welt (tal, kueste, vulkan, wueste, eis) · Dino-Rennen: rennen_… (sonst tal_…), Rennbahn nur rennen_boden
+#   · Endlos-Lauf: Land = tal_…, unter Wasser = unterwasser_…, Flug übers Meer = luft_… · Vulkan-Expedition: vulkan_himmel, vulkan_hinten
+#   (Hügel hinter dem Vulkan; der Vulkan selbst bleibt gezeichnet), vulkan_boden · Dschungel: dschungel_…
+landschaften/tal_himmel.png ; 1600x900 ; Grünes Tal: Himmel
+landschaften/tal_hinten.png ; 2400x600 ; Grünes Tal: ferne Berge
+landschaften/tal_mitte.png ; 2400x500 ; Grünes Tal: Hügel und Bäume
+landschaften/tal_boden.png ; 1200x400 ; Grünes Tal: Boden
+landschaften/kueste_himmel.png ; 1600x900 ; Küste: Himmel
+landschaften/kueste_hinten.png ; 2400x600 ; Küste: ferne Berge
+landschaften/kueste_mitte.png ; 2400x500 ; Küste: Hügel und Bäume
+landschaften/kueste_boden.png ; 1200x400 ; Küste: Boden
+landschaften/vulkan_himmel.png ; 1600x900 ; Vulkantal: Himmel
+landschaften/vulkan_hinten.png ; 2400x600 ; Vulkantal: ferne Berge
+landschaften/vulkan_mitte.png ; 2400x500 ; Vulkantal: Hügel und Bäume
+landschaften/vulkan_boden.png ; 1200x400 ; Vulkantal: Boden
+landschaften/wueste_himmel.png ; 1600x900 ; Wüste: Himmel
+landschaften/wueste_hinten.png ; 2400x600 ; Wüste: ferne Berge
+landschaften/wueste_mitte.png ; 2400x500 ; Wüste: Hügel und Bäume
+landschaften/wueste_boden.png ; 1200x400 ; Wüste: Boden
+landschaften/eis_himmel.png ; 1600x900 ; Eisland: Himmel
+landschaften/eis_hinten.png ; 2400x600 ; Eisland: ferne Berge
+landschaften/eis_mitte.png ; 2400x500 ; Eisland: Hügel und Bäume
+landschaften/eis_boden.png ; 1200x400 ; Eisland: Boden
+landschaften/rennen_himmel.png ; 1600x900 ; Dino-Rennen: Himmel
+landschaften/rennen_hinten.png ; 2400x600 ; Dino-Rennen: ferne Berge
+landschaften/rennen_mitte.png ; 2400x500 ; Dino-Rennen: Hügel und Bäume
+landschaften/rennen_boden.png ; 1200x400 ; Dino-Rennen: Rennbahn (die Bahnlinien bleiben darüber)
+landschaften/unterwasser_himmel.png ; 1600x900 ; Endlos-Lauf unter Wasser: Wasser-Hintergrund (unter der Wasseroberfläche)
+landschaften/unterwasser_hinten.png ; 2400x600 ; Endlos-Lauf unter Wasser: ferne Berge
+landschaften/unterwasser_mitte.png ; 2400x500 ; Endlos-Lauf unter Wasser: Hügel und Bäume
+landschaften/unterwasser_boden.png ; 1200x400 ; Endlos-Lauf unter Wasser: Meeresgrund
+landschaften/luft_himmel.png ; 1600x900 ; Endlos-Lauf: Flug übers Meer: Himmel
+landschaften/luft_hinten.png ; 2400x600 ; Endlos-Lauf: Flug übers Meer: ferne Berge
+landschaften/luft_mitte.png ; 2400x500 ; Endlos-Lauf: Flug übers Meer: Hügel und Bäume
+landschaften/luft_boden.png ; 1200x400 ; Endlos-Lauf: Flug übers Meer: Meer unter dem Flieger
+landschaften/dschungel_himmel.png ; 1600x900 ; Dschungel: Himmel
+landschaften/dschungel_hinten.png ; 2400x600 ; Dschungel: ferne Berge
+landschaften/dschungel_mitte.png ; 2400x500 ; Dschungel: Hügel und Bäume
+landschaften/dschungel_boden.png ; 1200x400 ; Dschungel: Sumpfwasser unten (die Plattformen bleiben gezeichnet)
+
+# ===== Dino-Eier – Ordner grafiken-neu/objekte/ (durchsichtiger Hintergrund, Ei füllt das Bild, Unterkante = Ei-Unterseite) =====
+# Die Eier in „Dino-Eier“ brechen auch als Bild in zwei Hälften auf. Weitere Eier (ei_archelon, ei_oviraptor …) stehen oben in der Liste.
+objekte/ei_maiasaura.png ; 300x400 ; Maiasaura-Ei (Dino-Eier) und die Eier im Nestbau
+objekte/ei_nest.png ; 300x400 ; freiwillig: eigenes Ei nur für den Nestbau (sonst ei_maiasaura)
+# ei_sauropode = Langhals-Riese, ei_therizinosaurus, ei_oviraptor, ei_protoceratops, ei_huhn, ei_flugsaurier, ei_archelon (Schildkröte),
+#   ei_krokodil (Deinosuchus), ei_riesig = Riesen-Oviraptor.   Zeitalter-Abzeichen: zeitalter/<zeitalter>.png (300x300) ersetzt überall das Symbol.
